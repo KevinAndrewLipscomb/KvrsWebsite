@@ -1,0 +1,7 @@
+grant select
+ , insert
+ , update
+ , delete
+ , create
+  on kvrswebsitedb_x.*
+  to 'ki-kvrswebsite-x'@'localhost' identified by '~ki-kvrswebsite-x-password~'
