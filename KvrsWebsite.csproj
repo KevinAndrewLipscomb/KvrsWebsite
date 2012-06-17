@@ -88,6 +88,34 @@
     <Content Include="image\stryker-power-pro.png" />
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
+    <Content Include="mark-1\920left.gif" />
+    <Content Include="mark-1\920right.gif" />
+    <Content Include="mark-1\accomplishments.html" />
+    <Content Include="mark-1\address.html" />
+    <Content Include="mark-1\annual_report.html" />
+    <Content Include="mark-1\ann_rep_title_page.html" />
+    <Content Include="mark-1\apparatus.html" />
+    <Content Include="mark-1\associated_orgs.html" />
+    <Content Include="mark-1\autorun.inf" />
+    <Content Include="mark-1\canceled-donation.html" />
+    <Content Include="mark-1\culture.htm" />
+    <Content Include="mark-1\donate_online.html" />
+    <Content Include="mark-1\index.htm" />
+    <Content Include="mark-1\index.html" />
+    <Content Include="mark-1\logo.gif" />
+    <Content Include="mark-1\mailing_lists.html" />
+    <Content Include="mark-1\membership_reqs_and_apps.html" />
+    <Content Include="mark-1\monitor.html" />
+    <Content Include="mark-1\past.html" />
+    <Content Include="mark-1\pgp.html" />
+    <Content Include="mark-1\present.html" />
+    <Content Include="mark-1\related.html" />
+    <Content Include="mark-1\search.html" />
+    <Content Include="mark-1\strategies.html" />
+    <Content Include="mark-1\streetaddr_and_map.html" />
+    <Content Include="mark-1\thanks.html" />
+    <Content Include="mark-1\usage_stats.html" />
+    <Content Include="mark-1\whats_new.html" />
     <Content Include="new_user_registration.aspx" />
     <Content Include="remind_username.aspx" />
     <Content Include="salogin.aspx" />
@@ -411,6 +439,7 @@
     <Content Include="template\notification\temporary_password.txt" />
     <Content Include="template\notification\username_reminder.txt" />
     <Content Include="unpublished.config" />
+    <None Include="mark-1\Default.htm-blogger-template" />
     <None Include="noninteractive\.crontab" />
     <None Include="protected\template-protected-datagrid-sortable.aspx-template" />
     <None Include="protected\template-protected-landing.aspx-template" />
@@ -449,6 +478,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="mark-2\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
