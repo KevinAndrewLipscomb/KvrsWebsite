@@ -1,17 +1,7 @@
-using System.Configuration;
-
 using kix;
-
-using System;
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-using System.Web.UI;
-
-
-
-
 using System.Web;
 using System.Web.Security;
+
 namespace UserControl_precontent
 {
     public partial class TWebUserControl_precontent: ki_web_ui.usercontrol_class
@@ -31,6 +21,7 @@ namespace UserControl_precontent
                 {
                     Label_username.Text = Session["username"].ToString();
                 }
+                Img_banner_pic.Src = k.ExpandTildePath(Img_banner_pic.Src);
             }
 
         }
