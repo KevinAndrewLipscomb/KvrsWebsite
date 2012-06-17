@@ -18,13 +18,13 @@
           Operations</h2>
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
-            <td align='center'>
-              <a rel='nofollow' class='createlinktext' href='http://kvrs.org/index.php/Site/operations?action=upload&amp;upname=april-achesinski.jpg'>Attach:april-achesinski.jpg</a><a rel='nofollow' class='createlink' href='http://kvrs.org/index.php/Site/operations?action=upload&amp;upname=april-achesinski.jpg'>&nbsp;&Delta;</a>
+            <td>
+              &nbsp;
             </td>
             <td>
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/Captain'>Captain (950)</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.A'>Definition</a><br />
+              <strong>Captain (950)</strong><br />
               April Achesinski<br />
-              Email: <a class='urllink' href='mailto:captain@kvrs.org' rel='nofollow'>captain@kvrs.org</a>
+              Email: <a href='mailto:captain@kvrs.org'>captain@kvrs.org</a>
             </td>
           </tr>
           <tr>
@@ -32,9 +32,9 @@
               &nbsp;
             </td>
             <td>
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/ExecutiveOfficer'>Executive Officer (951)</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.B'>Definition</a><br />
+              <strong>Executive Officer (951)</strong><br />
               Jason Grimes<br />
-              Email: <a class='urllink' href='mailto:exo@kvrs.org' rel='nofollow'>exo@kvrs.org</a>
+              Email: <a href='mailto:exo@kvrs.org'>exo@kvrs.org</a>
             </td>
           </tr>
           <tr>
@@ -42,23 +42,22 @@
               &nbsp;
             </td>
             <td>
-              O<a class='wikilink' href='http://kvrs.org/index.php/Site/operationsOfficer'>perations Officer (952)</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.C'>Definition</a><br />
+              <strong>Operations Officer (952)</strong><br />
               Jamie Hyssong<br />
-              Email: <a class='urllink' href='mailto:ops@kvrs.org' rel='nofollow'>ops@kvrs.org</a><br clear='all' />
-              <br clear='all' />
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/ScheduleSergeant'>Schedule Sergeant</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.F'>Definition</a><br />
-              (See Operations Officer)<br />
-              Email: <a class='urllink' href='mailto:scheduler@kvrs.org' rel='nofollow'>scheduler@kvrs.org</a>
+              Email: <a href='mailto:ops@kvrs.org'>ops@kvrs.org</a><br />
+              <br />
+              <strong>Schedule Coordinator</strong><br />
+              Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
           <tr>
-            <td align='center'>
-              <a rel='nofollow' class='createlinktext' href='http://kvrs.org/index.php/Site/operations?action=upload&amp;upname=david-jimerson.jpg'>Attach:david-jimerson.jpg</a><a rel='nofollow' class='createlink' href='http://kvrs.org/index.php/Site/operations?action=upload&amp;upname=david-jimerson.jpg'>&nbsp;&Delta;</a>
+            <td>
+              &nbsp;
             </td>
             <td>
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/LogisticsOfficer'>Logistics Officer (953)</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.D'>Definition</a><br />
+              <strong>Logistics Officer (953)</strong><br />
               David Jimerson<br />
-              Email: <a class='urllink' href='mailto:logistics@kvrs.org' rel='nofollow'>logistics@kvrs.org</a>
+              Email: <a href='mailto:logistics@kvrs.org'>logistics@kvrs.org</a>
             </td>
           </tr>
           <tr>
@@ -66,9 +65,9 @@
               &nbsp;
             </td>
             <td>
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/MaintenanceSergeant'>Maintenance Sergeant (954)</a><br />
+              <strong>Supply Sergeant (954)</strong><br />
               Bryan Miller<br />
-              Email: <a class='urllink' href='mailto:maintenance@kvrs.org' rel='nofollow'>maintenance@kvrs.org</a>
+              Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
           <tr>
@@ -76,9 +75,9 @@
               &nbsp;
             </td>
             <td>
-              <a class='wikilink' href='http://kvrs.org/index.php/Site/TrainingSergeant'>Training Sergeant (955)</a> - <a class='wikilink' href='http://kvrs.org/index.php/Site/operationsByLawsSection200#a204.3.G'>Definition</a><br />
+              <strong>Training Sergeant (955)</strong><br />
               Justin Urquhart<br />
-              Email: <a class='urllink' href='mailto:training@kvrs.org' rel='nofollow'>training@kvrs.org</a>
+              Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
         </table>

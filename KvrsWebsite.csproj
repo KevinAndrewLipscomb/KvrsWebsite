@@ -96,7 +96,6 @@
     <Content Include="mark-1\ann_rep_title_page.html" />
     <Content Include="mark-1\apparatus.html" />
     <Content Include="mark-1\associated_orgs.html" />
-    <Content Include="mark-1\autorun.inf" />
     <Content Include="mark-1\canceled-donation.html" />
     <Content Include="mark-1\culture.htm" />
     <Content Include="mark-1\donate_online.html" />
@@ -193,6 +192,7 @@
     </Compile>
     <Compile Include="mark-2\csp.aspx.cs">
       <DependentUpon>csp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="mark-2\csp.aspx.designer.cs">
       <DependentUpon>csp.aspx</DependentUpon>

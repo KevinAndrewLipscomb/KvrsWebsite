@@ -21,15 +21,6 @@ namespace UserControl_precontent
                 {
                     Label_username.Text = Session["username"].ToString();
                 }
-                Img_banner_pic.Src = k.ExpandTildePath(Img_banner_pic.Src);
-                Anchor_340_kvrs.HRef = k.ExpandTildePath(Anchor_340_kvrs.HRef);
-                Anchor_administration.HRef = k.ExpandTildePath(Anchor_administration.HRef);
-                Anchor_bylaws.HRef = k.ExpandTildePath(Anchor_bylaws.HRef);
-                Anchor_csp.HRef = k.ExpandTildePath(Anchor_csp.HRef);
-                Anchor_inside_kvrs.HRef = k.ExpandTildePath(Anchor_inside_kvrs.HRef);
-                Anchor_lvr_exemption.HRef = k.ExpandTildePath(Anchor_lvr_exemption.HRef);
-                Anchor_operations.HRef = k.ExpandTildePath(Anchor_operations.HRef);
-                Anchor_yahoo_groups.HRef = k.ExpandTildePath(Anchor_yahoo_groups.HRef);
             }
 
         }
