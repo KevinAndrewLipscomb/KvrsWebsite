@@ -40,7 +40,7 @@
         <tr>
           <td nowrap="nowrap" valign="top">
             <table>
-              <tr><td colspan="3" nowrap="nowrap"><strong><a href="http://kvrs.org/index.php/Main/HomePage"><br />Home</a></strong></td></tr>
+              <tr><td colspan="3" nowrap="nowrap"><strong><a href="http://kvrs.org"><br />Home</a></strong></td></tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Structure</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
@@ -92,11 +92,6 @@
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
                 <td nowrap="nowrap"><small><a href="http://kvrs.org/index.php/Main/ContinuousStrategicPlan" rel="nofollow">CSP</a></small></td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.oscarsystem.com/keyclick" rel="nofollow">KEYclick</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
