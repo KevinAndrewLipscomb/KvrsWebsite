@@ -19,24 +19,24 @@
             <table cellpadding='5'>
               <tr>
                 <td nowrap='nowrap' valign='top'>
-                  <div>
+                  <p>
                     <img src="image/920left.png" alt="Ambulance facing left"/>
                     <img src="image/logo.png" alt="KVRS logo"/>
                     <img src="image/920right.png" alt="Ambulance facing right"/>
-                  </div>
+                  </p>
                 </td>
               </tr>
             </table>
-            <div></div>
+            <p></p>
             <h2>Our Mission</h2>
             <p>To deliver the most appropriate and timely prehospital emergency medical care and rescue services to the citizens of the community</p>
-            <div></div>
+            <p></p>
             <h2>Our Vision</h2>
             <p>
               To promote the general welfare of the borough of Kempsville and the City of Virginia Beach by maintaining an institutional platform of the highest caliber for volunteer activism in the mitigation of emergencies,
               for leadership development, and for community self-sufficiency
             </p>
-            <div></div>
+            <p></p>
             <h2>News</h2>
             <dl>
               <dt>2012-05-25</dt>
@@ -45,7 +45,7 @@
               <dt>2012-04-06</dt>
               <dd>
                 With two of its ambulances already on duty, KVRS's other three ambulances, plus an extra zone car, were quickly staffed in the aftermath of
-                <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet#Accidents">the crash of a Navy fighter jet into an apartment complex</a> in <a href="http://www.rescue14.com/">Rescue 14</a>'s district.  But
+                <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet#Accidents">the crash of a Navy fighter jet into an apartment complex</a> in <a href="http://www.vbvrs.com/">Rescue 14</a>'s district.  But
                 that's just a fragment of the whole picture.  Citywide, Virginia Beach's volunteer-based EMS system ended up with 28 ambulances and 10 zone cars staffed, either at the crash site, or backfilling for other calls.
                 No EMS mutual aid units were required from surrounding jurisdictions.
               </dd>
@@ -118,17 +118,17 @@
               <dt>2010-11-21</dt>
               <dd>We now have two powered stretchers in service.  Thanks to grants from the Virginia Beach Rescue Squad Foundation, KVRS only paid 12.5¢ on the dollar for them!</dd>
             </dl>
-            <div></div>
+            <p></p>
           </td>
           <td valign='top' width='25%'>
-            <div></div>
+            <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>
             <hr />
-            <div></div>
+            <p></p>
             <h3>Physio-Control LifePak 15</h3>
             <h4>We need 2 at about $25,500 each</h4>
-            <div><img src="image/LP-15-300x300.png" alt="LifePak 15"/></div>
+            <p><img src="image/LP-15-300x300.png" alt="LifePak 15"/></p>
             <p>
               <small>
                 This very rugged, very expensive, and very advanced device allows our members to monitor a patient's pulse, breathing, blood pressure, and heart rhythym.  This is the device that can shock dangerous heart rhythms
@@ -142,10 +142,10 @@
               </small>
             </p>
             <hr />
-            <div></div>
+            <p></p>
             <h3>Verathon GlideScope</h3>
             <h4>We need 5 at about $10,000 each</h4>
-            <div><img src="image/glidescope.png" alt="Verathon GlideScope"/></div>
+            <p><img src="image/glidescope.png" alt="Verathon GlideScope"/></p>
             <p>
               <small>
                 Sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube go through the patient's vocal cords, and that's not always easy to do with our own eyes.  The GlideScope
@@ -159,10 +159,10 @@
               </small>
             </p>
             <hr />
-            <div></div>
+            <p></p>
             <h3>Stryker Power-Pro stretcher</h3>
             <h4>We need 1 at about $11,500</h4>
-            <div><img src="image/stryker-power-pro.png" alt="Stryker Power Pro cot"/></div>
+            <p><img src="image/stryker-power-pro.png" alt="Stryker Power Pro cot"/></p>
             <p>
               <small>
                 Patients must be lifted, lifting can cause back injuries to EMTs, back injuries can be permanent, and permanent back injuries can end volunteer careers.  It doesn't help that patients aren't getting any lighter.
