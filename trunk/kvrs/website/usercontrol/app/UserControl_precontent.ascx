@@ -101,7 +101,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://kvrs.org/old/mailing_lists.html" rel="nofollow">YahooGroups</a></small></td>
+                <td nowrap="nowrap"><small><a id="Anchor_yahoo_groups" runat="server" href="~/mark-1/mailing_lists.html" rel="nofollow">YahooGroups</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -155,7 +155,7 @@
                 <td>&nbsp;</td>
                 <td nowrap="nowrap"><small><a href="http://www.vdh.state.va.us/OEMS/Training/LogInProblems.htm" rel="nofollow">VDH EMS Portal</a></small></td>
               </tr>
-              <tr><td colspan="3" nowrap="nowrap"><a href="http://kvrs.org/old" rel="nofollow"><strong><br />Inside KVRS</strong></a></td></tr>
+              <tr><td colspan="3" nowrap="nowrap"><a id="Anchor_inside_kvrs" runat="server" href="~/mark-1/" rel="nofollow"><strong><br />Inside KVRS</strong></a></td></tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Contact</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
@@ -164,7 +164,7 @@
                     P.O. Box 62345<br />
                     Virginia Beach, VA 23466<br />
                     <strong>Emergencies</strong>: 911<br />
-                    <strong>Main</strong>: <a href="http://kvrs.org/old/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a><br />
+                    <strong>Main</strong>: <a id="Anchor_340_kvrs" runat="server" href="~/mark-1/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a><br />
                     <strong>Fax</strong>: 877-471-6183
                   </small>
                 </td>

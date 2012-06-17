@@ -85,6 +85,33 @@ namespace UserControl_precontent {
         protected global::UserControl_bread_crumb_trail.TWebUserControl_bread_crumb_trail UserControl_bread_crumb_trail;
         
         /// <summary>
+        /// Anchor_yahoo_groups control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_yahoo_groups;
+        
+        /// <summary>
+        /// Anchor_inside_kvrs control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_inside_kvrs;
+        
+        /// <summary>
+        /// Anchor_340_kvrs control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_340_kvrs;
+        
+        /// <summary>
         /// UpdatePanel_control control.
         /// </summary>
         /// <remarks>
