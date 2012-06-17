@@ -44,11 +44,11 @@
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Structure</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap"><a href="http://kvrs.org/index.php/Site/Administration">Administration</a></td>
+                <td colspan="2" nowrap="nowrap"><a id="Anchor_administration" runat="server" href="~/mark-2/administration.aspx">Administration</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap"><a href="http://kvrs.org/index.php/Site/Operations">Operations</a></td>
+                <td colspan="2" nowrap="nowrap"><a id="Anchor_operations" runat="server" href="~/mark-2/operations.aspx">Operations</a></td>
               </tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Quick links</strong></td></tr>
               <tr>
@@ -72,7 +72,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://kvrs.org/index.php/Site/LVRExemption">LVR exemption</a></small></td>
+                <td nowrap="nowrap"><small><a id="Anchor_lvr_exemption" runat="server" href="~/mark-2/lvr_exemption.aspx">LVR exemption</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -86,12 +86,12 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://kvrs.org/index.php/Site/AdministrationByLawsSection100">Bylaws</a></small></td>
+                <td nowrap="nowrap"><small><a id="Anchor_bylaws" runat="server" href="~/mark-2/bylaws.aspx">Bylaws</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://kvrs.org/index.php/Main/ContinuousStrategicPlan" rel="nofollow">CSP</a></small></td>
+                <td nowrap="nowrap"><small><a id="Anchor_csp" runat="server" href="~/mark-2/csp.aspx" rel="nofollow">CSP</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>

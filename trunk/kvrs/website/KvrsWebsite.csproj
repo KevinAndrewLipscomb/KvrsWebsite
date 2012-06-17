@@ -116,6 +116,11 @@
     <Content Include="mark-1\thanks.html" />
     <Content Include="mark-1\usage_stats.html" />
     <Content Include="mark-1\whats_new.html" />
+    <Content Include="mark-2\administration.aspx" />
+    <Content Include="mark-2\bylaws.aspx" />
+    <Content Include="mark-2\csp.aspx" />
+    <Content Include="mark-2\lvr_exemption.aspx" />
+    <Content Include="mark-2\operations.aspx" />
     <Content Include="new_user_registration.aspx" />
     <Content Include="remind_username.aspx" />
     <Content Include="salogin.aspx" />
@@ -171,6 +176,40 @@
     </Compile>
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\administration.aspx.cs">
+      <DependentUpon>administration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mark-2\administration.aspx.designer.cs">
+      <DependentUpon>administration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\bylaws.aspx.cs">
+      <DependentUpon>bylaws.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mark-2\bylaws.aspx.designer.cs">
+      <DependentUpon>bylaws.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\csp.aspx.cs">
+      <DependentUpon>csp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\csp.aspx.designer.cs">
+      <DependentUpon>csp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\lvr_exemption.aspx.cs">
+      <DependentUpon>lvr_exemption.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mark-2\lvr_exemption.aspx.designer.cs">
+      <DependentUpon>lvr_exemption.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\operations.aspx.cs">
+      <DependentUpon>operations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mark-2\operations.aspx.designer.cs">
+      <DependentUpon>operations.aspx</DependentUpon>
     </Compile>
     <Compile Include="new_user_registration.aspx.cs">
       <DependentUpon>new_user_registration.aspx</DependentUpon>
@@ -478,7 +517,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="mark-2\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
