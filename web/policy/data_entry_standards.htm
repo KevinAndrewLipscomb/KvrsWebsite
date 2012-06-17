@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+
+<head>
+<title>Data Entry Standards - Direct Mail Fund Drive Returns</title>
+<meta NAME="Author" CONTENT="Kevin Andrew Lipscomb">
+<meta NAME="GENERATOR" CONTENT="Microsoft FrontPage 4.0">
+</head>
+
+<body bgcolor="#FFFFFF">
+
+<table border="0" width="100%">
+  <tr>
+    <td width="17%">&nbsp;<img SRC="../logo.gif" ALT="Squad logo" WIDTH="100" HEIGHT="100"></td>
+    <td width="183%"><font SIZE="+3">K</font><font SIZE="+1">&nbsp;E&nbsp;M&nbsp;P&nbsp;S&nbsp;V&nbsp;I&nbsp;L&nbsp;L&nbsp;E&nbsp;&nbsp;
+    &nbsp;&nbsp;</font><font SIZE="+3">V</font><font SIZE="+1">&nbsp;O&nbsp;L&nbsp;U&nbsp;N&nbsp;T&nbsp;E&nbsp;E&nbsp;R&nbsp;&nbsp;
+    &nbsp;&nbsp;</font><font SIZE="+3">R</font><font SIZE="+1">&nbsp;E&nbsp;S&nbsp;C&nbsp;U&nbsp;E&nbsp;&nbsp;
+    &nbsp;&nbsp;</font><font SIZE="+3">S</font><font SIZE="+1">&nbsp;Q&nbsp;U&nbsp;A&nbsp;D</font></td>
+  </tr>
+</table>
+
+<hr WIDTH="100%">
+
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%">
+
+<h1>Data Entry Standards - Direct Mail Fund Drive Returns</h1>
+
+      </td>
+      <td width="1%"><i>
+
+<a href="http://greenspun.com/com/KVRS/policy/data_entry_standards.htm">Add or
+view comments.</a></i></td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<h3>Table of Contents</h3>
+
+<ul>
+  <li><a HREF="#Introduction">Introduction</a></li>
+  <li><a HREF="#TypesOfReturns">Types of Returns</a></li>
+  <li><a HREF="#BasicProcessingRecommendations">Basic Processing Recommendations</a></li>
+  <li><a HREF="#DataEntryDetails">Data Entry Details</a></li>
+  <ul>
+    <li><a HREF="#Regular">Regular Donation Return Card</a></li>
+    <li><a HREF="#Uncontrolled">Uncontrolled Donation Return Card</a></li>
+    <li><a HREF="#AddressChange">Donation Return Card with Address Change</a></li>
+    <li><a HREF="#DeleteMe">Delete-Me Return Card</a></li>
+  </ul>
+  <li><a HREF="#WhyAscii">Why does this standard focus on ASCII text files?</a></li>
+</ul>
+
+<h3><a NAME="Introduction"></a>Introduction</h3>
+
+<ul>
+  <p>KVRS is committed to completing the following tasks at the end of a fund drive:</p>
+</ul>
+
+<ol>
+  <ol>
+    <li>We must acknowledge each donation in a timely fashion.</li>
+    <li>We must update our donor database.</li>
+  </ol>
+</ol>
+
+<h3><a NAME="TypesOfReturns"></a>Types of Returns</h3>
+
+<ul>
+  <p>Typically, any return that we receive can be categorized one of four ways. These
+  categories are listed below. We've provided a description and an example for each
+  category.</p>
+</ul>
+
+<ol>
+  <ol>
+    <li>REGULAR DONATION</li>
+    <li>UNCONTROLLED DONATION</li>
+    <li>DONATION WITH&nbsp;ADDRESS&nbsp;CHANGE</li>
+    <li>DELETE-ME CARD</li>
+  </ol>
+</ol>
+
+<h3><a NAME="BasicProcessingRecommendations"></a>Basic Processing Recommendations</h3>
+
+<ul>
+  <p>We recommend that donation return cards be separated according to their type (as listed
+  above) before performing data entry. Only one type should be processed at a time. This
+  way, the data entry clerk only needs to have one file (or table) open at a time, which
+  should reduce confusion. For instance, when processing the Delete-Me cards, only the
+  DELETEME.TXT file should be open -- the other files should all be closed.</p>
+</ul>
+
+<h3><a NAME="DataEntryDetails"></a>Data Entry Details</h3>
+
+<ol>
+  <p><a NAME="Regular"></a><b>REGULAR&nbsp;DONATION RETURN CARD</b></p>
+  <div align="center"><center><table BORDER="1" WIDTH="60%">
+    <tr>
+      <td><p align="center"><img SRC="regular2.jpg" ALT="Regular donation return - 43K" WIDTH="566" HEIGHT="305"> </td>
+    </tr>
+  </table>
+  </center></div><ul>
+    <p>The following data items must be recorded for a Regular Donation return:<ul>
+      <li>Control number</li>
+      <li>Dollar amount</li>
+      <li>New surname (if provided)</li>
+      <li>New name details (if provided)</li>
+    </ul>
+    <p>Because the control number is already associated with an address, there is no need to
+    record the address again for Regular Donation returns.</p>
+    <p>If these records are stored in an ASCII text file, the file should be named
+    REGULAR.TXT. Each record should occupy one line of text, and the fields should be arranged
+    as follows:<ul>
+      <p>{Control number},{Dollar amount},{New surname (if provided)},{New name details (if
+      provided)}</p>
+    </ul>
+    <p>An example REGULAR.TXT file follows. The first record corresponds to the example return
+    card shown above:<ul>
+      <p><tt>13433,50.00,TAYLOR,AGNES J<br>
+      18459,25.00<br>
+      4231,30.00<br>
+      11003,150.00<br>
+      26778,50.00,SALAZAR,MR AND MRS BOB<br>
+      13,25.00,QUESENBERRY,MICHAEL<br>
+      30912,5.00<br>
+      3,25.00,KENSINGTON</tt></p>
+    </ul>
+  </ul>
+  <p><a NAME="Uncontrolled"></a><b>UNCONTROLLED DONATION RETURN CARD</b></p>
+  <div align="center"><center><table BORDER="1" WIDTH="60%">
+    <tr>
+      <td><p align="center"><img SRC="keyless2.jpg" ALT="Keyless donation return - 42K" WIDTH="566" HEIGHT="302"> </td>
+    </tr>
+  </table>
+  </center></div><ul>
+    <p>The following data items must be recorded for an Uncontrolled Donation:<ul>
+      <li>Dollar amount</li>
+      <li>Surname</li>
+      <li>Name details</li>
+      <li>Street number</li>
+      <li>Street name</li>
+      <li>Apartment number</li>
+      <li>City</li>
+      <li>State</li>
+      <li>Zip code</li>
+    </ul>
+    <p>If these records are stored in an ASCII&nbsp;text file, the file should be named
+    UNCONTRL.TXT. Each record should occupy one line of text, and the fields should be
+    arranged as follows:<ul>
+      <p>{Dollar amount},{Surname},{Name details},{Street number},{Street name},{Apartment
+      number},{City},{State},{Zip code}</p>
+    </ul>
+    <p>An example UNCONTRL.TXT file follows. The first record corresponds to the return card
+    shown above:<ul>
+      <p><tt>25.00,PARSONS,CALVIN,126,ALBEMARLE ST,402,CHESAPEAKE,VA,23322<br>
+      100.00,HORDESKI,MRS ANNA,1601,MAPLE&nbsp;ST,,VA&nbsp;BEACH,VA,23462<br>
+      50.00,WATKINS,BILLY,1288,OVERLAND RD,,VA&nbsp;BEACH,VA,23462<br>
+      60.00,APPLESEED,JOHNNY,104,BRAZILIAN&nbsp;DR,202,VA BEACH,VA,23464<br>
+      25.00,BARKER,CLYDE,3645,PEACH&nbsp;ST,,ATLANTA,GA,47034</tt></p>
+    </ul>
+    <p>Note that empty fields are used when a peice of information (like an apartment number)
+    is missing or does not apply.</p>
+  </ul>
+  <p><a NAME="AddressChange"></a><b>DONATION&nbsp;RETURN&nbsp;CARD
+  WITH&nbsp;ADDRESS&nbsp;CHANGE</b></p>
+  <div align="center"><center><table BORDER="1" WIDTH="60%">
+    <tr>
+      <td><p align="center"><img SRC="adchange2.jpg" ALT="Donation with address change - 44K" WIDTH="566" HEIGHT="292"> </td>
+    </tr>
+  </table>
+  </center></div><ul>
+    <p>The following data items must be recorded for a Donation With Address Change:<ul>
+      <li>Control number</li>
+      <li>Dollar amount</li>
+      <li>New surname (if different from previous surname on record)</li>
+      <li>New name details (if different from previous name details on record)</li>
+      <li>New street number</li>
+      <li>New street name</li>
+      <li>New apartment number</li>
+      <li>New city</li>
+      <li>New state</li>
+      <li>New zip code</li>
+    </ul>
+    <p>If these records are stored in an ASCII text file, the file should be named
+    ADCHANGE.TXT. Each record should occupy one line of text, and the fields should be
+    arranged as follows:<ul>
+      <p>{Control number},{Dollar amount},{New surname},{New name details},{New street
+      number},{New street name},{New apartment number},{New city},{New state},{New zip code}</p>
+    </ul>
+    <p>An example ADCHANGE.TXT file follows. The first record corresponds to the return card
+    shown above:<ul>
+      <p><tt>73,30.00,THURMAN,MR&nbsp;AND&nbsp;MRS WALTER,7663,CHEDDAR&nbsp;WAY,,VA
+      BEACH,VA,23465<br>
+      10543,25.00,SIMMONS,DR&nbsp;AND&nbsp;MRS&nbsp;RALPH,350,JUNIPER&nbsp;LN,,CHESAPEAKE,VA,23320<br>
+      310,40.00,BLANCHARD,SAM&nbsp;AND&nbsp;LORRIE,3210,HOLLY&nbsp;RD,VA&nbsp;BEACH,VA,23451<br>
+      31359,25.00,CREZMAN,HANFA,12,TURNIP CRES,5A,CHICAGO,IL,34319</tt></p>
+    </ul>
+  </ul>
+  <p><a NAME="DeleteMe"></a><b>DELETE-ME RETURN CARD</b></p>
+  <div align="center"><center><table BORDER="1" WIDTH="60%">
+    <tr>
+      <td><p align="center"><img SRC="example-deleteme-card.jpg" ALT="Delete-me card - 43K" WIDTH="566" HEIGHT="301"> </td>
+    </tr>
+  </table>
+  </center></div><ul>
+    <p>The following data items must be recorded for a Delete-Me Card:<ul>
+      <li>Control number</li>
+    </ul>
+    <p>If these records are stored in an ASCII text file, the file should be named
+    DELETEME.TXT. Each control number should occupy one line of text, as follows:<ul>
+      <p>{Control number}</p>
+    </ul>
+    <p>An example DELETEME.TXT file follows. The first record corresponds to the return card
+    shown above:<ul>
+      <p><tt>6412<br>
+      4056<br>
+      118<br>
+      19430<br>
+      7214<br>
+      34</tt></p>
+    </ul>
+  </ul>
+</ol>
+
+<h3><a NAME="WhyAscii"></a>Why does this standard focus on ASCII&nbsp;text files?</h3>
+
+<ul>
+  <p>Because KVRS has not adopted any particular Database Management System (DBMS) as an
+  official standard. Our members' preferences for DBMS's vary widely. All DBMS's, however,
+  have some way to import and export comma-separated ASCII&nbsp;text files. We want our Data
+  Entry Standards to be as portable as possible, for now and for the future. Nothing in this
+  standard prohibits data entry personnel from using proper DBMS tables as an intermediate
+  step in recording fund drive information. The final deliverable product, however, must
+  include comma-separated ASCII text files, and the KVRS Treasurer shall make sure that the
+  ASCII text files are kept for posterity.</p>
+  <li><a href="http://greenspun.com/com/KVRS/policy/data_entry_standards.htm">Add
+    or view comments.</a></li>
+  <li><a href="http://www.kvrs.org">Return to Main Page.</a></li>
+</ul>
+</body>
+</html>
