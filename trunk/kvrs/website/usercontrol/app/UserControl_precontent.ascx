@@ -10,19 +10,9 @@
         <tr>
           <td valign="middle" width="1%"><a href="http://kvrs.org"><img src="http://kvrs.org/uploads/Site/Title/logo.png" alt="Home" border="0" title="Home" /></a></td>
           <td valign="middle" width="1%">
-            <!--
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-              <input type="hidden" name="cmd" value="_s-xclick" />
-              <input type="hidden" name="hosted_button_id" value="NF2XBBH9XERGG" />
-              <input type="hidden" name="business" value="infotech@kvrs.org" />
-              <input type="hidden" name="item_name" value="Unrestricted donation" />
-              <input type="hidden" name="no_shipping" value="1" />
-              <input type="hidden" name="return" />
-              <input type="hidden" name="cancel" />
-              <input type="hidden" name="cn" value="Please CLICK HERE and enter your address in Kempsville" />
-              <input type="image" name="submit" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" />
-            </form>
-            -->
+            <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF2XBBH9XERGG&business=infotech@kvrs.org&item_name=Unrestricted%20donation&no_shipping=1&return=&cancel=&cn=Please%20CLICK%20HERE%20and%20enter%20your%20address%20in%20Kempsville">
+              <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal"/>
+            </a>
           </td>
           <td align="center" valign="middle">
             <h2><font color="White">Kempsville Volunteer Rescue Squad</font></h2>
@@ -45,7 +35,7 @@
 </table>
 <table cellspacing="0" cellpadding="0" width="100%" border="0">
   <tr>
-    <td valign="top" width="1%" style="border-right:2px solid DarkGreen">
+    <td valign="top" width="1%">
       <table cellspacing="0" cellpadding="0">
         <tr>
           <td nowrap="nowrap" valign="top">
@@ -189,6 +179,7 @@
         </tr>
       </table>
     </td>
+    <td style="border-left:1px solid DarkGreen" width="1%">&nbsp;</td>
     <td valign="top">
       <asp:UpdatePanel id="UpdatePanel_control" runat="server" updatemode="Always">
         <ContentTemplate>
