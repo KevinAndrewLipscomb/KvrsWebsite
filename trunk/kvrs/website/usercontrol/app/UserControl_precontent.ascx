@@ -8,7 +8,7 @@
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle" width="1%"><a href="http://kvrs.org"><img src="http://kvrs.org/uploads/Site/Title/logo.png" alt="Home" border="0" title="Home" /></a></td>
+          <td valign="middle" width="1%"><a href="http://kvrs.org"><img id="Img_banner_pic" runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" /></a></td>
           <td valign="middle" width="1%">
             <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF2XBBH9XERGG&business=infotech@kvrs.org&item_name=Unrestricted%20donation&no_shipping=1&return=&cancel=&cn=Please%20CLICK%20HERE%20and%20enter%20your%20address%20in%20Kempsville">
               <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal"/>

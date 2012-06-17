@@ -79,6 +79,13 @@
     <Content Include="Default.aspx" />
     <Content Include="exception.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="image\920left.png" />
+    <Content Include="image\920right.png" />
+    <Content Include="image\banner-pic.png" />
+    <Content Include="image\glidescope.png" />
+    <Content Include="image\logo.png" />
+    <Content Include="image\LP-15-300x300.png" />
+    <Content Include="image\stryker-power-pro.png" />
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
     <Content Include="new_user_registration.aspx" />

@@ -22,6 +22,15 @@ namespace UserControl_precontent {
         protected global::AjaxControlToolkit.ToolkitScriptManager ScriptManager_control;
         
         /// <summary>
+        /// Img_banner_pic control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlImage Img_banner_pic;
+        
+        /// <summary>
         /// TableRow_account_control control.
         /// </summary>
         /// <remarks>
