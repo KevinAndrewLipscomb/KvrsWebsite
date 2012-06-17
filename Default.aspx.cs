@@ -1,15 +1,5 @@
-using System.Configuration;
-
-
 using System;
-using System.Collections;
-using System.ComponentModel;
-using System.Web;
-using System.Web.SessionState;
-
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-
+using System.Configuration;
 
 namespace Default
 {
@@ -28,9 +18,9 @@ namespace Default
         {
             if (!IsPostBack)
             {
-                Title.InnerText = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - Default";
+                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - Default";
                 Label_application_name.Text = ConfigurationManager.AppSettings["application_name"];
-                Response.Redirect("~/protected/overview.aspx");
+                //Response.Redirect("~/protected/overview.aspx");
             }
         }
 
