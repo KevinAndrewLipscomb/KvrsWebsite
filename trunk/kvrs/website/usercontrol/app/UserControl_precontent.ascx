@@ -8,7 +8,7 @@
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle" width="1%"><a href="http://kvrs.org"><img id="Img_banner_pic" runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" /></a></td>
+          <td valign="middle" width="1%"><a runat="server" href="~/"><img runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" /></a></td>
           <td valign="middle" width="1%">
             <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF2XBBH9XERGG&business=infotech@kvrs.org&item_name=Unrestricted%20donation&no_shipping=1&return=&cancel=&cn=Please%20CLICK%20HERE%20and%20enter%20your%20address%20in%20Kempsville">
               <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal"/>
@@ -40,15 +40,15 @@
         <tr>
           <td nowrap="nowrap" valign="top">
             <table>
-              <tr><td colspan="3" nowrap="nowrap"><strong><a href="http://kvrs.org"><br />Home</a></strong></td></tr>
+              <tr><td colspan="3" nowrap="nowrap"><strong><a runat="server" href="~/"><br />Home</a></strong></td></tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Structure</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap"><a id="Anchor_administration" runat="server" href="~/mark-2/administration.aspx">Administration</a></td>
+                <td colspan="2" nowrap="nowrap"><a runat="server" href="~/mark-2/administration.aspx">Administration</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap"><a id="Anchor_operations" runat="server" href="~/mark-2/operations.aspx">Operations</a></td>
+                <td colspan="2" nowrap="nowrap"><a runat="server" href="~/mark-2/operations.aspx">Operations</a></td>
               </tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Quick links</strong></td></tr>
               <tr>
@@ -72,7 +72,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a id="Anchor_lvr_exemption" runat="server" href="~/mark-2/lvr_exemption.aspx">LVR exemption</a></small></td>
+                <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/lvr_exemption.aspx">LVR exemption</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -86,12 +86,12 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a id="Anchor_bylaws" runat="server" href="~/mark-2/bylaws.aspx">Bylaws</a></small></td>
+                <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/bylaws.aspx">Bylaws</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a id="Anchor_csp" runat="server" href="~/mark-2/csp.aspx" rel="nofollow">CSP</a></small></td>
+                <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/csp.aspx" rel="nofollow">CSP</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -101,7 +101,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a id="Anchor_yahoo_groups" runat="server" href="~/mark-1/mailing_lists.html" rel="nofollow">YahooGroups</a></small></td>
+                <td nowrap="nowrap"><small><a runat="server" href="~/mark-1/mailing_lists.html" rel="nofollow">YahooGroups</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -155,7 +155,7 @@
                 <td>&nbsp;</td>
                 <td nowrap="nowrap"><small><a href="http://www.vdh.state.va.us/OEMS/Training/LogInProblems.htm" rel="nofollow">VDH EMS Portal</a></small></td>
               </tr>
-              <tr><td colspan="3" nowrap="nowrap"><a id="Anchor_inside_kvrs" runat="server" href="~/mark-1/" rel="nofollow"><strong><br />Inside KVRS</strong></a></td></tr>
+              <tr><td colspan="3" nowrap="nowrap"><a runat="server" href="~/mark-1/" rel="nofollow"><strong><br />Inside KVRS</strong></a></td></tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Contact</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
@@ -164,7 +164,7 @@
                     P.O. Box 62345<br />
                     Virginia Beach, VA 23466<br />
                     <strong>Emergencies</strong>: 911<br />
-                    <strong>Main</strong>: <a id="Anchor_340_kvrs" runat="server" href="~/mark-1/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a><br />
+                    <strong>Main</strong>: <a runat="server" href="~/mark-1/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a><br />
                     <strong>Fax</strong>: 877-471-6183
                   </small>
                 </td>

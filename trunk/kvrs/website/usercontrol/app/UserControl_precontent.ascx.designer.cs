@@ -22,15 +22,6 @@ namespace UserControl_precontent {
         protected global::AjaxControlToolkit.ToolkitScriptManager ScriptManager_control;
         
         /// <summary>
-        /// Img_banner_pic control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlImage Img_banner_pic;
-        
-        /// <summary>
         /// TableRow_account_control control.
         /// </summary>
         /// <remarks>
@@ -83,78 +74,6 @@ namespace UserControl_precontent {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::UserControl_bread_crumb_trail.TWebUserControl_bread_crumb_trail UserControl_bread_crumb_trail;
-        
-        /// <summary>
-        /// Anchor_administration control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_administration;
-        
-        /// <summary>
-        /// Anchor_operations control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_operations;
-        
-        /// <summary>
-        /// Anchor_lvr_exemption control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_lvr_exemption;
-        
-        /// <summary>
-        /// Anchor_bylaws control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_bylaws;
-        
-        /// <summary>
-        /// Anchor_csp control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_csp;
-        
-        /// <summary>
-        /// Anchor_yahoo_groups control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_yahoo_groups;
-        
-        /// <summary>
-        /// Anchor_inside_kvrs control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_inside_kvrs;
-        
-        /// <summary>
-        /// Anchor_340_kvrs control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor Anchor_340_kvrs;
         
         /// <summary>
         /// UpdatePanel_control control.

@@ -22,7 +22,7 @@
         <div class='vspace'>
         </div>
         <div class='indent'>
-          <strong><a class='urllink' href='http://kvrs.org/uploads/Main/ContinuousStrategicPlan/continuous-strategic-plan-dynamic.pdf' rel='nofollow'>KVRS Continuous Strategic Plan (CSP)</a></strong>
+          <strong><a href="~/mark-1/future/continuous-strategic-plan-dynamic.pdf">KVRS Continuous Strategic Plan (CSP)</a></strong>
         </div>
       </div>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>

@@ -23,7 +23,7 @@
         <div class='vspace'>
         </div>
         <ul>
-          <li><a class='urllink' href='http://www.vbgov.com/government/departments/commissioner-of-the-revenue/Documents/LVR/LVR_Volunteer_Declaration_for_Exemption.pdf' rel='nofollow'>Form</a> </li>
+          <li><a href='http://www.vbgov.com/government/departments/commissioner-of-the-revenue/Documents/LVR/LVR_Volunteer_Declaration_for_Exemption.pdf'>Form</a> </li>
         </ul>
       </div>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
