@@ -438,12 +438,6 @@
     <Content Include="usercontrol\ki\UserControl_drop_down_date.ascx" />
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
-    <None Include="usercontrol\app\UserControl_template_binder.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_datagrid_sortable.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_gridview_sortable.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_kicrudhelped_item.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_std.ascx-template" />
-    <None Include="usercontrol\app\UserControl_template_trivial_item.ascx-template" />
     <None Include="work.bat" />
   </ItemGroup>
   <ItemGroup>
