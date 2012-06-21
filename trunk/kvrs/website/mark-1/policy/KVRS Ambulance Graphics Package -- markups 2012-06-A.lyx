@@ -103,7 +103,7 @@
 \begin_inset Text
 
 \begin_layout Plain Layout
-20 June 2012
+21 June 2012
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -357,7 +357,7 @@ KEMPSVILLE
 \begin_inset Quotes erd
 \end_inset
 
- and the right-most graphic unit number 
+ and the left-most graphic unit number 
 \begin_inset Quotes eld
 \end_inset
 
@@ -367,8 +367,8 @@ KEMPSVILLE
 
 .
  This markup is necessary because the space formerly utilized for the deleted
- items will instead be used for the Cool Bar and for turn signal and Opticom
- transmitter lenses on the vehicle on order.
+ items will instead be used for the Cool Bar, and because having the unit
+ number on both sides of the front of the box has been deemed overkill.
 \end_layout
 
 \begin_layout Enumerate
@@ -390,7 +390,7 @@ Replace Note 2 with
 
 WORKING POINT IS THE APPROXIMATE CENTER OF THE CHASSIS ROOF AT THE MODULE,
  SUCH THAT THE UNIT NUMBER SHALL APPEAR BELOW THE LOWEST LENS MOUNTED ON
- THE CURB SIDE OF THE FRONT OF THE MODULE
+ THE DRIVER SIDE OF THE FRONT OF THE MODULE
 \begin_inset Quotes erd
 \end_inset
 
@@ -601,7 +601,7 @@ KEMPSVILLE
 \begin_inset Quotes erd
 \end_inset
 
- and the right-most 
+ and the left-most 
 \begin_inset Quotes eld
 \end_inset
 
@@ -625,7 +625,7 @@ Position the remaining
 \begin_inset Quotes eld
 \end_inset
 
-turning right
+turning left
 \begin_inset Quotes erd
 \end_inset
 
