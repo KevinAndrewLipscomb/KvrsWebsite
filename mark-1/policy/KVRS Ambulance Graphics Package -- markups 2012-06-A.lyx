@@ -103,7 +103,7 @@
 \begin_inset Text
 
 \begin_layout Plain Layout
-7 June 2012
+20 June 2012
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -268,19 +268,25 @@ Colors
 \begin_inset Quotes erd
 \end_inset
 
- section, 2nd paragraph, add this after the 1st sentence: 
+ section, 2nd paragraph, replace the 1st sentence with: 
 \begin_inset Quotes eld
 \end_inset
 
-The 3M Scotchcal Graphic Film 
-\begin_inset Quotes eld
-\end_inset
-
-Dark Green
-\begin_inset Quotes erd
-\end_inset
-
- 50-76 shall be deemed to meet this requirement.
+Wherever DARK GREEN is indicated, match 
+\series bold
+Pantone 3302C
+\series default
+.
+ The 
+\series bold
+3M Scotchcal ElectroCut Graphic Film 'Forest Green' (7125-66 or 7725-66)
+\series default
+ shall be deemed to meet this requirement.
+ Wherever GOLD is indicated, 
+\series bold
+3M Scotchlite Reflective Graphic Film 'Gold' (680-64 or 5100-64)
+\series default
+ shall be deemed to meet this requirement.
  Wherever 
 \bar under
 RETROREFLECTIVE
@@ -289,12 +295,16 @@ RETROREFLECTIVE
 \bar under
 RETROREFLECTIVE
 \bar default
- DARK GREEN is indicated, use 3M 680-77 or the nearest available approximation.
+ DARK GREEN is indicated, 
+\series bold
+3M Scotchlite Reflective Graphic Film 'Green' (680-77 or 5100-77)
+\series default
+ shall be deemed to meet this requirement.
 \begin_inset Quotes erd
 \end_inset
 
- This is only pertinent to the graphics applied to the vehicle roof as shown
- on Drawing UNIT-TOP / Sheet 15.
+ This last sentence is only pertinent to the graphics applied to the vehicle
+ roof as shown on Drawing UNIT-TOP / Sheet 15.
 \end_layout
 
 \begin_layout Enumerate

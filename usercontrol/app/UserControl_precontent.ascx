@@ -3,7 +3,7 @@
 <%@ Register TagPrefix="uc1" TagName="UserControl_bread_crumb_trail" Src="~/usercontrol/ki/UserControl_bread_crumb_trail.ascx" %>
 <%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
 <asp:ToolkitScriptManager ID="ScriptManager_control" runat="server"><Scripts><asp:ScriptReference Path="~/js/ErrorHandler.js" /></Scripts></asp:ToolkitScriptManager>
-<table width="100%" class="gradient 006400 FFFFFF vertical" cellspacing="0" cellpadding="0">
+<table width="100%" class="gradient 228B22 FFFFFF vertical" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
@@ -174,7 +174,7 @@
         </tr>
       </table>
     </td>
-    <td style="border-left:1px solid DarkGreen" width="1%">&nbsp;</td>
+    <td style="border-left:1px solid ForestGreen" width="1%">&nbsp;</td>
     <td valign="top">
       <asp:UpdatePanel id="UpdatePanel_control" runat="server" updatemode="Always">
         <ContentTemplate>
