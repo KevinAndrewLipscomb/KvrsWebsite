@@ -19,10 +19,10 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/div/2008-03/KAL_0247-i.jpg' />
+              <img src="http://kalipso.phpwebhosting.com/photolib/div/2012-05--vbdems-awards-ceremony/KAL_2854-b-i.jpg" />
             </td>
             <td>
-              <strong>President</strong><br />
+              <strong>President</strong> -- <i><a href="../mark-1/role/president/index.html">official page</a></i><br />
               Kevin Lipscomb<br />
               Email: <a href='mailto:president@kvrs.org'>president@kvrs.org</a><br />
               <br />
@@ -31,7 +31,7 @@
               Finance &amp; Audits Coordinator<br />
               Fleet Renewal Plan Administrator<br />
               Fund Drive Coordinator<br />
-              Info Tech Coordinator<br />
+              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i><br />
               Love-Letter Program Coordinator
             </td>
           </tr>
@@ -64,7 +64,7 @@
               <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1360-i.jpg' />
             </td>
             <td>
-              <strong>Treasurer</strong><br />
+              <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
               Bob Paulsen<br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
@@ -162,8 +162,8 @@
               &nbsp;
             </td>
             <td>
-              <strong>Membership Coordinator</strong><br />
-              <strong>Uniform Coordinator</strong><br />
+              <strong>Membership Coordinator</strong> -- <i><a href="../mark-1/membership_reqs_and_apps.html">official page</a></i><br />
+              <strong>Uniform Coordinator</strong> -- <i><a href="../mark-1/role/uniform-coord/index.html">official page</a></i><br />
               Diane Ball
             </td>
           </tr>
