@@ -19,7 +19,7 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              &nbsp;
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
@@ -29,7 +29,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1779-i.jpg" />
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
@@ -52,7 +52,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
             </td>
             <td>
               <strong>Logistics Officer (953)</strong><br />
