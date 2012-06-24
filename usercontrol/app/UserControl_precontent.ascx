@@ -8,15 +8,15 @@
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td valign="middle" width="1%"><a runat="server" href="~/Default.aspx"><img runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" /></a></td>
+          <td valign="middle" width="1%"><a runat="server" href="~/Default.aspx"><img runat="server" src="~/image/banner-pic.png" alt="Home" border="0" title="Home" style="position:relative; z-index:1"/></a></td>
           <td valign="middle" width="1%">
             <a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NF2XBBH9XERGG&business=infotech@kvrs.org&item_name=Unrestricted%20donation&no_shipping=1&return=&cancel=&cn=Please%20CLICK%20HERE%20and%20enter%20your%20address%20in%20Kempsville">
-              <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal"/>
+              <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal" style="position:relative; z-index:1"/>
             </a>
           </td>
           <td align="center" valign="middle">
-            <h2><font color="White">Kempsville Volunteer Rescue Squad</font></h2>
-            <p><font color="White"><em>Virginia Beach, VA</em></font></p>
+            <h2 style="color:White; position :relative; z-index:1">Kempsville Volunteer Rescue Squad</h2>
+            <p style="color:Gray; position:relative; z-index:1"><em>Virginia Beach, VA</em></p>
           </td>
         </tr>
         <tr id="TableRow_account_control" runat="server">
