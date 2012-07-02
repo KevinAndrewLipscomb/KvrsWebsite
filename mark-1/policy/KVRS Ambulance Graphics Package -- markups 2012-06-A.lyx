@@ -103,7 +103,7 @@
 \begin_inset Text
 
 \begin_layout Plain Layout
-21 June 2012
+2 July 2012
 \begin_inset VSpace bigskip
 \end_inset
 
@@ -526,7 +526,12 @@ www.KVRS.org
 \end_layout
 
 \begin_layout Enumerate
-On Drawing STRIPE / Sheet 7, change 
+On Drawing STRIPE / Sheet 7:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Change 
 \begin_inset Quotes eld
 \end_inset
 
@@ -548,6 +553,20 @@ APPLIED ADHESIVE VINYL STRIPING,
  paint to assure that all DARK GREEN on the vehicle matches perfectly.
 \end_layout
 
+\begin_layout Enumerate
+Add the following to the end of Note 1: 
+\begin_inset Quotes eld
+\end_inset
+
+HEIGHT OF BOTH DARK GREEN STRIPES MAY BE REDUCED EQUALLY TO PREVENT BACKGROUND
+ DIFFERENCES FROM SHOWING, OR TO ACCOMODATE LIMITS OF BODYWORK.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 On Drawing STYLIZED LOGO / Sheet 8, change Note 4 to 'IF OVERALL BACKGROUND
  IS NOT WHITE, APPLY ADHESIVE VINYL, COLOR = 
