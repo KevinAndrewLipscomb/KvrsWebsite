@@ -141,11 +141,16 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
-            </td>
+              <img alt="Amber Achesinski" src="image/achesinski-amber.jpg" style="width: 234px; height: 351px" /></td>
             <td>
-              <strong>Banquet Coordinator</strong><br />
-              Amber Achesinski
+              <strong>
+                Banquet Coordinator
+                <br />
+                Recruitment &amp; Retention Coordinator
+              </strong>
+              <br />
+              Amber Achesinski<br />
+              Email: <a href='mailto:recruitment@kvrs.org'>recruitment@kvrs.org</a>
             </td>
           </tr>
           <tr>
@@ -167,17 +172,7 @@
               Diane Ball
             </td>
           </tr>
-          <tr>
-            <td>
-              &nbsp;
-            </td>
-            <td>
-              <strong>Recruitment &amp; Retention</strong><br />
-              Amber Achesinski<br />
-              Byron Shelton (Committee Member)
-            </td>
-          </tr>
-        </table>
+          </table>
       </div>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
