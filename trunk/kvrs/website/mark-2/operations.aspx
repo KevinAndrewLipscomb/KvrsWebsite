@@ -62,8 +62,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
-            </td>
+              <img alt="Bryan Miller" src="image/miller-bryan.jpg" style="width: 234px; height: 351px" /></td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
               Bryan Miller<br />
@@ -72,8 +71,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
-            </td>
+              <img alt="Training Sergeant" src="image/urquhart-justin.jpg" style="width: 234px; height: 351px" /></td>
             <td>
               <strong>Training Sergeant (955)</strong><br />
               Justin Urquhart<br />
