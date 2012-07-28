@@ -39,6 +39,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2012-07-27</dt>
+              <dd>
+                We've taken delivery of another brand new Chevrolet G4500 Wheeled Coach Type III Standard Duty Ambulance.  It will take a few weeks to provision this unit, then it will assume the moniker "920" from our 2006
+                Ford E-450 Horton Type III Standard Duty Ambulance, which we'll be selling.  This purchase was made possible by a 50% Virginia Rescue Squad Assistance Fund grant.
+              </dd>
+              <p></p>
               <dt>2012-05-25</dt>
               <dd>The mailout for our annual Spring fund drive has reached area mailboxes.  We're depending on you to send a donation soon.  Thanks!</dd>
               <p></p>
@@ -72,12 +78,6 @@
               <dd>
                 Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
                 resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-              </dd>
-              <p></p>
-              <dt>2011-07-22</dt>
-              <dd>
-                Our newest vehicle, another brand new 2010 Chevrolet G4500 Wheeled Coach Type III Standard Duty Ambulance, has been placed in service with the moniker "921".  This purchase was made possible by a 50% Virginia
-                Rescue Squad Assistance Fund grant.
               </dd>
               <p></p>
               <dt>2011-07-07</dt>
