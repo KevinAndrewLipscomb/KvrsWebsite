@@ -1750,7 +1750,14 @@ pelvis/thigh area
  (not adjacent to a supine patient's chest).
  Delete rearward cabinets and/or rearward telemetry area, and extend action
  area to account for this seat placement.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:CPR-seat-placement"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -1830,7 +1837,14 @@ W
 
  diameter.
  Must be able to place and remove the tanks without turning them sideways.
- {PROVIDE-PICTURE}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Portable-oxygen-bottle-storage"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -2213,7 +2227,14 @@ Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT
 \end_inset
 
  from compartment opening, secured with zinc footman loops.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Backboard-compartment"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -2286,7 +2307,14 @@ Provide a 3/4 height external left rearmost compartment (STAIR CHAIR COMPARTMENT
  from the inboard wall, secured with zinc footman loops.
  In the interior-accessible upper portion of this compartment, install adjustabl
 e shelf track and two shelves.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Stairchair-compartment-space"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -2349,7 +2377,14 @@ Reinforce door/hinge of STAIR CHAIR COMPARTMENT.
 
  above bottom of stair chair box sufficient to secure top portion of stair
  chair.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Stairchair-bracket"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -2438,7 +2473,14 @@ Provide a 1/2 height external left compartment immediately behind the MAIN
  immediately below the inverter.
  Install a single heat isolation cage around the area occupied by the inverter,
  airhorn pump, and vacuum pump.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Electric-motor-mounting"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -3171,7 +3213,14 @@ Install auto-eject shoreline inlet, with interrupter, with white cover,
  on driver's side of payload module just forward of forewardmost compartment
  at approximately eye level.
  Install a green LED 110VAC shoreline indicator light just above.
- {PROVIDE-PHOTO}
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Shoreline-inlet-indicator-positioning"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -5479,6 +5528,124 @@ MAY
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+Illustrations
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:CPR-seat-placement"
+
+\end_inset
+
+CPR seat placement
+\end_layout
+
+\begin_layout Subsubsection
+View from right rear interior corner
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Subsubsection
+View from side entry door
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Portable-oxygen-bottle-storage"
+
+\end_inset
+
+Portable oxygen bottle storage
+\end_layout
+
+\begin_layout Subsubsection
+Empty
+\end_layout
+
+\begin_layout Subsubsection
+Stocked
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Backboard-compartment"
+
+\end_inset
+
+Backboard compartment
+\end_layout
+
+\begin_layout Subsubsection
+Empty
+\end_layout
+
+\begin_layout Subsubsection
+Stocked
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Stairchair-compartment-space"
+
+\end_inset
+
+Stairchair compartment space
+\end_layout
+
+\begin_layout Subsubsection
+Empty
+\end_layout
+
+\begin_layout Subsubsection
+Stocked
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Stairchair-bracket"
+
+\end_inset
+
+Stairchair bracket
+\end_layout
+
+\begin_layout Subsubsection
+Empty
+\end_layout
+
+\begin_layout Subsubsection
+Stocked
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Electric-motor-mounting"
+
+\end_inset
+
+Electric motor mounting & cage
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Shoreline-inlet-indicator-positioning"
+
+\end_inset
+
+Shoreline inlet/indicator positioning
 \end_layout
 
 \end_body
