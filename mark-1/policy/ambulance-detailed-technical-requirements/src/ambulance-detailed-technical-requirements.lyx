@@ -5549,11 +5549,27 @@ View from right rear interior corner
 \end_layout
 
 \begin_layout Standard
+\begin_inset Graphics
+	filename cpr-seat-from-rr-interior-corner.jpg
+	width 100text%
+
+\end_inset
+
 
 \end_layout
 
 \begin_layout Subsubsection
 View from side entry door
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cpr-seat-from-side-entry-door.jpg
+	width 100text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -5567,11 +5583,31 @@ Portable oxygen bottle storage
 \end_layout
 
 \begin_layout Subsubsection
-Empty
+Stocked
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename portable-o2-storage-stocked.jpg
+	width 100text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
-Stocked
+Empty
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename portable-o2-storage-empty.jpg
+	width 100text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -5585,11 +5621,21 @@ Backboard compartment
 \end_layout
 
 \begin_layout Subsubsection
-Empty
+Stocked
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename backboard-compartment-stocked.jpg
+	width 80text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
-Stocked
+Empty
 \end_layout
 
 \begin_layout Subsection
@@ -5603,11 +5649,45 @@ Stairchair compartment space
 \end_layout
 
 \begin_layout Subsubsection
-Empty
+Stocked
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename stairchair-compartment-space-stocked.jpg
+	width 80text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
-Stocked
+Empty (overview)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename stairchair-compartment-space-empty.jpg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Empty (detail)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename stairchair-compartment-space-empty-detail.jpg
+	width 80text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -5621,11 +5701,11 @@ Stairchair bracket
 \end_layout
 
 \begin_layout Subsubsection
-Empty
+Stocked
 \end_layout
 
 \begin_layout Subsubsection
-Stocked
+Empty
 \end_layout
 
 \begin_layout Subsection
