@@ -1,0 +1,2320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="GENERATOR" content="LyX 2.0.4" />
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<title>KEMPSVILLE VOLUNTEER RESCUE SQUAD AMBULANCEDETAILED TECHNICAL REQUIREMENTS</title>
+
+<!-- Text Class Preamble -->
+<style type="text/css">
+div.toc {
+margin: 2em 0em;
+border-style: solid;
+border-width: 2px 0px;
+padding: 1em 0em;
+}
+div.tochead { font-size: x-large; font-weight: bold; }
+div.lyxtoc-0 {
+margin: 2em 0em 0em 0em;
+font-size: xx-large;
+font-weight: bold;
+}
+div.lyxtoc-1 {
+margin: 1em 0em 0em 0em;
+font-size: x-large;
+font-weight: bold;
+}
+div.lyxtoc-2 {
+margin: 0em 0em 0em 1em;
+font-size: large;
+font-weight: normal;
+}
+div.lyxtoc-3 { margin: 0em 0em 0em 0.5em; font-size: medium; }
+div.lyxtoc-4 { margin: 0em 0em 0em 0.5em; }
+div.lyxtoc-5 { margin: 0em 0em 0em 0.5em; }
+div.lyxtoc-6 { margin: 0em 0em 0em 0.5em; }
+a.tocentry {
+text-decoration: none;
+color: black;
+}
+a.tocentry:visited { color: black; }
+a.tocarrow {
+font-weight: bold;
+text-decoration: none;
+color: #909090;
+}
+a.tocarrow:visited { color: #C0C0C0; }
+</style>
+
+<!-- Preamble Snippets -->
+<style type="text/css">
+table { border: 1px solid black; display: inline-block; }
+td { border: 1px solid black; padding: 0.5ex; }
+</style>
+
+<!-- Layout-provided Styles -->
+<style type='text/css'>
+div.standard {
+margin-bottom: 2ex;
+}
+h1.title {
+font-size: x-large;
+margin-bottom: 1ex;
+text-align: center;
+
+}
+div.date {
+font-size: large;
+margin-top: 0.9ex;
+margin-bottom: 0.5ex;
+text-align: center;
+
+}
+h2.section {
+font-weight: bold;
+font-size: x-large;
+margin-top: 1.3ex;
+margin-bottom: 0.7ex;
+text-align: left;
+
+}
+blockquote.quote {
+margin-top: 0.5ex;
+margin-bottom: 0.5ex;
+margin-left: 3ex;
+margin-right: 3ex;
+text-align: left;
+
+}
+div.plain_layout {
+text-align: left;
+
+}
+ul.itemize {
+margin-top: 0.7ex;
+margin-bottom: 0.7ex;
+margin-left: 3ex;
+text-align: left;
+
+}
+h3.subsection {
+font-weight: bold;
+font-size: large;
+margin-top: 0.9ex;
+margin-bottom: 0.5ex;
+text-align: left;
+
+}
+h4.subsubsection {
+font-weight: bold;
+font-size: medium;
+margin-top: 0.7ex;
+margin-bottom: 0.4ex;
+text-align: left;
+
+}
+div.Frameless { margin: 1em; }
+</style>
+</head>
+<body>
+<div class="standard"><a id='magicparlabel-7937' />
+</div>
+<h1 class="title"><a id='magicparlabel-7942' />
+KEMPSVILLE VOLUNTEER RESCUE SQUAD
+<br />
+
+&nbsp;
+<br />
+
+AMBULANCE
+<br />
+
+DETAILED TECHNICAL REQUIREMENTS</h1>
+<div class="date"><a id='magicparlabel-7943' />
+$Revision: 4287 $</div>
+<div class="standard"><a id='magicparlabel-7944' />
+</div>
+<div class='toc'><div class='tochead part'>Table of Contents</div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-7945' class='tocentry'>1 Introduction</a> <a href='#magicparlabel-7945' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-7959' class='tocentry'>2 Guiding principles</a> <a href='#magicparlabel-7959' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-7967' class='tocentry'>3 Applicable documents &amp; intentional abstractions</a> <a href='#magicparlabel-7967' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7968' class='tocentry'>3.1 Government requirements</a> <a href='#magicparlabel-7968' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7974' class='tocentry'>3.2 Included documents</a> <a href='#magicparlabel-7974' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7978' class='tocentry'>3.3 Intentional abstractions</a> <a href='#magicparlabel-7978' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-7984' class='tocentry'>4 Documentation conventions</a> <a href='#magicparlabel-7984' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7985' class='tocentry'>4.1 Doors</a> <a href='#magicparlabel-7985' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7987' class='tocentry'>4.2 Relative location terminology</a> <a href='#magicparlabel-7987' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-7989' class='tocentry'>4.3 Budget priorities</a> <a href='#magicparlabel-7989' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-8030' class='tocentry'>5 SPECIFICATIONS</a> <a href='#magicparlabel-8030' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-8031' class='tocentry'>5.1 Safety</a> <a href='#magicparlabel-8031' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-8425' class='tocentry'>5.2 Patient care and operations</a> <a href='#magicparlabel-8425' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9443' class='tocentry'>5.3 Unique identification</a> <a href='#magicparlabel-9443' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9581' class='tocentry'>5.4 Traffic signaling</a> <a href='#magicparlabel-9581' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-1'><a href='#magicparlabel-9879' class='tocentry'>6 Illustrations</a> <a href='#magicparlabel-9879' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9880' class='tocentry'>6.1 CPR seat placement</a> <a href='#magicparlabel-9880' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9881' class='tocentry'>6.1.1 View from right rear interior corner</a> <a href='#magicparlabel-9881' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9883' class='tocentry'>6.1.2 View from side entry door</a> <a href='#magicparlabel-9883' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9885' class='tocentry'>6.2 Portable oxygen bottle storage</a> <a href='#magicparlabel-9885' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9886' class='tocentry'>6.2.1 Stocked</a> <a href='#magicparlabel-9886' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9888' class='tocentry'>6.2.2 Empty</a> <a href='#magicparlabel-9888' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9890' class='tocentry'>6.3 Backboard compartment</a> <a href='#magicparlabel-9890' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9891' class='tocentry'>6.3.1 Stocked</a> <a href='#magicparlabel-9891' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9893' class='tocentry'>6.3.2 Empty</a> <a href='#magicparlabel-9893' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9895' class='tocentry'>6.4 Stairchair compartment space</a> <a href='#magicparlabel-9895' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9896' class='tocentry'>6.4.1 Stocked</a> <a href='#magicparlabel-9896' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9898' class='tocentry'>6.4.2 Empty (overview)</a> <a href='#magicparlabel-9898' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9900' class='tocentry'>6.4.3 Empty (detail)</a> <a href='#magicparlabel-9900' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9902' class='tocentry'>6.5 Stairchair bracket</a> <a href='#magicparlabel-9902' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9903' class='tocentry'>6.5.1 Stocked</a> <a href='#magicparlabel-9903' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9905' class='tocentry'>6.5.2 Empty</a> <a href='#magicparlabel-9905' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9907' class='tocentry'>6.6 Electric motor mounting &amp; cage</a> <a href='#magicparlabel-9907' class='tocarrow'>&gt;</a>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9908' class='tocentry'>6.6.1 Overview</a> <a href='#magicparlabel-9908' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-3'><a href='#magicparlabel-9910' class='tocentry'>6.6.2 Detail</a> <a href='#magicparlabel-9910' class='tocarrow'>&gt;</a></div>
+</div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9912' class='tocentry'>6.7 Exterior access to payload module right front cabinet</a> <a href='#magicparlabel-9912' class='tocarrow'>&gt;</a></div>
+
+<div class='lyxtoc-2'><a href='#magicparlabel-9914' class='tocentry'>6.8 Shoreline inlet/indicator positioning</a> <a href='#magicparlabel-9914' class='tocarrow'>&gt;</a></div>
+</div>
+</div>
+
+<h2 class="section"><span class="section_label">1</span> <a id='magicparlabel-7945' />
+Introduction</h2>
+<div class="standard"><a id='magicparlabel-7946' />
+In so far as the Kempsville Volunteer Rescue Squad (KVRS) owns or desires one or more ambulances, there exists a KVRS position derived from the KVRS bylaws called the Ambulance Procurement &amp; Disposition Coordinator (hereafter, &ldquo;the Coordinator&rdquo;). Per the bylaws, The Coordinator is, among other things, required to:</div>
+
+<blockquote class="quote"><div class="quote_item"><a id='magicparlabel-7947' />
+<div class='Frameless'><div class="plain_layout"><a id='magicparlabel-7951' />
+Develop Detailed Technical Requirements (DTRs) by compiling, at a minimum, the following:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-7952' />
+Federal, state, and local requirements for such apparatus, as provided by the Captain</li>
+<li class="itemize_item"><a id='magicparlabel-7953' />
+Budget requirements provided by the President</li>
+<li class="itemize_item"><a id='magicparlabel-7954' />
+Official Vehicle Uniform requirements adopted by the membership in accordance with the Logos And Uniforms Article in these bylaws</li>
+<li class="itemize_item"><a id='magicparlabel-7955' />
+Special configurations and options, to the extent permitted by the budget</li>
+</ul>
+</div></div>
+</blockquote>
+<div class="standard"><a id='magicparlabel-7956' />
+This document, along with the documents it references, helps to fulfill those requirements.</div>
+
+<div class="standard"><a id='magicparlabel-7957' />
+This document should be sufficiently detailed to specify, in a vendor-independent manner, an ambulance that reproduces, to the extent possible, what KVRS has owned in the past, plus or minus any changes KVRS desires.</div>
+
+<div class="standard"><a id='magicparlabel-7958' />
+Be mindful that items provided as standard equipment on KVRS's Wheeled Coach ambulances purchased between 2008 and 2012 may be assumed in this document to be provided as standard equipment from other vendors. For instance, power door locks and windows in the cab are not enumerated as requirement items because they are now assumed to be standard.</div>
+<h2 class="section"><span class="section_label">2</span> <a id='magicparlabel-7959' />
+Guiding principles</h2>
+<div class="standard"><a id='magicparlabel-7960' />
+These requirements are derived from the following value system:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-7961' />
+We value meeting all legal requirements.</li>
+<li class="itemize_item"><a id='magicparlabel-7962' />
+We value keeping everyone safe, including crew members, patients, and others.</li>
+<li class="itemize_item"><a id='magicparlabel-7963' />
+We value optimizing patient care and operations.</li>
+<li class="itemize_item"><a id='magicparlabel-7964' />
+We value uniquely identifying ourselves and our units to incident commanders and to the public.</li>
+<li class="itemize_item"><a id='magicparlabel-7965' />
+We value signaling our traffic intentions to other drivers.</li>
+<li class="itemize_item"><a id='magicparlabel-7966' />
+We value fiscal responsibility.</li>
+</ul>
+<h2 class="section"><span class="section_label">3</span> <a id='magicparlabel-7967' />
+Applicable documents &amp; intentional abstractions</h2>
+<h3 class="subsection"><span class="subsection_label">3.1</span> <a id='magicparlabel-7968' />
+Government requirements</h3>
+<div class="standard"><a id='magicparlabel-7969' />
+The following standards and regulations form a part of this specification, to the extent specified or required by law. Unless a specific issue of a standard or regulation is identified, the issue in effect, on the date the ambulance is contracted for, shall apply:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-7970' />
+<a href="http://apps.fss.gsa.gov/vehiclestandards/">Federal Specification for the Star-of-Life Ambulance, KKK-A-1822, U.S. General Services Administration</a></li>
+<li class="itemize_item"><a id='magicparlabel-7971' />
+<a href="http://leg1.state.va.us/000/reg/TOC12005.HTM#C0031">Virginia Emergency Medical Services Regulations (12 VAC 5-31)</a></li>
+<li class="itemize_item"><a id='magicparlabel-7972' />
+<a href="http://www.vbems.com/deputychief/documents/Policies_PDF/203.03.01.Medical_Equipment_Policy.pdf">City of Virginia Beach Department of EMS Medical Equipment And Supplies Policy</a></li>
+</ul>
+<div class="standard"><a id='magicparlabel-7973' />
+In the event of a conflict between the text of this specification and the references cited above, the text of this specification shall take precedence to the extent feasible.</div>
+<h3 class="subsection"><span class="subsection_label">3.2</span> <a id='magicparlabel-7974' />
+Included documents</h3>
+<div class="standard"><a id='magicparlabel-7975' />
+The standards and requirements contained in the latest version of the following documents are hereby included by reference:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-7976' />
+<a href="http://kvrs.org/mark-1/policy/KVRS%20Ambulance%20Graphics%20Package.pdf">KVRS Ambulance Graphics Package</a></li>
+<li class="itemize_item"><a id='magicparlabel-7977' />
+Letters issued to establish official markups to the <em>KVRS Ambulance Graphics Package</em> not yet incorporated into the package itself</li>
+</ul>
+<h3 class="subsection"><span class="subsection_label">3.3</span> <a id='magicparlabel-7978' />
+Intentional abstractions</h3>
+<div class="standard"><a id='magicparlabel-7979' />
+This document intentionally does not, nor should it be modified to, directly contain any specification of:</div>
+
+<ul class="itemize"><li class="itemize_item"><a id='magicparlabel-7980' />
+make, model, or class of chassis</li>
+<li class="itemize_item"><a id='magicparlabel-7981' />
+items that depend upon chassis selection or configuration (such as walkthrough doors for Type III's or accordion bellows tube for Type I's)</li>
+<li class="itemize_item"><a id='magicparlabel-7982' />
+dominant colors or squad-specific graphic elements</li>
+</ul>
+<div class="standard"><a id='magicparlabel-7983' />
+The specifications in this document should be equally applicable regardless of the squad's choice of these items for a particular purchase order. Rather, the above kinds of specifications should be deferred to subordinate documents or purchase order line items.</div>
+<h2 class="section"><span class="section_label">4</span> <a id='magicparlabel-7984' />
+Documentation conventions</h2>
+<h3 class="subsection"><span class="subsection_label">4.1</span> <a id='magicparlabel-7985' />
+Doors</h3>
+<div class="standard"><a id='magicparlabel-7986' />
+When referring to doors in the payload module, the term entry door is used to describe doors intended for ingress/egress of personnel.</div>
+<h3 class="subsection"><span class="subsection_label">4.2</span> <a id='magicparlabel-7987' />
+Relative location terminology</h3>
+<div class="standard"><a id='magicparlabel-7988' />
+When referring to locations within a compartment, the terms left and right shall mean from the perspective of a person who is facing directly into that compartment. The terms inboard and outboard shall mean toward or away, respectively, from a line running through the center of the vehicle from its front bumper to its rear bumper.</div>
+<h3 class="subsection"><span class="subsection_label">4.3</span> <a id='magicparlabel-7989' />
+Budget priorities</h3>
+<div class="standard"><a id='magicparlabel-7990' />
+The budget priority column contains values to serve as a guideline when it is not financially feasible to implement this entire set of specifications. In particular:</div>
+
+<div class="standard"><a id='magicparlabel-7991' />
+
+
+
+<table><tbody><tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8008' />
+This indication...</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8011' />
+...means the specification is deemed to be...</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8014' />
+MAY</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8017' />
+not important enough to implement <em>if the squad's other funding priorities have not been met</em></div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8020' />
+SHOULD</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8023' />
+important enough to implement if the ambulance procurement budget allows</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8026' />
+MUST</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8029' />
+so important that it would be better to secure additional funding than to not implement the specification</div>
+</td>
+</tr></tbody>
+</table>
+</div>
+<h2 class="section"><span class="section_label">5</span> <a id='magicparlabel-8030' />
+SPECIFICATIONS</h2>
+<h3 class="subsection"><span class="subsection_label">5.1</span> <a id='magicparlabel-8031' />
+Safety</h3>
+<div class="standard"><a id='magicparlabel-8032' />
+
+
+
+
+<div class='longtable' style='text-align: center;'><table><thead><tr><th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8139' />
+#</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8142' />
+Description</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8145' />
+Rationale</div>
+</th>
+
+<th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8148' />
+Budget priority</div>
+</th>
+</tr></thead>
+
+
+<tbody><tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8151' />
+5.1.1</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8154' />
+Install exterior side mirrors that are remotely adjustable from the driver's position.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8157' />
+To optimize visibility adjustments, even when driver-only.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8160' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8163' />
+5.1.2</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8166' />
+Install heatable exterior side mirrors.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8169' />
+To improve cold weather visibility.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8172' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8175' />
+5.1.3</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8178' />
+Install the most durable valve stems available.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8181' />
+Tire pressure failure attributable to failure of the valve stem has been identified as not uncommon.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8184' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8187' />
+5.1.4</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8190' />
+Install most durable available rear entry door hold-open systems at tops of rear entry doors such that doors will open as far as possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8193' />
+To prevent rear doors from swinging in stiff winds and from interfering with patient loading/unloading. To prevent premature wear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8196' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8199' />
+5.1.5</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8202' />
+Install brushed aluminum panels on interior of all payload module entry doors.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8205' />
+Allows application of reflective chevrons.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8208' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8211' />
+5.1.6</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8214' />
+Install backup alarm <strong>without</strong> a cutoff switch.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8217' />
+Prevents crew from defeating safety mechanism.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8220' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8223' />
+5.1.7</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8226' />
+Provide for both rear load lights and the rearmost side scene lights to activate when transmission is in &ldquo;Reverse&rdquo;.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8229' />
+Increases backing illumination.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8232' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8235' />
+5.1.8</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8238' />
+Install two white scene lights on each side of payload module.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8241' />
+Increases scene and backing illumination.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8244' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8247' />
+5.1.9</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8250' />
+Install two white rear load lights.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8253' />
+Increases scene and backing illumination.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8256' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8259' />
+5.1.10</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8262' />
+Provide for both curb-side scene lights to activate when side payload module entry door is open.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8265' />
+Improves visibility when exiting from side of payload module.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8268' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8271' />
+5.1.11</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8274' />
+Provide for rear load lights to activate when rear entry door is open.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8277' />
+Improves visibility when exiting from rear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8280' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8283' />
+5.1.12</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8286' />
+Install stepwell lighting in stepwell.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8289' />
+Improves ability to navigate steps in dark.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8292' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8295' />
+5.1.13</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8298' />
+If mounting stretcher unload hook (desired), mount rear enough to allow stretcher wheels to extend past flipped-up rear bumper without interference, and mount so as to prevent stretcher from missing unload hook under all conceivable unload situations. Use hook intended for stretcher specified by squad.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8301' />
+Stretcher must never be allowed to miss the unload hook. The appropriate hook must be used.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8304' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8307' />
+5.1.14</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8310' />
+If mounting stretcher unload hook (desired), use a &ldquo;through-bolting&rdquo; system to anchor unload hook.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8313' />
+Unload hook must be anchored as strongly as possible.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8316' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8319' />
+5.1.15</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8322' />
+Install Squad Saver Net, 2&rdquo; straps, black, at head of squad bench, attached with removable latches to floor, curb-side wall, and overhead liner.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8325' />
+Greater surface area than squad saver arm rest; and more likely to work when standard vehicle attitude is upset.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8328' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8331' />
+5.1.16</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8334' />
+Provide &ldquo;airway seat&rdquo; with integral seat belt and integral child seat. Install so front edge of seat is 99&rdquo; from closed rear doors when seat is moved all the way toward the cot.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8337' />
+Assures seat belt will work as engineered. Provides another option for transporting small children. Assures seat will be usable for airway management.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8340' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8343' />
+5.1.17</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8346' />
+Use seamless upholstery in the payload module wherever possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8349' />
+Reduces chances of contaminants surviving decon efforts.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8352' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8355' />
+5.1.18</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8358' />
+In interior over rear doors, install brake/turn indicators slaved to driver's controls, instead of clock.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8361' />
+Provides payload module occupants some warning of driver intent.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8364' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8367' />
+5.1.19</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8370' />
+Install chevrons above and to both sides of the rear doors. The stripes should alternate between the squad's dominant color and reflective white.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8373' />
+Provides visual warning to the rear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8376' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8379' />
+5.1.20</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8382' />
+Install chevrons on the lower half of each rear entry door, and on the lower half of the payload module side entry door.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8385' />
+Provides visual warning to the rear when the doors are open.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8388' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8391' />
+5.1.21</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8394' />
+Install a 12&rdquo; high 36&rdquo; wide window in the payload module curb-side wall over the squad bench.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8397' />
+Provides better visibility of scene to curb-side.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8400' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8403' />
+5.1.22</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8406' />
+Provide a Federal PA300 siren.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8409' />
+Extremely simple and intuitive interface. All operations can be performed by touch. Minimizes need to look away from the road.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8412' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8415' />
+5.1.23</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8418' />
+Install siren so that horn ring changes siren tones.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8421' />
+Allows driver to keep eyes on the road and both hands on the steering wheel.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8424' />
+MUST</div>
+</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+<h3 class="subsection"><span class="subsection_label">5.2</span> <a id='magicparlabel-8425' />
+Patient care and operations</h3>
+<div class="standard"><a id='magicparlabel-8426' />
+
+
+
+
+<div class='longtable' style='text-align: center;'><table><thead><tr><th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8689' />
+#</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8692' />
+Description</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8695' />
+Rationale</div>
+</th>
+
+<th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8698' />
+Budget priority</div>
+</th>
+</tr></thead>
+
+
+<tbody><tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8701' />
+5.2.1</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8704' />
+Provide a payload module at least 170&rdquo; long.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8707' />
+This is the minimum size adequate to carry the gear that we are accustomed to carrying. A length that also allows designated areas for carrying crew personal items, including but not limited to turnout gear, is desireable.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8710' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8713' />
+5.2.2</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8716' />
+Install an additional alternator, if a factory option.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8719' />
+The electrical system must be capable of simultaneously powering all typically attached electrical components, with enough reserve to handle at least some atypically attached electrical components.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8722' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8725' />
+5.2.3</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8728' />
+Delete any air microfiltration system if it takes up otherwise useful space.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8731' />
+We are not satisified that the effectiveness of these systems has been proven to the extent that it prevents disease transmission or hazmat exposure. We do not have an effective program in place for replacing microfilters on schedule, hence these systems go to waste.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8734' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8737' />
+5.2.4</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8740' />
+Install air conditioner for the payload module of the highest capacity and highest Mean Time To Failure (MTTF) available.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8743' />
+Inadequacy and failure rates of air conditioning in the payload module have been frequent irritants.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8746' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8749' />
+5.2.5</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8752' />
+Install &ldquo;CPR seat&rdquo; so that it will be adjacent to patient's <strong>pelvis/thigh area</strong> (not adjacent to a supine patient's chest). Delete rearward cabinets and/or rearward telemetry area, and extend action area to account for this seat placement. (See illustration section <a href="#sub_CPR_seat_placement">6.1</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8755' />
+No one sits down when doing CPR. Seat needs to be placed to optimize attendant position for starting an IV on patient's right hand/arm. Without moving the seat to this position, the seat is so far forward that the attendant is almost sitting behind the typical patient's field of vision.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8758' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8761' />
+5.2.6</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8764' />
+Under &ldquo;CPR seat&rdquo; lid, provide sufficient storage for 3 &ldquo;D&rdquo; size oxygen tanks. Install a &ldquo;W&rdquo; trough at the bottom of the compartment. Install two quick release straps, to secure the tanks at the 1/4 and 3/4 tank length positions. Tanks are 21&rdquo; long/high x 4.5&rdquo; diameter. Must be able to place and remove the tanks without turning them sideways. (See illustration section <a href="#sub_Portable_oxygen_bottle_storage">6.2</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8767' />
+Allows for safe interior storage of additional portable oxygen.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8770' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8773' />
+5.2.7</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8776' />
+Install additional &ldquo;severe weather&rdquo; in-wall insulation, if offered.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8779' />
+Assists with temperature control and sound dampening.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8782' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8785' />
+5.2.8</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8788' />
+Provide an extended cab (but not a crew cab), if available on chassis.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8791' />
+Allows room for radio shop to mount radio/router equipment. May allow designated area for carrying crew personal items, including but not limited to turnout gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8794' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8797' />
+5.2.9</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8800' />
+Provide a 3&rdquo; drop skirt at outer edges of payload module forward of rear wheel.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8803' />
+Provides easier ingress &amp; egress. Rampover angle is not a major concern in our district.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8806' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8809' />
+5.2.10</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8812' />
+Provide a double step at side payload module entrance, each step equal height.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8815' />
+Provides easier ingress &amp; egress.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8818' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8821' />
+5.2.11</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8824' />
+Extend bottoms of compartments within drop-skirt area to bottom of drop-skirt.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8827' />
+Provides more room for gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8830' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8833' />
+5.2.12</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8836' />
+Provide sweep-out compartment bottoms where feasible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8839' />
+Easier to clean.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8842' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8845' />
+5.2.13</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8848' />
+Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right front cabinet that reaches ceiling level and that is dimensioned to hold at least one TEMS IV Box and one TEMS Drug Box, lockable with a standard padlock. Assume both TEMS boxes are 19&rdquo; deep 10.75&rdquo; high 11.5&rdquo; wide. This compartment is only to be accessible from the interior.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8851' />
+City requirement: &ldquo;All IV and drug boxes will be stored in locked compartments or brackets when not in use. Compartment design must be approved by the Department and the Virginia Department of Health Office of EMS. A standard lock shall be used for all rescue squad, Department of EMS, and Fire Department operated vehicles.&rdquo;</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8854' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8857' />
+5.2.14</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8860' />
+Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT). In this compartment, install a 3/16&rdquo; thich 14&rdquo; deep vertical divider 8.25&rdquo; from right wall. Install a shelf forward of aforementioned vertical divider halfway between ceiling and floor, mounted on 20&rdquo; of adjustable shelf track (10&rdquo; of track above and below shelf). Install a seat belt across entire compartment opening, 30&rdquo; down from ceiling, 2&rdquo; from compartment opening, secured with zinc footman loops. (See illustration section <a href="#sub_Backboard_compartment">6.3</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8863' />
+Allows orderly stowage of backboards and scoop stretcher, velcro splint pack, and C-collar pack. Strap helps prevent gear from falling onto personnel.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8866' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8869' />
+5.2.15</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8872' />
+Provide a 3/4 height external left rearmost compartment (STAIR CHAIR COMPARTMENT). Approximately 40&rdquo; from floor, make this compartment accessible from interior as well. In the lower approximately 40&rdquo; of this compartment, install two adjustable 3/16&rdquo; thick 40&rdquo; tall 7.5&rdquo; deep vertical dividers on shelf track mounted to and running the width of the inboard wall, to divide the inboard section of the compartment into thirds. Install a seat belt on the left and right walls, 8&rdquo; from the inboard wall, secured with zinc footman loops. In the interior-accessible upper portion of this compartment, install adjustable shelf track and two shelves. (See illustration section <a href="#sub_Stairchair_compartment_space">6.4</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8875' />
+Allows orderly stowage of traction splints and KEDs, and interior/exterior access to other items. Seat belts help prevent gear from falling into personnel.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8878' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8881' />
+5.2.16</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8884' />
+Reinforce door/hinge of STAIR CHAIR COMPARTMENT. On interior of this door, near the bottom, mount a box sufficient to carry a 37.5&rdquo; high 20.5&rdquo; wide 8&rdquo; deep heavy duty (Stryker 6252) stair chair. Reinforce the box with additional screws or rivets. Install a horizontal seat belt, secured with zinc footman loops, approximately 30&rdquo; above bottom of stair chair box sufficient to secure top portion of stair chair. (See illustration section <a href="#sub_Stairchair_bracket">6.5</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8887' />
+Allows orderly stowage of stair chair and uses door rather than muscle to shift stair chair away from compartment interior.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8890' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8893' />
+5.2.17</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8896' />
+Provide a 3/4 height external left forwardmost compartment (MAIN OXYGEN COMPARTMENT). The upper portion of this compartment must be accessible via a lexan door to the interior action area.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8899' />
+To carry main oxygen and portable lantern. Provides interior access to main O2 valve.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8902' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8905' />
+5.2.18</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8908' />
+Provide a 1/2 height external left compartment immediately behind the MAIN OXYGEN COMPARTMENT. In this compartment, mount inverter on ceiling, close to forward wall. Install a fixed shelf sufficiently below the inverter to allow the following: Mount airhorn pump and vacuum pumps to the fixed shelf so they will sit immediately below the inverter. Install a single heat isolation cage around the area occupied by the inverter, airhorn pump, and vacuum pump. (See illustration section <a href="#sub_Electric_motor_mounting">6.6</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8911' />
+Allows space-efficient mounting of inverter, airhorn pump, and vacuum pump.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8914' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8917' />
+5.2.19</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8920' />
+Apply privacy tinting to all payload module windows.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8923' />
+Patient privacy and climate control.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8926' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8929' />
+5.2.20</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8932' />
+Install a grab bar inside the side payload module entry.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8935' />
+To allow a person to steady self using left hand while entering payload module.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8938' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8941' />
+5.2.21</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8944' />
+Install an exterior stealth failsafe switch in passenger side grill to unlock payload module doors.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8947' />
+To prevent lock-outs.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8950' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8953' />
+5.2.22</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8956' />
+Provide gas strut hold-open for side payload module door.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8959' />
+We've been dissatisfied with spring hold-opens.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8962' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8965' />
+5.2.23</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8968' />
+Provide for compartment doors to open 135 degrees <strong>unless</strong> doing so allows compartment door to impact travel of another door at any point.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8971' />
+Allows easier access to gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8974' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8977' />
+5.2.24</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8980' />
+Upgrade incandescent lighting to LED wherever possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8983' />
+Reduces electrical load and burn-outs.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8986' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8989' />
+5.2.25</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8992' />
+Provide for payload module main power bus to be slaved to OEM ignition switch.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-8995' />
+Allows more intuitive control of payload module power.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-8998' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9001' />
+5.2.26</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9004' />
+Provide 5 minutes of electrical power to payload module (but not to payload module air conditioner blower) when ignition is switched off. Provide dual-action momentary rocker switch on driver's side of cab console to (a) force timer to expire, and (b) reactivate timer.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9007' />
+Prevents sudden darkness from interfering with patient care and egress. Allows driver to conserve battery when timer is not needed. Allows driver to recover from inadvertent interference with timer function.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9010' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9013' />
+5.2.27</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9016' />
+Install one extra 12V automotive battery, wired in parallel, in payload module battery compartment.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9019' />
+Reduces electrical failures.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9022' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9025' />
+5.2.28</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9028' />
+Provide 5 antenna ports in payload module roof. {CONFIRM}</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9031' />
+For standard complement of radios &amp; MDT equipment.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9034' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9037' />
+5.2.29</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9040' />
+Provide 5 RG58/U coax cables with 6 ft pigtails. Run cables from roof ports 1 and 2 to cab console. Run cables from roof ports 3, 4, and 5 to payload module action area. {CONFIRM}</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9043' />
+For standard complement of radios &amp; MDT equipment.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9046' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9049' />
+5.2.30</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9052' />
+Provide a door for exterior access to the non-lockable portion of the payload module's right front cabinet. (See illustration section <a href="#sub_Exterior_access_to_pm_rf_cabinet">6.7</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9055' />
+For efficient outside access to portable equipment.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9058' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9061' />
+5.2.31</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9064' />
+Provide 2 cigar lighter outlets, on 20 amp circuit, energized by ignition &amp; shoreline, in payload module as follows: One on wall in action area adjacent to &ldquo;airway seat&rdquo;, the other on wall in extended action area just forward of &ldquo;CPR seat&rdquo;.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9067' />
+To power squad and personal gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9070' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9073' />
+5.2.32</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9076' />
+Provide a cigar lighter outlet, on 20 AMP circuit, energized by ignition &amp; shoreline, in payload module as follows: In right front cabinet, in the uppermost portion that is accessible from the interior <strong>and</strong> the exterior.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9079' />
+To charge portable gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9082' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9085' />
+5.2.33</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9088' />
+Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit w/6 ft pigtail, terminating behind the action area wall.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9091' />
+To power gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9094' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9097' />
+5.2.34</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9100' />
+Provide a 12VDC 15 amp power source (hot and ground) on battery circuit w/6 ft pigtail, terminating in the front cab console.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9103' />
+To power gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9106' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9109' />
+5.2.35</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9112' />
+Provide a 12VDC 30 amp power source (hot and ground) on battery circuit w/6 ft pigtail, terminating behind the passenger seat.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9115' />
+To power gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9118' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9121' />
+5.2.36</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9124' />
+Install auto-eject shoreline inlet, with interrupter, with white cover, on driver's side of payload module just forward of forewardmost compartment at approximately eye level. Install a green LED 110VAC shoreline indicator light just above. (See illustration section <a href="#sub_Shoreline_inlet_indicator_positioning">6.8</a>.)</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9127' />
+To make the shoreline easily accessible to the driver as driver gets in/out of driver's seat, and to indicate whether circuit is successfully energized. Interrupter prevents sparking if under load when ejected.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9130' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9133' />
+5.2.37</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9136' />
+Provide 2 dual-socket 110VAC outlets in payload module as follows: One on wall in action area adjacent to &ldquo;airway seat&rdquo;, the other on wall in extended action area just forward of &ldquo;CPR seat&rdquo;.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9139' />
+To power gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9142' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9145' />
+5.2.38</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9148' />
+Provide a dual-socket 110VAC outlet in payload module as follows: In right front cabinet, in the uppermost portion that is accessible from the interior <strong>and</strong> the exterior.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9151' />
+To power gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9154' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9157' />
+5.2.39</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9160' />
+Rig inverter to be &ldquo;always on&rdquo;. Delete action area inverter switch.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9163' />
+Required by our standard complement of I.T. gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9166' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9169' />
+5.2.40</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9172' />
+Install engine block heater, with switch behind driver's seat, wired to shoreline.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9175' />
+Extends engine life.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9178' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9181' />
+5.2.41</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9184' />
+Use 1050W inverter/charger to power all 110VAC receptacles, &ldquo;charger 20 amp automatic w/integral cut off&rdquo;.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9187' />
+To power and charge gear appropriately.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9190' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9193' />
+5.2.42</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9196' />
+Provide &ldquo;Miami-Dade&rdquo; front cab console (or similar).</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9199' />
+Has room for our standard complement of radio heads. Allows orderly stowage of more gear. Has cup-holders.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9202' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9205' />
+5.2.43</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9208' />
+Replace OEM cab domelight with domelight that can be switched to either white or red, wired to ignition, with switches on dome light itself.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9211' />
+Allows interior lighting with less impact on driver vision, and intuitive activation.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9214' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9217' />
+5.2.44</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9220' />
+If using CoolBar or equivalent with angled faces, install additional white scene light on lower half of each angled face, to come on with same-side standard scene lights.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9223' />
+Extends scene lighting to area more forward than standard.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9226' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9229' />
+5.2.45</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9232' />
+On payload module interior ceiling, install white lights, with appropriate switches in action area, as follows: 4 dual-intensity on curb side; 3 dual-intensity on street side; 3 flourescent recessed approximately on center line.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9235' />
+Increases illumination options for patient care.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9238' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9241' />
+5.2.46</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9244' />
+Install a 5&rdquo; (or so) light under cabinetry to illuminate action area only, with integral switch.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9247' />
+Allows limited lighting for attendant without necessarily lighting patient.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9250' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9253' />
+5.2.47</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9256' />
+Install 400,000 or greater candlepower spotlight in front cab, wired from passenger side.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9259' />
+Encourages use by passenger rather than driver. If not stowed properly, cord will not foul driver's pedal area.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9262' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9265' />
+5.2.48</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9268' />
+Install 15-minute timer switch on battery circuit on curb-side wall at front of squad bench, to allow activation &amp; deactivation of interior overhead flourescent lights only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9271' />
+To better control lighting.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9274' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9277' />
+5.2.49</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9280' />
+Install small light in circuit board compartment, with integral switch, on constant hot circuit.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9283' />
+To assist with electrical troubleshooting.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9286' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9289' />
+5.2.50</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9292' />
+Install aproximately full-length overhead grab rail in payload module.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9295' />
+To assist with steadying personnel.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9298' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9301' />
+5.2.51</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9304' />
+Install high-durability grab rails on payload module door interiors.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9307' />
+To assist with entering/exiting payload module.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9310' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9313' />
+5.2.52</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9316' />
+Install rack for M or H oxygen cylinder in MAIN OXYGEN COMPARTMENT, on right wall as close to inboard wall as possible, allowing hand access to 3 ratchet-style straps.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9319' />
+Our oxygen replenishment system negates need to remove/replace oxygen cylinders.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9322' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9325' />
+5.2.53</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9328' />
+Install Ohio-style oxygen/suction ports as follows: 2 O2 outlets and 1 vacuum port in action area; 1 O2 outlet on curb-side wall at head of squad bench.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9331' />
+Provides for airway &amp; oxygenation of high acuity patient on cot, while also providing for oxygenation of lower acuity patient on squad bench.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9334' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9337' />
+5.2.54</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9340' />
+Install Stryker 6377 cot mounts in the center position only, not in the street-side wall position. Install forward fastener 87-1/4&rdquo; from closed rear doors, measured to center of the most forward cot plate bolt.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9343' />
+We never use the other position.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9346' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9349' />
+5.2.55</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9352' />
+Provide IV hooks <strong>only</strong> as follows: Perko style or equivalent, just below ceiling; w/velcro straps positioned to prevent IV bags from swinging; 1 on curb-side at front of squad bench; 1 on curb-side roughly midway down squad bench; 1 on street side just forward of &ldquo;CPR seat&rdquo;; 1 on street side just rear of &ldquo;CPR seat&rdquo;.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9355' />
+Unobtrusive, convenient, and proximity to walls helps prevent swinging even if straps aren't utilized.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9358' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9361' />
+5.2.56</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9364' />
+Install tethered oxygen wrench in MAIN OXYGEN COMPARTMENT.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9367' />
+</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9370' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9373' />
+5.2.57</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9376' />
+Use lexan interior compartment doors to the extent possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9379' />
+Allows attendants to see contents of compartment without having to open compartment.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9382' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9385' />
+5.2.58</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9388' />
+In payload module right front cabinet, if any interior compartment doors open to the side, make sure the handle is on the left and the hinge is on the right.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9391' />
+Experience shows that access is hindered if doors open in other direction.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9394' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9397' />
+5.2.59</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9400' />
+Provide a squad bench with a split 50/50 lid.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9403' />
+Allows access to gear under lid(s) even if gear or people are occupying one lid and can not be easily moved.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9406' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9409' />
+5.2.60</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9412' />
+Provide gas strut (at least 30 LB capacity) hold-opens for squad bench lids.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9415' />
+Prevents lids from inadvertently falling and scraping/pinching personnel.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9418' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9421' />
+5.2.61</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9424' />
+Use rivets to secure front &amp; rear kickplates/stoneguards to body.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9427' />
+Our experience is that screws tend to back out.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9430' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9433' />
+5.2.62</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9436' />
+Install dri-deck, turtletile, or equivalent, at bottom of all exterior compartments and shelves.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9439' />
+Allows rain to drip below gear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9442' />
+SHOULD</div>
+</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+<h3 class="subsection"><span class="subsection_label">5.3</span> <a id='magicparlabel-9443' />
+Unique identification</h3>
+<div class="standard"><a id='magicparlabel-9444' />
+
+
+
+
+<div class='longtable' style='text-align: center;'><table><thead><tr><th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9487' />
+#</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9490' />
+Description</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9493' />
+Rationale</div>
+</th>
+
+<th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9496' />
+Budget priority</div>
+</th>
+</tr></thead>
+
+
+<tbody><tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9499' />
+5.3.1</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9502' />
+Place the ambulance's &ldquo;unit number&rdquo; as high as feasible in the following locations on the exterior payload module bulkheads: Driver's side facing forward; as far forward as feasible facing left; as far forward as feasible facing right; driver's side facing the rear. Use dark numbers on a white background.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9505' />
+Allows incident commander to identify unit from any direction. High contrast aids visibility.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9508' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9511' />
+5.3.2</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9514' />
+Place the ambulance's &ldquo;unit number&rdquo; as high as possible on the interior of the driver's side rear entry door. Use dark numbers on a white background.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9517' />
+Allows incident commander to identify unit from the rear even when rear entry door blocks view of the rear exterior unit number. Also reminds attendants in the payload module what unit they are in.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9520' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9523' />
+5.3.3</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9526' />
+Place the ambulance's &ldquo;unit number&rdquo; in large characters on the roof. Use retro-reflective vinyl.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9529' />
+Allows responders at high altitudes (such as from hi-rises or aircraft) to identify the unit. Retro-reflectivity enhances visibility.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9532' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9535' />
+5.3.4</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9538' />
+Apply a large version of the squad's logo (simplified as appropriate) on the roof of ambulance, instead of a Star Of Life. Use retro-reflective vinyl.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9541' />
+Allows observers at high altitudes (such as from hi-rises, traffic cameras, or aircraft) to associate the ambulance with the logo it uses in its public relations material. Retro-reflectivity enhances visibility.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9544' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9547' />
+5.3.5</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9550' />
+Coat rear bumper supports to prevent corrosion.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9553' />
+Prevents outward appearance of deterioration.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9556' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9559' />
+5.3.6</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9562' />
+Provide ambulance with all-white paint. Do not provide a paint belt or pinstriping.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9565' />
+Prevents color mismatches between any graphic elements applied later.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9568' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9571' />
+5.3.7</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9574' />
+Do not apply Star Of Life to roof. Instead, deliver Star Of Life decal unapplied.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9577' />
+Allows application of squad logo instead. Allows us to use Star Of Life for other purposes.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9580' />
+SHOULD</div>
+</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+<h3 class="subsection"><span class="subsection_label">5.4</span> <a id='magicparlabel-9581' />
+Traffic signaling</h3>
+<div class="standard"><a id='magicparlabel-9582' />
+
+
+
+
+<div class='longtable' style='text-align: center;'><table><thead><tr><th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9665' />
+#</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9668' />
+Description</div>
+</th>
+
+<th align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9671' />
+Rationale</div>
+</th>
+
+<th align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9674' />
+Budget priority</div>
+</th>
+</tr></thead>
+
+
+<tbody><tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9677' />
+5.4.1</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9680' />
+Install LED OptiCom (w/infrared filter if available) as high and centered as is feasible. If dimensions allow, install it flush with front bulkhead (or CoolBar) behind clear lens. Wire OptiCom to transmission &ldquo;Drive&rdquo; gear only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9683' />
+To control traffic signals. Infrared filter prevents other drivers from getting confused when OptiCom is used during routine transports. Flush mounting improves aesthetics. OptiCom should not be on when unit is not in Drive.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9686' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9689' />
+5.4.2</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9692' />
+Provide ambulance warning light sequencer &amp; load manager system, with switches on console.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9695' />
+Manages load on electrical system.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9698' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9701' />
+5.4.3</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9704' />
+Wire siren to be sequencer-hot only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9707' />
+Prevents operation of siren without warning lights.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9710' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9713' />
+5.4.4</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9716' />
+Provide airhorns.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9719' />
+For better warning to other drivers in sound-insulated vehicles.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9722' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9725' />
+5.4.5</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9728' />
+Install airhorn activation valve w/lanyard, located in center of headliner.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9731' />
+Makes activating airhorn more intuitive.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9734' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9737' />
+5.4.6</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9740' />
+Install 2 red ambulance warning lights on rear to be visible through windows when rear doors are opened, to be activated in &ldquo;primary&rdquo; mode only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9743' />
+Provides additional signaling protection to rear, not masked by open doors.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9746' />
+SHOULD</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9749' />
+5.4.7</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9752' />
+Install 2 red ambulance warning lights inboard of mandated corner red lights at top front of payload module, to be activated in &ldquo;primary&rdquo; mode only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9755' />
+Provides additional signaling to clear traffic ahead.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9758' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9761' />
+5.4.8</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9764' />
+Install an amber ambulance warning light at top center rear, to alternate with mandated corner red lights, to be activated in &ldquo;primary&rdquo; mode only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9767' />
+Provides additional signaling protection to rear.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9770' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9773' />
+5.4.9</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9776' />
+Install a red ambulance warning light above and forward of each front wheel as front intersection lights, to be activated in &ldquo;primary&rdquo; and &ldquo;secondary&rdquo; modes.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9779' />
+Provides forward signaling to crossing traffic as nose enters lane, and to adjacent-lane traffic. Should never be defeatable due to high risk exposure when entering crossing lane.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9782' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9785' />
+5.4.10</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9788' />
+Install 2 red ambulance warning lights as grill lights, to be activated in &ldquo;primary&rdquo; and &ldquo;secondary&rdquo; modes.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9791' />
+Provides forward signaling to clear traffic immediately ahead (that may not have visibility to higher lights).</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9794' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9797' />
+5.4.11</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9800' />
+If using CoolBar or equivalent with angled faces, install additional red ambulance warning light on upper half of each angled face, to be activated in &ldquo;primary&rdquo; mode only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9803' />
+Provides additional signaling to front and sides.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9806' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9809' />
+5.4.12</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9812' />
+Install a red ambulance warning light just over each rear wheel, to be activated in &ldquo;primary&rdquo; mode only.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9815' />
+Provides additional signaling to crossing and adjacent-lane traffic.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9818' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9821' />
+5.4.13</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9824' />
+Install &ldquo;wig-wag&rdquo; headlight flasher system, to activate in accordance with VA state law.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9827' />
+Provides additional signaling to clear traffic ahead.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9830' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9833' />
+5.4.14</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9836' />
+Install additional amber arrow turn signals, one each under front mandated corner red lights, slaved to OEM turn signals.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9839' />
+Provides additional signaling of intent to turn or change lanes to traffic ahead that may not have visibility to lower OEM turn signals.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9842' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9845' />
+5.4.15</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9848' />
+Upgrade incandescent lights to LED (or better) wherever possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9851' />
+Reduces electrical load and burn-outs.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9854' />
+MUST</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9857' />
+5.4.16</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9860' />
+Use clear lenses on ambulance warning lights to the extent possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9863' />
+Improves aesthetics.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9866' />
+MAY</div>
+</td>
+</tr>
+<tr><td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9869' />
+5.4.17</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9872' />
+Use chrome-plated flanges around ambulance warning lights to the extent possible.</div>
+</td>
+
+<td align='left' valign='top'><div class="plain_layout"><a id='magicparlabel-9875' />
+Improves aesthetics.</div>
+</td>
+
+<td align='center' valign='top'><div class="plain_layout"><a id='magicparlabel-9878' />
+MAY</div>
+</td>
+</tr></tbody>
+</table>
+</div>
+</div>
+<h2 class="section"><span class="section_label">6</span> <a id='magicparlabel-9879' />
+Illustrations</h2>
+<h3 class="subsection"><span class="subsection_label">6.1</span> <a id='magicparlabel-9880' />
+<a id="sub_CPR_seat_placement" />
+CPR seat placement</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.1.1</span> <a id='magicparlabel-9881' />
+View from right rear interior corner</h4>
+<div class="standard"><a id='magicparlabel-9882' />
+<img style='width:100%;' src='0C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ements_src_cpr-seat-from-rr-interior-corner.jpg' alt='image: 0C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ements_src_cpr-seat-from-rr-interior-corner.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.1.2</span> <a id='magicparlabel-9883' />
+View from side entry door</h4>
+<div class="standard"><a id='magicparlabel-9884' />
+<img style='width:100%;' src='1C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___uirements_src_cpr-seat-from-side-entry-door.jpg' alt='image: 1C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___uirements_src_cpr-seat-from-side-entry-door.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.2</span> <a id='magicparlabel-9885' />
+<a id="sub_Portable_oxygen_bottle_storage" />
+Portable oxygen bottle storage</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.2.1</span> <a id='magicparlabel-9886' />
+Stocked</h4>
+<div class="standard"><a id='magicparlabel-9887' />
+<img style='width:100%;' src='2C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___equirements_src_portable-o2-storage-stocked.jpg' alt='image: 2C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___equirements_src_portable-o2-storage-stocked.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.2.2</span> <a id='magicparlabel-9888' />
+Empty</h4>
+<div class="standard"><a id='magicparlabel-9889' />
+<img style='width:100%;' src='3C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___-requirements_src_portable-o2-storage-empty.jpg' alt='image: 3C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___-requirements_src_portable-o2-storage-empty.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.3</span> <a id='magicparlabel-9890' />
+<a id="sub_Backboard_compartment" />
+Backboard compartment</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.3.1</span> <a id='magicparlabel-9891' />
+Stocked</h4>
+<div class="standard"><a id='magicparlabel-9892' />
+<img style='width:80%;' src='4C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___uirements_src_backboard-compartment-stocked.jpg' alt='image: 4C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___uirements_src_backboard-compartment-stocked.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.3.2</span> <a id='magicparlabel-9893' />
+Empty</h4>
+<div class="standard"><a id='magicparlabel-9894' />
+<img style='width:80%;' src='5C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___equirements_src_backboard-compartment-empty.jpg' alt='image: 5C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___equirements_src_backboard-compartment-empty.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.4</span> <a id='magicparlabel-9895' />
+<a id="sub_Stairchair_compartment_space" />
+Stairchair compartment space</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.4.1</span> <a id='magicparlabel-9896' />
+Stocked</h4>
+<div class="standard"><a id='magicparlabel-9897' />
+<img style='width:80%;' src='6C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ts_src_stairchair-compartment-space-stocked.jpg' alt='image: 6C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ts_src_stairchair-compartment-space-stocked.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.4.2</span> <a id='magicparlabel-9898' />
+Empty (overview)</h4>
+<div class="standard"><a id='magicparlabel-9899' />
+<img style='width:80%;' src='7C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ents_src_stairchair-compartment-space-empty.jpg' alt='image: 7C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___ents_src_stairchair-compartment-space-empty.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.4.3</span> <a id='magicparlabel-9900' />
+Empty (detail)</h4>
+<div class="standard"><a id='magicparlabel-9901' />
+<img style='width:80%;' src='8C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___c_stairchair-compartment-space-empty-detail.jpg' alt='image: 8C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___c_stairchair-compartment-space-empty-detail.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.5</span> <a id='magicparlabel-9902' />
+<a id="sub_Stairchair_bracket" />
+Stairchair bracket</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.5.1</span> <a id='magicparlabel-9903' />
+Stocked</h4>
+<div class="standard"><a id='magicparlabel-9904' />
+<img style='width:80%;' src='9C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___requirements_src_stairchair-bracket-stocked.jpg' alt='image: 9C__inetpub_wwwroot_KvrsWebsite_mark-1_policy_a___requirements_src_stairchair-bracket-stocked.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.5.2</span> <a id='magicparlabel-9905' />
+Empty</h4>
+<div class="standard"><a id='magicparlabel-9906' />
+<img style='width:80%;' src='10C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____l-requirements_src_stairchair-bracket-empty.jpg' alt='image: 10C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____l-requirements_src_stairchair-bracket-empty.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.6</span> <a id='magicparlabel-9907' />
+<a id="sub_Electric_motor_mounting" />
+Electric motor mounting &amp; cage</h3>
+<h4 class="subsubsection"><span class="subsubsection_label">6.6.1</span> <a id='magicparlabel-9908' />
+Overview</h4>
+<div class="standard"><a id='magicparlabel-9909' />
+<img style='width:80%;' src='11C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____ements_src_electric-motor-mounting-overview.jpg' alt='image: 11C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____ements_src_electric-motor-mounting-overview.jpg' />
+</div>
+<h4 class="subsubsection"><span class="subsubsection_label">6.6.2</span> <a id='magicparlabel-9910' />
+Detail</h4>
+<div class="standard"><a id='magicparlabel-9911' />
+<img style='width:100%;' src='12C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____irements_src_electric-motor-mounting-detail.jpg' alt='image: 12C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____irements_src_electric-motor-mounting-detail.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.7</span> <a id='magicparlabel-9912' />
+<a id="sub_Exterior_access_to_pm_rf_cabinet" />
+Exterior access to payload module right front cabinet</h3>
+<div class="standard"><a id='magicparlabel-9913' />
+<img style='width:100%;' src='13C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____uirements_src_exterior-access-to-rf-cabinet.jpg' alt='image: 13C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____uirements_src_exterior-access-to-rf-cabinet.jpg' />
+</div>
+<h3 class="subsection"><span class="subsection_label">6.8</span> <a id='magicparlabel-9914' />
+<a id="sub_Shoreline_inlet_indicator_positioning" />
+Shoreline inlet/indicator positioning</h3>
+<div class="standard"><a id='magicparlabel-9915' />
+<img style='width:100%;' src='14C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____-technical-requirements_src_shoreline-inlet.jpg' alt='image: 14C__inetpub_wwwroot_KvrsWebsite_mark-1_policy____-technical-requirements_src_shoreline-inlet.jpg' />
+</div>
+</body>
+</html>
