@@ -207,6 +207,8 @@ t manner, an ambulance that reproduces, to the extent possible, what KVRS
 Be mindful that items provided as standard equipment on KVRS's Wheeled Coach
  ambulances purchased between 2008 and 2012 may be assumed in this document
  to be provided as standard equipment from other vendors.
+ For instance, power door locks and windows in the cab are not enumerated
+ as requirement items because they are now assumed to be standard.
 \end_layout
 
 \begin_layout Section
@@ -348,9 +350,9 @@ dominant colors or squad-specific graphic elements
 
 \begin_layout Standard
 The specifications in this document should be equally applicable regardless
- of the squad's choice of these items for a particular order.
+ of the squad's choice of these items for a particular purchase order.
  Rather, the above kinds of specifications should be deferred to subordinate
- documents or order line items.
+ documents or purchase order line items.
 \end_layout
 
 \begin_layout Section
@@ -1106,7 +1108,7 @@ through-bolting
 \begin_inset Text
 
 \begin_layout Plain Layout
-Unload hook must be anchored as strong as possible.
+Unload hook must be anchored as strongly as possible.
 \end_layout
 
 \end_inset
@@ -1187,7 +1189,7 @@ airway seat
 \begin_inset Quotes erd
 \end_inset
 
- with integral seat belt, integral child seat.
+ with integral seat belt and integral child seat.
  Install so front edge of seat is 99
 \begin_inset Quotes erd
 \end_inset
@@ -1483,7 +1485,7 @@ Install siren so that horn ring changes siren tones.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows driver to keep both hands on the road.
+Allows driver to keep eyes on the road and both hands on the steering wheel.
 \end_layout
 
 \end_inset
@@ -2955,6 +2957,14 @@ MUST
 \begin_layout Plain Layout
 Provide a door for exterior access to the non-lockable portion of the payload
  module's right front cabinet.
+ (See illustration section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Exterior-access-to-pm-rf-cabinet"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
