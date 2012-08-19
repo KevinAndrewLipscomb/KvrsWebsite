@@ -5638,6 +5638,16 @@ Stocked
 Empty
 \end_layout
 
+\begin_layout Standard
+\begin_inset Graphics
+	filename backboard-compartment-empty.jpg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -5704,8 +5714,28 @@ Stairchair bracket
 Stocked
 \end_layout
 
+\begin_layout Standard
+\begin_inset Graphics
+	filename stairchair-bracket-stocked.jpg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection
 Empty
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename stairchair-bracket-empty.jpg
+	width 80text%
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -5718,6 +5748,54 @@ name "sub:Electric-motor-mounting"
 Electric motor mounting & cage
 \end_layout
 
+\begin_layout Subsubsection
+Overview
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename electric-motor-mounting-overview.jpg
+	width 80text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Detail
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename electric-motor-mounting-detail.jpg
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Exterior-access-to-pm-rf-cabinet"
+
+\end_inset
+
+Exterior access to payload module right front cabinet
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename exterior-access-to-rf-cabinet.jpg
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -5726,6 +5804,16 @@ name "sub:Shoreline-inlet-indicator-positioning"
 \end_inset
 
 Shoreline inlet/indicator positioning
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename shoreline-inlet.jpg
+	width 100text%
+
+\end_inset
+
+
 \end_layout
 
 \end_body
