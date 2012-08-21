@@ -39,6 +39,15 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2012-08-19</dt>
+              <dd>
+                Today we made two documents publicly available in the hopes they may be helpful to other squads that are ordering new ambulances. The <em>KVRS Ambulance Detailed Technical Requirements</em> (
+                <asp:HyperLink ID="HyperLink_amb_dtrs" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/ambulance-detailed-technical-requirements.pdf">PDF</asp:HyperLink> |
+                <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.xhtml">HTML</asp:HyperLink> ) and the 
+                <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
+                we've learned over four years of very detailed specification work.
+              </dd>
+              <p></p>
               <dt>2012-07-27</dt>
               <dd>
                 We've taken delivery of another brand new Chevrolet G4500 Wheeled Coach Type III Standard Duty Ambulance.  It will take a few weeks to provision this unit, then it will assume the moniker "920" from our 2006
