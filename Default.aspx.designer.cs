@@ -22,6 +22,33 @@ namespace Default {
         protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
         
         /// <summary>
+        /// HyperLink_amb_dtrs control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink_amb_dtrs;
+        
+        /// <summary>
+        /// HyperLink_amb_dtrs_html control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink_amb_dtrs_html;
+        
+        /// <summary>
+        /// HyperLink_amb_graphics_pkg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.HyperLink HyperLink_amb_graphics_pkg;
+        
+        /// <summary>
         /// UserControl_postcontent control.
         /// </summary>
         /// <remarks>
