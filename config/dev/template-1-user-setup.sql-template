@@ -5,3 +5,11 @@ grant select
  , create
   on kvrswebsitedb_d.*
   to 'ki-kvrswebsite-d'@'localhost' identified by '~ki-kvrswebsite-d-password~'
+;
+--
+-- Must grant PROCESS priv to primary user to include SHOW ENGINE INNODB
+-- STATUS output in MySQL-related exception reports.
+--
+grant process
+  on *.*
+  to 'ki-kvrswebsite-d'@'localhost'
