@@ -3,6 +3,8 @@ grant select
  , update
  , delete
  , create
+ , create routine
+ , alter routine
   on kvrswebsitedb_d.*
   to 'ki-kvrswebsite-d'@'localhost' identified by '~ki-kvrswebsite-d-password~'
 ;
