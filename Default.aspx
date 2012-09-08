@@ -39,6 +39,11 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2012-09-08</dt>
+              <dd>
+                This summer, KVRS was the squad chosen for the exciting and prestigious motorcades of both President Barack Obama and Republican presidential nominee Mitt Romney as they campaigned through Virginia Beach.
+              </dd>
+              <p></p>
               <dt>2012-08-24</dt>
               <dd>
                 Today we put another brand new Chevrolet G4500 Wheeled Coach Type III Standard Duty Ambulance into service.  It assumed the moniker "920" from our 2006 Ford E-450 Horton Type III Standard Duty Ambulance, which
