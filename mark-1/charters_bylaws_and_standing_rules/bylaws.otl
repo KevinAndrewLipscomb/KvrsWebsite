@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<bonsai-outline version="4.1">
+	<head outline-id="5213323" category="" item-count="257">
+		<categories>
+			<category name="Unfiled" id="0" modified="1"/>
+			<category name="Business" id="1" modified="1"/>
+			<category name="Personal" id="2" modified="1"/>
+		</categories>
+		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="19" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464387610" cursor="228">
+			<views current="Default">
+				<view name="Default">
+					<columns>
+						<column name="text" width="667"/>
+					</columns>
+				</view>
+			</views>
+			<custom-labels>
+				<custom-label name="Cost" modified="1"/>
+			</custom-labels>
+			<item-text-color current-color-set="none" color-completed="0" completed="#8C8C8C">
+			</item-text-color>
+		</display>
+		<rollup dates="1" status="1">
+			<rollup-custom enable="1" operation="sum" include="all" modified="0"/>
+		</rollup>
+		<sync-info generation="1" modified="1">
+		</sync-info>
+	</head>
+	<items xml:space="preserve">
+		<item id="464382678" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:11" pos-hint="2147483649" modified="#1009C2">
+			<text>NAME: The name of the organization is specified in the Articles of Incorporation. </text>
+		</item>
+		<item id="464382679" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:11" pos-hint="2147483649" modified="#1009C2">
+			<text>OBJECT: The object of this Rescue Squad is to provide the community with a volunteer service dedicated to the saving of life, administering first aid, and teaching methods of safety within the community. </text>
+			<items>
+				<item id="464382680" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:12" pos-hint="2147483649" modified="#100BC2">
+					<text>Headquarters of this squad shall be in the Kempsville Borough of Virginia Beach, Virginia.</text>
+				</item>
+				<item id="464382767" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="11 Sep 2012 15:12" pos-hint="2147483649" modified="#100300">
+					<text>The corporation shall have a Board of Directors. The composition, duties, responsibilities, and authorities of the Board of Directors are specified in subparagraph IV.A.1.e.</text>
+				</item>
+			</items>
+		</item>
+		<item id="464382768" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="11 Sep 2012 15:46" pos-hint="2147483649" modified="#300342">
+			<text>MEMBERSHIP</text>
+			<note>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2Feb2010</note>
+			<items>
+				<item id="464382682" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:13" pos-hint="2147483649" modified="#100BC2" collapsed="1">
+					<text>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </text>
+					<items>
+						<item id="464382683" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:13" pos-hint="2147483649" modified="#100BC2">
+							<text>Apprentice members</text>
+							<items>
+								<item id="464382813" type="simple" priority="1" create-date="11 Sep 2012 15:13" last-modified="11 Sep 2012 15:13" pos-hint="2147483649" modified="#100BC2">
+									<text>Only those individuals who have been identified as eligible for membership as a Patient Care Provider in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Apprentice membership.</text>
+								</item>
+								<item id="464382829" type="simple" priority="1" create-date="11 Sep 2012 15:13" last-modified="11 Sep 2012 15:13" pos-hint="2147483649" modified="#100BC2">
+									<text>Upon approval of the Squad Commander (Rescue Captain), the Apprentice member shall be subject to the EMS Duty Policy of the City of Virginia Beach Department of EMS. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382684" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:15" pos-hint="2147483649" modified="#100BC2">
+							<text>ALS Associate</text>
+							<items>
+								<item id="464382903" type="simple" priority="1" create-date="11 Sep 2012 15:15" last-modified="11 Sep 2012 15:15" pos-hint="2147483649" modified="#100BC2">
+									<text>ALS Associates shall be subject to the qualifications and requirements of the Associate ALS Membership Policy of the City of Virginia Beach Department of EMS.</text>
+								</item>
+								<item id="464382912" type="simple" priority="1" create-date="11 Sep 2012 15:15" last-modified="11 Sep 2012 15:15" pos-hint="2147483649" modified="#100BC2">
+									<text>An ALS Associate shall be a full-time employee of a paid ALS agency, or a full member (or the equivalent) of another volunteer ALS agency, or a healthcare provider who is assigned full-time to a hospital Emergency Department. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382685" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:15" pos-hint="2147483649" modified="#100BC2">
+							<text>Full members</text>
+							<items>
+								<item id="464382928" type="simple" priority="1" create-date="11 Sep 2012 15:15" last-modified="11 Sep 2012 15:15" pos-hint="2147483649" modified="#100BC2">
+									<text>Only those members who have been classified as Apprentice or ALS Associate members, and in both cases, have been released for the preceding six months shall be eligible for promotion to Full membership.</text>
+								</item>
+								<item id="464382941" type="simple" priority="1" create-date="11 Sep 2012 15:15" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+									<text>Full members shall be subject to the EMS Duty Policy of the City of Virginia Beach Department of EMS.</text>
+								</item>
+								<item id="464382962" type="simple" priority="1" create-date="11 Sep 2012 15:16" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+									<text>Full members shall at all times maintain eligibility as a Patient Care Provider in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382686" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+							<text>Active Life members</text>
+							<items>
+								<item id="464382974" type="simple" priority="1" create-date="11 Sep 2012 15:16" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+									<text>Active Life members shall meet the stipulations of paragraph B.10 of this Article.</text>
+								</item>
+								<item id="464382983" type="simple" priority="1" create-date="11 Sep 2012 15:16" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+									<text>Active Life members shall be subject to the EMS Duty Policy of the City of Virginia Beach Department of EMS. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382687" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:16" pos-hint="2147483649" modified="#100BC2">
+							<text>Inactive Life members: Inactive Life members shall meet the stipulations of paragraph B.10 of this Article. </text>
+						</item>
+						<item id="464382688" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:18" pos-hint="2147483649" modified="#100BC2">
+							<text>Administrative members: Only those individuals who have been identified as eligible for Administrative membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Administrative membership in the squad. </text>
+						</item>
+						<item id="464382689" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:18" pos-hint="2147483649" modified="#100BC2">
+							<text>Members-in-Memoriam</text>
+							<items>
+								<item id="464383112" type="simple" priority="1" create-date="11 Sep 2012 15:18" last-modified="11 Sep 2012 15:18" pos-hint="2147483649" modified="#80105FC2">
+									<text>Members-in-Memoriam shall be those members who die while classified as Apprentice, Full, Active Life, Inactive Life, Administrative, and Medical Doctor.</text>
+								</item>
+								<item id="464383121" type="simple" priority="1" create-date="11 Sep 2012 15:18" last-modified="11 Sep 2012 15:18" pos-hint="2147483649" modified="#80135FC2">
+									<text>A member who dies while classified as an ALS Associate shall be classified as a Member-in-Memoriam upon a two-thirds vote of the members present at a regular business meeting. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382690" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:18" pos-hint="2147483649" modified="#100BC2">
+							<text>Medical Doctor members: Only those individuals who have been identified as eligible for Medical Doctor membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Medical Doctor membership in the squad. </text>
+						</item>
+						<item id="464382691" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#100BC2">
+							<text>Honorary Membership: Honorary members may be accepted under the following conditions: they must be, because of age, profession, position or other acceptable reason is unable to join the Rescue Squad as an active member; and they must be sincerely interested in the Rescue Squad.</text>
+							<items>
+								<item id="464383157" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#100342">
+									<text>The method of accepting a person to Honorary Membership will be as follows: A written request by the active member of the Department/Squad nominating the person for Honorary Membership will be submitted to the Board of Directors. This request will include the name and address of the nominee and the reason for proposing him to the Honorary Roll. The Board of Directors will investigate the request and submit it with recommendations at the next regular business meeting of the Department/Squad.</text>
+								</item>
+								<item id="464383176" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#100BC2">
+									<text>After approval by the membership an appropriate acknowledgement will be presented to the Honorary member. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382692" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#100BC2">
+							<text>Voting rights</text>
+							<items>
+								<item id="464383188" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#80135FC2">
+									<text>Full and Active Life members who are under General Supervision as Patient Care Providers (as defined by the Virginia Beach Department of EMS) shall have the power to vote.</text>
+								</item>
+								<item id="464383195" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="11 Sep 2012 15:19" pos-hint="2147483649" modified="#100BC2">
+									<text>At each October regular business meeting, the President shall submit a list of the current Administrative Members who have been on the squad&apos;s roster for at least six months. The Full and Active Life members shall vote, by slate or by line item, to sponsor the listed Administrative Members. Sponsored Administrative Members shall subsequently have the power to vote. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year&apos;s sponsorships shall be continued until such time as the membership revises or replaces them. </text>
+								</item>
+							</items>
+						</item>
+						<item id="464382693" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:20" pos-hint="2147483649" modified="#100BC2">
+							<text>The power to command, discipline, and grant leave to Apprentice, ALS Associate, Full, Active Life, and Medical Doctor members shall be vested in the Squad Commander (&quot;Rescue Captain&quot;) or his designee. The power to command, discipline, and grant leave to Administrative members shall be vested in the President or his designee. Honorary members, Inactive Life members, and Members-in-Memoriam are not subject to command or discipline from the Corporation, and are not eligible for leave. </text>
+						</item>
+						<item id="464382694" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:20" pos-hint="2147483649" modified="#100BC2">
+							<text>The provisions of this section shall supersede other conflicting sections of this document. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382695" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:21" pos-hint="2147483649" modified="#100BC2">
+					<text>QUALIFICATIONS</text>
+					<items>
+						<item id="464383270" type="simple" priority="1" create-date="11 Sep 2012 15:21" last-modified="11 Sep 2012 15:21" pos-hint="2147483649" modified="#80135FC2">
+							<text>An applicant shall have attained the age of eighteen (18) years. He/she shall have a valid drivers license, shall have a high school diploma or equivalent and shall meet all requirements that may be required by the City of Virginia Beach.</text>
+						</item>
+						<item id="464383281" type="simple" priority="1" create-date="11 Sep 2012 15:21" last-modified="11 Sep 2012 15:21" pos-hint="2147483649" modified="#80105FC2">
+							<text>Applications shall be acted upon in the order received.</text>
+						</item>
+						<item id="464383289" type="simple" priority="1" create-date="11 Sep 2012 15:21" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#300BC2">
+							<text>Intake procedures:</text>
+							<items>
+								<item id="464387538" type="simple" priority="1" create-date="11 Sep 2012 16:32" last-modified="11 Sep 2012 16:32" pos-hint="2147483649" modified="#80135FC2">
+									<text>The Membership Coordinator, having received a properly prepared application for Apprentice Membership from the Virginia Beach Department of EMS, may act as the membership&apos;s agent to approve such application without delay, and shall report such actions to the membership at each regular business meeting.</text>
+								</item>
+								<item id="464387554" type="simple" priority="1" create-date="11 Sep 2012 16:32" last-modified="11 Sep 2012 16:32" pos-hint="2147483649" modified="#80135FC2">
+									<text>Final acceptance will be acted upon no sooner than six (6) months and no later than twelve (12) months from the date of apprentice acceptance.</text>
+								</item>
+								<item id="464387566" type="simple" priority="1" create-date="11 Sep 2012 16:32" last-modified="11 Sep 2012 16:32" pos-hint="2147483649" modified="#80135FC2">
+									<text>Members granted Full Membership will receive voting privileges the night they become Full Members, immediately following the completion of all membership actions.</text>
+								</item>
+								<item id="464387598" type="simple" priority="1" create-date="11 Sep 2012 16:33" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>The membership reserves the right to extend the apprentice period beyond the twelve (12) month period, if said member is not in compliance with paragraph 5 of this Section. Extension not to exceed six (6) months.</text>
+								</item>
+								<item id="464387610" type="simple" priority="1" create-date="11 Sep 2012 16:33" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#105BC2">
+									<text>Time spent as a full time student of an accredited college or university in Virginia, including up to four months in-between undergraduate or postgraduate years, shall not count towards the time limits mentioned in this section.</text>
+								</item>
+							</items>
+						</item>
+						<item id="464382696" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Apprentice member may enjoy all rights, responsibilities and privileges of a Full Member with exception of voting and holding office. </text>
+						</item>
+						<item id="464382697" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>During the apprentice period, each member will be required to become certified as an EMS provider by the Virginia Beach Division of Emergency Medical Services. Thoroughly familiarize himself with all of the equipment of the Squad, become familiar with EMS policies, procedures, and Squad rules and regulations. Shall perform at a level that is acceptable to the squad and the community.</text>
+						</item>
+						<item id="464383579" type="simple" priority="1" create-date="11 Sep 2012 15:26" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>No apprentice member shall operate any squad equipment until authorized by the Captain.</text>
+						</item>
+						<item id="464383585" type="simple" priority="1" create-date="11 Sep 2012 15:26" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Any apprentice member not in compliance with Qualification for Membership at the termination of his/her apprentice period will be given until the next regular business meeting to comply unless otherwise specifically stated in these By-Laws.</text>
+						</item>
+						<item id="464383593" type="simple" priority="1" create-date="11 Sep 2012 15:26" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>A former member who has been separated from the Squad more than twelve (12) months and desires to be reinstated must apply as a new member.</text>
+						</item>
+						<item id="464383601" type="simple" priority="1" create-date="11 Sep 2012 15:26" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>No member may belong to another volunteer rescue squad in the city of Virginia Beach. </text>
+						</item>
+						<item id="464382698" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Life Membership: Any member having served in an Active status for a period of ten (10) years shall be eligible for Life Membership, said offer to be accepted by member, and on approval by membership, will be given an appropriate acknowledgement of Life Membership.</text>
+							<items>
+								<item id="464383618" type="simple" priority="1" create-date="11 Sep 2012 15:26" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>The service period of ten years toward qualifying for Life Membership shall be measured in total accumulative active status time. Short periods of inactivity due to business, sickness, marital or family reasons, shall not exceed a total of six months in the qualifications time.</text>
+								</item>
+								<item id="464383626" type="simple" priority="1" create-date="11 Sep 2012 15:27" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Any member who has been accepted as a Life Member shall be eligible to ride on the ambulance providing he/she maintain his/her qualifications as provided by Emergency Medical Services.</text>
+								</item>
+								<item id="464383632" type="simple" priority="1" create-date="11 Sep 2012 15:27" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Any member, on approval by the board of directors and a two-thirds majority vote of the membership, may be given life membership with less than 10 years of service if an injury or illness prevents the member from meeting the standard requirements. </text>
+								</item>
+							</items>
+						</item>
+					</items>
+				</item>
+				<item id="464382699" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>RESPONSIBILITIES</text>
+					<items>
+						<item id="464383647" type="simple" priority="1" create-date="11 Sep 2012 15:27" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>It shall be the duty of all members to attend punctually all meetings of the Rescue Squad.</text>
+						</item>
+						<item id="464383692" type="simple" priority="1" create-date="11 Sep 2012 15:28" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Resignations shall not be accepted until all property of the Rescue Squad has been returned and accounted for.</text>
+						</item>
+						<item id="464383697" type="simple" priority="1" create-date="11 Sep 2012 15:28" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Any member qualified to vote shall have access to the books, documents, and other papers belonging to the Rescue Squad under the supervision of the Officer in charge of the same.</text>
+						</item>
+						<item id="464383708" type="simple" priority="1" create-date="11 Sep 2012 15:28" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>No member of this Rescue Squad will receive any personal reimbursement for any services rendered while acting as a member of this Rescue Squad/Department except compensation by the City or State government.</text>
+						</item>
+						<item id="464383713" type="simple" priority="1" create-date="11 Sep 2012 15:28" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>It shall be the duty of all members of the Rescue Squad to take part in the maintenance and upkeep of the equipment, building, and grounds when directed to do so by an officer. Failure to comply will result in probation or suspension, to be determined by the Board of Directors. </text>
+						</item>
+						<item id="464382700" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>MEMBERS UNDER THE CARE OF A PHYSICIAN. Any member of the Rescue Squad who is under the care of a doctor or hospitalized for any reason that would prevent him/her from performing as a EMS provider, shall automatically be placed on the inactive list. Any member placed on the inactive list for the above reason(s) may at the discretion of the senior operational officer be given administrative duties. A member placed on the inactive list as stated above, may at any time submit a letter to the senior operational officer from his/her doctor(s) stating that he/she is physically and medically capable of performing as a EMS provider. Said member shall then be reinstated as per the City of Virginia Beach Department of EMS rules and regulations. Said member shall remain active in any committee/position elected/called for while classified as an inactive member.</text>
+						</item>
+						<item id="464383739" type="simple" priority="1" create-date="11 Sep 2012 15:28" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#120BC2">
+							<text>Any member who is returning to active status after a leave of ninety (90) days or more shall be required to complete a retraining program, to be administered by the training officer.</text>
+						</item>
+						<item id="464382701" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Equipment owned by the Rescue Squad is not to be used for the benefit or convenience of a private individual when an emergency or need for Rescue Squad assistance does not exist without approval of an operational officer.</text>
+						</item>
+						<item id="464383772" type="simple" priority="1" create-date="11 Sep 2012 15:29" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Every member should take advantage of any and all training seminars that will increase his/her knowledge in the rescue service.</text>
+						</item>
+						<item id="464383778" type="simple" priority="1" create-date="11 Sep 2012 15:29" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>It shall be the duty of all members to respond to all calls of duty whether it be for drill, rescue emergencies or request for aid in raising funds or various other activities of the Rescue Squad.</text>
+						</item>
+						<item id="464383786" type="simple" priority="1" create-date="11 Sep 2012 15:29" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>All rescue squad members shall adhere to all rules, policies, etc. as set down by the Medical Directors and senior operational officers. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382702" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>CONDUCT</text>
+					<items>
+						<item id="464383798" type="simple" priority="1" create-date="11 Sep 2012 15:29" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>A member shall at all times conduct himself in such a manner as will command the respect of the Rescue Squad and the public in general.</text>
+						</item>
+						<item id="464383805" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>No member will take part in any Rescue Squad activity nor come on Rescue Squad property under the influence of alcohol or drugs.</text>
+						</item>
+						<item id="464383811" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>A member shall not permit the use of his badge or any other identification by any person not a member, or use the same himself in any way in violation of these By-Laws or in a manner embarrassing to the Rescue Squad. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382703" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>PENALTIES</text>
+					<items>
+						<item id="464383820" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80100BC2">
+							<text>Any member violating any of the provisions of these By-laws shall be disciplined by the appropriate senior operational officer and shall have the right of appeal to the Board of Directors.</text>
+						</item>
+						<item id="464383826" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>No member of the Rescue Squad can be expelled except through a majority vote of the membership, unless otherwise specifically stated in these By-Laws. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382704" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>EXPULSIONS AND SUSPENSIONS</text>
+					<items>
+						<item id="464383851" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Any expelled member wishing to be reinstated to apprentice membership must submit a letter to the Board of Directors stating why he should be reinstated as an apprentice member. The Board after investigation will submit his application, to the membership with their recommendation after which a vote of the membership will be taken by ballot. No applications will be considered before twelve (12) months after expulsion date.</text>
+						</item>
+						<item id="464383861" type="simple" priority="1" create-date="11 Sep 2012 15:31" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Upon expulsion members must surrender all Rescue Squad property in their possession. Expelled members shall not enjoy any of the privileges of any active or associate member during the period of expulsion.</text>
+						</item>
+						<item id="464383867" type="simple" priority="1" create-date="11 Sep 2012 15:31" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+							<text>The word &quot;suspended&quot; as used in these By-Laws shall mean that the member is relieved of all duty, operative and executive, for a period of time not to exceed six (6) months. The word &quot;expelled&quot; as used in these By-Laws shall mean that the member is relieved of all duty, operative and executive and dropped from the membership roster.</text>
+						</item>
+						<item id="464382705" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>Members dropped from the regular roll by the above reasons, who wish to be reinstated, must make application as an apprentice member. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382706" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>GRIEVANCE PROCEDURE. All members may appeal any disciplinary action directed against them to the Board of Directors with final disposition to the general membership.</text>
+				</item>
+			</items>
+		</item>
+		<item id="464382707" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#3009C2">
+			<text>OFFICERS</text>
+			<note>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009</note>
+			<items>
+				<item id="464382709" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>CLASSIFICATIONS </text>
+					<items>
+						<item id="464382710" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>ADMINISTRATION. The administration officers shall consist of a President, Vice-President, Secretary, and Treasurer. </text>
+							<items>
+								<item id="464382711" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>President: It shall be the duty of the President to preside at all business meetings, preserve order, enforce the administrative By-Laws, call all special business meetings, when necessary or when directed to do so, in writing by five (5) members in good standing; attest and sign all orders on the Treasurer when sanctioned by the Kempsville Volunteer Rescue Squad. In case of a tie vote, the president shall cast the deciding vote. The president shall appoint all committees as defined without unnecessary delay. </text>
+								</item>
+								<item id="464382712" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Vice-President: It shall be the duty of the Vice-President to assume the duties of the President in the absence of the same. </text>
+								</item>
+								<item id="464382713" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Secretary: The Secretary shall keep an accurate record of all minutes of the monthly business meetings and publish same to the membership according to rules adopted by the membership; and shall perform other functions as directed by the President. </text>
+								</item>
+								<item id="464382714" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Treasurer: The Treasurer shall be the steward of all corporate funds; shall be responsible for the Corporation&apos;s cash management; shall pay the Corporation&apos;s obligations according to rules adopted by the membership; shall cause all financial transactions to be properly recorded in the Corporate books; shall assure that the Corporation&apos;s account registers are promptly reconciled against all financial institution account statements; shall cause a financial report to be submitted to the membership at least annually; shall submit to audits annually as arranged by the Audit Coordinator; shall be empowered to enact and enforce procedures, and to hire and fire specialists, to accomplish Treasurer requirements, within the confines of the approved budget; and shall cause all of these responsibilities to be executed according to United States Generally Accepted Accounting Principles. </text>
+								</item>
+								<item id="464382715" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#300BC2">
+									<text>Board of Directors: There shall be a Board of Directors consisting of the President, the Vice-President, the Captain, and four (4) at-large members of the Kempsville Rescue Squad Inc. In November of 1996, two of the four at-large members shall be elected to two-year terms, the other two to one-year terms. In subsequent years, the two at-large seats that are up for election shall be filled for terms of two-years. The President shall preside as Chairman of the Board of Directors. In the President&apos;s absence, the Vice-President shall act as chairman. The Secretary of the Board of Directors shall be appointed by the Chairman from the membership of the Board of Directors. The quorum for meetings of the Board of Directors shall be a majority of the elected Directors. The duties, responsibilities and authority of the Board of Directors shall be as follows:</text>
+									<items>
+										<item id="464384117" type="simple" priority="1" create-date="11 Sep 2012 15:35" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+											<text>Basic Function: The Board of Directors shall be responsible for the proper administration of the Kempsville Volunteer Rescue Squad. The Board of Directors shall not address operation matters unless specified by these By-Laws.</text>
+										</item>
+										<item id="464382716" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Duties: The duties of the Board of Directors shall be to meet at the call of the President and to act on all matters of business properly presented before them.</text>
+										</item>
+										<item id="464384147" type="simple" priority="1" create-date="11 Sep 2012 15:35" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80335FC2">
+											<text>Responsibilities and Authority:  The Board of Directors:</text>
+											<items>
+												<item id="464386705" type="simple" priority="1" create-date="11 Sep 2012 16:18" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+													<text>Shall insure that all obligations of the Kempsville Volunteer Rescue Squad are properly discharged;</text>
+												</item>
+												<item id="464386726" type="simple" priority="1" create-date="11 Sep 2012 16:18" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+													<text>Shall insure that all matters of business presented before the Board are acted upon;</text>
+												</item>
+												<item id="464386757" type="simple" priority="1" create-date="11 Sep 2012 16:19" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+													<text>Shall insure that the membership of the Kempsville Volunteer Rescue Squad are informed at the next regular monthly business meeting of all matters presented before The Board that final action has been initiated;</text>
+												</item>
+												<item id="464386787" type="simple" priority="1" create-date="11 Sep 2012 16:19" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+													<text>Shall be responsible to investigate all proposed improvements or purchases in excess of $5000.00 and make a report with their recommendations to the membership of the Kempsville Volunteer Rescue Squad.</text>
+												</item>
+											</items>
+										</item>
+										<item id="464386805" type="simple" priority="1" create-date="11 Sep 2012 16:20" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>In the event an appeal is being heard by the Board no member will have a direct interest in the incident or individual under review.</text>
+										</item>
+										<item id="464382717" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Organizational Relationship: The Board of Directors reports to the Kempsville Volunteer Rescue Squad. </text>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="464382718" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>OPERATIONS. The operations officers shall be as follows: </text>
+							<items>
+								<item id="464382719" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Captain -- Commanding Officer</text>
+									<items>
+										<item id="464384232" type="simple" priority="1" create-date="11 Sep 2012 15:37" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be elected in accordance with Section B of this Article.</text>
+										</item>
+										<item id="464384238" type="simple" priority="1" create-date="11 Sep 2012 15:37" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function and responsibilities of the Captain of The Kempsville Volunteer Rescue Squad shall be as follows:</text>
+											<items>
+												<item id="464384245" type="simple" priority="1" create-date="11 Sep 2012 15:37" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+													<text>Basic Function - shall be responsible for the operation of the Squad, both in respect to the members and equipment.</text>
+												</item>
+												<item id="464384296" type="simple" priority="1" create-date="11 Sep 2012 15:38" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - shall supervise all squad functions. Shall establish and maintain a standard operations procedure manual.</text>
+												</item>
+												<item id="464384302" type="simple" priority="1" create-date="11 Sep 2012 15:38" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Authority - take disciplinary action against any member as appropriate. Shall approve all new and revised policy and procedures prior to implementation.</text>
+												</item>
+												<item id="464384307" type="simple" priority="1" create-date="11 Sep 2012 15:38" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Qualifications - in addition to those outlined in Section B of this Article, shall have an extensive knowledge in EMS policies and procedures. Must have served as an active member of the Kempsville Volunteer Rescue Squad for a minimum of two (2) years following the completion of the apprenticeship period.</text>
+												</item>
+											</items>
+										</item>
+										<item id="464384323" type="simple" priority="1" create-date="11 Sep 2012 15:38" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be the Squad&apos;s nominee to the Virginia Beach Department of EMS as this corporation&apos;s Squad Commander.</text>
+										</item>
+									</items>
+								</item>
+								<item id="464382721" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Executive Officer -- Chief of Staff</text>
+									<items>
+										<item id="464384355" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be elected in accordance with Section B of this Article.</text>
+										</item>
+										<item id="464384361" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall have the rank of Lieutenant.</text>
+										</item>
+										<item id="464384367" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function, responsibilities, and authority shall be as follows:</text>
+											<items>
+												<item id="464384372" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic Function - overseeing the day to day operation of the Squad.</text>
+												</item>
+												<item id="464384377" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#131BC2">
+													<text>Responsibilities - shall act in the absence of the Captain. Shall immediately supervise the Operations Officer and the Training Sergeant. Shall assist the Captain as required. Shall have the authority to command personnel with respect to operations, subordinate only to the Captain.</text>
+												</item>
+												<item id="464384385" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Qualifications - in addition to those outlined in Section B of this Article, shall have a thorough knowledge in EMS policies and procedures. Must have served in the position of an operational officer for a minimum of one (1) year or be an active member in good standing for a minimum of two (2) years.</text>
+												</item>
+											</items>
+										</item>
+										<item id="464384396" type="simple" priority="1" create-date="11 Sep 2012 15:39" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be the Squad&apos;s nominee to the Virginia Beach Department of EMS as this corporation&apos;s Assistant Squad Commander. </text>
+										</item>
+									</items>
+								</item>
+								<item id="464382722" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Operations Officer -- Chief of Personnel</text>
+									<items>
+										<item id="464384411" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall be elected in accordance with Section B of this Article.</text>
+										</item>
+										<item id="464384417" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall have the rank of Lieutenant.</text>
+										</item>
+										<item id="464384422" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function, responsibilities, and authority shall be as follows:</text>
+											<items>
+												<item id="464384428" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic function -- overseeing the day to day operation of the Squad.</text>
+												</item>
+												<item id="464384433" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#105BC2">
+													<text>Responsibilities -- shall act in the absence of the Captain and the Executive Officer. Shall immediately supervise the Scheduling Sergeant. Shall assist the Captain and Executive Officer as required. Shall have the authority to command personnel with respect to operations, subordinate only to the Executive Officer and the Captain.</text>
+												</item>
+												<item id="464384443" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Qualifications -- in addition to those outlined in Section B of this Article, shall have a thorough knowledge in EMS policies and procedures. Must have served in the position of an operation officer for a minimum of one (1) year or be an active member in good standing for a minimum of two (2) years.</text>
+												</item>
+											</items>
+										</item>
+										<item id="464384453" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be the Squad&apos;s nominee to the Virginia Beach Department of EMS as this corporation&apos;s Second Assistant Squad Commander.</text>
+										</item>
+									</items>
+								</item>
+								<item id="464382724" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Logistics Officer</text>
+									<items>
+										<item id="464384476" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall be appointed by the Captain.</text>
+										</item>
+										<item id="464384482" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall have the rank of Lieutenant.</text>
+										</item>
+										<item id="464384487" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function, responsibilities, and authority of the Logostics Officer shall be as follows:</text>
+											<items>
+												<item id="464384493" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic Function - to efficiently and effectively keep the squad&apos;s vehicles and field equipment in the highest possible state of readiness (as defined by the Captain).</text>
+												</item>
+												<item id="464384499" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - Shall be responsible to see that proper maintenance is made on all equipment and to keep up-to-date maintenance and inventory records. </text>
+												</item>
+											</items>
+										</item>
+									</items>
+								</item>
+								<item id="464382725" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Equipment Sergeant</text>
+									<items>
+										<item id="464384510" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall be appointed by the Captain.</text>
+										</item>
+										<item id="464384519" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function and responsibilities of the Equipment Sergeant shall be as follows:</text>
+											<items>
+												<item id="464384522" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic Functions - shall assist the Logistics Officer in his/her duties.</text>
+												</item>
+												<item id="464384527" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - shall purchase all first-aid supplies. Shall keep an accurate record of all purchases of first-aid supplies and who authorized said purchase. Shall make and keep current a quarterly inventory of all first-aid supplies. Shall insure that all laundry is kept clean. </text>
+												</item>
+											</items>
+										</item>
+									</items>
+								</item>
+								<item id="464382726" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Schedule Sergeant</text>
+									<items>
+										<item id="464384544" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall be appointed by the Captain.</text>
+										</item>
+										<item id="464384550" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>The function and responsibilities of the Sergeant shall be as follows</text>
+											<items>
+												<item id="464384555" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic Function - shall assist Operations Officer.</text>
+												</item>
+												<item id="464384561" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - shall be responsible for the duty roster. Shall assist in any other areas as deemed necessary by the Captain and Lieutenants. </text>
+												</item>
+											</items>
+										</item>
+									</items>
+								</item>
+								<item id="464382727" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Training Sergeant</text>
+									<items>
+										<item id="464384573" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall be appointed by the Captain.</text>
+										</item>
+										<item id="464384578" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+											<text>The Function and responsibilities of the Sergeant of training shall be as follows:</text>
+											<items>
+												<item id="464384583" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+													<text>Basic Function - shall be the Training Officer.</text>
+												</item>
+												<item id="464384588" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+													<text>Responsibilities - shall keep an up-to-date roster of the membership as to name, address and telephone number. Shall carry out any other duties as may be directed by the Captain and Lieutenants. Shall keep an accurate record of all training of the members. Shall keep an up-to-date Emergency Medical Services Individual Training Record and notify the Senior Operations Officers of any member&apos;s failing in the requirements. </text>
+												</item>
+											</items>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+					</items>
+				</item>
+				<item id="464382728" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>QUALIFICATIONS GENERALLY</text>
+					<items>
+						<item id="464384602" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+							<text>Only Full Members, Active Life Members, and Administrative Members, shall be eligible to hold elected administrative offices.</text>
+						</item>
+						<item id="464384608" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Only Full Members and Active Life Members who are eligible to vote shall be eligible to hold elected operations offices.</text>
+						</item>
+						<item id="464384614" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#101342">
+							<text>Wherever these bylaws describe administrative offices that are to be filled by presidential appointment, only Full Members, Active Life Members, Inactive Life Members, and Administrative Members shall be eligible for appointment.</text>
+						</item>
+						<item id="464384621" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Any member not in compliance with Section VI.A will not be eligible to hold an office in this Squad.</text>
+						</item>
+						<item id="464384627" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Any operation officer of the squad who is unable to fulfill the duties of his/her office for a period of more than forty-five (45) consecutive days shall be removed from that office. Junior Officers will advance one grade to fulfill the duties of the vacant position until the next regularly scheduled business meeting, at which time the office which was originally vacated will be filled by election for the remainder of the present term. The President will notify all active members of the vacancy and election by mail.</text>
+						</item>
+						<item id="464382729" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>No member of the Corporation shall hold more than one of the following offices simultaneously: President, Vice President, Secretary, Treasurer, Captain, Executive Officer, Operations Officer, Logistics Officer. No member shall hold more than one position on the Board. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382730" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>NOMINATION, ELECTION, AND INSTALLATION</text>
+					<items>
+						<item id="464384672" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>The Nomination Coordinator shall nominate officers at the annual regular business meeting in October.</text>
+						</item>
+						<item id="464384680" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Election of officers shall be held annually at the regular business meeting in November.</text>
+						</item>
+						<item id="464384684" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>All elections of officers shall be by ballot when there are two or more candidates and a majority of all legal ballots shall elect.</text>
+						</item>
+						<item id="464384690" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Newly elected officers will take office immediately after being installed. The installation of officers shall take place at the annual dinner, to be held in November.</text>
+						</item>
+						<item id="464384696" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>The Secretary and Treasurer shall be appointed by the president, with the approval of the Board of Directors.</text>
+						</item>
+						<item id="464384701" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>All policies and procedures in effect at the time of Installation shall remain in effect for a period of 30 days allowing orientation of the new officers to their positions.</text>
+						</item>
+						<item id="464384706" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>The officers elected shall hold office for a period of one (1) year or until a successor has been elected to replace said officer. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382731" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>DEPARTURE AND REMOVAL</text>
+					<items>
+						<item id="464384716" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>In the event of the resignation or relief for cause, an officer shall deliver to his or her successor all property of the Kempsville Volunteer Rescue Squad.</text>
+						</item>
+						<item id="464384722" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>In the event of the departure of any elected officer from office, the elected officer senior to (or if no such elected senior officer exists then the elected officer junior to) the vacant position will assume the responsibilities of the vacant position during the vacancy.</text>
+						</item>
+						<item id="464384728" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Business meetings shall be called to order by the President, or failing that the Vice President, or failing that the Secretary, or failing that the most senior member (by length of corporate membership) of the Board Of Directors present, or failing that the most senior member (by length of corporate membership) of the Corporation present.</text>
+						</item>
+						<item id="464384738" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>An officer for the abuse of his authority or misconduct in his office may be impeached and removed from office by a vote of the majority of the members present. Voting shall be by ballot. The charges against the officer shall be made in writing and filed with the Secretary and read at a meeting at least one (1) month before such vote is taken. A copy of said charges must be served upon the member by the Secretary at least two (2) weeks before such vote is taken. Said vote to be taken at a regular business meeting. </text>
+						</item>
+					</items>
+				</item>
+			</items>
+		</item>
+		<item id="464382733" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#3009C2">
+			<text>COORDINATORS AND COMMITTEES</text>
+			<note>Amended: 12Jul99, 4Apr2005, 1May2006, 4May2009, 2Feb2010</note>
+			<items>
+				<item id="464382735" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Membership Coordinator: There shall be a Membership Coordinator appointed by the President. The duties of the Membership Coordinator are as follows:</text>
+					<items>
+						<item id="464384808" type="simple" priority="1" create-date="11 Sep 2012 15:46" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Receive all applications for membership.</text>
+						</item>
+						<item id="464384812" type="simple" priority="1" create-date="11 Sep 2012 15:46" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#115FC2">
+							<text>Investigate all applications and give recommendations to the membership.</text>
+						</item>
+						<item id="464384817" type="simple" priority="1" create-date="11 Sep 2012 15:46" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80131FC2">
+							<text>Acquaint all new applicants with the By-Laws, rules and regulations of the squad. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382736" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Entertainment Coordinator: There shall be an Entertainment Coordinator appointed by the President. This Coordinator shall be responsible for the planning and execution of all social functions of the Squad. </text>
+				</item>
+				<item id="464382737" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Auditing Coordinator: There shall be an Auditing Coordinator appointed by the President to audit the accounts of the Squad quarterly or as determined by the Board of Directors. </text>
+				</item>
+				<item id="464382738" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Nominating Coordinator: There shall be a Nominating Coordinator appointed by the President who shall nominate all elected officers at the regular scheduled business meeting held in October. </text>
+				</item>
+				<item id="464382739" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Fund Drive Coordinator: There shall be a Fund Drive Coordinator appointed by the President. The Fund Drive Coordinator shall coordinate all activities of fund raising. This is to be carried out with the help of the membership. </text>
+				</item>
+				<item id="464382740" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Finance Coordinator: There shall be a Finance Coordinator appointed by the President. The Finance Coordinator shall assist the squad in bookkeeping, investments, etc. </text>
+				</item>
+				<item id="464382741" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>Apparatus Procurement &amp; Disposition Coordinators: For each distinct class of emergency vehicle apparatus owned or desired by the Corporation (that is, Ambulance, Support Truck, Squad Truck, Utility Vehicle, etc), there shall be a Procurement &amp; Disposition Coordinator appointed by the Captain and approved by the President. These coordinators shall be known as the Ambulance Procurement &amp; Disposition Coordinator, the Support Truck Procurement &amp; Disposition Coordinator, etc.</text>
+					<items>
+						<item id="464385101" type="simple" priority="1" create-date="11 Sep 2012 15:51" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>The duties of these coordinators shall be as follows:</text>
+							<items>
+								<item id="464385109" type="simple" priority="1" create-date="11 Sep 2012 15:51" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+									<text>Issue Requests For Proposals (RFPs) to vendors for procuring such apparatus;</text>
+								</item>
+								<item id="464385117" type="simple" priority="1" create-date="11 Sep 2012 15:51" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#105BC2">
+									<text>Collect and evaluate responses to such RFPs;</text>
+								</item>
+								<item id="464385122" type="simple" priority="1" create-date="11 Sep 2012 15:52" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80111FC2">
+									<text>Develop Detailed Technical Requirements (DTRs) by compiling, at a minimum, the following:</text>
+									<items>
+										<item id="464385129" type="simple" priority="1" create-date="11 Sep 2012 15:52" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80100BC2">
+											<text>Federal, state, and local requirements for such apparatus, as provided by the Captain;</text>
+										</item>
+										<item id="464385136" type="simple" priority="1" create-date="11 Sep 2012 15:52" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80101BC2">
+											<text>Budget requirements provided by the President;</text>
+										</item>
+										<item id="464385140" type="simple" priority="1" create-date="11 Sep 2012 15:52" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80120BC2">
+											<text>Official Vehicle Uniform requirements adopted by the membership in accordance with the Logos And Uniforms article in these bylaws;</text>
+										</item>
+										<item id="464382742" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Special configurations and options, to the extent permitted by the budget;</text>
+										</item>
+									</items>
+								</item>
+								<item id="464385214" type="simple" priority="1" create-date="11 Sep 2012 15:53" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Require vendors to fulfill such DTRs when placing orders for such apparatus;</text>
+								</item>
+								<item id="464385375" type="simple" priority="1" create-date="11 Sep 2012 15:56" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Present contracts to the President and Captain for their signatures;</text>
+								</item>
+								<item id="464385520" type="simple" priority="1" create-date="11 Sep 2012 15:58" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Archive such DTRs and orders, and any related contracts, technical documents, drawings, warranties, etc;</text>
+								</item>
+								<item id="464385524" type="simple" priority="1" create-date="11 Sep 2012 15:58" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+									<text>Comply, to the extent possible, with related resolutions and plans adopted by the membership, including, but not limited to the following:</text>
+									<items>
+										<item id="464385532" type="simple" priority="1" create-date="11 Sep 2012 15:58" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Standard Configuration Plan;</text>
+										</item>
+										<item id="464385536" type="simple" priority="1" create-date="11 Sep 2012 15:58" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+											<text>Fleet Renewal Plan;</text>
+										</item>
+										<item id="464385540" type="simple" priority="1" create-date="11 Sep 2012 15:58" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+											<text>Plan Of Action &amp; Milestones;</text>
+										</item>
+									</items>
+								</item>
+								<item id="464385544" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+									<text>Maintain a written plan for recapitalizing such apparatus at the end of its service life, unless the Corporation has resolved not to replace it;</text>
+								</item>
+								<item id="464385553" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Immediately after such apparatus has been decommissioned (per the Captain), make arrangements for its disposal, to include at a minimum:</text>
+									<items>
+										<item id="464385561" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+											<text>Preserving such apparatus to minimize loss of residual value until disposal is complete;</text>
+										</item>
+										<item id="464385567" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>Removal or deinstallation of components that are not Corporate property, or that are to be kept by the Corporation;</text>
+										</item>
+										<item id="464382743" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+											<text>If not sending such apparatus to be destroyed, removal of its Official Vehicle Uniform elements to the extent reasonable;</text>
+										</item>
+										<item id="464385592" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80101BC2">
+											<text>If selling such apparatus, listing it for sale in a manner that will allow the Corporation to realize its fair market value.</text>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="464385600" type="simple" priority="1" create-date="11 Sep 2012 15:59" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80100BC2">
+							<text>The scope of such duties shall extend to major systems and durable components that are necessary on such apparatus, such as new or replacement radios, stretchers, generators, etc.</text>
+						</item>
+						<item id="464385608" type="simple" priority="1" create-date="11 Sep 2012 16:00" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>No member shall represent any contract to build, remount, or order such apparatus to be binding upon the Corporation unless such contract is signed by both the President and Captain, unless the membership has specifically designated one or more replacement signatories for a specific transaction. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382744" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>The appointments of the Membership, Public Relations, Entertainment, Fund Drive, and Finance Coordinators shall be made at the first meeting after the installation of new officers and all Coordinators shall serve for a period of one (1) year. All other Coordinators shall be appointed as necessary. Each Coordinator shall be from the active/associate and active administrative membership. </text>
+				</item>
+				<item id="464382745" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>The president may appoint one or more members to assist an above named coordinator in his purpose, and in such case, the coordinator will be the chairperson of, and the assistants will be members of, a committee by such name and for such purpose.</text>
+				</item>
+			</items>
+		</item>
+		<item id="464382746" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#3009C2">
+			<text>MEETINGS</text>
+			<note>Amended: 10Jan94, 1Apr96, 5Aug96, 4Aug97, 1May2006, 4May2009, 5Oct2009</note>
+			<items>
+				<item id="464382748" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>SCHEDULING, QUORUM, AND ATTENDANCE</text>
+					<items>
+						<item id="464385665" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105BC2">
+							<text>There shall be a regular monthly business meeting to be held the first Monday of the month and a regular monthly drill meeting to be held as designated each month.</text>
+						</item>
+						<item id="464385671" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80125FC2">
+							<text>Special business meetings shall be called by the President of Kempsville Volunteer Rescue Squad when deemed necessary.</text>
+						</item>
+						<item id="464385676" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#801317C2">
+							<text>A member wishing to leave the meeting early must obtain permission from the presiding officer.</text>
+						</item>
+						<item id="464385680" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Twelve (12) active voting members shall constitute a quorum, which quorum shall be necessary to transact any business which may require a body vote. A vote on membership will be a 2/3 majority of all voting members present.</text>
+						</item>
+						<item id="464385687" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+							<text>The word meeting is defined as business meeting or drill.</text>
+						</item>
+						<item id="464385692" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Special drills shall be called by the Training Officer at such time and place designated by him. He may change or cancel any drill that coincides with holidays.</text>
+						</item>
+						<item id="464385698" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+							<text>All designated drills shall be posted at least ten (10) days prior to said drills.</text>
+						</item>
+						<item id="464385703" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#135FC2">
+							<text>Upon a phone call or in writing a member may be excused from attending a business meeting by the President or Vice President and a drill meeting by the appropriate operations officer. The member may be excused for any of the following reasons:</text>
+							<items>
+								<item id="464382749" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+									<text>Working (primary job)</text>
+								</item>
+								<item id="464385729" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Illness</text>
+								</item>
+								<item id="464385733" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+									<text>Attending special rescue classes</text>
+								</item>
+								<item id="464385736" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+									<text>Tending to Squad or Department business</text>
+								</item>
+								<item id="464385741" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100342">
+									<text>Attending school or college classes. </text>
+								</item>
+							</items>
+						</item>
+					</items>
+				</item>
+				<item id="464382750" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>RULES OF ORDER: The rules contained in the current edition of Robert&apos;s Rules Of Order Newly Revised shall govern the organization except where they are inconsistent with these bylaws or with any special rules of order the organization may adopt. </text>
+				</item>
+				<item id="464382751" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>ORDER OF BUSINESS. The order of business shall be as follows:</text>
+					<items>
+						<item id="464385756" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Call to order</text>
+						</item>
+						<item id="464385760" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Nominations and elections to fill any vacant elected offices.</text>
+						</item>
+						<item id="464385765" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Officer/Visitor introductions</text>
+						</item>
+						<item id="464385769" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Attendance</text>
+						</item>
+						<item id="464385772" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Crew assignments for duration of meeting</text>
+						</item>
+						<item id="464385776" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Reading of minutes</text>
+						</item>
+						<item id="464385780" type="simple" priority="1" create-date="11 Sep 2012 16:02" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Representation</text>
+							<items>
+								<item id="464385783" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80125FC2">
+									<text>Rescue Council</text>
+								</item>
+								<item id="464385787" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>VAVRS</text>
+								</item>
+							</items>
+						</item>
+						<item id="464385790" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Board of Directors - President</text>
+						</item>
+						<item id="464385795" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Fund Drive Coordinator&apos;s report</text>
+						</item>
+						<item id="464385799" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Entertainment Coordinator&apos;s report</text>
+						</item>
+						<item id="464385803" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Other Coordinator or committee reports </text>
+						</item>
+						<item id="464385808" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Unfinished business</text>
+						</item>
+						<item id="464385814" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>New business</text>
+						</item>
+						<item id="464385818" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>&quot;Good of the Organization&quot;</text>
+							<items>
+								<item id="464385822" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>President</text>
+								</item>
+								<item id="464385826" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Captain</text>
+								</item>
+								<item id="464385829" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Others</text>
+								</item>
+							</items>
+						</item>
+						<item id="464385832" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Executive session (Dismiss all visitors)</text>
+							<items>
+								<item id="464385838" type="simple" priority="1" create-date="11 Sep 2012 16:03" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Finance Coordinator&apos;s report</text>
+								</item>
+								<item id="464385842" type="simple" priority="1" create-date="11 Sep 2012 16:04" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Membership Coordinator&apos;s report</text>
+								</item>
+								<item id="464385845" type="simple" priority="1" create-date="11 Sep 2012 16:04" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+									<text>Other business</text>
+								</item>
+							</items>
+						</item>
+						<item id="464385849" type="simple" priority="1" create-date="11 Sep 2012 16:04" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Welcome to newly-approved/promoted members</text>
+						</item>
+						<item id="464385854" type="simple" priority="1" create-date="11 Sep 2012 16:04" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>Adjournment</text>
+						</item>
+					</items>
+				</item>
+			</items>
+		</item>
+		<item id="464382752" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#1009C2">
+			<text>ANNUAL BUDGET. A budget shall be presented by the senior operational officer of the Rescue Squad and the President. The budget year is to run from July 1 through June 30. The budget shall contain the projected expenditures of the coming year. All expenditures will be made as outlined in these bylaws. Should no budget be approved for a fiscal year by the beginning of said year, the prior year&apos;s budget shall be repeated until such time as the membership revises it or replaces it. </text>
+		</item>
+		<item id="464382753" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#1009C2">
+			<text>DISPOSITION OF FUNDS</text>
+			<items>
+				<item id="464382755" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>All distributions shall be to organizations that qualify as exempt organizations under Section 501C3 of the Internal Revenue Code of 1954 or the Corresponding Provision of any future United States Internal Revenue Law.</text>
+				</item>
+				<item id="464385903" type="simple" priority="1" create-date="11 Sep 2012 16:05" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>No part of the net earning shall be distributed to its members, trustees, officers, or other private persons. It may pay reasonable compensation for service rendered. It shall not attempt to influence legislation, or publish or distribute statements in a political campaign, or work for any candidate seeking public office. It shall not carry on any other activities not permitted by a corporation exempt from Federal income tax under Section 501C3 of the Internal Revenue code of 1954.</text>
+				</item>
+				<item id="464385918" type="simple" priority="1" create-date="11 Sep 2012 16:05" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>Upon dissolution of the corporation, all funds that are not disposed of under Section A of this Article shall be disposed of by the Court of Common Pleas of the County in which the principle office of the corporation is then located, exclusively for such purpose or to such organization or organizations, as said determine, which are organized and operated exclusively for such purposes.</text>
+				</item>
+			</items>
+		</item>
+		<item id="464382756" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+			<text>LOGOS AND UNIFORMS</text>
+			<items>
+				<item id="464382758" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>DEFINITIONS </text>
+					<items>
+						<item id="464382759" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>UNIFORM: In this section the term &quot;uniform&quot; shall refer to the outward appearance of both squad members and vehicles. </text>
+						</item>
+						<item id="464382760" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+							<text>STANDARD SQUAD LOGO: The Standard Squad Logo shall be a small green cross-of-safety on a white background within a lifesaving ring (white with green-borders) overlapping a large green cross-of-safety. The Standard Squad Logo has customarily appeared on squad uniforms, patches, and equipment labels. </text>
+						</item>
+						<item id="464382761" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80101FC2">
+							<text>STYLIZED SQUAD LOGO: The Stylized Squad Logo shall be a gold lifesaving ring intertwined with a large green cross-of-safety. The horizontal bars of the large cross shall overlap the lifesaving ring, but the lifesaving ring shall overlap the vertical bars of the cross. Centered within the lifesaving ring shall be a small gold cross on a white background circle. The Stylized Squad Logo has customarily appeared on squad vehicles. </text>
+						</item>
+						<item id="464382762" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+							<text>COMMON FACTORS OF SQUAD LOGOS: The Standard and Stylized Squad Logos shall have similar internal proportions. In both logos, the word &quot;KEMPSVILLE&quot; shall be centered in the top half of the lifesaving ring in green sans serif letters. The upright words &quot;RESCUE SQUAD&quot; shall be centered in the bottom half of the lifesaving ring in green sans serif letters. </text>
+						</item>
+					</items>
+				</item>
+				<item id="464382763" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>PURPOSE: The Standard and Stylized Squad Logos shall be used to publicly identify uniformed squad members, vehicles, equipment, fund-raising materials, and other promotional materials as being associated with the Kempsville Rescue Squad, and to distinguish such people and items from other organizations. The logos connote the qualities of dedication, volunteerism, lifesaving, and safety-mindedness that helped create the organization long before the U.S. Department of Transportation established the mandate for a national EMS and its symbol, the Star of Life.</text>
+				</item>
+				<item id="464386014" type="simple" priority="1" create-date="11 Sep 2012 16:06" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>The power to select products and designs for Official Squad Member Uniforms and Official Vehicle Uniforms shall be vested in the membership.</text>
+				</item>
+				<item id="464386020" type="simple" priority="1" create-date="11 Sep 2012 16:06" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>No uniform products shall be purchased with squad funds unless such products are elements of an Official Squadmember Uniform or Official Vehicle Uniform design.</text>
+				</item>
+				<item id="464386026" type="simple" priority="1" create-date="11 Sep 2012 16:07" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>All Official Squad Uniforms and Official Vehicle Uniforms shall include as their primary logo either the Standard Squad Logo or the Stylized Squad Logo.</text>
+				</item>
+			</items>
+		</item>
+		<item id="464382764" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#1009C2">
+			<text>AMENDMENTS TO THE BYLAWS</text>
+			<items>
+				<item id="464382765" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
+					<text>All amendments to the Bylaws must be presented in writing and signed by at least five (5) members in good standing.</text>
+				</item>
+				<item id="464386056" type="simple" priority="1" create-date="11 Sep 2012 16:07" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
+					<text>After being read by the President, they shall be posted until the next regular meeting. At that time, they shall be voted on and will become valid when two-thirds (2/3) of the voting members present vote favorably.</text>
+				</item>
+				<item id="464386063" type="simple" priority="1" create-date="11 Sep 2012 16:07" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80105FC2">
+					<text>Any changes, amendments, or additions made to these Bylaws shall be attached showing the dates and sections.</text>
+				</item>
+			</items>
+		</item>
+	</items>
+</bonsai-outline>
