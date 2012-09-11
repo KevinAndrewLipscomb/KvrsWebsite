@@ -31,24 +31,6 @@ namespace bylaws {
         protected global::System.Web.UI.WebControls.HyperLink HyperLink_charters_bylaws_standing_rules;
         
         /// <summary>
-        /// HyperLink_natara_bonsai control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_natara_bonsai;
-        
-        /// <summary>
-        /// HyperLink_bylaws_outline_file control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.HyperLink HyperLink_bylaws_outline_file;
-        
-        /// <summary>
         /// UserControl_postcontent control.
         /// </summary>
         /// <remarks>

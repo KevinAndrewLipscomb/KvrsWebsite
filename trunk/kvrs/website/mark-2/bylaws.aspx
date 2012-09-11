@@ -543,13 +543,7 @@
 </tr>
 </table>
       <!-- END PASTED HTML -->
-      <hr />
-      <small>
-        <i>
-          The bylaws are maintained as a <asp:HyperLink ID="HyperLink_natara_bonsai" runat="server" NavigateUrl="http://www.natara.com/StartDownload.cfm?productID=145&type=exe">Natara Bonsai</asp:HyperLink>
-          <asp:HyperLink ID="HyperLink_bylaws_outline_file" runat="server">outline file</asp:HyperLink>.
-        </i>
-      </small>
+      <pre>-- END --</pre>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
   </body>
