@@ -824,6 +824,7 @@
     <None Include="mark-1\training\aic-challenge.doc" />
     <None Include="mark-1\training\aic-challenge.pdf" />
     <Content Include="mark-1\training\presentation\Bloodborne Pathogens and Communicable Diseases.zip" />
+    <None Include="mark-2\bylaws.otl" />
     <None Include="noninteractive\.crontab" />
     <None Include="protected\template-protected-datagrid-sortable.aspx-template" />
     <None Include="protected\template-protected-landing.aspx-template" />
