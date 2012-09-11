@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <bonsai-outline version="4.1">
-	<head outline-id="5213323" category="" item-count="257">
+	<head outline-id="5213323" category="Unfiled" item-count="257">
 		<categories>
 			<category name="Unfiled" id="0" modified="1"/>
 			<category name="Business" id="1" modified="1"/>
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="19" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464387610" cursor="228">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="19" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464382707" cursor="5">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -24,7 +24,7 @@
 		<rollup dates="1" status="1">
 			<rollup-custom enable="1" operation="sum" include="all" modified="0"/>
 		</rollup>
-		<sync-info generation="1" modified="1">
+		<sync-info generation="1" modified="1" category-modified="1">
 		</sync-info>
 	</head>
 	<items xml:space="preserve">
@@ -294,9 +294,9 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382707" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#3009C2">
+		<item id="464382707" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 17:21" pos-hint="2147483649" modified="#3009C2">
 			<text>OFFICERS</text>
-			<note>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009</note>
+			<note>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009, 10Sep2012</note>
 			<items>
 				<item id="464382709" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
 					<text>CLASSIFICATIONS </text>
@@ -411,11 +411,11 @@
 										</item>
 									</items>
 								</item>
-								<item id="464382722" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-									<text>Operations Officer -- Chief of Personnel</text>
+								<item id="464382722" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:41" pos-hint="2147483649" modified="#100BC2">
+									<text>Scheduling Officer</text>
 									<items>
-										<item id="464384411" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
-											<text>Shall be elected in accordance with Section B of this Article.</text>
+										<item id="464384411" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:43" pos-hint="2147483649" modified="#80135FC2">
+											<text>Shall be appointed by the Captain.</text>
 										</item>
 										<item id="464384417" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
 											<text>Shall have the rank of Lieutenant.</text>
@@ -423,19 +423,19 @@
 										<item id="464384422" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
 											<text>The function, responsibilities, and authority shall be as follows:</text>
 											<items>
-												<item id="464384428" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-													<text>Basic function -- overseeing the day to day operation of the Squad.</text>
+												<item id="464384428" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:43" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic function --  completion of monthly operational schedule.</text>
 												</item>
-												<item id="464384433" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#105BC2">
-													<text>Responsibilities -- shall act in the absence of the Captain and the Executive Officer. Shall immediately supervise the Scheduling Sergeant. Shall assist the Captain and Executive Officer as required. Shall have the authority to command personnel with respect to operations, subordinate only to the Executive Officer and the Captain.</text>
+												<item id="464384433" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:45" pos-hint="2147483649" modified="#105BC2">
+													<text>Responsibilities -- Shall assure all ambulance shifts are covered with personnel and be responsible for notification of VBEMS supervisors when ambulance staffing is altered.  Shall assist the Captain and Executive Officer as required.  Shall have the authority to command personnel with respect to operations, subordinate only to the Executive Officer and the Captain.</text>
 												</item>
 												<item id="464384443" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
 													<text>Qualifications -- in addition to those outlined in Section B of this Article, shall have a thorough knowledge in EMS policies and procedures. Must have served in the position of an operation officer for a minimum of one (1) year or be an active member in good standing for a minimum of two (2) years.</text>
 												</item>
 											</items>
 										</item>
-										<item id="464384453" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-											<text>Shall be the Squad&apos;s nominee to the Virginia Beach Department of EMS as this corporation&apos;s Second Assistant Squad Commander.</text>
+										<item id="464384453" type="simple" priority="1" create-date="11 Sep 2012 15:40" last-modified="11 Sep 2012 16:46" pos-hint="2147483649" modified="#100BC2">
+											<text>Shall act in a command position in the absence of the Executive Officer and Captain.</text>
 										</item>
 									</items>
 								</item>
@@ -461,39 +461,39 @@
 										</item>
 									</items>
 								</item>
-								<item id="464382725" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-									<text>Equipment Sergeant</text>
+								<item id="464382725" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:47" pos-hint="2147483649" modified="#100BC2">
+									<text>Supply Sergeant</text>
 									<items>
 										<item id="464384510" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
 											<text>Shall be appointed by the Captain.</text>
 										</item>
-										<item id="464384519" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-											<text>The function and responsibilities of the Equipment Sergeant shall be as follows:</text>
+										<item id="464384519" type="simple" priority="1" create-date="11 Sep 2012 15:41" last-modified="11 Sep 2012 16:47" pos-hint="2147483649" modified="#100BC2">
+											<text>The function and responsibilities of the Supply Sergeant shall be as follows:</text>
 											<items>
 												<item id="464384522" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
 													<text>Basic Functions - shall assist the Logistics Officer in his/her duties.</text>
 												</item>
-												<item id="464384527" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-													<text>Responsibilities - shall purchase all first-aid supplies. Shall keep an accurate record of all purchases of first-aid supplies and who authorized said purchase. Shall make and keep current a quarterly inventory of all first-aid supplies. Shall insure that all laundry is kept clean. </text>
+												<item id="464384527" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:47" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - shall purchase all first-aid supplies. Shall keep an accurate record of all purchases of first-aid supplies and who authorized said purchase. Shall make and keep current a quarterly inventory of all first-aid supplies.</text>
 												</item>
 											</items>
 										</item>
 									</items>
 								</item>
-								<item id="464382726" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-									<text>Schedule Sergeant</text>
+								<item id="464382726" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 16:47" pos-hint="2147483649" modified="#100BC2">
+									<text>Equipment Sergeant</text>
 									<items>
 										<item id="464384544" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
 											<text>Shall be appointed by the Captain.</text>
 										</item>
-										<item id="464384550" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-											<text>The function and responsibilities of the Sergeant shall be as follows</text>
+										<item id="464384550" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:47" pos-hint="2147483649" modified="#100BC2">
+											<text>The function and responsibilities of the Equipment Sergeant shall be as follows:</text>
 											<items>
-												<item id="464384555" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-													<text>Basic Function - shall assist Operations Officer.</text>
+												<item id="464384555" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:48" pos-hint="2147483649" modified="#100BC2">
+													<text>Basic Function - shall assist Logistics and Supply Officers.</text>
 												</item>
-												<item id="464384561" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#100BC2">
-													<text>Responsibilities - shall be responsible for the duty roster. Shall assist in any other areas as deemed necessary by the Captain and Lieutenants. </text>
+												<item id="464384561" type="simple" priority="1" create-date="11 Sep 2012 15:42" last-modified="11 Sep 2012 16:49" pos-hint="2147483649" modified="#100BC2">
+													<text>Responsibilities - Shall be responsible for stocking ready lockers at both rescue stations.  Shall be responsible for maintaining all durable equipment cleanliness and repair.  Shall inventory durable equipment on all ambulances monthly.  Shall insure that all laundry is kept clean.</text>
 												</item>
 											</items>
 										</item>
