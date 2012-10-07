@@ -158,7 +158,7 @@
             <hr />
             <p></p>
             <h3>Verathon GlideScope</h3>
-            <h4>We need 5 at about $10,000 each</h4>
+            <h4>We need 3 at about $10,000 each</h4>
             <p><img src="image/glidescope.png" alt="Verathon GlideScope"/></p>
             <p>
               <small>
@@ -169,7 +169,8 @@
             </p>
             <p>
               <small>
-                The City of Virginia Beach only has six of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
+                The City of Virginia Beach only has six of these devices available in the field for the entire city population.  We won a grant for an additional two that we're placing on two of our ambulances, but to best serve the
+                community, we also need one on each of our other three ambulances.
               </small>
             </p>
             <hr />
