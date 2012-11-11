@@ -39,6 +39,18 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2012-11-11</dt>
+              <dd>
+                Four of our five ambulances are now equipped with the full-featured Physio-Control LifePak 15 devices, complete with 12-lead and end-tidal carbon dioxide monitoring.&nbsp; KVRS procured one with a grant, and now
+                the city has assigned a total of three more to us.
+              </dd>
+              <p></p>
+              <dt>2012-10-21</dt>
+              <dd>
+                Today KVRS equipped its two front-line ambulances with Verathon GlideScope video laryngoscopes that it purchased with a grant.&nbsp; We are the <i>only</i> squad in Virginia Beach to have done this.&nbsp;
+                Paramedics staffing these two ambulances will no longer have to wait for another paramedic on a zone or supervisor car to bring a GlideScope to them.
+              </dd>
+              <p></p>
               <dt>2012-09-08</dt>
               <dd>
                 This summer, KVRS was the squad chosen for the exciting and prestigious motorcades of both President Barack Obama and Republican presidential nominee Mitt Romney as they campaigned through Virginia Beach.
@@ -141,7 +153,7 @@
             <hr />
             <p></p>
             <h3>Physio-Control LifePak 15</h3>
-            <h4>We need 2 at about $25,500 each</h4>
+            <h4>We need 1 at about $25,500 each</h4>
             <p><img src="image/LP-15-300x300.png" alt="LifePak 15"/></p>
             <p>
               <small>
@@ -151,8 +163,8 @@
             </p>
             <p>
               <small>
-                There are full-featured and low-end variants of this device.  We have three of the full-featured kind:  Two from the City of Virginia Beach, and one that we won a grant for.  On our 4th and 5th ambulances, we
-                have the low-end variants.  To best serve the community, we need the full-featured variants on every ambulance.
+                There are full-featured and low-end variants of this device.  We have four of the full-featured kind:  Three from the City of Virginia Beach, and one that we won a grant for.  On our 5th ambulance, we have the
+                low-end variant.  To best serve the community, we need the full-featured variant on every ambulance.
               </small>
             </p>
             <hr />
@@ -169,8 +181,8 @@
             </p>
             <p>
               <small>
-                The City of Virginia Beach only has six of these devices available in the field for the entire city population.  We won a grant for an additional two that we're placing on two of our ambulances, but to best serve the
-                community, we also need one on each of our other three ambulances.
+                The City of Virginia Beach only has six of these devices available in the field for the entire city population.  We won a grant for an additional two that we've placed on our two front-line ambulances, but to
+                best serve the community, we also need one on each of our other three ambulances.
               </small>
             </p>
             <hr />
@@ -186,7 +198,7 @@
             </p>
             <p>
               <small>
-                The City of Virginia Beach does not provide stretchers for us.  We have two powered stretchers in service thanks to a grant, but to best serve the community, we have a goal to acquire at least one more.
+                The City of Virginia Beach does not provide stretchers for us.  We have three powered stretchers in service thanks to grants, but to best serve the community, we have a goal to acquire at least one more.
               </small>
             </p>
           </td>
