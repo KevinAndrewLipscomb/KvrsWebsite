@@ -39,6 +39,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-01-03</dt>
+              <dd>
+                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station <a href="http://fox43tv.com">Fox 43</a>!&nbsp; We'll post a link to the article and video when it becomes available in
+                mid-January.
+              </dd>
+              <p></p>
               <dt>2012-11-11</dt>
               <dd>
                 Four of our five ambulances are now equipped with the full-featured Physio-Control LifePak 15 devices, complete with 12-lead and end-tidal carbon dioxide monitoring.&nbsp; KVRS procured one with a grant, and now
