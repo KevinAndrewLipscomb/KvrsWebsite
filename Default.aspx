@@ -41,8 +41,8 @@
             <dl>
               <dt>2013-01-03</dt>
               <dd>
-                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station <a href="http://fox43tv.com">Fox 43</a>!&nbsp; We'll post a link to the article and video when it becomes available in
-                mid-January.
+                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station Fox 43!&nbsp; See the <a href="http://www.fox43tv.com/dpp/news/local/Hampton-roads-hero-April-Achesinski">full coverage
+                here!</a>
               </dd>
               <p></p>
               <dt>2012-11-11</dt>
