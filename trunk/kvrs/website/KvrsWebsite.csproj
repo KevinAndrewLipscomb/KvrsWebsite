@@ -355,6 +355,7 @@
     <Content Include="mark-2\image\urquhart-justin.jpg" />
     <Content Include="mark-2\lvr_exemption.aspx" />
     <Content Include="mark-2\operations.aspx" />
+    <Content Include="resource\RotaryClubWinners.wmv" />
     <Content Include="new_user_registration.aspx" />
     <Content Include="remind_username.aspx" />
     <Content Include="salogin.aspx" />
