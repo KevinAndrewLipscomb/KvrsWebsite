@@ -51,7 +51,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Secretary" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" /></td>
+              <img alt="Judy Paulsen" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" /></td>
             </td>
             <td>
               <strong>Secretary</strong><br />
@@ -117,7 +117,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="Secretary" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" />&nbsp;
+              <img alt="Judy Paulsen" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" />&nbsp;
             </td>
             <td>
               Judy Paulsen
