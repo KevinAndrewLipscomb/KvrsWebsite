@@ -29,43 +29,41 @@
           </tr>
           <tr>
             <td>
-              <img src="http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1779-i.jpg" />
+              <img alt="Bryan Miller" src="image/miller-bryan.jpg" style="width: 234px; height: 351px" />
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
-              Jason Grimes<br />
-              Email: <a href='mailto:exo@kvrs.org'>exo@kvrs.org</a>
+              Bryan Miller<br />
+              Email: <a href='mailto:xo@kvrs.org'>xo@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
               &nbsp;
-            </td>
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" /></td>
             <td>
-              <strong>Operations Officer (952)</strong><br />
-              Jamie Hyssong<br />
-              Email: <a href='mailto:ops@kvrs.org'>ops@kvrs.org</a><br />
-              <br />
               <strong>Schedule Coordinator</strong><br />
+              David Jimerson<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
-            </td>
+              <img alt="Logistics Officer" src="image/ormond-john.jpg" style="width: 234px; height: 351px" /></td>
             <td>
               <strong>Logistics Officer (953)</strong><br />
-              David Jimerson<br />
+              John Ormond<br />
               Email: <a href='mailto:logistics@kvrs.org'>logistics@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="Bryan Miller" src="image/miller-bryan.jpg" style="width: 234px; height: 351px" /></td>
+              <img alt="Supply Sergeant" src="image/oliver-nick.jpg" style="width: 234px; height: 351px" /></td>
+            </td>
+            </td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
-              Bryan Miller<br />
+              Nick Oliver<br />
               Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>

@@ -349,6 +349,9 @@
     <Content Include="mark-2\csp.aspx" />
     <Content Include="mark-2\image\achesinski-amber.jpg" />
     <Content Include="mark-2\image\miller-bryan.jpg" />
+    <Content Include="mark-2\image\oliver-nick.JPG" />
+    <Content Include="mark-2\image\ormond-john.JPG" />
+    <Content Include="mark-2\image\paulsen-judy.JPG" />
     <Content Include="mark-2\image\urquhart-justin.jpg" />
     <Content Include="mark-2\lvr_exemption.aspx" />
     <Content Include="mark-2\operations.aspx" />

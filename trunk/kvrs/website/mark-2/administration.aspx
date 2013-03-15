@@ -51,7 +51,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Secretary" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" /></td>
             </td>
             <td>
               <strong>Secretary</strong><br />
@@ -61,11 +61,11 @@
           </tr>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1360-i.jpg' />
+              
             </td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              Bob Paulsen<br />
+              <i>(vacant)</i><br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
           </tr>
@@ -117,7 +117,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Secretary" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" />&nbsp;
             </td>
             <td>
               Judy Paulsen
