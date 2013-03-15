@@ -39,6 +39,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-03-06</dt>
+              <dd>
+                Our President, Kevin Lipscomb, was named the Virginia Beach Public Safety Volunteer Of The Year by the Cape Henry Rotary Club.&nbsp; See the <a href="resource/RotaryClubWinners.wmv">Windows Media Video file
+                here!</a>
+              </dd>
+              <p></p>
               <dt>2013-01-03</dt>
               <dd>
                 Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station Fox 43!&nbsp; See the <a href="http://www.fox43tv.com/dpp/news/local/Hampton-roads-hero-April-Achesinski">full coverage
