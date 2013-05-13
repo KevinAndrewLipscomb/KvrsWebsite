@@ -39,6 +39,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-05-06</dt>
+              <dd>
+                We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
+                lifting injuries, and they are safer for our patients.
+              </dd>
+              <p></p>
               <dt>2013-03-06</dt>
               <dd>
                 Our President, Kevin Lipscomb, was named the Virginia Beach Public Safety Volunteer Of The Year by the Cape Henry Rotary Club.&nbsp; See the <a href="resource/RotaryClubWinners.wmv">Windows Media Video file
@@ -94,67 +100,17 @@
                 No EMS mutual aid units were required from surrounding jurisdictions.
               </dd>
               <p></p>
-              <dt>2012-02-11</dt>
-              <dd>
-                It was our pleasure to host the <a href="http://www.vavrs.com/">VAVRS</a> District 2 Meet today, and we hope all the participants had a good time.  We particularly enjoyed seeing those of our peers who traveled
-                long distances to get here, including members of the Stoney Creek, Brunswick, Greensville, Nansemond-Suffolk, and Windsor volunteer rescue squads.
-              </dd>
-              <p></p>
-              <dt>2012-01-15</dt>
-              <dd>
-                KVRS has won <i>yet another</i> 50% Virginia Rescue Squad Assistance Fund grant to replace its oldest ambulance (920) with a new one.  <i>And again</i>, we won a grant from the Virginia Beach Rescue Squad
-                Foundation, this time for Verathon GlideScope intubation equipment.
-              </dd>
-              <p></p>
-              <dt>2012-01-13</dt>
-              <dd>
-                <a href="http://184.154.226.5/~vbvolunt/index.php?title=Radio_Traffic_Internet_Streams">VB EMS Radio Traffic Internet Streams</a> have now been made available, thanks in no small part to coordination and
-                equipment contributions from KVRS.
-              </dd>
-              <p></p>
               <dt>2011-07-28</dt>
               <dd>
                 Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
                 resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
               </dd>
               <p></p>
-              <dt>2011-07-07</dt>
-              <dd>
-                Ouch!  Ambulance 927 was involved in a collision today at an intersection while responding to a call using its lights, siren, and airhorn.  Preliminary indications are that the crew was proceeding "with due
-                regard" as required by law.  One of our members suffered a minor injury, was seen at the hospital, and was discharged soon afterward.  Another ambulance was dispatched to the original call.  We, and the
-                community, will be denied the use of this ambulance for quite a while.  <i>Please</i> be attentive at all times when driving!  Pull over and stop for us when you see us driving in emergency mode!
-              </dd>
-              <p></p>
               <dt>2011-07-01</dt>
               <dd>KVRS has won a 50% Virginia Rescue Squad Assistance Fund grant to replace two of its aging conventional stretchers.  This will give us a mix of late-model conventional and powered stretchers.</dd>
               <p></p>
-              <dt>2011-05-15</dt>
-              <dd>
-                KVRS is shocked and saddened to learn of the death of one of its own members.  Evan Collins, recently released as an EMT-B, was a skilled and caring provider, a fun partner and eager teammate, and an asset to
-                his community.  He was steadily building his EMS resume and seemed to have a promising career and plenty of friendships ahead of him.  He has gone well before his time, and we sincerely miss him.  KVRS extends
-                its heartfelt sympathies to Evan's family and friends.  Memorial pages are available
-                <a href="http://grahamfh.frontrunnerpro.com/runtime/67937/runtime.php?SiteId=67937&NavigatorId=261452&op=tributeMemorialCandles&viewOpt=dpaneOnly&ItemId=743820">here (grahamfh.frontrunnerpro.com)</a> and
-                <a href="http://www.facebook.com/#!/pages/Evan-Collins-Memorial-Page/201815283193966">here (facebook.com)</a>.
-              </dd>
-              <p></p>
-              <dt>2011-02-21</dt>
-              <dd>
-                The city has completed the renovation of the Stumpy Lake station at Pleasant Valley Road and Lynnhaven Parkway.  KVRS has again quartered an ambulance and resumed satellite service there as "Rescue 19".
-                Ambulance crews will still run out of the Woodstock station on Providence Road (as "Rescue 10") whenever staffing allows, and "Rescue 9" (the Kempsville station on Ruritan Court) will still serve as KVRS's
-                primary operations base.
-              </dd>
-              <p></p>
               <dt>2011-01-20</dt>
               <dd>KVRS responded to more than 21 calls per day (transporting more than 14 patients per day) in 2010, average.</dd>
-              <p></p>
-              <dt>2010-12-27</dt>
-              <dd>
-                KVRS has won a 50% Virginia Rescue Squad Assistance Fund grant to replace its oldest ambulance (921) with a new one.  We also won a grant from the Virginia Beach Rescue Squad Foundation for another 12-lead
-                cardiac defibrillator/monitor.
-              </dd>
-              <p></p>
-              <dt>2010-11-21</dt>
-              <dd>We now have two powered stretchers in service.  Thanks to grants from the Virginia Beach Rescue Squad Foundation, KVRS only paid 12.5¢ on the dollar for them!</dd>
             </dl>
             <p></p>
           </td>
@@ -195,22 +151,6 @@
               <small>
                 The City of Virginia Beach only has six of these devices available in the field for the entire city population.  We won a grant for an additional two that we've placed on our two front-line ambulances, but to
                 best serve the community, we also need one on each of our other three ambulances.
-              </small>
-            </p>
-            <hr />
-            <p></p>
-            <h3>Stryker Power-Pro stretcher</h3>
-            <h4>We need 1 at about $11,500</h4>
-            <p><img src="image/stryker-power-pro.png" alt="Stryker Power Pro cot"/></p>
-            <p>
-              <small>
-                Patients must be lifted, lifting can cause back injuries to EMTs, back injuries can be permanent, and permanent back injuries can end volunteer careers.  It doesn't help that patients aren't getting any lighter.
-                The electric-hydraulic stretcher shown here can save our backs and allow us to keep serving the community.  These stretchers are also safer and more comfortable for the patient.
-              </small>
-            </p>
-            <p>
-              <small>
-                The City of Virginia Beach does not provide stretchers for us.  We have three powered stretchers in service thanks to grants, but to best serve the community, we have a goal to acquire at least one more.
               </small>
             </p>
           </td>
