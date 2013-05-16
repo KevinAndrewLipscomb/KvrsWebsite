@@ -39,6 +39,11 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-05-16</dt>
+              <dd>
+                WAVY-TV 10 was on hand when our paramedic Brian Roland was reunited with a patient whose life he had saved!&nbsp; See the story <a href="http://www.wavy.com/dpp/hr_show/i_am_hr/iahr-vb-rescue-squad">here</a>!
+              </dd>
+              <p></p>
               <dt>2013-05-06</dt>
               <dd>
                 We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
