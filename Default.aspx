@@ -39,6 +39,26 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-05-21</dt>
+              <dd>
+                KVRS President Kevin Lipscomb and EMT-Enhanced Joe Tottossy from our sister agency, Princess Anne Courthouse Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about National EMS
+                Week, our current fund drive, and what we do with contribution money.
+                <blockquote>
+                  <object type="application/x-shockwave-flash" align="middle" data="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0" width="320" height="272">
+                    <param name="movie" value="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0">
+                    <param name="quality" value="high">
+                    <param name="bgcolor" value="#000000">
+                    <param name="allowscriptaccess" value="always">
+                    <param name="allowfullscreen" value="true">
+                    <param name="allownetworking" value="all">
+                    <param name="wmode" value="opaque">
+                    <param name="flashvars" value="src=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F21%2FNational_EMS_Week_97791.mp4&plugin_vast=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPAdIMA_v1_4_FP10_2.swf&vast_ads=true&vast_preRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D1x1000%3Bord%3D210924841696396480%3Frand%3D%25rand%25&vast_postRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D3x1000%3Bord%3D210924841696396480%3Frand%3D%25rand%25&vast_overlay=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D2x40%3Bord%3D210924841696396480%3Frand%3D%25rand%25&plugin_omniture=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEndPlayOmniture_v1_4_FP10_2.swf&omniture_vidSegment=M&omniture_vidContent=video&omniture_debugTracking=false&omniture_account=dpsdpswavy%2Cdpsglobal&omniture_visitorNamespace=fim&omniture_trackingServer=fim.122.2o7.net&omniture_trackingServerSecure=fim.102.122.2o7.net&omniture_vidID=0&omniture_id=video_player1&omniture_vidCategory=hr_show&omniture_vidPubDate=2013_05_21&omniture_vidTitle=National%20EMS%20Week&plugin_cc=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPCaption_v1_4_FP10_2.swf&cc_dfxp=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F21%2Fcaptions%2FNational_EMS_Week_977910000.dfxp&epD=http%3A%2F%2Fmedia.wcpo.com%2F&showMenu=true&shareUrl=http%3A%2F%2Fwww.wavy.com%2Fdpp%2Fhr_show%2Fnational-ems-week-fundraising-campaign&shareTitle=National%20EMS%20Week%20Fundraising%20Campaign&poster=http%3A%2F%2Fmedia2.wavy.com%2F%2Fphoto%2F2013%2F05%2F21%2FNational_EMS_Week_977910000_20130521100924_640_480.JPG&embed=true&embeddableWithLink=true&toggleVideoCode=3&emailAction=http%3A%2F%2Fwww.wavy.com%2Femailaction&vW=320&vH=240&cntrlH=32">
+                  </object>
+                  <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/national-ems-week-fundraising-campaign" target="_blank">National EMS Week Fundraising Campaign</a></p>
+                  <p>Also see <a href="http://www.wavy.com/dpp/hr_show/audience-virginia-beach-rescue-squads"> yesterday's segment</a>.</p>
+                </blockquote>
+              </dd>
+              <p></p>
               <dt>2013-05-16</dt>
               <dd>
                 WAVY-TV 10 was on hand when our paramedic Brian Roland was reunited with a patient whose life he had saved!&nbsp; See the story <a href="http://www.wavy.com/dpp/hr_show/i_am_hr/iahr-vb-rescue-squad">here</a>!
