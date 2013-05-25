@@ -39,6 +39,9 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-05-25</dt>
+              <dd>The mailout for our Spring fund drive has reached area mailboxes.&nbsp; We're depending on you to send a donation soon.&nbsp; Thanks!</dd>
+              <p></p>
               <dt>2013-05-21</dt>
               <dd>
                 KVRS President Kevin Lipscomb and EMT-Enhanced Joe Tottossy from our sister agency, Princess Anne Courthouse Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about National EMS
@@ -126,9 +129,6 @@
                 <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
                 we've learned over four years of very detailed specification work.
               </dd>
-              <p></p>
-              <dt>2012-05-25</dt>
-              <dd>The mailout for our annual Spring fund drive has reached area mailboxes.  We're depending on you to send a donation soon.  Thanks!</dd>
               <p></p>
               <dt>2012-04-06</dt>
               <dd>
