@@ -65,7 +65,7 @@
             </td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              <i>(vacant)</i><br />
+              Tim Crawford<br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
           </tr>
