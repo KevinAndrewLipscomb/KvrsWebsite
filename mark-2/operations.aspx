@@ -39,8 +39,8 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
-              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" /></td>
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
+            </td>
             <td>
               <strong>Schedule Coordinator</strong><br />
               David Jimerson<br />

@@ -35,7 +35,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>The corporation shall have a Board of Directors. The composition, duties, responsibilities, and authorities of the Board of Directors are specified in subparagraph IV.A.1.e.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">III.&nbsp;</td><td>MEMBERSHIP<div style="background-color:silver;"><small>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2Feb2010</small></div></td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">III.&nbsp;</td><td>MEMBERSHIP<div style="background-color:silver;"><small>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2Feb2010, 3Jun2013</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </td></tr></table>
 </tr>
@@ -167,7 +167,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Any member violating any of the provisions of these By-laws shall be disciplined by the appropriate senior operational officer and shall have the right of appeal to the Board of Directors.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>No member of the Rescue Squad can be expelled except through a majority vote of the membership, unless otherwise specifically stated in these By-Laws. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>No member of the Rescue Squad can be expelled except through a two-thirds supermajority of directors present at a board meeting. The member may appeal the board's decision at any one of the next three subsequent members meetings where a two-thirds supermajority of those present is also required to expel.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">F.&nbsp;</td><td>EXPULSIONS AND SUSPENSIONS</td></tr></table>
 </tr>

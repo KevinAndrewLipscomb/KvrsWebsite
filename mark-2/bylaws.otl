@@ -7,7 +7,7 @@
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="19" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464382707" cursor="5">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464382768" cursor="1">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -42,9 +42,9 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382768" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="11 Sep 2012 15:46" pos-hint="2147483649" modified="#300342">
+		<item id="464382768" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="04 Jun 2013 13:27" pos-hint="2147483649" modified="#300342">
 			<text>MEMBERSHIP</text>
-			<note>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2Feb2010</note>
+			<note>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2feb2010, 3Jun2013</note>
 			<items>
 				<item id="464382682" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:13" pos-hint="2147483649" modified="#100BC2" collapsed="1">
 					<text>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </text>
@@ -267,8 +267,8 @@
 						<item id="464383820" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80100BC2">
 							<text>Any member violating any of the provisions of these By-laws shall be disciplined by the appropriate senior operational officer and shall have the right of appeal to the Board of Directors.</text>
 						</item>
-						<item id="464383826" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="11 Sep 2012 16:33" pos-hint="2147483649" modified="#80135FC2">
-							<text>No member of the Rescue Squad can be expelled except through a majority vote of the membership, unless otherwise specifically stated in these By-Laws. </text>
+						<item id="464383826" type="simple" priority="1" create-date="11 Sep 2012 15:30" last-modified="04 Jun 2013 13:21" pos-hint="2147483649" modified="#80135FC2">
+							<text>No member of the Rescue Squad can be expelled except through a two-thirds supermajority of directors present at a board meeting. The member may appeal the board&apos;s decision at any one of the next three subsequent members meetings where a two-thirds supermajority of those present is also required to expel.</text>
 						</item>
 					</items>
 				</item>
