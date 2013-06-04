@@ -84,14 +84,6 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
-            </td>
-            <td>
-              Dan Kiernan
-            </td>
-          </tr>
-          <tr>
-            <td>
               <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1357-i.jpg' />
             </td>
             <td>
@@ -100,6 +92,14 @@
               <em>Collateral responsibilities:</em><br />
               Building &amp; Grounds Coordinator<br />
               Fund Drive New Neighborhood Recorder
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
+            </td>
+            <td>
+              David Jimerson
             </td>
           </tr>
         </table>
