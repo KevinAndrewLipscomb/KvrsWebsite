@@ -45,6 +45,25 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-08-06</dt>
+              <dd>
+                WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through
+                traffic to reach emergency scenes.
+                <blockquote>
+                  <object type="application/x-shockwave-flash" align="middle" data="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=040313_0" width="320" height="272">
+                    <param name="movie" value="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=040313_0">
+                    <param name="quality" value="high">
+                    <param name="bgcolor" value="#000000">
+                    <param name="allowscriptaccess" value="always">
+                    <param name="allowfullscreen" value="true">
+                    <param name="allownetworking" value="all">
+                    <param name="wmode" value="opaque">
+                    <param name="flashvars" value="src=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F08%2F06%2FWe_go__Behind_the_windshield__on_todays__127928.mp4&plugin_vast=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPAdIMA_v1_4_FP10_2.swf&vast_ads=true&vast_preRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D1x1000%3Bord%3D453295043458696000%3Frand%3D%25rand%25&vast_postRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D3x1000%3Bord%3D453295043458696000%3Frand%3D%25rand%25&vast_overlay=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D2x40%3Bord%3D453295043458696000%3Frand%3D%25rand%25&plugin_omniture=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEndPlayOmniture_v1_4_FP10_2.swf&omniture_vidSegment=M&omniture_vidContent=video&omniture_debugTracking=false&omniture_account=dpsdpswavy%2Cdpsglobal&omniture_visitorNamespace=fim&omniture_trackingServer=fim.122.2o7.net&omniture_trackingServerSecure=fim.102.122.2o7.net&omniture_vidID=0&omniture_id=video_player1&omniture_vidCategory=hr_show&omniture_vidPubDate=2013_08_06&omniture_vidTitle=We%20go%20%22Behind%20the%20windshield%22%20on%20todays%20edtion%20of%20Reck%20on%20the%20Road%20with%20the%20Volunteer%20Rescue%20Squads%20of%20Virginia%20Beach.&plugin_cc=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPCaption_v1_4_FP10_2.swf&cc_dfxp=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F08%2F06%2Fcaptions%2FWe_go__Behind_the_windshield__on_todays__1279280000.dfxp&epD=http%3A%2F%2Fmedia.wcpo.com%2F&showMenu=true&shareUrl=http%3A%2F%2Fwww.wavy.com%2Fdpp%2Fhr_show%2Freck-on-the-road-behind-the-windshield&shareTitle=Reck%20on%20the%20Road%3A%20Behind%20the%20windshield&poster=http%3A%2F%2Fmedia2.wavy.com%2F%2Fphoto%2F2013%2F08%2F06%2FWe_go__Behind_the_windshield__on_todays__1279280000_20130806104121_640_480.JPG&embed=true&embeddableWithLink=true&toggleVideoCode=3&emailAction=http%3A%2F%2Fwww.wavy.com%2Femailaction&vW=320&vH=240&cntrlH=32">
+                  </object>
+                  <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/reck-on-the-road-behind-the-windshield" target="_blank">Reck on the Road: Behind the windshield</a></p>
+                </blockquote>
+              </dd>
+              <p></p>
               <dt>2013-05-25</dt>
               <dd>The mailout for our Spring fund drive has reached area mailboxes.&nbsp; We're depending on you to send a donation soon.&nbsp; Thanks!</dd>
               <p></p>
@@ -162,6 +181,23 @@
             <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>
+            <hr />
+            <p></p>
+            <h3>Physio-Control LUCAS Chest Compression System</h3>
+            <h4>We need 5 at about $15,000 each</h4>
+            <p><img src="image/lucas.png" alt="LUCAS Chest Compression System"/></p>
+            <p>
+              <small>
+                Performing manual chest compressions during CPR is difficult, tiring, and impossible in certain situations.  Quality varies from rescuer to rescuer, and deteriorates quickly after
+                only one or two minutes.  LUCAS is a safe and efficient <em>CPR machine</em> that standardizes chest compressions in accordance with the latest scientific guidelines.  It never gets tired, doesn't have to
+                stop when we&#39;re carrying the patient, and frees us to focus on other life-saving tasks.  It also lets us strap into our seats on the way to the hospital, keeping us safer.
+              </small>
+            </p>
+            <p>
+              <small>
+                The City of Virginia Beach only has one of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
+              </small>
+            </p>
             <hr />
             <p></p>
             <h3>Physio-Control LifePak 15</h3>

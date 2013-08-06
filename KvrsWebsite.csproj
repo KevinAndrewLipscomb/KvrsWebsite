@@ -87,6 +87,7 @@
     <Content Include="image\glidescope.png" />
     <Content Include="image\logo.png" />
     <Content Include="image\LP-15-300x300.png" />
+    <Content Include="image\lucas.png" />
     <Content Include="image\stryker-power-pro.png" />
     <Content Include="js\sha1.js" />
     <Content Include="login.aspx" />
