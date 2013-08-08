@@ -184,7 +184,7 @@
             <hr />
             <p></p>
             <h3>Physio-Control LUCAS Chest Compression System</h3>
-            <h4>We need 5 at about $15,000 each</h4>
+            <h4>We need 5 at about $13,100 each</h4>
             <p><img src="image/lucas.png" alt="LUCAS Chest Compression System"/></p>
             <p>
               <small>
