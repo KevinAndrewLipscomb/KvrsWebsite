@@ -53,17 +53,7 @@
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Quick links</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap">Scanner feeds</td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://hrconnect.com:8010/VBEMSO.m3u" rel="nofollow">Digital Ch's</a></small></td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://hrconnect.com:8010/VBEMSV.m3u" rel="nofollow">Analog Ch's</a></small></td>
+                <td colspan="2" nowrap="nowrap"><a href="http://www.vbrescuecouncil.org/pub/streaming_radio_traffic.aspx" target="_blank">Scanner feed</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
