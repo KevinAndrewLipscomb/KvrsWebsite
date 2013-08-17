@@ -53,7 +53,7 @@
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Quick links</strong></td></tr>
               <tr>
                 <td>&nbsp;</td>
-                <td colspan="2" nowrap="nowrap"><a href="http://www.vbrescuecouncil.org/pub/streaming_radio_traffic.aspx" target="_blank">Scanner feed</a></td>
+                <td colspan="2" nowrap="nowrap"><a href="http://www.vbrescuecouncil.org/pub/streaming_radio_traffic.aspx" target="_blank">Scanner feeds</a></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
