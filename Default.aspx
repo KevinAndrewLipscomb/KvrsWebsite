@@ -45,6 +45,15 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-08-22</dt>
+              <dd>
+                The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined
+                <a href="http://epilot.hamptonroads.com/Olive/ODE/VirginianPilot/LandingPage/LandingPage.aspx?href=VmlyZ2luaWFuUGlsb3QvMjAxMy8wOC8yMg..&pageno=NTk.&entity=QXIwNTkwMQ..&view=ZW50aXR5" target="_blank">
+                  <i>Mr. Clean</i>
+                </a>
+                about the invaluable service he provides to keep our ambulances clean and prepared for calls.
+              </dd>
+              <p></p>
               <dt>2013-08-06</dt>
               <dd>
                 WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through
