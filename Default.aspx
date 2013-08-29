@@ -45,6 +45,14 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-08-28</dt>
+              <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
+              Compression System and Family & Friends CPR training.
+                <blockquote>
+                  <a href="http://www.wavy.com/hr-show/cpr-saves-lives"><img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" /></a>
+                </blockquote>
+              </dd>
+              <p></p>
               <dt>2013-08-22</dt>
               <dd>
                 The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined
