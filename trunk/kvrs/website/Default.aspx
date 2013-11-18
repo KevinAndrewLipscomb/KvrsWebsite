@@ -45,6 +45,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2013-11-16</dt>
+              <dd>At our annual banquet tonight, our new <a href="mark-2/administration.aspx">administration</a> and <a href="mark-2/operations.aspx">operations</a> officers were installed.</dd>
+              <p></p>
+              <dt>2013-11-11</dt>
+              <dd>The mailout for our Fall fund drive has reached area mailboxes.&nbsp; We're depending on you to send a donation soon.&nbsp; Thanks!</dd>
+              <p></p>
               <dt>2013-08-28</dt>
               <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
               Compression System and Family & Friends CPR training.
@@ -80,9 +86,6 @@
                   <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/reck-on-the-road-behind-the-windshield" target="_blank">Reck on the Road: Behind the windshield</a></p>
                 </blockquote>
               </dd>
-              <p></p>
-              <dt>2013-05-25</dt>
-              <dd>The mailout for our Spring fund drive has reached area mailboxes.&nbsp; We're depending on you to send a donation soon.&nbsp; Thanks!</dd>
               <p></p>
               <dt>2013-05-21</dt>
               <dd>
