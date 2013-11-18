@@ -37,16 +37,18 @@
           </tr>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg' />
+              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1357-i.jpg' />
             </td>
             <td>
               <strong>Vice President</strong><br />
-              Jim Brewer<br />
+              Tom Kiernan<br />
               Email: <a href='mailto:vicepresident@kvrs.org'>vicepresident@kvrs.org</a><br />
               <br />
               <em>Collateral responsibilities:</em><br />
-              Ambulance Procurement &amp; Disposition Coordinator<br />
-              Grant Request Coordinator
+              Building &amp; Grounds Coordinator<br />
+              Fund Drive New Neighborhood Recorder<br />
+              Grant Request Coordinator<br />
+              Ambulance Procurement &amp; Disposition Coordinator
             </td>
           </tr>
           <tr>
@@ -84,22 +86,17 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1357-i.jpg' />
+              <img src='http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1778-a-i.jpg' />
             </td>
             <td>
-              Tom Kiernan<br />
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Building &amp; Grounds Coordinator<br />
-              Fund Drive New Neighborhood Recorder
-            </td>
+              Jason Grimes</td>
           </tr>
           <tr>
             <td>
-              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
+              <img src="image/ormond-john.jpg" />
             </td>
             <td>
-              David Jimerson
+              John Ormond 
             </td>
           </tr>
         </table>
@@ -110,26 +107,24 @@
         <h1>
           Directors At-Large</h1>
         <p>
-          (whose terms expire in odd-numbered years)
+         (whose terms expire in odd-numbered years)
         </p>
         <div class='vspace'>
         </div>
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="Judy Paulsen" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" />&nbsp;
+              <img alt="Judy Paulsen" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />&nbsp;
             </td>
             <td>
-              Judy Paulsen
-            </td>
+              April Achesinski</td>
           </tr>
           <tr>
             <td>
               &nbsp;
             </td>
             <td>
-              Venita Baker
-            </td>
+              Jan James</td>
           </tr>
         </table>
         <p>
