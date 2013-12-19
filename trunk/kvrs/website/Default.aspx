@@ -257,6 +257,29 @@
             </p>
           </td>
         </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <h2>Our Community</h2>
+            <h4>Neighborhoods we serve include:</h4>
+            <p>
+              <small>
+                <em>
+                  Abingdon Village * Acredale * Adams Glen * Alexandria * Amhurst * Aragona Village * Arrowhead * Avalon Hills * Avalon Terrace * Avalon Woods * Ballylinn Farm * Ballylinn Shores * Banbury Lake Village * Baxter
+                  Woods Townhouse * Bellamy Manor * Bellamy Manor East * Bellamy Manor Estates * Bellamy Plantation * Bellamy Woods * Bellwood Meadows * Bentley Gate * Bentley Park * Birnam Meadows * Boulevard Manor * Brandon *
+                  Brigadoon * Brigadoon Pines * Carolanne Farm * Carriage Mill * CBN * Cedar Hill * Charlestown * Charlestown Lakes * Chartwell * Chatham Hall * Chatham Landing * College Park * Coventry * Dorchester Village *
+                  Dunbarton * Eastwyck Village * Elizabeth River Terrace * Euclid * Fair Meadows * Fairfield * Fairfield Forest * Fairfield Meadows * Fairfield Shores * Fairways * Ferry Point Landing * Fox Run * Framingham
+                  Village * Glenwood * Glenwood Green * Glenwood South * Glyndon Village * Grand Lake * Gum Swamp * Haven Heights * Haven Estates * Homestead * Huntington * Indian Lakes * Indian River Estates * Indian River
+                  Gardens * Jamestown * Jamestown Commons * Jonathan Cove * Kemps River Crossing * Kemps Quarter * Kempshire Manor * Kempsville * Kempsville Colony * Kempsville Gardens * Kempsville Greens * Kempsville Heights *
+                  Kempsville Lake * Kempsville Manor * Kempsville Meadows * Kings Creek Point * Lake Christopher * Lake James * Lakes End Condos * Lakeview Estates * Lakeville Estates * Lark Downs * Larkspur * Larkspur Meadows *
+                  Le Cove * Level Green * Macdonald Park * Mount Trashmore * Newlight * Northridge * Oakengate * Owl Court * Parliament Village * Pembroke Manor * Pinewood Village * Pocahontas Village * Point O&#39; View *
+                  Providence Landing * Queen City * Regent University * Ridglea * Rivercrest Landing * Riverton On The Elizabeth * Rosemont Forest * Salem Lakes * Salem Woods * Sherry Park * Sparrow Point * Stratford Chase *
+                  Stoney Brook * Sunstream Park * Susanna Smith Estate * Tangle Pines * The Villages * Thompkins Landing * Town Center * Wedgewood * Westview Village * Whitehurst Grove * Whitehurst Manor * Whitehurst Woods *
+                  Winchester Point * Wood Bridge Point * Woodhaven * Woodridge * Woods Of Avalon * Woodstock * Woodstock Cove * Woodstock Forest * Wyndamere
+                </em>
+              </small>
+            </p>
+          </td>
+        </tr>
       </table>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
