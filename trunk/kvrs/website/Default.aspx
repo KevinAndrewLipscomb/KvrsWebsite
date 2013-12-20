@@ -274,7 +274,7 @@
                   Le Cove * <strong>Level Green</strong> * Macdonald Park * Mount Trashmore * <strong>Newlight</strong> * Northridge * Oakengate * Owl Court * Parliament Village * <strong>Pembroke Manor</strong> * Pinewood Village * Pocahontas Village * Point O&#39; View *
                   Providence Landing * Queen City * Regent University * <strong>Ridglea</strong> * Rivercrest Landing * <strong>Riverton On The Elizabeth</strong> * Rosemont Forest * Salem Lakes * <strong>Salem Woods</strong> * <strong>Sherry Park</strong> * Sparrow Point * <strong>Stratford Chase</strong> *
                   Stoney Brook * Sunstream Park * Susanna Smith Estate * Tangle Pines * <strong>The Villages</strong> * Thompkins Landing * Town Center * Wedgewood * Westview Village * Whitehurst Grove * Whitehurst Manor * Whitehurst Woods *
-                  Winchester Point * Wood Bridge Point * Woodhaven * Woodridge * Woods Of Avalon * <strong>Woodstock</strong> * Woodstock Cove * Woodstock Forest * Wyndamere
+                  Williams Village * Winchester Point * Wood Bridge Point * Woodhaven * Woodridge * Woods Of Avalon * <strong>Woodstock</strong> * Woodstock Cove * Woodstock Forest * Wyndamere
                 </em>
               </small>
             </p>
