@@ -882,6 +882,7 @@
     <Content Include="usercontrol\ki\UserControl_drop_down_date.ascx" />
     <Content Include="usercontrol\ki\UserControl_print_div.ascx" />
     <Content Include="usercontrol\ki\UserControl_session_interrupted.ascx" />
+    <None Include="resource\buxbaum-fd-transition-presentation.pdf" />
     <None Include="work.bat" />
   </ItemGroup>
   <ItemGroup>

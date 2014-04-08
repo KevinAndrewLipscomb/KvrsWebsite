@@ -45,6 +45,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2014-04-08</dt>
+              <dd>
+                We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
+                Stuart Buxbaum.
+              </dd>
+              <p></p>
               <dt>2013-11-16</dt>
               <dd>At our annual banquet tonight, our new <a href="mark-2/administration.aspx">administration</a> and <a href="mark-2/operations.aspx">operations</a> officers were installed.</dd>
               <p></p>
