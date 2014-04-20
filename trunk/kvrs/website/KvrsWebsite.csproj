@@ -83,6 +83,7 @@
     <Content Include="Global.asax" />
     <Content Include="image\920left.png" />
     <Content Include="image\920right.png" />
+    <Content Include="image\amazon-smile-logo.png" />
     <Content Include="image\banner-pic.png" />
     <Content Include="image\glidescope.png" />
     <Content Include="image\logo.png" />
