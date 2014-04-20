@@ -22,6 +22,15 @@ namespace UserControl_precontent {
         protected global::AjaxControlToolkit.ToolkitScriptManager ScriptManager_control;
         
         /// <summary>
+        /// Image_amazon_smile control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image Image_amazon_smile;
+        
+        /// <summary>
         /// TableRow_account_control control.
         /// </summary>
         /// <remarks>

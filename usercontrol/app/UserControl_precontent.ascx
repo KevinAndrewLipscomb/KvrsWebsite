@@ -14,6 +14,13 @@
               <img src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" alt="Donate to KVRS using MC/Visa/AmEx/Discover/PayPal" style="position:relative; z-index:1"/>
             </a>
           </td>
+          <td align="center" valign="top">
+            <a href="http://smile.amazon.com/ch/52-1356226">
+              <small>Shop via</small><br />
+              <asp:Image ID="Image_amazon_smile" runat="server" ImageUrl="~/image/amazon-smile-logo.png"></asp:Image><br />
+              <small>to benefit us!</small>
+            </a>
+          </td>
           <td align="center" valign="middle">
             <h2 style="color:White; position :relative; z-index:1">Kempsville Volunteer Rescue Squad</h2>
             <p style="color:Gray; position:relative; z-index:1"><em>Virginia Beach, VA</em></p>
