@@ -26,7 +26,7 @@
       <!-- Insert just the <table...> . . . </table> portion of the exported HTML below.
       <!-- Remove the first row and change the cellpadding to 5.
       <!-- BEGIN PASTED HTML -->
-<table width="100%" cellpadding="5">
+<table width=100% cellpadding="5">
 <tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">I.&nbsp;</td><td>NAME: The name of the organization is specified in the Articles of Incorporation. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">II.&nbsp;</td><td>OBJECT: The object of this Rescue Squad is to provide the community with a volunteer service dedicated to the saving of life, administering first aid, and teaching methods of safety within the community. </td></tr></table>
@@ -35,9 +35,9 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>The corporation shall have a Board of Directors. The composition, duties, responsibilities, and authorities of the Board of Directors are specified in subparagraph IV.A.1.e.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">III.&nbsp;</td><td>MEMBERSHIP<div style="background-color:silver;"><small>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2Feb2010, 3Jun2013</small></div></td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">III.&nbsp;</td><td>MEMBERSHIP<div style="background-color:silver;"><small>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2feb2010, 3jun2013, 2Jun2014</small></div></td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Lifetime Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Apprentice members</td></tr></table>
 </tr>
@@ -67,31 +67,37 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>Inactive Life members: Inactive Life members shall meet the stipulations of paragraph B.10 of this Article. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>Administrative members: Only those individuals who have been identified as eligible for Administrative membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Administrative membership in the squad. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>Administrative members: Only those individuals who have been identified as eligible for Administrative membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Administrative membership in the squad.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>Members-in-Memoriam</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>Lifetime Administrative members</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Members-in-Memoriam shall be those members who die while classified as Apprentice, Full, Active Life, Inactive Life, Administrative, and Medical Doctor.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Only those individuals who have been identified as eligible for Administrative membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Lifetime Administrative membership in the squad.</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Any member having served the squad for a period of ten (10) years in any combination of the Apprentice, ALS Associate, Full, Active Life, Administrative, or Medical Doctor membership categories shall be eligible for Lifetime Administrative Membership, said offer to be accepted by member, and on approval by the board, will be given an appropriate acknowledgement of Lifetime Administrative Membership.</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>The service period of ten years toward qualifying for Lifetime Administrative membership shall be measured in total accumulative active status time. Short periods of inactivity due to business, sickness, marital or family reasons, shall not exceed a total of six months in the qualifications time.</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Any member, on approval by a two-thirds supermajority of the board, may be given Lifetime Administrative membership with less than 10 years of service if an injury or illness prevents the member from meeting the standard requirements.</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Members-in-Memoriam</td></tr></table>
+</tr>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Members-in-Memoriam shall be those members who die while classified as Apprentice, Full, Active Life, Inactive Life, Administrative, Lifetime Administrative, and Medical Doctor.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>A member who dies while classified as an ALS Associate shall be classified as a Member-in-Memoriam upon a two-thirds vote of the members present at a regular business meeting. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Medical Doctor members: Only those individuals who have been identified as eligible for Medical Doctor membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Medical Doctor membership in the squad. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>Medical Doctor members: Only those individuals who have been identified as eligible for Medical Doctor membership in accordance with the Personnel Certification Policy of the City of Virginia Beach Department of EMS shall be eligible for Medical Doctor membership in the squad. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>Honorary Membership: Honorary members may be accepted under the following conditions: they must be, because of age, profession, position or other acceptable reason is unable to join the Rescue Squad as an active member; and they must be sincerely interested in the Rescue Squad.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Honorary Membership: Honorary members may be accepted under the following conditions: they must be, because of age, profession, position or other acceptable reason is unable to join the Rescue Squad as an active member; and they must be sincerely interested in the Rescue Squad. The method of accepting a person to Honorary Membership will be as follows: A written request by the active member of the Department/Squad nominating the person for Honorary Membership will be submitted to the Board of Directors. This request will include the name and address of the nominee and the reason for proposing him to the Honorary Roll.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>The method of accepting a person to Honorary Membership will be as follows: A written request by the active member of the Department/Squad nominating the person for Honorary Membership will be submitted to the Board of Directors. This request will include the name and address of the nominee and the reason for proposing him to the Honorary Roll. The Board of Directors will investigate the request and submit it with recommendations at the next regular business meeting of the Department/Squad.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>After approval by the membership an appropriate acknowledgement will be presented to the Honorary member. </td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Voting rights</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">11.&nbsp;</td><td>Voting rights</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Full and Active Life members who are under General Supervision as Patient Care Providers (as defined by the Virginia Beach Department of EMS) shall have the power to vote.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>At each October regular business meeting, the President shall submit a list of the current Administrative Members who have been on the squad's roster for at least six months. The Full and Active Life members shall vote, by slate or by line item, to sponsor the listed Administrative Members. Sponsored Administrative Members shall subsequently have the power to vote. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year's sponsorships shall be continued until such time as the membership revises or replaces them. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>At each October regular board meeting, the President shall submit a list that shall include the current Administrative Members who have been on the squad's roster for at least six months, and the current Lifetime Administrative Members. The board shall vote, by slate or by line item, to sponsor the listed Administrative Members and Lifetime Administrative Members. Sponsored Administrative Members and Lifetime Administrative Members shall subsequently have the power to vote in the annual elections. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Any Lifetime Administrative Member on the list who fails to receive sponsorship shall lose the power to vote, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year's sponsorships shall be continued until such time as the board revises or replaces them.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">11.&nbsp;</td><td>The power to command, discipline, and grant leave to Apprentice, ALS Associate, Full, Active Life, and Medical Doctor members shall be vested in the Squad Commander ("Rescue Captain") or his designee. The power to command, discipline, and grant leave to Administrative members shall be vested in the President or his designee. Honorary members, Inactive Life members, and Members-in-Memoriam are not subject to command or discipline from the Corporation, and are not eligible for leave. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">12.&nbsp;</td><td>The power to command, discipline, and grant leave to Apprentice, ALS Associate, Full, Active Life, and Medical Doctor members shall be vested in the Squad Commander ("Rescue Captain") or his designee. The power to command, discipline, and grant leave to Administrative members and Lifetime Administrative members shall be vested in the President or his designee. Honorary members, Inactive Life members, and Members-in-Memoriam are not subject to command or discipline from the Corporation, and are not eligible for leave. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">12.&nbsp;</td><td>The provisions of this section shall supersede other conflicting sections of this document. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">13.&nbsp;</td><td>The provisions of this section shall supersede other conflicting sections of this document. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>QUALIFICATIONS</td></tr></table>
 </tr>
@@ -101,13 +107,13 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Intake procedures:</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>The Membership Coordinator, having received a properly prepared application for Apprentice Membership from the Virginia Beach Department of EMS, may act as the membership's agent to approve such application without delay, and shall report such actions to the membership at each regular business meeting.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>The Membership Coordinator, having received a properly prepared application for Apprentice Membership from the Virginia Beach Department of EMS, may act as the board's agent to approve such application without delay, and shall report such actions to the board at each regular board meeting.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Final acceptance will be acted upon no sooner than six (6) months and no later than twelve (12) months from the date of apprentice acceptance.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Members granted Full Membership will receive voting privileges the night they become Full Members, immediately following the completion of all membership actions.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Members granted Full Membership will receive voting privileges immediately following the board meeting in which they are promoted.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>The membership reserves the right to extend the apprentice period beyond the twelve (12) month period, if said member is not in compliance with paragraph 5 of this Section. Extension not to exceed six (6) months.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>The board reserves the right to extend a member's apprenticeship beyond the twelve (12) month period, if said member is not in compliance with paragraph 5 of this Section, said extension not to exceed six (6) months.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>Time spent as a full time student of an accredited college or university in Virginia, including up to four months in-between undergraduate or postgraduate years, shall not count towards the time limits mentioned in this section.</td></tr></table>
 </tr>
@@ -123,37 +129,33 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>No member may belong to another volunteer rescue squad in the city of Virginia Beach. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Life Membership: Any member having served in an Active status for a period of ten (10) years shall be eligible for Life Membership, said offer to be accepted by member, and on approval by membership, will be given an appropriate acknowledgement of Life Membership.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Life Membership: Any member having served in an Active status for a period of ten (10) years shall be eligible for Life Membership, said offer to be accepted by member, and on approval by the board, will be given an appropriate acknowledgement of Life Membership.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>The service period of ten years toward qualifying for Life Membership shall be measured in total accumulative active status time. Short periods of inactivity due to business, sickness, marital or family reasons, shall not exceed a total of six months in the qualifications time.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Any member who has been accepted as a Life Member shall be eligible to ride on the ambulance providing he/she maintain his/her qualifications as provided by Emergency Medical Services.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Any member, on approval by the board of directors and a two-thirds majority vote of the membership, may be given life membership with less than 10 years of service if an injury or illness prevents the member from meeting the standard requirements. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Any member, on approval by a two-thirds supermajority vote of the board, may be given life membership with less than 10 years of service if an injury or illness prevents the member from meeting the standard requirements. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>RESPONSIBILITIES</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>It shall be the duty of all members to attend punctually all meetings of the Rescue Squad.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Resignations shall not be accepted until all property of the Rescue Squad has been returned and accounted for.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Resignations shall not be accepted until all property of the Rescue Squad has been returned and accounted for.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Any member qualified to vote shall have access to the books, documents, and other papers belonging to the Rescue Squad under the supervision of the Officer in charge of the same.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Any member qualified to vote shall have access to the books, documents, and other papers belonging to the Rescue Squad under the supervision of the Officer in charge of the same.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>No member of this Rescue Squad will receive any personal reimbursement for any services rendered while acting as a member of this Rescue Squad/Department except compensation by the City or State government.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>No member of this Rescue Squad will receive any personal reimbursement for any services rendered while acting as a member of this Rescue Squad/Department except compensation by the City or State government.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>It shall be the duty of all members of the Rescue Squad to take part in the maintenance and upkeep of the equipment, building, and grounds when directed to do so by an officer. Failure to comply will result in probation or suspension, to be determined by the Board of Directors. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>It shall be the duty of all members of the Rescue Squad to take part in the maintenance and upkeep of the equipment, building, and grounds when directed to do so by an officer. Failure to comply will result in probation or suspension, to be determined by the Board of Directors. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>MEMBERS UNDER THE CARE OF A PHYSICIAN. Any member of the Rescue Squad who is under the care of a doctor or hospitalized for any reason that would prevent him/her from performing as a EMS provider, shall automatically be placed on the inactive list. Any member placed on the inactive list for the above reason(s) may at the discretion of the senior operational officer be given administrative duties. A member placed on the inactive list as stated above, may at any time submit a letter to the senior operational officer from his/her doctor(s) stating that he/she is physically and medically capable of performing as a EMS provider. Said member shall then be reinstated as per the City of Virginia Beach Department of EMS rules and regulations. Said member shall remain active in any committee/position elected/called for while classified as an inactive member.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>MEMBERS UNDER THE CARE OF A PHYSICIAN. Any member of the Rescue Squad who is under the care of a doctor or hospitalized for any reason that would prevent him/her from performing as a EMS provider, shall automatically be placed on the inactive list. Any member placed on the inactive list for the above reason(s) may at the discretion of the senior operational officer be given administrative duties. A member placed on the inactive list as stated above, may at any time submit a letter to the senior operational officer from his/her doctor(s) stating that he/she is physically and medically capable of performing as a EMS provider. Said member shall then be reinstated as per the City of Virginia Beach Department of EMS rules and regulations. Said member shall remain active in any committee/position elected/called for while classified as an inactive member.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>Any member who is returning to active status after a leave of ninety (90) days or more shall be required to complete a retraining program, to be administered by the training officer.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>Any member who is returning to active status after a leave of ninety (90) days or more shall be required to complete a retraining program, to be administered by the training officer.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>Equipment owned by the Rescue Squad is not to be used for the benefit or convenience of a private individual when an emergency or need for Rescue Squad assistance does not exist without approval of an operational officer.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Equipment owned by the Rescue Squad is not to be used for the benefit or convenience of a private individual when an emergency or need for Rescue Squad assistance does not exist without approval of an operational officer.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Every member should take advantage of any and all training seminars that will increase his/her knowledge in the rescue service.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>Every member should take advantage of any and all training seminars that will increase his/her knowledge in the rescue service.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>It shall be the duty of all members to respond to all calls of duty whether it be for drill, rescue emergencies or request for aid in raising funds or various other activities of the Rescue Squad.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">11.&nbsp;</td><td>All rescue squad members shall adhere to all rules, policies, etc. as set down by the Medical Directors and senior operational officers. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>All rescue squad members shall adhere to all rules, policies, etc. as set down by the Medical Directors and senior operational officers. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>CONDUCT</td></tr></table>
 </tr>
@@ -167,11 +169,11 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Any member violating any of the provisions of these By-laws shall be disciplined by the appropriate senior operational officer and shall have the right of appeal to the Board of Directors.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>No member of the Rescue Squad can be expelled except through a two-thirds supermajority of directors present at a board meeting. The member may appeal the board's decision at any one of the next three subsequent members meetings where a two-thirds supermajority of those present is also required to expel.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>No member of the Rescue Squad can be expelled except through a two-thirds supermajority of directors present at a board meeting. The member may appeal the board's decision at any one of the next three subsequent board meetings where a two-thirds supermajority of those present is also required to expel.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">F.&nbsp;</td><td>EXPULSIONS AND SUSPENSIONS</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Any expelled member wishing to be reinstated to apprentice membership must submit a letter to the Board of Directors stating why he should be reinstated as an apprentice member. The Board after investigation will submit his application, to the membership with their recommendation after which a vote of the membership will be taken by ballot. No applications will be considered before twelve (12) months after expulsion date.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Any expelled member wishing to be reinstated to apprentice membership must submit a letter to the Board of Directors stating why he should be reinstated as an apprentice member, after which a vote of the board will be taken by ballot. No applications will be considered before twelve (12) months after expulsion date.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Upon expulsion members must surrender all Rescue Squad property in their possession. Expelled members shall not enjoy any of the privileges of any active or associate member during the period of expulsion.</td></tr></table>
 </tr>
@@ -179,23 +181,23 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>Members dropped from the regular roll by the above reasons, who wish to be reinstated, must make application as an apprentice member. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">G.&nbsp;</td><td>GRIEVANCE PROCEDURE. All members may appeal any disciplinary action directed against them to the Board of Directors with final disposition to the general membership.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">G.&nbsp;</td><td>GRIEVANCE PROCEDURE. All members may appeal any disciplinary action directed against them to the Board of Directors.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">IV.&nbsp;</td><td>OFFICERS<div style="background-color:silver;"><small>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009, 10Sep2012</small></div></td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">IV.&nbsp;</td><td>OFFICERS<div style="background-color:silver;"><small>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009, 10Sep2012, 2Jun2014</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>CLASSIFICATIONS </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>ADMINISTRATION. The administration officers shall consist of a President, Vice-President, Secretary, and Treasurer. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>ADMINISTRATION. The administration officers shall consist of a President, Vice-President, Secretary, and Treasurer, who shall all be elected.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>President: It shall be the duty of the President to preside at all business meetings, preserve order, enforce the administrative By-Laws, call all special business meetings, when necessary or when directed to do so, in writing by five (5) members in good standing; attest and sign all orders on the Treasurer when sanctioned by the Kempsville Volunteer Rescue Squad. In case of a tie vote, the president shall cast the deciding vote. The president shall appoint all committees as defined without unnecessary delay. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>President: It shall be the duty of the President to preside at all business meetings, preserve order, and enforce the administrative By-Laws; attest and sign all orders on the Treasurer when sanctioned by the Kempsville Volunteer Rescue Squad. In case of a tie vote, the president shall cast the deciding vote. The president shall appoint all committees as defined without unnecessary delay. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Vice-President: It shall be the duty of the Vice-President to assume the duties of the President in the absence of the same. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Secretary: The Secretary shall keep an accurate record of all minutes of the monthly business meetings and publish same to the membership according to rules adopted by the membership; and shall perform other functions as directed by the President. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Secretary: The Secretary shall keep an accurate record of all minutes of the business meetings and publish same to the membership according to rules adopted by the board; and shall perform other functions as directed by the President. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Treasurer: The Treasurer shall be the steward of all corporate funds; shall be responsible for the Corporation's cash management; shall pay the Corporation's obligations according to rules adopted by the membership; shall cause all financial transactions to be properly recorded in the Corporate books; shall assure that the Corporation's account registers are promptly reconciled against all financial institution account statements; shall cause a financial report to be submitted to the membership at least annually; shall submit to audits annually as arranged by the Audit Coordinator; shall be empowered to enact and enforce procedures, and to hire and fire specialists, to accomplish Treasurer requirements, within the confines of the approved budget; and shall cause all of these responsibilities to be executed according to United States Generally Accepted Accounting Principles. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Treasurer: The Treasurer shall be the steward of all corporate funds; shall be responsible for the Corporation's cash management; shall pay the Corporation's obligations according to rules adopted by the board; shall cause all financial transactions to be properly recorded in the Corporate books; shall assure that the Corporation's account registers are promptly reconciled against all financial institution account statements; shall cause a financial report to be submitted to the board at least annually; shall submit to audits annually as arranged by the Audit Coordinator; shall be empowered to enact and enforce procedures, and to hire and fire specialists, to accomplish Treasurer requirements, within the confines of the approved budget; and shall cause all of these responsibilities to be executed according to United States Generally Accepted Accounting Principles. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>Board of Directors: There shall be a Board of Directors consisting of the President, the Vice-President, the Captain, and four (4) at-large members of the Kempsville Rescue Squad Inc. In November of 1996, two of the four at-large members shall be elected to two-year terms, the other two to one-year terms. In subsequent years, the two at-large seats that are up for election shall be filled for terms of two-years. The President shall preside as Chairman of the Board of Directors. In the President's absence, the Vice-President shall act as chairman. The Secretary of the Board of Directors shall be appointed by the Chairman from the membership of the Board of Directors. The quorum for meetings of the Board of Directors shall be a majority of the elected Directors. The duties, responsibilities and authority of the Board of Directors shall be as follows:</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>Board of Directors: There shall be a Board of Directors consisting of the President, the Vice-President, the Secretary, the Treasurer, the Captain, the Executive Officer, and eight at-large members of the Kempsville Rescue Squad Inc. In June of 2014, the terms of the four incumbent at-large directors shall run until the November 2015 elections, and four new at-large directors and a Secretary and a Treasurer shall be elected to terms running until the November 2014 election. In subsequent years, the four at-large seats that are up for election shall be filled for terms of two-years.The President shall preside as Chairman of the Board of Directors. In the President's absence, the Vice-President shall act as chairman. The quorum for meetings of the Board of Directors shall be a two-thirds supermajority of the elected Directors. The duties, responsibilities and authority of the Board of Directors shall be as follows:</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">i.&nbsp;</td><td>Basic Function: The Board of Directors shall be responsible for the proper administration of the Kempsville Volunteer Rescue Squad. The Board of Directors shall not address operation matters unless specified by these By-Laws.</td></tr></table>
 </tr>
@@ -207,13 +209,11 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>Shall insure that all matters of business presented before the Board are acted upon;</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>Shall insure that the membership of the Kempsville Volunteer Rescue Squad are informed at the next regular monthly business meeting of all matters presented before The Board that final action has been initiated;</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>Shall insure that the membership of the Kempsville Volunteer Rescue Squad are informed without unreasonable delay of all matters presented before The Board that final action has been initiated;</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>Shall be responsible to investigate all proposed improvements or purchases in excess of $5000.00 and make a report with their recommendations to the membership of the Kempsville Volunteer Rescue Squad.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>Shall be responsible to investigate all proposed improvements or purchases in excess of $5000.00.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">iv.&nbsp;</td><td>In the event an appeal is being heard by the Board no member will have a direct interest in the incident or individual under review.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">v.&nbsp;</td><td>Organizational Relationship: The Board of Directors reports to the Kempsville Volunteer Rescue Squad. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>OPERATIONS. The operations officers shall be as follows: </td></tr></table>
 </tr>
@@ -271,7 +271,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">ii.&nbsp;</td><td>Shall have the rank of Lieutenant.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">iii.&nbsp;</td><td>The function, responsibilities, and authority of the Logostics Officer shall be as follows:</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">iii.&nbsp;</td><td>The function, responsibilities, and authority of the Logistics Officer shall be as follows:</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:60pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>Basic Function - to efficiently and effectively keep the squad's vehicles and field equipment in the highest possible state of readiness (as defined by the Captain).</td></tr></table>
 </tr>
@@ -309,45 +309,39 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>QUALIFICATIONS GENERALLY</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Only Full Members, Active Life Members, and Administrative Members, shall be eligible to hold elected administrative offices.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>Only Full Members, Active Life Members, Administrative Members, and Lifetime Administrative Members shall be eligible to hold elected administrative offices.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Only Full Members and Active Life Members who are eligible to vote shall be eligible to hold elected operations offices.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Wherever these bylaws describe administrative offices that are to be filled by presidential appointment, only Full Members, Active Life Members, Inactive Life Members, and Administrative Members shall be eligible for appointment.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Wherever these bylaws describe administrative offices that are to be filled by presidential appointment, only Full Members, Active Life Members, Inactive Life Members, Administrative Members and Lifetime Administrative Members shall be eligible for appointment.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>Any member not in compliance with Section VI.A will not be eligible to hold an office in this Squad.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>Any elected officer of the squad who is unable to fulfill the duties of his/her office for a period of more than forty-five (45) consecutive days, as determined by a two-thirds supermajority of the board, shall be removed from that office.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>Any operation officer of the squad who is unable to fulfill the duties of his/her office for a period of more than forty-five (45) consecutive days shall be removed from that office. Junior Officers will advance one grade to fulfill the duties of the vacant position until the next regularly scheduled business meeting, at which time the office which was originally vacated will be filled by election for the remainder of the present term. The President will notify all active members of the vacancy and election by mail.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>No member of the Corporation shall hold more than one of the following offices simultaneously: President, Vice President, Secretary, Treasurer, Captain, Executive Officer, Operations Officer, Logistics Officer. No member shall hold more than one position on the Board. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>No member of the Corporation shall hold more than one of the following offices simultaneously: President, Vice President, Secretary, Treasurer, Captain, Executive Officer, Operations Officer, Logistics Officer. No member shall hold more than one position on the Board. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>NOMINATION, ELECTION, AND INSTALLATION</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>The Nomination Coordinator shall nominate officers at the annual regular business meeting in October.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>The Nomination Coordinator shall nominate officers at the regular board meeting in October.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Election of officers shall be held annually at the regular business meeting in November.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>All elections of officers shall be by ballot when there are two or more candidates and a majority of all legal ballots shall elect.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>All elections of officers shall be by ballot when there are two or more candidates and a majority of all legal ballots shall elect.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Newly elected officers will take office immediately after being installed. The installation of officers shall take place at the annual banquet, to be held in November after the November elections, or at the December board meeting if no November banquet is held.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>Newly elected officers will take office immediately after being installed. The installation of officers shall take place at the annual dinner, to be held in November.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>All policies and procedures in effect at the time of Installation shall remain in effect for a period of 30 days allowing orientation of the new officers to their positions.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>The Secretary and Treasurer shall be appointed by the president, with the approval of the Board of Directors.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>All policies and procedures in effect at the time of Installation shall remain in effect for a period of 30 days allowing orientation of the new officers to their positions.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>The officers elected shall hold office for a period of one (1) year or until a successor has been elected to replace said officer. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>Unless otherwise specified in these bylaws, the officers elected shall hold office for a period of one (1) year or until a successor has been elected to replace said officer. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>DEPARTURE AND REMOVAL</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>In the event of the resignation or relief for cause, an officer shall deliver to his or her successor all property of the Kempsville Volunteer Rescue Squad.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>In the event of the departure of any elected officer from office, the elected officer senior to (or if no such elected senior officer exists then the elected officer junior to) the vacant position will assume the responsibilities of the vacant position during the vacancy.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>In the event of the departure of any elected officer from office, the elected officer senior to (or if no such elected senior officer exists then the elected officer junior to) the vacant position will assume the responsibilities of the vacant position during the vacancy, and the board shall elect a member to fill the vacancy at the board's next meeting. If the seniority of the offices is not made explicit in these bylaws, the order in which the offices are listed in these bylaws shall be the order of seniority.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>Business meetings shall be called to order by the President, or failing that the Vice President, or failing that the Secretary, or failing that the most senior member (by length of corporate membership) of the Board Of Directors present, or failing that the most senior member (by length of corporate membership) of the Corporation present.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>An officer for the abuse of his authority or misconduct in his office may be impeached and removed from office by a vote of the majority of the members present. Voting shall be by ballot. The charges against the officer shall be made in writing and filed with the Secretary and read at a meeting at least one (1) month before such vote is taken. A copy of said charges must be served upon the member by the Secretary at least two (2) weeks before such vote is taken. Said vote to be taken at a regular business meeting. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>An officer for the abuse of his authority or misconduct in his office may be impeached, trieid, and removed from office by a three-fourths supermajority of the board. Voting shall be by ballot. The charges against the officer shall be made in writing and filed with the Secretary and read at a meeting at least one (1) month before such vote is taken. A copy of said charges must be served upon the member by the Secretary at least two (2) weeks before such vote is taken, said vote to be taken at a regular board meeting. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">V.&nbsp;</td><td>COORDINATORS AND COMMITTEES<div style="background-color:silver;"><small>Amended: 12Jul99, 4Apr2005, 1May2006, 4May2009, 2Feb2010</small></div></td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">V.&nbsp;</td><td>COORDINATORS AND COMMITTEES<div style="background-color:silver;"><small>Amended: 12Jul99, 4Apr2005, 1May2006, 4May2009, 2feb2010, 2Jun2014</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>Membership Coordinator: There shall be a Membership Coordinator appointed by the President. The duties of the Membership Coordinator are as follows:</td></tr></table>
 </tr>
@@ -391,7 +385,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">f.&nbsp;</td><td>Archive such DTRs and orders, and any related contracts, technical documents, drawings, warranties, etc;</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">g.&nbsp;</td><td>Comply, to the extent possible, with related resolutions and plans adopted by the membership, including, but not limited to the following:</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">g.&nbsp;</td><td>Comply, to the extent possible, with related resolutions and plans adopted by the board, including, but not limited to the following:</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:48pt"><table cellspacing="0"><tr><td valign="top">i.&nbsp;</td><td>Standard Configuration Plan;</td></tr></table>
 </tr>
@@ -413,41 +407,23 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>The scope of such duties shall extend to major systems and durable components that are necessary on such apparatus, such as new or replacement radios, stretchers, generators, etc.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>No member shall represent any contract to build, remount, or order such apparatus to be binding upon the Corporation unless such contract is signed by both the President and Captain, unless the membership has specifically designated one or more replacement signatories for a specific transaction. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>No member shall represent any contract to build, remount, or order such apparatus to be binding upon the Corporation unless such contract is signed by both the President and Captain, unless the board has specifically designated one or more replacement signatories for a specific transaction. </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">H.&nbsp;</td><td>The appointments of the Membership, Public Relations, Entertainment, Fund Drive, and Finance Coordinators shall be made at the first meeting after the installation of new officers and all Coordinators shall serve for a period of one (1) year. All other Coordinators shall be appointed as necessary. Each Coordinator shall be from the active/associate and active administrative membership. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">H.&nbsp;</td><td>The appointments of the Membership, Public Relations, Entertainment, Fund Drive, and Finance Coordinators shall be made at the first board meeting after the installation of new officers and all Coordinators shall serve for a period of one (1) year. All other Coordinators shall be appointed as necessary. Each Coordinator shall be from the active/associate and active administrative membership. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">I.&nbsp;</td><td>The president may appoint one or more members to assist an above named coordinator in his purpose, and in such case, the coordinator will be the chairperson of, and the assistants will be members of, a committee by such name and for such purpose.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">VI.&nbsp;</td><td>MEETINGS<div style="background-color:silver;"><small>Amended: 10Jan94, 1Apr96, 5Aug96, 4Aug97, 1May2006, 4May2009, 5Oct2009</small></div></td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">VI.&nbsp;</td><td>MEETINGS<div style="background-color:silver;"><small>Amended: 10Jan94, 1Apr96, 5Aug96, 4Aug97, 1May2006, 4May2009, 5oct2009, 2Jun2014</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>SCHEDULING, QUORUM, AND ATTENDANCE</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>There shall be a regular monthly business meeting to be held the first Monday of the month and a regular monthly drill meeting to be held as designated each month.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">1.&nbsp;</td><td>MEETING SCHEDULES</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>Special business meetings shall be called by the President of Kempsville Volunteer Rescue Squad when deemed necessary.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>The Board Of Directors shall meet to conduct its business monthly in the first week of each month (or if pre-empted by a holiday, another day), the date, time, and place of which must be published a month in advance to the mebership, unless such meeting is prevented by inclement weather or a state of emergency. At any board meeting, regular or special, members shall be afforded the same rights to attend and speak as directors enjoy, but only directors may vote.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">3.&nbsp;</td><td>A member wishing to leave the meeting early must obtain permission from the presiding officer.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>The membership shall meet to conduct elections on the first Monday of each November. If meeting on that date is prevented by inclement weather or a state of emergency, the responsible officer must arrange for a make-up meeting as soon as possible, and must make an effort in good faith to notify all members when and where the make-up meeting will be held.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">4.&nbsp;</td><td>Twelve (12) active voting members shall constitute a quorum, which quorum shall be necessary to transact any business which may require a body vote. A vote on membership will be a 2/3 majority of all voting members present.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">5.&nbsp;</td><td>The word meeting is defined as business meeting or drill.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">6.&nbsp;</td><td>Special drills shall be called by the Training Officer at such time and place designated by him. He may change or cancel any drill that coincides with holidays.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">7.&nbsp;</td><td>All designated drills shall be posted at least ten (10) days prior to said drills.</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Upon a phone call or in writing a member may be excused from attending a business meeting by the President or Vice President and a drill meeting by the appropriate operations officer. The member may be excused for any of the following reasons:</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Working (primary job)</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>Illness</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Attending special rescue classes</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">d.&nbsp;</td><td>Tending to Squad or Department business</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">e.&nbsp;</td><td>Attending school or college classes. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">2.&nbsp;</td><td>The President may call special board meetings as necessary, and must arrange for a special board meeting whenever requested in writing by a majority of the Directors. The President must call a special meeting of the members whenever requested in writing by a majority of the voting members.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>RULES OF ORDER: The rules contained in the current edition of Robert's Rules Of Order Newly Revised shall govern the organization except where they are inconsistent with these bylaws or with any special rules of order the organization may adopt. </td></tr></table>
 </tr>
@@ -471,19 +447,17 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">b.&nbsp;</td><td>VAVRS</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Board of Directors - President</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">8.&nbsp;</td><td>Fund Drive Coordinator's report</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>Fund Drive Coordinator's report</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">9.&nbsp;</td><td>Entertainment Coordinator's report</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Entertainment Coordinator's report</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">10.&nbsp;</td><td>Other Coordinator or committee reports </td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">11.&nbsp;</td><td>Other Coordinator or committee reports </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">11.&nbsp;</td><td>Unfinished business</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">12.&nbsp;</td><td>Unfinished business</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">12.&nbsp;</td><td>New business</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">13.&nbsp;</td><td>New business</td></tr></table>
-</tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">14.&nbsp;</td><td>"Good of the Organization"</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">13.&nbsp;</td><td>"Good of the Organization"</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>President</td></tr></table>
 </tr>
@@ -491,7 +465,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Others</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">15.&nbsp;</td><td>Executive session (Dismiss all visitors)</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">14.&nbsp;</td><td>Executive session (Dismiss all visitors)</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">a.&nbsp;</td><td>Finance Coordinator's report</td></tr></table>
 </tr>
@@ -499,11 +473,11 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:36pt"><table cellspacing="0"><tr><td valign="top">c.&nbsp;</td><td>Other business</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">16.&nbsp;</td><td>Welcome to newly-approved/promoted members</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">15.&nbsp;</td><td>Welcome to newly-approved/promoted members</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">17.&nbsp;</td><td>Adjournment</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:24pt"><table cellspacing="0"><tr><td valign="top">16.&nbsp;</td><td>Adjournment</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">VII.&nbsp;</td><td>ANNUAL BUDGET. A budget shall be presented by the senior operational officer of the Rescue Squad and the President. The budget year is to run from July 1 through June 30. The budget shall contain the projected expenditures of the coming year. All expenditures will be made as outlined in these bylaws. Should no budget be approved for a fiscal year by the beginning of said year, the prior year's budget shall be repeated until such time as the membership revises it or replaces it. </td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">VII.&nbsp;</td><td>ANNUAL BUDGET. A budget shall be presented by the senior operational officer of the Rescue Squad and the President. The budget year is to run from July 1 through June 30. The budget shall contain the projected expenditures of the coming year. All expenditures will be made as outlined in these bylaws. Should no budget be approved for a fiscal year by the beginning of said year, the prior year's budget shall be repeated until such time as the board revises it or replaces it. </td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">VIII.&nbsp;</td><td>DISPOSITION OF FUNDS</td></tr></table>
 </tr>
@@ -513,7 +487,7 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>Upon dissolution of the corporation, all funds that are not disposed of under Section A of this Article shall be disposed of by the Court of Common Pleas of the County in which the principle office of the corporation is then located, exclusively for such purpose or to such organization or organizations, as said determine, which are organized and operated exclusively for such purposes.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">IX.&nbsp;</td><td>LOGOS AND UNIFORMS</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">IX.&nbsp;</td><td>LOGOS AND UNIFORMS<div style="background-color:silver;"><small>Amended: 2Jun2014</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>DEFINITIONS </td></tr></table>
 </tr>
@@ -527,17 +501,17 @@
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>PURPOSE: The Standard and Stylized Squad Logos shall be used to publicly identify uniformed squad members, vehicles, equipment, fund-raising materials, and other promotional materials as being associated with the Kempsville Rescue Squad, and to distinguish such people and items from other organizations. The logos connote the qualities of dedication, volunteerism, lifesaving, and safety-mindedness that helped create the organization long before the U.S. Department of Transportation established the mandate for a national EMS and its symbol, the Star of Life.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>The power to select products and designs for Official Squad Member Uniforms and Official Vehicle Uniforms shall be vested in the membership.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>The power to select products and designs for Official Squad Member Uniforms and Official Vehicle Uniforms shall be vested in the board.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">D.&nbsp;</td><td>No uniform products shall be purchased with squad funds unless such products are elements of an Official Squadmember Uniform or Official Vehicle Uniform design.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">E.&nbsp;</td><td>All Official Squad Uniforms and Official Vehicle Uniforms shall include as their primary logo either the Standard Squad Logo or the Stylized Squad Logo.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">X.&nbsp;</td><td>AMENDMENTS TO THE BYLAWS</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:0pt"><table cellspacing="0"><tr><td valign="top">X.&nbsp;</td><td>AMENDMENTS TO THE BYLAWS<div style="background-color:silver;"><small>Amended: 2Jun2014</small></div></td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">A.&nbsp;</td><td>All amendments to the Bylaws must be presented in writing and signed by at least five (5) members in good standing.</td></tr></table>
 </tr>
-<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>After being read by the President, they shall be posted until the next regular meeting. At that time, they shall be voted on and will become valid when two-thirds (2/3) of the voting members present vote favorably.</td></tr></table>
+<tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">B.&nbsp;</td><td>After being read by the President at one board meeting, they shall be published to the membership without unreasonable delay until the next regular board meeting. At that time, they shall be voted on and will become valid when two-thirds (2/3) of the directors vote favorably.</td></tr></table>
 </tr>
 <tr><td valign="top" align="center"></td><td><div style="margin-left:12pt"><table cellspacing="0"><tr><td valign="top">C.&nbsp;</td><td>Any changes, amendments, or additions made to these Bylaws shall be attached showing the dates and sections.</td></tr></table>
 </tr>
