@@ -19,7 +19,7 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              <img src="http://kalipso.phpwebhosting.com/photolib/protected/f013861d/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1784-a-i.jpg" />
+              <img src="image/jimerson-david.jpg" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
@@ -71,8 +71,8 @@
               &nbsp;</td>
             <td>
               <strong>Training Sergeants (955 & 956)</strong><br />
-              Matt Kundert<br />
               Kristen Sundberg<br />
+              Kristine Benadum<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
