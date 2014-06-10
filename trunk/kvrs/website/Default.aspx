@@ -45,6 +45,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2014-05-27</dt>
+              <dd>
+                Congratulations to Life Member <i>Bill Black</i> on serving 45 years with KVRS!&nbsp;  Bill is the longest serving member running scheduled duties in the entire Virginia Beach EMS system.&nbsp; He has held many
+                positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
+              </dd>
+              <p></p>
               <dt>2014-04-08</dt>
               <dd>
                 We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief

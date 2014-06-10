@@ -19,7 +19,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img src="http://kalipso.phpwebhosting.com/photolib/div/2012-05--vbdems-awards-ceremony/KAL_2854-b-i.jpg" />
+              <img src="image/lipscomb-kevin.jpg" />
             </td>
             <td>
               <strong>President</strong> -- <i><a href="../mark-1/role/president/index.html">official page</a></i><br />
@@ -47,8 +47,6 @@
               <em>Collateral responsibilities:</em><br />
               Building &amp; Grounds Coordinator<br />
               Fund Drive New Neighborhood Recorder<br />
-              Grant Request Coordinator<br />
-              Ambulance Procurement &amp; Disposition Coordinator
             </td>
           </tr>
           <tr>
@@ -86,17 +84,21 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1778-a-i.jpg' />
+              <img alt="Jason Grimes" src='http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1778-a-i.jpg' />
             </td>
             <td>
               Jason Grimes</td>
           </tr>
           <tr>
             <td>
-              <img src="image/ormond-john.jpg" />
+            <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
             </td>
             <td>
-              John Ormond 
+              Jim Brewer
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Grant Request Coordinator<br />
+              Ambulance Procurement &amp; Disposition Coordinator
             </td>
           </tr>
         </table>
@@ -114,10 +116,14 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="Judy Paulsen" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />&nbsp;
+              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
             </td>
             <td>
-              April Achesinski</td>
+              April Achesinski
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Chief Party Planner
+            </td>
           </tr>
           <tr>
             <td>
@@ -125,6 +131,43 @@
             </td>
             <td>
               Jan James</td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              Diane Ball
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Membership Coordinator -- <i><a href="../mark-1/membership_reqs_and_apps.html">official page</a></i><br />
+              Uniform Coordinator -- <i><a href="../mark-1/role/uniform-coord/index.html">official page</a></i>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="Justin Urquhart" style="width: 234px; height: 351px" src="image/urquhart-justin.jpg" />
+            </td>
+            <td>
+              Justin Urquhart</td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              Kareem Davis</td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              Rob Miller
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Banquet Coordinator
+            </td>
           </tr>
         </table>
         <p>
@@ -136,35 +179,11 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="Amber Achesinski" src="image/achesinski-amber.jpg" style="width: 234px; height: 351px" /></td>
-            <td>
-              <strong>
-                Banquet Coordinator
-                <br />
-                Recruitment &amp; Retention Coordinator
-              </strong>
-              <br />
-              Amber Achesinski<br />
-              Email: <a href='mailto:recruitment@kvrs.org'>recruitment@kvrs.org</a>
-            </td>
-          </tr>
-          <tr>
-            <td>
               &nbsp;
             </td>
             <td>
               <strong>Mail Clerk</strong><br />
               Denny Stewart
-            </td>
-          </tr>
-          <tr>
-            <td>
-              &nbsp;
-            </td>
-            <td>
-              <strong>Membership Coordinator</strong> -- <i><a href="../mark-1/membership_reqs_and_apps.html">official page</a></i><br />
-              <strong>Uniform Coordinator</strong> -- <i><a href="../mark-1/role/uniform-coord/index.html">official page</a></i><br />
-              Diane Ball
             </td>
           </tr>
           </table>
