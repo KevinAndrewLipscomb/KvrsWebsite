@@ -77,11 +77,29 @@
         <h1>
           Directors At-Large</h1>
         <p>
-          (whose terms expire in even-numbered years)
+          (whose terms expire in odd-numbered years)
         </p>
         <div class='vspace'>
         </div>
         <table border='1' cellpadding='10' cellspacing='0'>
+          <tr>
+            <td>
+              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
+            </td>
+            <td>
+              April Achesinski
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Chief Party Planner
+            </td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;
+            </td>
+            <td>
+              Jan James</td>
+          </tr>
           <tr>
             <td>
               <img alt="Jason Grimes" src='http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1778-a-i.jpg' />
@@ -109,29 +127,11 @@
         <h1>
           Directors At-Large</h1>
         <p>
-         (whose terms expire in odd-numbered years)
+         (whose terms expire in even-numbered years)
         </p>
         <div class='vspace'>
         </div>
         <table border='1' cellpadding='10' cellspacing='0'>
-          <tr>
-            <td>
-              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
-            </td>
-            <td>
-              April Achesinski
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Chief Party Planner
-            </td>
-          </tr>
-          <tr>
-            <td>
-              &nbsp;
-            </td>
-            <td>
-              Jan James</td>
-          </tr>
           <tr>
             <td>
               &nbsp;
