@@ -134,7 +134,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Diane Ball" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3557-1-i.jpg" />
             </td>
             <td>
               Diane Ball
@@ -153,14 +153,14 @@
           </tr>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Kareem Davis" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3546-1-i.jpg" />
             </td>
             <td>
               Kareem Davis</td>
           </tr>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Rob Miller" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3547-1-i.jpg" />
             </td>
             <td>
               Rob Miller
@@ -179,7 +179,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Denny Stewart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3552-1-i.jpg" />
             </td>
             <td>
               <strong>Mail Clerk</strong><br />

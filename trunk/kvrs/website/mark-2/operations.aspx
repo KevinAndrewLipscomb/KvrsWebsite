@@ -29,7 +29,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Bryan Miller" src="image/ormond-john.jpg" style="width: 234px; height: 351px" />
+              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" />
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
