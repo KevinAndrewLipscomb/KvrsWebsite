@@ -146,7 +146,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Justin Urquhart" style="width: 234px; height: 351px" src="image/urquhart-justin.jpg" />
+              <img alt="Justin Urquhart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3541-1-i.jpg" />
             </td>
             <td>
               Justin Urquhart</td>
