@@ -45,6 +45,18 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2014-07-01</dt>
+              <dd>
+                By winning grants from both the <a href="http://www.vbrescuefoundation.com/">Virginia Beach Rescue Squad Foundation</a> and the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue
+                Squad Assistance Fund</a>, KVRS has arranged to add two Physio-Control LUCAS Chest Compression Systems to our city's medical arsenal.
+              </dd>
+              <p></p>
+              <dt>2014-06-16</dt>
+              <dd>
+                With a restricted donation from the Evan Collins Memorial EMT Education and Equipment Fund, KVRS has procured a <a href="http://www.laerdal.com/us/SimPad">Laerdal SimPad</a> simulation manikin programmer.&nbsp;
+                We assigned it to the Virginia Beach EMS Training Center where it will improve the training that gets delivered to all EMS providers in the city.
+              </dd>
+              <p></p>
               <dt>2014-05-27</dt>
               <dd>
                 Congratulations to Life Member <i>Bill Black</i> on serving 45 years with KVRS!&nbsp;  Bill is the longest serving member running scheduled duties in the entire Virginia Beach EMS system.&nbsp; He has held many
@@ -67,74 +79,19 @@
               <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
               Compression System and Family & Friends CPR training.
                 <blockquote>
-                  <a href="http://www.wavy.com/hr-show/cpr-saves-lives"><img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" /></a>
+                  <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" />
                 </blockquote>
               </dd>
               <p></p>
               <dt>2013-08-22</dt>
               <dd>
-                The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined
-                <a href="http://epilot.hamptonroads.com/Olive/ODE/VirginianPilot/LandingPage/LandingPage.aspx?href=VmlyZ2luaWFuUGlsb3QvMjAxMy8wOC8yMg..&pageno=NTk.&entity=QXIwNTkwMQ..&view=ZW50aXR5" target="_blank">
-                  <i>Mr. Clean</i>
-                </a>
-                about the invaluable service he provides to keep our ambulances clean and prepared for calls.
+                The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined <i>Mr. Clean</i> about the invaluable service he provides to keep our ambulances clean and prepared for calls.
               </dd>
               <p></p>
               <dt>2013-08-06</dt>
               <dd>
                 WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through
                 traffic to reach emergency scenes.
-                <blockquote>
-                  <object type="application/x-shockwave-flash" align="middle" data="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=040313_0" width="320" height="272">
-                    <param name="movie" value="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=040313_0">
-                    <param name="quality" value="high">
-                    <param name="bgcolor" value="#000000">
-                    <param name="allowscriptaccess" value="always">
-                    <param name="allowfullscreen" value="true">
-                    <param name="allownetworking" value="all">
-                    <param name="wmode" value="opaque">
-                    <param name="flashvars" value="src=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F08%2F06%2FWe_go__Behind_the_windshield__on_todays__127928.mp4&plugin_vast=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPAdIMA_v1_4_FP10_2.swf&vast_ads=true&vast_preRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D1x1000%3Bord%3D453295043458696000%3Frand%3D%25rand%25&vast_postRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D3x1000%3Bord%3D453295043458696000%3Frand%3D%25rand%25&vast_overlay=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dreck-on-the-road-behind-the-windshield%3Bloc%3D%25loc%25%3Bsz%3D2x40%3Bord%3D453295043458696000%3Frand%3D%25rand%25&plugin_omniture=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEndPlayOmniture_v1_4_FP10_2.swf&omniture_vidSegment=M&omniture_vidContent=video&omniture_debugTracking=false&omniture_account=dpsdpswavy%2Cdpsglobal&omniture_visitorNamespace=fim&omniture_trackingServer=fim.122.2o7.net&omniture_trackingServerSecure=fim.102.122.2o7.net&omniture_vidID=0&omniture_id=video_player1&omniture_vidCategory=hr_show&omniture_vidPubDate=2013_08_06&omniture_vidTitle=We%20go%20%22Behind%20the%20windshield%22%20on%20todays%20edtion%20of%20Reck%20on%20the%20Road%20with%20the%20Volunteer%20Rescue%20Squads%20of%20Virginia%20Beach.&plugin_cc=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPCaption_v1_4_FP10_2.swf&cc_dfxp=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F08%2F06%2Fcaptions%2FWe_go__Behind_the_windshield__on_todays__1279280000.dfxp&epD=http%3A%2F%2Fmedia.wcpo.com%2F&showMenu=true&shareUrl=http%3A%2F%2Fwww.wavy.com%2Fdpp%2Fhr_show%2Freck-on-the-road-behind-the-windshield&shareTitle=Reck%20on%20the%20Road%3A%20Behind%20the%20windshield&poster=http%3A%2F%2Fmedia2.wavy.com%2F%2Fphoto%2F2013%2F08%2F06%2FWe_go__Behind_the_windshield__on_todays__1279280000_20130806104121_640_480.JPG&embed=true&embeddableWithLink=true&toggleVideoCode=3&emailAction=http%3A%2F%2Fwww.wavy.com%2Femailaction&vW=320&vH=240&cntrlH=32">
-                  </object>
-                  <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/reck-on-the-road-behind-the-windshield" target="_blank">Reck on the Road: Behind the windshield</a></p>
-                </blockquote>
-              </dd>
-              <p></p>
-              <dt>2013-05-21</dt>
-              <dd>
-                KVRS President Kevin Lipscomb and EMT-Enhanced Joe Tottossy from our sister agency, Princess Anne Courthouse Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about National EMS
-                Week, our current fund drive, and what we do with contribution money.
-                <blockquote>
-                  <object type="application/x-shockwave-flash" align="middle" data="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0" width="320" height="272">
-                    <param name="movie" value="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0">
-                    <param name="quality" value="high">
-                    <param name="bgcolor" value="#000000">
-                    <param name="allowscriptaccess" value="always">
-                    <param name="allowfullscreen" value="true">
-                    <param name="allownetworking" value="all">
-                    <param name="wmode" value="opaque">
-                    <param name="flashvars" value="src=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F21%2FNational_EMS_Week_97791.mp4&plugin_vast=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPAdIMA_v1_4_FP10_2.swf&vast_ads=true&vast_preRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D1x1000%3Bord%3D210924841696396480%3Frand%3D%25rand%25&vast_postRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D3x1000%3Bord%3D210924841696396480%3Frand%3D%25rand%25&vast_overlay=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Dnational-ems-week-fundraising-campaign%3Bloc%3D%25loc%25%3Bsz%3D2x40%3Bord%3D210924841696396480%3Frand%3D%25rand%25&plugin_omniture=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEndPlayOmniture_v1_4_FP10_2.swf&omniture_vidSegment=M&omniture_vidContent=video&omniture_debugTracking=false&omniture_account=dpsdpswavy%2Cdpsglobal&omniture_visitorNamespace=fim&omniture_trackingServer=fim.122.2o7.net&omniture_trackingServerSecure=fim.102.122.2o7.net&omniture_vidID=0&omniture_id=video_player1&omniture_vidCategory=hr_show&omniture_vidPubDate=2013_05_21&omniture_vidTitle=National%20EMS%20Week&plugin_cc=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPCaption_v1_4_FP10_2.swf&cc_dfxp=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F21%2Fcaptions%2FNational_EMS_Week_977910000.dfxp&epD=http%3A%2F%2Fmedia.wcpo.com%2F&showMenu=true&shareUrl=http%3A%2F%2Fwww.wavy.com%2Fdpp%2Fhr_show%2Fnational-ems-week-fundraising-campaign&shareTitle=National%20EMS%20Week%20Fundraising%20Campaign&poster=http%3A%2F%2Fmedia2.wavy.com%2F%2Fphoto%2F2013%2F05%2F21%2FNational_EMS_Week_977910000_20130521100924_640_480.JPG&embed=true&embeddableWithLink=true&toggleVideoCode=3&emailAction=http%3A%2F%2Fwww.wavy.com%2Femailaction&vW=320&vH=240&cntrlH=32">
-                  </object>
-                  <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/national-ems-week-fundraising-campaign" target="_blank">National EMS Week Fundraising Campaign</a></p>
-                  <p>Also see <a href="http://www.wavy.com/dpp/hr_show/audience-virginia-beach-rescue-squads"> yesterday's segment</a>.</p>
-                </blockquote>
-              </dd>
-              <p></p>
-              <dt>2013-05-16</dt>
-              <dd>
-                WAVY-TV 10 was on hand when our paramedic Brian Roland was reunited with a patient whose life he had saved!
-                <blockquote>
-                  <object type="application/x-shockwave-flash" align="middle" data="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0" width="320" height="272">
-                    <param name="movie" value="http://www.wavy.com/video_player/swf/EndPlayVideoPlayer_v1_4_FP10_2.swf?v=101712_0">
-                    <param name="quality" value="high">
-                    <param name="bgcolor" value="#000000">
-                    <param name="allowscriptaccess" value="always">
-                    <param name="allowfullscreen" value="true">
-                    <param name="allownetworking" value="all">
-                    <param name="wmode" value="opaque">
-                    <param name="flashvars" value="src=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F16%2FSummer_diva_boot_camp_95864.mp4&plugin_vast=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPAdIMA_v1_4_FP10_2.swf&vast_ads=true&vast_preRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fwildcard_112%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Diahr-vb-rescue-squad%3Bloc%3D%25loc%25%3Bsz%3D1x1000%3Bord%3D709649162832647600%3Frand%3D%25rand%25&vast_postRoll=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fwildcard_112%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Diahr-vb-rescue-squad%3Bloc%3D%25loc%25%3Bsz%3D3x1000%3Bord%3D709649162832647600%3Frand%3D%25rand%25&vast_overlay=http%3A%2F%2Fad.doubleclick.net%2FN5678%2Fpfadx%2Flin.wavy%2Fwildcard_11%2Fwildcard_112%2Fdetail%3Bdcmt%3Dtext%2Fxml%3Bpos%3Dnative%3Btile%3D2%3Bfname%3Diahr-vb-rescue-squad%3Bloc%3D%25loc%25%3Bsz%3D2x40%3Bord%3D709649162832647600%3Frand%3D%25rand%25&plugin_omniture=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEndPlayOmniture_v1_4_FP10_2.swf&omniture_vidSegment=M&omniture_vidContent=video&omniture_debugTracking=false&omniture_account=dpsdpswavy%2Cdpsglobal&omniture_visitorNamespace=fim&omniture_trackingServer=fim.122.2o7.net&omniture_trackingServerSecure=fim.102.122.2o7.net&omniture_vidID=0&omniture_id=video_player1&omniture_vidCategory=hr_show&omniture_vidPubDate=2013_05_16&omniture_vidTitle=Summer%20diva%20boot%20camp&plugin_cc=http%3A%2F%2Fwww.wavy.com%2Fvideo_player%2Fswf%2Fplugins%2FPluginEPCaption_v1_4_FP10_2.swf&cc_dfxp=http%3A%2F%2Fmedia2.wavy.com%2Fvideo%2Fanvato%2F2013%2F05%2F16%2Fcaptions%2FSummer_diva_boot_camp_958640000.dfxp&epD=http%3A%2F%2Fmedia.wcpo.com%2F&showMenu=true&shareUrl=http%3A%2F%2Fwww.wavy.com%2Fdpp%2Fhr_show%2Fi_am_hr%2Fiahr-vb-rescue-squad&shareTitle=I%20AM%20HR%3A%20VB%20Rescue%20Squad&poster=http%3A%2F%2Fmedia2.wavy.com%2F%2Fphoto%2F2013%2F05%2F16%2FSummer_diva_boot_camp_958640000_20130516095137_640_480.JPG&embed=true&embeddableWithLink=true&toggleVideoCode=3&emailAction=http%3A%2F%2Fwww.wavy.com%2Femailaction&vW=320&vH=240&cntrlH=32">
-                  </object>
-                  <p style="width:320px"><a href="http://www.wavy.com/dpp/hr_show/i_am_hr/iahr-vb-rescue-squad" target="_blank">I AM HR: VB Rescue Squad</a></p>
-                </blockquote>
               </dd>
               <p></p>
               <dt>2013-05-06</dt>
@@ -151,8 +108,7 @@
               <p></p>
               <dt>2013-01-03</dt>
               <dd>
-                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station Fox 43!&nbsp; See the <a href="http://www.fox43tv.com/dpp/news/local/Hampton-roads-hero-April-Achesinski">full coverage
-                here!</a>
+                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station Fox 43!
               </dd>
               <p></p>
               <dt>2012-11-11</dt>
@@ -190,7 +146,7 @@
               <dt>2012-04-06</dt>
               <dd>
                 With two of its ambulances already on duty, KVRS's other three ambulances, plus an extra zone car, were quickly staffed in the aftermath of
-                <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet#Accidents">the crash of a Navy fighter jet into an apartment complex</a> in <a href="http://www.vbvrs.com/">Rescue 14</a>'s district.  But
+                <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet#Accidents">the crash of a Navy fighter jet into an apartment complex</a> in <a href="http://www.vbvrs.org/">Rescue 14</a>'s district.  But
                 that's just a fragment of the whole picture.  Citywide, Virginia Beach's volunteer-based EMS system ended up with 28 ambulances and 10 zone cars staffed, either at the crash site, or backfilling for other calls.
                 No EMS mutual aid units were required from surrounding jurisdictions.
               </dd>
@@ -218,7 +174,7 @@
             <hr />
             <p></p>
             <h3>Physio-Control LUCAS Chest Compression System</h3>
-            <h4>We need 5 at about $13,100 each</h4>
+            <h4>We need 3 at about $13,100 each</h4>
             <p><img src="image/lucas.png" alt="LUCAS Chest Compression System"/></p>
             <p>
               <small>
@@ -229,7 +185,7 @@
             </p>
             <p>
               <small>
-                The City of Virginia Beach only has one of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
+                The City of Virginia Beach only has a few of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
               </small>
             </p>
             <hr />
