@@ -167,7 +167,28 @@
           </td>
           <td valign='top' width='25%'>
             <center><strong>Scanner feed</strong> - <a href="http://www.vbrescuecouncil.org/pub/streaming_radio_traffic.aspx" target="_blank">details & more</a></center>
-            <iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=94705665&feedId=14744&stats=1">Your browser does not support iFrames.</iframe>
+            <div id="Div_scanner_feed"><!-- iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=94705665&feedId=14744&stats=1">Your browser does not support iFrames.</iframe --></div>
+            <script type="text/javascript">
+              //doesn't block the load event
+              function createIframe()
+                {
+                var i = document.createElement("iframe");
+                i.src = "http://api.broadcastify.com/embed/player/?key=94705665&feedId=14744&stats=1";
+                i.scrolling = "auto";
+                i.frameborder = "0";
+                i.width = "325px";
+                i.height = "245px";
+                document.getElementById("Div_scanner_feed").appendChild(i);
+                };
+
+              // Check for browser support of event handling capability
+              if (window.addEventListener)
+                window.addEventListener("load", createIframe, false);
+              else if (window.attachEvent)
+                window.attachEvent("onload", createIframe);
+              else window.onload = createIframe;
+
+            </script>
             <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>
