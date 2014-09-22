@@ -63,6 +63,12 @@
                 positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
               </dd>
               <p></p>
+              <dt>2014-04-14</dt>
+              <dd>
+                OffbeatBride.com publishes <a href="http://offbeatbride.com/2014/04/virginia-volunteerism-wedding">an article about the wedding</a> of one of our members, Amir Louka, to his bride Stephanie (who runs with our
+                sister squad, VBVRS).
+              </dd>
+              <p></p>
               <dt>2014-04-08</dt>
               <dd>
                 We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
@@ -71,9 +77,6 @@
               <p></p>
               <dt>2013-11-16</dt>
               <dd>At our annual banquet tonight, our new <a href="mark-2/administration.aspx">administration</a> and <a href="mark-2/operations.aspx">operations</a> officers were installed.</dd>
-              <p></p>
-              <dt>2013-11-11</dt>
-              <dd>The mailout for our Fall fund drive has reached area mailboxes.&nbsp; We're depending on you to send a donation soon.&nbsp; Thanks!</dd>
               <p></p>
               <dt>2013-08-28</dt>
               <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
