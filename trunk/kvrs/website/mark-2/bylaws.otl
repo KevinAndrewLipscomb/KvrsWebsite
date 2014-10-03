@@ -7,7 +7,7 @@
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464382764" cursor="24">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464385665" cursor="226">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -737,8 +737,8 @@
 						<item id="518975352" type="simple" priority="1" create-date="05 Jun 2014 11:49" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
 							<text>MEETING SCHEDULES</text>
 							<items>
-								<item id="464385665" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80105BC2">
-									<text>The Board Of Directors shall meet to conduct its business monthly in the first week of each month (or if pre-empted by a holiday, another day), the date, time, and place of which must be published a month in advance to the mebership, unless such meeting is prevented by inclement weather or a state of emergency. At any board meeting, regular or special, members shall be afforded the same rights to attend and speak as directors enjoy, but only directors may vote.</text>
+								<item id="464385665" type="simple" priority="1" create-date="11 Sep 2012 16:01" last-modified="03 Oct 2014 12:07" pos-hint="2147483649" modified="#80105BC2">
+									<text>The Board Of Directors shall meet to conduct its business monthly in the first week of each month (or if pre-empted by a holiday, another day), the date, time, and place of which must be published a month in advance to the membership, unless such meeting is prevented by inclement weather or a state of emergency. At any board meeting, regular or special, members shall be afforded the same rights to attend and speak as directors enjoy, but only directors may vote.</text>
 								</item>
 								<item id="518975360" type="simple" priority="1" create-date="05 Jun 2014 11:49" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#100BC2">
 									<text>The membership shall meet to conduct elections on the first Monday of each November. If meeting on that date is prevented by inclement weather or a state of emergency, the responsible officer must arrange for a make-up meeting as soon as possible, and must make an effort in good faith to notify all members when and where the make-up meeting will be held.</text>
