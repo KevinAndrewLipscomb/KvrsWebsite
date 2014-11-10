@@ -27,13 +27,9 @@
               Email: <a href='mailto:president@kvrs.org'>president@kvrs.org</a><br />
               <br />
               <em>Collateral responsibilities:</em><br />
-              Bylaws Coordinator<br />
-              Finance &amp; Audits Coordinator<br />
               Fleet Renewal Plan Administrator<br />
               Fund Drive Coordinator<br />
-              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i><br />
-              Love-Letter Program Coordinator
-            </td>
+              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i></td>
           </tr>
           <tr>
             <td>
@@ -51,17 +47,17 @@
           </tr>
           <tr>
             <td>
-              <img alt="Judy Paulsen" src="image/paulsen-judy.jpg" style="width: 234px; height: 351px" /></td>
+              <img alt="Judy Paulsen" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3715-b-i.jpg" />
             </td>
             <td>
               <strong>Secretary</strong><br />
-              Judy Paulsen<br />
+              Judy Young<br />
               Email: <a href='mailto:secretary@kvrs.org'>secretary@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              
+              <img alt="Tim Crawford" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3706-a-i.jpg" />
             </td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
@@ -82,17 +78,6 @@
         <div class='vspace'>
         </div>
         <table border='1' cellpadding='10' cellspacing='0'>
-          <tr>
-            <td>
-              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
-            </td>
-            <td>
-              April Achesinski
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Chief Party Planner
-            </td>
-          </tr>
           <tr>
             <td>
               &nbsp;
@@ -117,6 +102,14 @@
               <em>Collateral responsibilities:</em><br />
               Grant Request Coordinator<br />
               Ambulance Procurement &amp; Disposition Coordinator
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="David Pagtalunan" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3720-a-i.jpg" />
+            </td>
+            <td>
+              David Pagtalunan
             </td>
           </tr>
         </table>
@@ -160,13 +153,10 @@
           </tr>
           <tr>
             <td>
-              <img alt="Rob Miller" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3547-1-i.jpg" />
+              
             </td>
             <td>
-              Rob Miller
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Banquet Coordinator
+              (vacant)
             </td>
           </tr>
         </table>
