@@ -19,11 +19,11 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              <img src="image/jimerson-david.jpg" />
+              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
-              David Jimerson<br />
+              April Achesinski<br />
               Email: <a href='mailto:captain@kvrs.org'>captain@kvrs.org</a>
             </td>
           </tr>
@@ -42,7 +42,7 @@
               &nbsp;</td>
             <td>
               <strong>Schedule Coordinator</strong><br />
-              David Pagtalunan<br />
+              Christina Wiemer-Rohn<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
