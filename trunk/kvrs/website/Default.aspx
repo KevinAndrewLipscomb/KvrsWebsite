@@ -45,6 +45,11 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2014-11-22</dt>
+              <dd>
+                Effective this day, former KVRS members Jerry Sourbeer and Matt Owens are promoted from the rank of Senior Paramedic to the rank of Captain in the Virginia Beach EMS Department.
+              </dd>
+              <p></p>
               <dt>2014-07-01</dt>
               <dd>
                 By winning grants from both the <a href="http://www.vbrescuefoundation.com/">Virginia Beach Rescue Squad Foundation</a> and the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue
