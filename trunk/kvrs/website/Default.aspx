@@ -45,6 +45,12 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2014-11-26</dt>
+              <dd>
+                The first two online presentations in the new KVRS Training Academy are now available, courtesy of our member Jeff Achesinski.  In the left margin of this website, see Quick links / Squad-level /
+                <a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a>.
+              </dd>
+              <p></p>
               <dt>2014-11-22</dt>
               <dd>
                 Effective this day, former KVRS members Jerry Sourbeer and Matt Owens are promoted from the rank of Senior Paramedic to the rank of Captain in the Virginia Beach EMS Department.
