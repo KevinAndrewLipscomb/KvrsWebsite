@@ -79,6 +79,11 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
+                <td nowrap="nowrap"><small><a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a></small></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
                 <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/bylaws.aspx">Bylaws</a></small></td>
               </tr>
               <tr>
