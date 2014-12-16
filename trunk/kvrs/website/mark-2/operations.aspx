@@ -19,7 +19,7 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              <img alt="April Achesinski" src="http://kalipso.phpwebhosting.com/photolib/protected/d2c73ff6/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1780-i.jpg" style="width: 234px; height: 351px" />
+              <img alt="April Achesinski" src="image/achesinski-april.jpg" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
