@@ -153,10 +153,10 @@
           </tr>
           <tr>
             <td>
-              
+              <img alt="Jeff Achesinski" src="image/achesinski-jeff.jpg" />
             </td>
             <td>
-              (vacant)
+              Jeff Achesinski
             </td>
           </tr>
         </table>
