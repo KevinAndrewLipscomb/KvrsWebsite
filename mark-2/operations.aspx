@@ -39,25 +39,26 @@
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
+            </td>
             <td>
-              <strong>Schedule Coordinator</strong><br />
-              Christina Wiemer-Rohn<br />
+              <strong>Scheduling Officer (952)</strong><br />
+              Trevor Blank<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="Logistics Officer" src="image/oliver-nick.jpg" style="width: 234px; height: 351px" /></td>
+              <img alt="David Pagtalunan" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3720-a-i.jpg" /></td>
             <td>
               <strong>Logistics Officer (953)</strong><br />
-              Nick Oliver<br />
+              David Pagtalunan<br />
               Email: <a href='mailto:logistics@kvrs.org'>logistics@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
+              <img alt="Travis Wright" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3692-b-i.jpg" />
+            </td>
             </td>
             </td>
             <td>
@@ -68,11 +69,27 @@
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
+              <img alt="Steven Dillon" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3663-b-i.jpg" /><br />
+              <img alt="Nick Oliver" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3667-b-i.jpg" />
+            </td>
+            </td>
+            </td>
             <td>
-              <strong>Training Sergeants (955 & 956)</strong><br />
-              Kristen Sundberg<br />
-              Kristine Benadum<br />
+              <strong>Equipment Sergeants</strong><br />
+              Steven Dillon (955)<br />
+              Nick Oliver (956)<br />
+              Email: <a href='mailto:equipment@kvrs.org'>supplies@kvrs.org</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="Chris Weimer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" /><br />
+              <img alt="Jonathan Shafer" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3676-b-i.jpg" />
+            </td>
+            <td>
+              <strong>Training Sergeants</strong><br />
+              Chris Weimer-Rohn (957)<br />
+              Jonathan Shafer (958)<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
