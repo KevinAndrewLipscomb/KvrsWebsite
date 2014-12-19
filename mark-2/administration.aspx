@@ -80,7 +80,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              &nbsp;
+              <img alt="Jan James" src="image/james-jan.jpg" />
             </td>
             <td>
               Jan James</td>
