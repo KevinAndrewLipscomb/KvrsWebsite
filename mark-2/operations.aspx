@@ -39,7 +39,7 @@
           </tr>
           <tr>
             <td>
-            </td>
+              <img alt="Trevor Blank" src="image/blank-trevor.jpg" style="width: 234px; height: 351px" /></td>
             <td>
               <strong>Scheduling Officer (952)</strong><br />
               Trevor Blank<br />
