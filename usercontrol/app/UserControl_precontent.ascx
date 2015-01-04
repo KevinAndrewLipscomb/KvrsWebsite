@@ -79,7 +79,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a></small></td>
+                <td nowrap="nowrap"><small><a href="https://docs.google.com/document/d/18FHcHIIuuAhg82OhU9fVkL99JxtFJClJtcSPzKHrfTY/edit?pli=1" rel="nofollow">Training Academy</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
