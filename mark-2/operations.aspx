@@ -84,12 +84,12 @@
           <tr>
             <td>
               <img alt="Chris Weimer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" /><br />
-              <img alt="Jonathan Shafer" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3676-b-i.jpg" />
+              <img alt="Justin Urquhart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3541-1-i.jpg" />
             </td>
             <td>
               <strong>Training Sergeants</strong><br />
               Chris Weimer-Rohn (957)<br />
-              Jonathan Shafer (958)<br />
+              Justin Urquhart (958)<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
