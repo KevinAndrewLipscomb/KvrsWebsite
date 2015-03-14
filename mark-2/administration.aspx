@@ -87,10 +87,8 @@
           </tr>
           <tr>
             <td>
-              <img alt="Jason Grimes" src='http://kalipso.phpwebhosting.com/photolib/protected/cb054fed/2012-02--vavrs-district-2-meet-at-kvrs/KAL_1778-a-i.jpg' />
             </td>
-            <td>
-              Jason Grimes</td>
+            <td>(vacant)</td>
           </tr>
           <tr>
             <td>

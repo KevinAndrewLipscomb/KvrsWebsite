@@ -69,15 +69,12 @@
           </tr>
           <tr>
             <td>
-              <img alt="Steven Dillon" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3663-b-i.jpg" /><br />
-              <img alt="Nick Oliver" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3667-b-i.jpg" />
             </td>
             </td>
             </td>
             <td>
               <strong>Equipment Sergeants</strong><br />
-              Steven Dillon (955)<br />
-              Nick Oliver (956)<br />
+              (vacant)<br />
               Email: <a href='mailto:equipment@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
