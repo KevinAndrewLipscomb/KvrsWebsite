@@ -47,11 +47,11 @@
           </tr>
           <tr>
             <td>
-              <img alt="Judy Paulsen" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3715-b-i.jpg" />
+              
             </td>
             <td>
               <strong>Secretary</strong><br />
-              Judy Young<br />
+              (vacant)<br />
               Email: <a href='mailto:secretary@kvrs.org'>secretary@kvrs.org</a>
             </td>
           </tr>
