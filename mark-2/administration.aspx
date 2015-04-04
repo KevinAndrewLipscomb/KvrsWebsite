@@ -144,10 +144,10 @@
           </tr>
           <tr>
             <td>
-              <img alt="Kareem Davis" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3546-1-i.jpg" />
+              
             </td>
             <td>
-              Kareem Davis</td>
+              (vacant)</td>
           </tr>
           <tr>
             <td>
