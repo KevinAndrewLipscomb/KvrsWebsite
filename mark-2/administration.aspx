@@ -51,7 +51,7 @@
             </td>
             <td>
               <strong>Secretary</strong><br />
-              (vacant)<br />
+              Diana Buhrmann<br />
               Email: <a href='mailto:secretary@kvrs.org'>secretary@kvrs.org</a>
             </td>
           </tr>
@@ -87,28 +87,22 @@
           </tr>
           <tr>
             <td>
-            </td>
-            <td>(vacant)</td>
-          </tr>
-          <tr>
-            <td>
-            <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
-            </td>
-            <td>
-              Jim Brewer
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Grant Request Coordinator<br />
-              Ambulance Procurement &amp; Disposition Coordinator
-            </td>
-          </tr>
-          <tr>
-            <td>
               <img alt="David Pagtalunan" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3720-a-i.jpg" />
             </td>
             <td>
               David Pagtalunan
             </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="David Jimerson" src="image/jimerson-david.jpg" />
+            </td>
+            <td>David Jimerson</td>
+          </tr>
+          <tr>
+            <td>
+            </td>
+            <td>Dan Russell</td>
           </tr>
         </table>
         <p>
@@ -144,17 +138,22 @@
           </tr>
           <tr>
             <td>
-              
-            </td>
-            <td>
-              (vacant)</td>
-          </tr>
-          <tr>
-            <td>
               <img alt="Jeff Achesinski" src="image/achesinski-jeff.jpg" />
             </td>
             <td>
               Jeff Achesinski
+            </td>
+          </tr>
+          <tr>
+            <td>
+            <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
+            </td>
+            <td>
+              Jim Brewer
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Grant Request Coordinator<br />
+              Ambulance Procurement &amp; Disposition Coordinator
             </td>
           </tr>
         </table>
