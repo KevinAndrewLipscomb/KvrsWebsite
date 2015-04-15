@@ -45,15 +45,31 @@
             <p></p>
             <h2>News</h2>
             <dl>
+              <dt>2015-04-02</dt>
+              <dd>
+                Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
+                resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
+              </dd>
+              <p></p>
+              <dt>2015-02-28</dt>
+              <dd>
+                We have applied for a 50% grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em>capability.&nbsp; Waveform capnography gives us a continuous indication of a patient's
+                level of exhaled carbon dioxide, and is considered the gold standard for making sure an "endotracheal" tube stays properly placed in a critical patient's windpipe.
+              </dd>
+              <p></p>
+              <dt>2015-01-01</dt>
+              <dd>
+                We have once again doubled money from our donors by winning a grant from the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue Squad Assistance Fund</a> to replace our oldest
+                ambulance.
+              </dd>
+              <p></p>
+              <dt>2014-12-31</dt>
+              <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2014, average.</dd>
+              <p></p>
               <dt>2014-11-26</dt>
               <dd>
                 The first two online presentations in the new KVRS Training Academy are now available, courtesy of our member Jeff Achesinski.  In the left margin of this website, see Quick links / Squad-level /
                 <a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a>.
-              </dd>
-              <p></p>
-              <dt>2014-11-22</dt>
-              <dd>
-                Effective this day, former KVRS members Jerry Sourbeer and Matt Owens are promoted from the rank of Senior Paramedic to the rank of Captain in the Virginia Beach EMS Department.
               </dd>
               <p></p>
               <dt>2014-07-01</dt>
@@ -74,20 +90,11 @@
                 positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
               </dd>
               <p></p>
-              <dt>2014-04-14</dt>
-              <dd>
-                OffbeatBride.com publishes <a href="http://offbeatbride.com/2014/04/virginia-volunteerism-wedding">an article about the wedding</a> of one of our members, Amir Louka, to his bride Stephanie (who runs with our
-                sister squad, VBVRS).
-              </dd>
-              <p></p>
               <dt>2014-04-08</dt>
               <dd>
                 We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
                 Stuart Buxbaum.
               </dd>
-              <p></p>
-              <dt>2013-11-16</dt>
-              <dd>At our annual banquet tonight, our new <a href="mark-2/administration.aspx">administration</a> and <a href="mark-2/operations.aspx">operations</a> officers were installed.</dd>
               <p></p>
               <dt>2013-08-28</dt>
               <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
@@ -104,8 +111,7 @@
               <p></p>
               <dt>2013-08-06</dt>
               <dd>
-                WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through
-                traffic to reach emergency scenes.
+                WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through traffic to reach emergency scenes.
               </dd>
               <p></p>
               <dt>2013-05-06</dt>
@@ -114,38 +120,10 @@
                 lifting injuries, and they are safer for our patients.
               </dd>
               <p></p>
-              <dt>2013-03-06</dt>
-              <dd>
-                Our President, Kevin Lipscomb, was named the Virginia Beach Public Safety Volunteer Of The Year by the Cape Henry Rotary Club.&nbsp; See the <a href="resource/RotaryClubWinners.wmv">Windows Media Video file
-                here!</a>
-              </dd>
-              <p></p>
-              <dt>2013-01-03</dt>
-              <dd>
-                Our Captain, April Achesinski, has been honored as a Hampton Roads Hero by local TV station Fox 43!
-              </dd>
-              <p></p>
-              <dt>2012-11-11</dt>
-              <dd>
-                Four of our five ambulances are now equipped with the full-featured Physio-Control LifePak 15 devices, complete with 12-lead and end-tidal carbon dioxide monitoring.&nbsp; KVRS procured one with a grant, and now
-                the city has assigned a total of three more to us.
-              </dd>
-              <p></p>
               <dt>2012-10-21</dt>
               <dd>
                 Today KVRS equipped its two front-line ambulances with Verathon GlideScope video laryngoscopes that it purchased with a grant.&nbsp; We are the <i>only</i> squad in Virginia Beach to have done this.&nbsp;
                 Paramedics staffing these two ambulances will no longer have to wait for another paramedic on a zone or supervisor car to bring a GlideScope to them.
-              </dd>
-              <p></p>
-              <dt>2012-09-08</dt>
-              <dd>
-                This summer, KVRS was the squad chosen for the exciting and prestigious motorcades of both President Barack Obama and Republican presidential nominee Mitt Romney as they campaigned through Virginia Beach.
-              </dd>
-              <p></p>
-              <dt>2012-08-24</dt>
-              <dd>
-                Today we put another brand new Chevrolet G4500 Wheeled Coach Type III Standard Duty Ambulance into service.  It assumed the moniker "920" from our 2006 Ford E-450 Horton Type III Standard Duty Ambulance, which
-                we'll be selling.  The new ambulance was made possible by a 50% Virginia Rescue Squad Assistance Fund grant.
               </dd>
               <p></p>
               <dt>2012-08-19</dt>
@@ -157,25 +135,6 @@
                 we've learned over four years of very detailed specification work.
               </dd>
               <p></p>
-              <dt>2012-04-06</dt>
-              <dd>
-                With two of its ambulances already on duty, KVRS's other three ambulances, plus an extra zone car, were quickly staffed in the aftermath of
-                <a href="http://en.wikipedia.org/wiki/McDonnell_Douglas_F/A-18_Hornet#Accidents">the crash of a Navy fighter jet into an apartment complex</a> in <a href="http://www.vbvrs.org/">Rescue 14</a>'s district.  But
-                that's just a fragment of the whole picture.  Citywide, Virginia Beach's volunteer-based EMS system ended up with 28 ambulances and 10 zone cars staffed, either at the crash site, or backfilling for other calls.
-                No EMS mutual aid units were required from surrounding jurisdictions.
-              </dd>
-              <p></p>
-              <dt>2011-07-28</dt>
-              <dd>
-                Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
-                resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-              </dd>
-              <p></p>
-              <dt>2011-07-01</dt>
-              <dd>KVRS has won a 50% Virginia Rescue Squad Assistance Fund grant to replace two of its aging conventional stretchers.  This will give us a mix of late-model conventional and powered stretchers.</dd>
-              <p></p>
-              <dt>2011-01-20</dt>
-              <dd>KVRS responded to more than 21 calls per day (transporting more than 14 patients per day) in 2010, average.</dd>
             </dl>
             <p></p>
           </td>
