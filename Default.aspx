@@ -2,6 +2,7 @@
 <%@ Page language="c#" Debug="true" Codebehind="Default.aspx.cs" AutoEventWireup="True" Inherits="Default.TWebForm_Default" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_precontent" Src="~/usercontrol/app/UserControl_precontent.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="UserControl_postcontent" Src="~/usercontrol/app/UserControl_postcontent.ascx" %>
+<%@ Register src="usercontrol/app/UserControl_recent_oscalert_samples.ascx" tagname="UserControl_recent_oscalert_samples" tagprefix="uc2" %>
 <html>
   <head runat="server">
     <!-- $Id$ -->
@@ -43,100 +44,106 @@
               for leadership development, and for community self-sufficiency
             </p>
             <p></p>
-            <h2>News</h2>
-            <dl>
-              <dt>2015-04-02</dt>
-              <dd>
-                Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
-                resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-              </dd>
-              <p></p>
-              <dt>2015-02-28</dt>
-              <dd>
-                We have applied for a 50% grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em>capability.&nbsp; Waveform capnography gives us a continuous indication of a patient's
-                level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn&#39;t wiggle out of a critical patient's windpipe.
-              </dd>
-              <p></p>
-              <dt>2015-01-01</dt>
-              <dd>
-                We have once again doubled money from our donors by winning a grant from the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue Squad Assistance Fund</a> to replace our oldest
-                ambulance.
-              </dd>
-              <p></p>
-              <dt>2014-12-31</dt>
-              <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2014, average.</dd>
-              <p></p>
-              <dt>2014-11-26</dt>
-              <dd>
-                The first two online presentations in the new KVRS Training Academy are now available, courtesy of our member Jeff Achesinski.  In the left margin of this website, see Quick links / Squad-level /
-                <a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a>.
-              </dd>
-              <p></p>
-              <dt>2014-07-01</dt>
-              <dd>
-                By winning grants from both the <a href="http://www.vbrescuefoundation.com/">Virginia Beach Rescue Squad Foundation</a> and the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue
-                Squad Assistance Fund</a>, KVRS has arranged to add two Physio-Control LUCAS Chest Compression Systems to our city's medical arsenal.
-              </dd>
-              <p></p>
-              <dt>2014-06-16</dt>
-              <dd>
-                With a restricted donation from the Evan Collins Memorial EMT Education and Equipment Fund, KVRS has procured a <a href="http://www.laerdal.com/us/SimPad">Laerdal SimPad</a> simulation manikin programmer.&nbsp;
-                We assigned it to the Virginia Beach EMS Training Center where it will improve the training that gets delivered to all EMS providers in the city.
-              </dd>
-              <p></p>
-              <dt>2014-05-27</dt>
-              <dd>
-                Congratulations to Life Member <i>Bill Black</i> on serving 45 years with KVRS!&nbsp;  Bill is the longest serving member running scheduled duties in the entire Virginia Beach EMS system.&nbsp; He has held many
-                positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
-              </dd>
-              <p></p>
-              <dt>2014-04-08</dt>
-              <dd>
-                We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
-                Stuart Buxbaum.
-              </dd>
-              <p></p>
-              <dt>2013-08-28</dt>
-              <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
-              Compression System and Family & Friends CPR training.
-                <blockquote>
-                  <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" />
-                </blockquote>
-              </dd>
-              <p></p>
-              <dt>2013-08-22</dt>
-              <dd>
-                The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined <i>Mr. Clean</i> about the invaluable service he provides to keep our ambulances clean and prepared for calls.
-              </dd>
-              <p></p>
-              <dt>2013-08-06</dt>
-              <dd>
-                WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through traffic to reach emergency scenes.
-              </dd>
-              <p></p>
-              <dt>2013-05-06</dt>
-              <dd>
-                We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
-                lifting injuries, and they are safer for our patients.
-              </dd>
-              <p></p>
-              <dt>2012-10-21</dt>
-              <dd>
-                Today KVRS equipped its two front-line ambulances with Verathon GlideScope video laryngoscopes that it purchased with a grant.&nbsp; We are the <i>only</i> squad in Virginia Beach to have done this.&nbsp;
-                Paramedics staffing these two ambulances will no longer have to wait for another paramedic on a zone or supervisor car to bring a GlideScope to them.
-              </dd>
-              <p></p>
-              <dt>2012-08-19</dt>
-              <dd>
-                Today we made two documents publicly available in the hopes they may be helpful to other squads that are ordering new ambulances. The <em>KVRS Ambulance Detailed Technical Requirements</em> (
-                <asp:HyperLink ID="HyperLink_amb_dtrs" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/ambulance-detailed-technical-requirements.pdf">PDF</asp:HyperLink> |
-                <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.xhtml">HTML</asp:HyperLink> ) and the 
-                <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
-                we've learned over four years of very detailed specification work.
-              </dd>
-              <p></p>
-            </dl>
-            <p></p>
+            <table cellpadding="5" cellspacing="0">
+              <tr>
+                <td valign="top">
+                  <h2>News</h2>
+                  <dl>
+                    <dt>2015-04-02</dt>
+                    <dd>
+                      Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
+                      resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
+                    </dd>
+                    <p></p>
+                    <dt>2015-02-28</dt>
+                    <dd>
+                      We have applied for a 50% grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em>capability.&nbsp; Waveform capnography gives us a continuous indication of a patient's
+                      level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn&#39;t wiggle out of a critical patient's windpipe.
+                    </dd>
+                    <p></p>
+                    <dt>2015-01-01</dt>
+                    <dd>
+                      We have once again doubled money from our donors by winning a grant from the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue Squad Assistance Fund</a> to replace our oldest
+                      ambulance.
+                    </dd>
+                    <p></p>
+                    <dt>2014-12-31</dt>
+                    <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2014, average.</dd>
+                    <p></p>
+                    <dt>2014-11-26</dt>
+                    <dd>
+                      The first two online presentations in the new KVRS Training Academy are now available, courtesy of our member Jeff Achesinski.  In the left margin of this website, see Quick links / Squad-level /
+                      <a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a>.
+                    </dd>
+                    <p></p>
+                    <dt>2014-07-01</dt>
+                    <dd>
+                      By winning grants from both the <a href="http://www.vbrescuefoundation.com/">Virginia Beach Rescue Squad Foundation</a> and the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue
+                      Squad Assistance Fund</a>, KVRS has arranged to add two Physio-Control LUCAS Chest Compression Systems to our city's medical arsenal.
+                    </dd>
+                    <p></p>
+                    <dt>2014-06-16</dt>
+                    <dd>
+                      With a restricted donation from the Evan Collins Memorial EMT Education and Equipment Fund, KVRS has procured a <a href="http://www.laerdal.com/us/SimPad">Laerdal SimPad</a> simulation manikin programmer.&nbsp;
+                      We assigned it to the Virginia Beach EMS Training Center where it will improve the training that gets delivered to all EMS providers in the city.
+                    </dd>
+                    <p></p>
+                    <dt>2014-05-27</dt>
+                    <dd>
+                      Congratulations to Life Member <i>Bill Black</i> on serving 45 years with KVRS!&nbsp;  Bill is the longest serving member running scheduled duties in the entire Virginia Beach EMS system.&nbsp; He has held many
+                      positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
+                    </dd>
+                    <p></p>
+                    <dt>2014-04-08</dt>
+                    <dd>
+                      We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
+                      Stuart Buxbaum.
+                    </dd>
+                    <p></p>
+                    <dt>2013-08-28</dt>
+                    <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
+                    Compression System and Family & Friends CPR training.
+                      <blockquote>
+                        <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" />
+                      </blockquote>
+                    </dd>
+                    <p></p>
+                    <dt>2013-08-22</dt>
+                    <dd>
+                      The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined <i>Mr. Clean</i> about the invaluable service he provides to keep our ambulances clean and prepared for calls.
+                    </dd>
+                    <p></p>
+                    <dt>2013-08-06</dt>
+                    <dd>
+                      WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through traffic to reach emergency scenes.
+                    </dd>
+                    <p></p>
+                    <dt>2013-05-06</dt>
+                    <dd>
+                      We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
+                      lifting injuries, and they are safer for our patients.
+                    </dd>
+                    <p></p>
+                    <dt>2012-10-21</dt>
+                    <dd>
+                      Today KVRS equipped its two front-line ambulances with Verathon GlideScope video laryngoscopes that it purchased with a grant.&nbsp; We are the <i>only</i> squad in Virginia Beach to have done this.&nbsp;
+                      Paramedics staffing these two ambulances will no longer have to wait for another paramedic on a zone or supervisor car to bring a GlideScope to them.
+                    </dd>
+                    <p></p>
+                    <dt>2012-08-19</dt>
+                    <dd>
+                      Today we made two documents publicly available in the hopes they may be helpful to other squads that are ordering new ambulances. The <em>KVRS Ambulance Detailed Technical Requirements</em> (
+                      <asp:HyperLink ID="HyperLink_amb_dtrs" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/ambulance-detailed-technical-requirements.pdf">PDF</asp:HyperLink> |
+                      <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.xhtml">HTML</asp:HyperLink> ) and the 
+                      <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
+                      we've learned over four years of very detailed specification work.
+                    </dd>
+                    <p></p>
+                  </dl>
+                </td>
+                <td valign="top"><uc2:UserControl_recent_oscalert_samples ID="UserControl_recent_oscalert_samples1" runat="server" /></td>
+              </tr>
+            </table>
           </td>
           <td valign='top' width='25%'>
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
