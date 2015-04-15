@@ -54,7 +54,7 @@
               <dt>2015-02-28</dt>
               <dd>
                 We have applied for a 50% grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em>capability.&nbsp; Waveform capnography gives us a continuous indication of a patient's
-                level of exhaled carbon dioxide, and is considered the gold standard for making sure an "endotracheal" tube stays properly placed in a critical patient's windpipe.
+                level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn&#39;t wiggle out of a critical patient's windpipe.
               </dd>
               <p></p>
               <dt>2015-01-01</dt>
