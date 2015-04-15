@@ -49,6 +49,15 @@ namespace Default {
         protected global::System.Web.UI.WebControls.HyperLink HyperLink_amb_graphics_pkg;
         
         /// <summary>
+        /// UserControl_recent_oscalert_samples1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::UserControl_recent_oscalert_samples.TWebUserControl_recent_oscalert_samples UserControl_recent_oscalert_samples1;
+        
+        /// <summary>
         /// UserControl_postcontent control.
         /// </summary>
         /// <remarks>
