@@ -19,6 +19,7 @@ namespace UserControl_recent_oscalert_samples
       {
       public const int TCI_TIME = 0;
       public const int TCI_CONTENT = 1;
+      public const int TCI_ITEM = 2;
       }
 
     private struct p_type
@@ -137,6 +138,8 @@ namespace UserControl_recent_oscalert_samples
           pattern:",([^ ])",
           replacement:" $1"
           );
+        //
+        e.Item.Cells[Static.TCI_ITEM].Text = "<b>" + e.Item.Cells[Static.TCI_TIME].Text + "</b><br/>" + e.Item.Cells[Static.TCI_CONTENT].Text;
         //
         // Remove all cell controls from viewstate.
         //
