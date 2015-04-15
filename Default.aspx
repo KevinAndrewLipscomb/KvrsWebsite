@@ -44,10 +44,10 @@
               for leadership development, and for community self-sufficiency
             </p>
             <p></p>
+            <h2>News</h2>
             <table cellpadding="5" cellspacing="0">
               <tr>
                 <td valign="top">
-                  <h2>News</h2>
                   <dl>
                     <dt>2015-04-02</dt>
                     <dd>

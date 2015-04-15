@@ -19,18 +19,12 @@
               <tr id="TableRow_none" runat="server"><td><em>--&nbsp;NONE&nbsp;--</em></td></tr>
               <tr>
                 <td>
-                  <asp:DataGrid id="DataGrid_control" runat="server" gridlines="Horizontal" cellpadding="2" autogeneratecolumns="False" Width="100%">
+                  <asp:DataGrid id="DataGrid_control" runat="server" gridlines="Horizontal" cellpadding="2" autogeneratecolumns="False" Width="100%" ShowHeader="False">
                     <Columns>
-                      <asp:BoundColumn datafield="timestamp" headertext="Time">
-                        <HeaderStyle Width="1%" />
-                        <ItemStyle Wrap="False" VerticalAlign="Top" />
-                      </asp:BoundColumn>
-                      <asp:BoundColumn datafield="content" headertext="Content">
-                        <HeaderStyle Width="99%" />
-                        <ItemStyle VerticalAlign="Top" />
-                      </asp:BoundColumn>
+                      <asp:BoundColumn datafield="timestamp" headertext="Time" Visible="False"></asp:BoundColumn>
+                      <asp:BoundColumn datafield="content" headertext="Content" Visible="False"></asp:BoundColumn>
+                      <asp:TemplateColumn></asp:TemplateColumn>
                     </Columns>
-                    <HeaderStyle backcolor="WhiteSmoke"></HeaderStyle>
                   </asp:DataGrid>
                 </td>
               </tr>
