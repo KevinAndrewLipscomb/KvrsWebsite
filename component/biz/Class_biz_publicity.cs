@@ -29,6 +29,7 @@ namespace Class_biz_publicity
         .Replace(" (Volunteers to your stations!)",k.EMPTY)
         .Replace(" (disregard)",k.EMPTY)
         .Replace(" case active.",k.EMPTY)
+        .Replace(" SAFETY *UNKNOWN*.",k.EMPTY)
         ;
       //
       // Remove house numbers.
