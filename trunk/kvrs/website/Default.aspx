@@ -49,6 +49,11 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-05-16</dt>
+                    <dd>
+                      Our Spring fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
+                    </dd>
+                    <p></p>
                     <dt>2015-04-02</dt>
                     <dd>
                       Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
