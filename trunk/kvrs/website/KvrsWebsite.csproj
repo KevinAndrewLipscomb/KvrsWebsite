@@ -366,7 +366,9 @@
     <Content Include="timeout.aspx" />
     <Content Include="usercontrol\app\UserControl_my_roles_and_mappings.ascx" />
     <Content Include="usercontrol\app\UserControl_recent_oscalert_samples.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="component\biz\Class_biz_members.cs" />
