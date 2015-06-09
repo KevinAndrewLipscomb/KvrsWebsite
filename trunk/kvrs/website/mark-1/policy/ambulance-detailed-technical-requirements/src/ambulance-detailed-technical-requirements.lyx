@@ -1,5 +1,5 @@
-#LyX 2.0 created this file. For more info see http://www.lyx.org/
-\lyxformat 413
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
 \begin_document
 \begin_header
 \textclass article
@@ -17,13 +17,13 @@
 \font_roman default
 \font_sans default
 \font_typewriter default
+\font_math auto
 \font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
-
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -43,15 +43,24 @@
 \pdf_pdfusetitle true
 \papersize default
 \use_geometry true
-\use_amsmath 1
-\use_esint 1
-\use_mhchem 0
-\use_mathdots 1
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 0
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
 \cite_engine basic
+\cite_engine_type default
+\biblio_style plain
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
 \suppress_date false
+\justification true
 \use_refstyle 0
 \index Index
 \shortcut idx
@@ -411,7 +420,7 @@ The budget priority column contains values to serve as a guideline when
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="2">
-<features tabularvalignment="middle">
+<features rotate="0" tabularvalignment="middle">
 <column alignment="center" valignment="top" width="19line%">
 <column alignment="left" valignment="top" width="79line%">
 <row>
@@ -515,7 +524,7 @@ Safety
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="24" columns="4">
-<features islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1445,7 +1454,8 @@ Provide a Federal PA300 siren.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Extremely simple and intuitive interface.
+Extremely simple and intuitive interface that has remained the same for
+ many years.
  All operations can be performed by touch.
  Minimizes need to look away from the road.
 \end_layout
@@ -1456,7 +1466,7 @@ Extremely simple and intuitive interface.
 \begin_inset Text
 
 \begin_layout Plain Layout
-MUST
+SHOULD
 \end_layout
 
 \end_inset
@@ -1514,7 +1524,7 @@ Patient care and operations
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="63" columns="4">
-<features islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -3417,8 +3427,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install engine block heater, with switch behind driver's seat, wired to
- shoreline.
+If allowed by engine manufacturer, install engine block heater, with switch
+ behind driver's seat, wired to shoreline.
 \end_layout
 
 \end_inset
@@ -4365,8 +4375,8 @@ Unique identification
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="8" columns="4">
-<features islongtable="true" headBottomDL="true" longtabularalignment="center">
+<lyxtabular version="3" rows="10" columns="4">
+<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -4679,7 +4689,7 @@ MUST
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4688,7 +4698,7 @@ MUST
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4698,7 +4708,7 @@ Do not apply Star Of Life to roof.
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4708,11 +4718,96 @@ Allows application of squad logo instead.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 SHOULD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.3.8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Move subordinate componentry, such as air exhaust vents and covers for the
+ payload module ambient air exhaust system, to allow placement of the 
+\begin_inset Quotes eld
+\end_inset
+
+unit numbers
+\begin_inset Quotes erd
+\end_inset
+
+ (specified in requirement # 5.3.1) as high as possible.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Provides better visibility of unit number to incident commander.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SHOULD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.3.9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Provide chrome (or faux chrome) wheel covers.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vanity item.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MAY
 \end_layout
 
 \end_inset
@@ -4732,7 +4827,7 @@ Traffic signaling
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="18" columns="4">
-<features islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
