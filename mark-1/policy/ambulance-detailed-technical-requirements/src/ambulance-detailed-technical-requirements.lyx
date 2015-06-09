@@ -2154,7 +2154,8 @@ Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right
 \end_inset
 
  wide.
- This compartment is only to be accessible from the interior.
+ This compartment is only to be accessible from the interior, and its door
+ must be made of a rigid material.
 \end_layout
 
 \end_inset
@@ -4143,7 +4144,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Use lexan interior compartment doors to the extent possible.
+Use lexan interior compartment doors to the extent possible, without compromisin
+g the required rigidity of the IV/DRUG COMPARTMENT.
 \end_layout
 
 \end_inset
