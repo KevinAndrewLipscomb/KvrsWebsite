@@ -865,7 +865,6 @@
     <Content Include="mark-1\training\presentation\Bloodborne Pathogens and Communicable Diseases.zip" />
     <None Include="mark-2\bylaws.otl" />
     <None Include="noninteractive\.crontab" />
-    <Content Include="packages.config" />
     <None Include="protected\template-protected-datagrid-sortable.aspx-template" />
     <None Include="protected\template-protected-landing.aspx-template" />
     <None Include="protected\template-protected-nonlanding.aspx-template" />
