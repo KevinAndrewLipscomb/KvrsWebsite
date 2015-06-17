@@ -3,11 +3,6 @@
 \begin_document
 \begin_header
 \textclass article
-\begin_preamble
-\date{}
-
-\providecommand{\LyX}{L\kern-.1667em\lower.25em\hbox{Y}\kern-.125emX\@}
-\end_preamble
 \use_default_options false
 \maintain_unincluded_children false
 \language english
@@ -89,22 +84,6 @@
 \end_header
 
 \begin_body
-
-\begin_layout Standard
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-thispagestyle{empty}
-\end_layout
-
-\end_inset
-
-
-\end_layout
 
 \begin_layout Title
 KEMPSVILLE VOLUNTEER RESCUE SQUAD
