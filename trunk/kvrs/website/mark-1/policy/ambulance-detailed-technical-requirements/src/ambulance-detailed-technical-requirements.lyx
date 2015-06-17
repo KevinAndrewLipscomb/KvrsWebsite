@@ -65,9 +65,9 @@
 \topmargin 1in
 \rightmargin 1in
 \bottommargin 1in
-\headheight 0cm
-\headsep 0.25cm
-\footskip 0.25cm
+\headheight 0in
+\headsep 0.25in
+\footskip 0.5in
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation skip
@@ -75,7 +75,7 @@
 \quotes_language english
 \papercolumns 1
 \papersides 1
-\paperpagestyle empty
+\paperpagestyle plain
 \tracking_changes false
 \output_changes false
 \html_math_output 0
