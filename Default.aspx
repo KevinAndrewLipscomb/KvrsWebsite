@@ -139,7 +139,7 @@
                     <dd>
                       Today we made two documents publicly available in the hopes they may be helpful to other squads that are ordering new ambulances. The <em>KVRS Ambulance Detailed Technical Requirements</em> (
                       <asp:HyperLink ID="HyperLink_amb_dtrs" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/ambulance-detailed-technical-requirements.pdf">PDF</asp:HyperLink> |
-                      <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.xhtml">HTML</asp:HyperLink> ) and the 
+                      <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.html">HTML</asp:HyperLink> ) and the 
                       <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
                       we've learned over four years of very detailed specification work.
                     </dd>
