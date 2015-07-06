@@ -49,6 +49,12 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-07-04</dt>
+                    <dd>
+                      We enjoyed serving everyone who attended this year's Mt. Trashmore July 4th Celebration, fireworks and all.&nbsp; We also appreciate the help we got from our sister squads!<br />
+                      <img src="image/Fourth of July_Mt Trashmore-20-w325.jpg" alt="KVRS and other rescue members at Mt. Trashmore July 4th event" height="217" width="325" /><br />
+                      <small><small><i>Photo courtesy of Linda House, Virginia Beach Parks & Recreation</i></small></small>
+                    </dd>
                     <dt>2015-05-16</dt>
                     <dd>
                       Our Spring fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
