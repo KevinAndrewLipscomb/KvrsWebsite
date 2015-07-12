@@ -55,6 +55,15 @@
                       <img src="image/Fourth of July_Mt Trashmore-20-w325.jpg" alt="KVRS and other rescue members at Mt. Trashmore July 4th event" height="217" width="325" /><br />
                       <small><small><i>Photo courtesy of Linda House, Virginia Beach Parks & Recreation</i></small></small>
                     </dd>
+                    <p></p>
+                    <dt>2015-07-01</dt>
+                    <dd>
+                      We won a $6186.10 grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em> and other capabilities.&nbsp; Waveform capnography gives us a continuous indication of
+                      a patient's level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn't wiggle out of a critical patient's windpipe.<br />
+                      <img src="image/LP-15-300x300.png" alt="LifePak 15" alt="Physio-Control LifePak 15"/><br />
+                      <small><small><i>Physio-Control LifePak 15</i></small></small>
+                    </dd>
+                    <p></p>
                     <dt>2015-05-16</dt>
                     <dd>
                       Our Spring fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
@@ -64,12 +73,6 @@
                     <dd>
                       Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
                       resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-                    </dd>
-                    <p></p>
-                    <dt>2015-02-28</dt>
-                    <dd>
-                      We have applied for a 50% grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em>capability.&nbsp; Waveform capnography gives us a continuous indication of a patient's
-                      level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn&#39;t wiggle out of a critical patient's windpipe.
                     </dd>
                     <p></p>
                     <dt>2015-01-01</dt>
@@ -199,23 +202,6 @@
             <p>
               <small>
                 The City of Virginia Beach only has a few of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
-              </small>
-            </p>
-            <hr />
-            <p></p>
-            <h3>Physio-Control LifePak 15</h3>
-            <h4>We need 1 at about $25,500 each</h4>
-            <p><img src="image/LP-15-300x300.png" alt="LifePak 15"/></p>
-            <p>
-              <small>
-                This very rugged, very expensive, and very advanced device allows our members to monitor a patient's pulse, breathing, blood pressure, and heart rhythym.  This is the device that can shock dangerous heart rhythms
-                back to normal.  This model includes new features that will save even more lives.
-              </small>
-            </p>
-            <p>
-              <small>
-                There are full-featured and low-end variants of this device.  We have four of the full-featured kind:  Three from the City of Virginia Beach, and one that we won a grant for.  On our 5th ambulance, we have the
-                low-end variant.  To best serve the community, we need the full-featured variant on every ambulance.
               </small>
             </p>
             <hr />
