@@ -49,6 +49,12 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-07-25</dt>
+                    <dd>
+                      We've placed our brand new ambulance, "924" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in more than 27 years, our entire fleet
+                      shares the same basic custom-tailored design.&nbsp; This arrangement is critical to operational efficiency.
+                    </dd>
+                    <p></p>
                     <dt>2015-07-04</dt>
                     <dd>
                       We enjoyed serving everyone who attended this year's Mt. Trashmore July 4th Celebration, fireworks and all.&nbsp; We also appreciate the help we got from our sister squads!<br />
@@ -73,12 +79,6 @@
                     <dd>
                       Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
                       resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-                    </dd>
-                    <p></p>
-                    <dt>2015-01-01</dt>
-                    <dd>
-                      We have once again doubled money from our donors by winning a grant from the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue Squad Assistance Fund</a> to replace our oldest
-                      ambulance.
                     </dd>
                     <p></p>
                     <dt>2014-12-31</dt>
