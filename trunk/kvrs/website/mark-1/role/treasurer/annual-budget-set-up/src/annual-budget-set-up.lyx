@@ -103,6 +103,41 @@ Setting up the Annual Budget
 \end_layout
 
 \begin_deeper
+\begin_layout Standard
+CONTENTS:
+\end_layout
+
+\begin_layout Enumerate
+Setting up the Annual Budget (proper)
+\end_layout
+
+\begin_layout Enumerate
+Making mid-year adjustments
+\end_layout
+
+\begin_layout Enumerate
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_deeper
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Setting up the Annual Budget
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
 \begin_layout Itemize
 Assumes continued use of QuickBooks Online (QBO).
 \end_layout
@@ -160,7 +195,7 @@ company gear menu
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/company-gear-tab.png
+	filename company-gear-tab.png
 	width 100text%
 
 \end_inset
@@ -210,7 +245,7 @@ Budgeting
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/select-budgeting-feature.png
+	filename select-budgeting-feature.png
 	width 100text%
 
 \end_inset
@@ -260,7 +295,7 @@ New budget
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/new-budget-button.png
+	filename new-budget-button.png
 	width 100text%
 
 \end_inset
@@ -310,7 +345,7 @@ mini interview
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/mini-interview-1.png
+	filename mini-interview-1.png
 	scale 35
 
 \end_inset
@@ -384,7 +419,7 @@ Next>
 \begin_deeper
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/mini-interview-2.png
+	filename mini-interview-2.png
 	scale 35
 
 \end_inset
@@ -429,7 +464,7 @@ Classes
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename src/mini-interview-3.png
+	filename mini-interview-3.png
 	scale 35
 
 \end_inset
@@ -481,7 +516,7 @@ Next>
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename src/mini-interview-4.png
+	filename mini-interview-4.png
 	scale 35
 
 \end_inset
@@ -521,7 +556,7 @@ You should now see something like this:
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename src/new-empty-budget.png
+	filename new-empty-budget.png
 	width 100text%
 
 \end_inset
@@ -561,6 +596,8 @@ classes
 for this account: 
 \bar under
 INTERNAL BUDGET CREDIT
+\bar default
+*
 \end_layout
 
 \begin_layout Enumerate
@@ -578,7 +615,7 @@ Year
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/settings-to-change-top.png
+	filename settings-to-change-top.png
 	width 100text%
 
 \end_inset
@@ -587,6 +624,14 @@ Year
 \end_layout
 
 \end_deeper
+\begin_layout Frame
+*If INTERNAL BUDGET CREDIT isn't listed, you must create it as an 
+\bar under
+Other Income
+\bar default
+ type account in the company's Chart Of Accounts.
+\end_layout
+
 \begin_layout Separator
 
 \end_layout
@@ -624,7 +669,7 @@ Year
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename src/settings-to-change-bottom.png
+	filename settings-to-change-bottom.png
 	width 100text%
 
 \end_inset
@@ -660,7 +705,7 @@ class
 \begin_inset Quotes erd
 \end_inset
 
- whose budget amount you want to enter.
+ whose expense budget amount you want to enter.
  In this example, we'll start with 
 \bar under
 950 Captain (Captain)
@@ -678,7 +723,7 @@ class
 
 \begin_layout Frame
 \begin_inset Graphics
-	filename src/select-a-class.png
+	filename select-a-class.png
 	scale 35
 
 \end_inset
@@ -756,8 +801,998 @@ Save & Next
 \end_layout
 
 \begin_layout Frame
+\begin_inset Graphics
+	filename enter-an-expense-budget.png
+	width 100text%
+
+\end_inset
+
 
 \end_layout
 
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Setting up the Annual Budget
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Notice that your entry has been recorded in the main part of the form:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename expense-budget-item-entered.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Setting up the Annual Budget
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+On the main part of the form, make sure the next 
+\begin_inset Quotes eld
+\end_inset
+
+class
+\begin_inset Quotes erd
+\end_inset
+
+ (whose expense budget you want to enter) is selected (by clicking it if
+ necessary).
+ At the bottom part of the form, in the Annual field, enter 
+\emph on
+a negative number
+\emph default
+ indicating the amount of money this 
+\begin_inset Quotes eld
+\end_inset
+
+class
+\begin_inset Quotes erd
+\end_inset
+
+ is budgeted to 
+\emph on
+spend
+\emph default
+, then click the 
+\begin_inset Quotes eld
+\end_inset
+
+Save & Next
+\begin_inset Quotes erd
+\end_inset
+
+ button.
+ REPEAT this process for every class whose expense budget you want to enter:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename enter-last-expense-budget-item.png
+	scale 25
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Setting up the Annual Budget
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+For 
+\emph on
+income
+\emph default
+ classes, perform the exact same process, but enter 
+\emph on
+positive numbers
+\emph default
+ to indicating the amount of money this 
+\begin_inset Quotes eld
+\end_inset
+
+class
+\begin_inset Quotes erd
+\end_inset
+
+ is budgeted to 
+\emph on
+receive
+\emph default
+:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename income-budget-items-entered.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Setting up the Annual Budget
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+When done entering the budget amounts for all classes, click the 
+\bar under
+Finish
+\bar default
+ button:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename finished.png
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Making mid-year adjustments
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+To make mid-year adjustments, go back into the Budgeting feature, select
+ a class to adjust, enter the new value in the Annual field near the bottom
+ of the form, then click either the 
+\begin_inset Quotes eld
+\end_inset
+
+Save & Next
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+Finished
+\begin_inset Quotes erd
+\end_inset
+
+ button.
+ Be sure to enter 
+\emph on
+negative numbers for expense
+\emph default
+ budgets and 
+\emph on
+positive numbers for income
+\emph default
+ budgets:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename adjustment.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+This must be done once each year.
+\end_layout
+
+\begin_layout Standard
+To run a report showing how actual income & expenses compare to budgeted
+ amounts, select the 
+\bar under
+Reports
+\bar default
+ page:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename select-reports-page.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Select the 
+\bar under
+Budget vs.
+ Actuals
+\bar default
+ report.
+ (The link to this report may be found under the 
+\bar under
+Recommended
+\bar default
+ heading, under the 
+\bar under
+All
+\bar default
+ / 
+\bar under
+Business Overview
+\bar default
+ headings, or possibly elsewhere.
+ You may also be able to type 
+\begin_inset Quotes eld
+\end_inset
+
+Budget
+\begin_inset Quotes erd
+\end_inset
+
+ in the 
+\bar under
+Go to report
+\bar default
+ search box to find it.)
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename link-to-budget-vs-actual-report.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+You should see something like the following.
+ If you do not, click the 
+\begin_inset Quotes eld
+\end_inset
+
+Customize
+\begin_inset Quotes erd
+\end_inset
+
+ button:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename customization-pop-up.png
+	scale 35
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Make sure the appropriate (current year) budget is selected:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename report-budget-selection.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+In the 
+\bar under
+Rows/Colums
+\bar default
+ section, for the 
+\bar under
+Show Grid
+\bar default
+ field, select 
+\bar under
+Classes vs.
+ Total
+\bar default
+:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename show-grid-classes-vs-total.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Although not strictly required, the following settings are recommended in
+ the 
+\bar under
+Add Subcolumns for Comparison
+\bar default
+ area:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename add-subcolumns-for-comparison.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+As time goes by, it may be valuable to change other report settings.
+ You don't have to decide about these now:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename other-report-settings.png
+	scale 45
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Click the 
+\bar under
+Run Report
+\bar default
+ button:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename run-report.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Click the 
+\bar under
+Save Customizations
+\bar default
+ button:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename save-customizations.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+You should see something like this:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename save-report-customizations-pop-up.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Check the 
+\bar under
+Share
+\bar default
+ box:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename share-ok.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+If you want to run this report on a schedule and have it automatically emailed
+ to you (which is strongly recommended), check the 
+\bar under
+Add this report to a group
+\bar default
+ box and click the 
+\bar under
+Learn more
+\bar default
+ link:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename add-report-to-a-group.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+Click the OK button:
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename save-report-customizations-ok.png
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+Creating a Budget-vs-Actual report for the current year
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+You can now run this 
+\begin_inset Quotes eld
+\end_inset
+
+Budget vs.
+ Actuals: Standard
+\begin_inset Quotes erd
+\end_inset
+
+ report on demand.
+\end_layout
+
+\end_deeper
+\begin_layout Frame
+When viewing the report in QBO, you can click an Actual amount to drill
+ down into the detailed list of transactions:
+\end_layout
+
+\begin_layout Frame
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Graphics
+	filename drill-into-actual.png
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Separator
+
+\end_layout
+
+\begin_layout Frame
+\begin_inset Argument 4
+status open
+
+\begin_layout Plain Layout
+The End
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+CONGRATULATIONS! You have:
+\end_layout
+
+\begin_layout Enumerate
+Set up an Annual Budget
+\end_layout
+
+\begin_layout Enumerate
+Learned how to make mid-year adjustments
+\end_layout
+
+\begin_layout Enumerate
+Created a Budget-vs-Actual Report for the current year
+\end_layout
+
+\end_deeper
 \end_body
 \end_document
