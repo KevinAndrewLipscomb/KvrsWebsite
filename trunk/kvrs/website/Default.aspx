@@ -66,7 +66,7 @@
                     <dd>
                       We won a $6186.10 grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em> and other capabilities.&nbsp; Waveform capnography gives us a continuous indication of
                       a patient's level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn't wiggle out of a critical patient's windpipe.<br />
-                      <img src="image/LP-15-300x300.png" alt="LifePak 15" alt="Physio-Control LifePak 15"/><br />
+                      <img src="image/LP-15-300x300.png" alt="Physio-Control LifePak 15"/><br />
                       <small><small><i>Physio-Control LifePak 15</i></small></small>
                     </dd>
                     <p></p>
@@ -118,7 +118,7 @@
                     <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
                     Compression System and Family & Friends CPR training.
                       <blockquote>
-                        <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" />
+                        <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" alt="Kevin & Di on Hampton Roads Show" />
                       </blockquote>
                     </dd>
                     <p></p>
