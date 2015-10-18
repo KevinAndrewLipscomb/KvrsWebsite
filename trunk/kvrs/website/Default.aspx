@@ -49,6 +49,13 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-10-15</dt>
+                    <dd>
+                      Mel Losick, a KVRS Life Member, passed away today.&nbsp; He joined our system in 1970 and served avidly for more than 45 years in many capacities, including paramedic, extricator, street supervisor, KVRS
+                      Captain, and KVRS President.&nbsp; He was also well-known in our region as an EMS instructor.&nbsp; We have fond memories of good times with Mel, and we'll miss him.<br />
+                      <img src="image/losick-mel.jpg" alt="Mel Losick" height="400" width="267"/>
+                    </dd>
+                    <p></p>
                     <dt>2015-07-25</dt>
                     <dd>
                       We've placed our brand new ambulance, "924" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in more than 27 years, our entire fleet
