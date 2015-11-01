@@ -49,6 +49,11 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-11-02</dt>
+                    <dd>
+                      Our Fall fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
+                    </dd>
+                    <p></p>
                     <dt>2015-10-15</dt>
                     <dd>
                       Mel Losick, a KVRS Life Member, passed away today.&nbsp; He joined our system in 1970 and served avidly for more than 45 years in many capacities, including paramedic, extricator, street supervisor, KVRS
@@ -75,11 +80,6 @@
                       a patient's level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn't wiggle out of a critical patient's windpipe.<br />
                       <img src="image/LP-15-300x300.png" alt="Physio-Control LifePak 15"/><br />
                       <small><small><i>Physio-Control LifePak 15</i></small></small>
-                    </dd>
-                    <p></p>
-                    <dt>2015-05-16</dt>
-                    <dd>
-                      Our Spring fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
                     </dd>
                     <p></p>
                     <dt>2015-04-02</dt>
