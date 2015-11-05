@@ -49,6 +49,15 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2015-11-05</dt>
+                    <dd>
+                      Our member, Paramedic Kate East (center, below), appeared with EMT Terry Connelly from our sister squad, Ocean park, <a href="http://wavy.com/2015/11/05/help-for-our-heroes/">on the Hampton Roads Show today</a> to talk about
+                      our system and how dependent we are on donations and recruits from the community.
+                      <blockquote>
+                        <img src="image/kate-east-on-hampton-roads-show-1.jpg" alt="Kate East on Hampton Roads Show" />
+                      </blockquote>
+                    </dd>
+                    <p></p>
                     <dt>2015-11-02</dt>
                     <dd>
                       Our Fall fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
