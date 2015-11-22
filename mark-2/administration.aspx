@@ -57,11 +57,10 @@
           </tr>
           <tr>
             <td>
-              <img alt="Tim Crawford" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3706-a-i.jpg" />
-            </td>
+              &nbsp;</td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              Tim Crawford<br />
+              Amber (Mitchell) Jensen<br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
           </tr>
@@ -80,18 +79,18 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
+              <img alt="April Achesinski" src="image/achesinski-april.jpg" />
+            </td>
+            <td>
+              April Achesinski
+            </td>
+          </tr>
+          <tr>
+            <td>
               <img alt="Jan James" src="image/james-jan.jpg" />
             </td>
             <td>
               Jan James</td>
-          </tr>
-          <tr>
-            <td>
-              <img alt="David Pagtalunan" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3720-a-i.jpg" />
-            </td>
-            <td>
-              David Pagtalunan
-            </td>
           </tr>
           <tr>
             <td>
@@ -102,7 +101,7 @@
           <tr>
             <td>
             </td>
-            <td>Dan Russell</td>
+            <td>Dan Kiernan</td>
           </tr>
         </table>
         <p>
