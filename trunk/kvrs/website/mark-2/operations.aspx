@@ -19,51 +19,51 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              <img alt="April Achesinski" src="image/achesinski-april.jpg" />
+              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
-              April Achesinski<br />
+              John Ormond<br />
               Email: <a href='mailto:captain@kvrs.org'>captain@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" />
+              
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
-              John Ormond<br />
+              Dan Kiernan<br />
               Email: <a href='mailto:xo@kvrs.org'>xo@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="Trevor Blank" src="image/blank-trevor.jpg" style="width: 234px; height: 351px" /></td>
+              
             <td>
               <strong>Scheduling Officer (952)</strong><br />
-              Trevor Blank<br />
+              <br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="David Pagtalunan" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3720-a-i.jpg" /></td>
+              </td>
             <td>
               <strong>Logistics Officer (953)</strong><br />
-              David Pagtalunan<br />
+              <br />
               Email: <a href='mailto:logistics@kvrs.org'>logistics@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="Travis Wright" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3692-b-i.jpg" />
+              
             </td>
             </td>
             </td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
-              Travis Wright<br />
+              <br />
               Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
