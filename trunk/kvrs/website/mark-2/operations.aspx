@@ -39,10 +39,10 @@
           </tr>
           <tr>
             <td>
-              
+              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" /><br />
             <td>
               <strong>Scheduling Officer (952)</strong><br />
-              <br />
+              Chris Wiemer-Rohn<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
@@ -80,13 +80,11 @@
           </tr>
           <tr>
             <td>
-              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" /><br />
               <img alt="Justin Urquhart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3541-1-i.jpg" />
             </td>
             <td>
-              <strong>Training Sergeants</strong><br />
-              Chris Wiemer-Rohn (957)<br />
-              Justin Urquhart (958)<br />
+              <strong>Training Sergeant</strong><br />
+              Justin Urquhart<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
