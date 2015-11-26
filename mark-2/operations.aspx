@@ -80,11 +80,10 @@
           </tr>
           <tr>
             <td>
-              <img alt="Justin Urquhart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3541-1-i.jpg" />
-            </td>
+              &nbsp;</td>
             <td>
               <strong>Training Sergeant</strong><br />
-              Justin Urquhart<br />
+              Jerome Kanada<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>
