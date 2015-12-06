@@ -332,6 +332,7 @@
     <Content Include="mark-2\image\paulsen-judy.JPG" />
     <Content Include="mark-2\image\urquhart-justin.jpg" />
     <Content Include="mark-2\lvr_exemption.aspx" />
+    <Content Include="mark-2\mycommittee.aspx" />
     <Content Include="mark-2\operations.aspx" />
     <Content Include="resource\RotaryClubWinners.wmv" />
     <Content Include="new_user_registration.aspx" />
@@ -426,6 +427,13 @@
     </Compile>
     <Compile Include="mark-2\lvr_exemption.aspx.designer.cs">
       <DependentUpon>lvr_exemption.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mark-2\mycommittee.aspx.cs">
+      <DependentUpon>mycommittee.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mark-2\mycommittee.aspx.designer.cs">
+      <DependentUpon>mycommittee.aspx</DependentUpon>
     </Compile>
     <Compile Include="mark-2\operations.aspx.cs">
       <DependentUpon>operations.aspx</DependentUpon>
