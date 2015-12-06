@@ -1626,18 +1626,6 @@ Please cite our purchase order number on your bill.
 \end_layout
 
 \begin_layout Standard
-\paragraph_spacing other 0.6
-\noindent
-\align left
-
-\size tiny
-I certify that I am authorized to sign this Certificate Of Exemption (see
- back) and that, to the best of my knowledge and belief, it is true and
- correct, made in good faith, pursuant to the Virginia Retail Sales And
- Use Tax Act.
-\end_layout
-
-\begin_layout Standard
 \noindent
 \align center
 \begin_inset Tabular
@@ -1803,7 +1791,7 @@ Purchasing Agent
 \begin_layout Plain Layout
 
 \size footnotesize
-Officer/Coordinator Title
+Officer/Coordinator Title (expense fund)
 \end_layout
 
 \end_inset
@@ -1906,81 +1894,6 @@ ORIGINAL - Vendor/Reimbursee
 \end_inset
 
 
-\begin_inset Newpage newpage
-\end_inset
-
-
-\series bold
-COMMONWEALTH OF VIRGINIA
-\begin_inset Newline newline
-\end_inset
-
-SALES AND USE TAX CERTIFICATE OF EXEMPTION
-\begin_inset Newline newline
-\end_inset
-
-(Form ST-13)
-\end_layout
-
-\begin_layout Standard
-TO the Dealer, Vendor, or Reimbursee indicated on the opposite side of this
- form:
-\end_layout
-
-\begin_layout Standard
-The Virginia Sales and Use Tax provides that the Virginia sales and use
- tax shall not apply to the kinds and classes of tangible personal property
- shown 
-\emph on
-below
-\emph default
- when purchased for the specific purposes set out 
-\emph on
-below
-\emph default
-.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\begin_inset CommandInset line
-LatexCommand rule
-offset "0.5ex"
-width "100line%"
-height "1pt"
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-The Purchasing Agent hereby certifies that all tangible personal property
- purchased or leased from the indicated Dealer, Vendor, or Reimbursee on
- and after this date will be purchased or leased for the purpose indicated
- below, unless otherwise specified on each order, and that this Certificate
- shall remain in effect until revoked in writing by the Department of Taxation.
-\end_layout
-
-\begin_layout Standard
-[X] 9.
- Tangible personal proerty purchased for use or consumption by or sold by
- a volunteer fire department or volunteer rescue squad or auxiliary of such
- department or squad not conducted for profit, and construction materials
- to be incorporated into realty when sold to and used by such organization,
- rather than a contractor, in construction, maintenance, or repair of any
- property of such organization.
-\end_layout
-
-\begin_layout Standard
-NOTE: THIS CERTIFICATE OF EXEMPTION WILL NOT BE VALID, UNLESS THE OPPOSITE
- SIDE OF THIS FORM IS COMPLETED AND SIGNED BY THE PURCHASER.
-\end_layout
-
-\begin_layout Standard
-Information for Dealer, Vendor, or Reimbursee: A dealer is required to have
- on file only one Certificate of Exemption properly executed by each purchaser
- buying or leasing tax exempt tangible personal property under this Certificate.
 \end_layout
 
 \end_body
