@@ -531,7 +531,7 @@ Safety
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="24" columns="4">
+<lyxtabular version="3" rows="25" columns="4">
 <features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1481,7 +1481,7 @@ SHOULD
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1490,7 +1490,7 @@ SHOULD
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1499,7 +1499,7 @@ Install siren so that horn ring changes siren tones.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1508,11 +1508,49 @@ Allows driver to keep eyes on the road and both hands on the steering wheel.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.1.24
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mount siren speakers through cutouts in front bumper if feasible.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Noticeably reduces amount of sound reflected back into ambulance cabin.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SHOULD
 \end_layout
 
 \end_inset
@@ -4894,11 +4932,18 @@ Budget priority
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install LED OptiCom (w/infrared filter if available) as high and centered
- as is feasible.
+Install LED OptiCom as high and centered as is feasible.
  If dimensions allow, install it flush with front bulkhead (or CoolBar)
  behind clear lens.
- Wire OptiCom to transmission 
+ Wire OptiCom so it only activates when sequencer is 
+\begin_inset Quotes eld
+\end_inset
+
+on
+\begin_inset Quotes erd
+\end_inset
+
+ and transmission is in 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4906,7 +4951,7 @@ Drive
 \begin_inset Quotes erd
 \end_inset
 
- gear only.
+.
 \end_layout
 
 \end_inset
@@ -4916,10 +4961,8 @@ Drive
 
 \begin_layout Plain Layout
 To control traffic signals.
- Infrared filter prevents other drivers from getting confused when OptiCom
- is used during routine transports.
  Flush mounting improves aesthetics.
- OptiCom should not be on when unit is not in Drive.
+ OptiCom use is only permitted when responding lights & siren.
 \end_layout
 
 \end_inset
@@ -5025,7 +5068,19 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide airhorns.
+Provide airhorns, tuned 
+\begin_inset Quotes eld
+\end_inset
+
+dissonant rather than 
+\begin_inset Quotes eld
+\end_inset
+
+pleasant
+\begin_inset Quotes erd
+\end_inset
+
+ if feasible.
 \end_layout
 
 \end_inset
@@ -5035,6 +5090,8 @@ Provide airhorns.
 
 \begin_layout Plain Layout
 For better warning to other drivers in sound-insulated vehicles.
+ Dissonant tuning gives audible indication that we are an emergency rather
+ than commercial service.
 \end_layout
 
 \end_inset
