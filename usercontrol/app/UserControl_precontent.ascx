@@ -89,6 +89,11 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
+                <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/mycommittee.aspx">Minutes/MyCommittee</a></small></td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
                 <td nowrap="nowrap"><small><a runat="server" href="~/mark-2/csp.aspx" rel="nofollow">CSP</a></small></td>
               </tr>
               <tr>
