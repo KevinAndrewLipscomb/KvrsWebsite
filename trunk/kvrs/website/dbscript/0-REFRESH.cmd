@@ -17,5 +17,7 @@ mysql --host=%the_host% --user=%the_user% --password=%2 --execute="create schema
 mysql --host=%the_host% --user=%the_user% --password=%2 --database=%db_instance% <"%USERPROFILE%\my-documents\SANDBOX\vocational\kalipso-infogistics\db-dump\%base_db_name%.sql"
 if "%db_instance%"=="%base_db_name%" goto :END
 mysql --host=%the_host% --user=%the_user% --password=%2 --database=%db_instance% <0-render-safe-for-d-or-x.sql
+mysql --host=%the_host% --user=%the_user% --password=%2 --database=%db_instance% --execute="drop view if exists oscalert_log"
+mysql --host=%the_host% --user=%the_user% --password=%2 --database=%db_instance% --execute="create view oscalert_log as select id,timestamp,content from oscardotnetdb_%1.oscalert_log where ((content regexp '(Assgnmt=|,)((((92)|(102)|(192))[[:digit:]]([RSP]|DR))|((R)(09|10|19)))') or (content like '%MCI case%') or (content like '%EMS 1st response reduced%'))"
 :END
 pause
