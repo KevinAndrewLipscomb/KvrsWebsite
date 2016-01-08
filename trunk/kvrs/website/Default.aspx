@@ -49,6 +49,14 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2016-01-01</dt>
+                    <dd>
+                      We won a $172,684 grant from the state Rescue Squad Assistance Fund <i>and</i> a $22,346 grant from the Virginia Beach Rescue Squad Foundation to complete projects to add a <b>6th</b> badly needed ambulance to
+                      our fleet, and to outfit <b>all</b> our ambulances with safer Stryker Power-LOAD systems:<br />
+                      <img src="image/stryker-power-load.jpg" alt="Stryker Power-LOAD system"/><br />
+                      <small><small><i>Stryker Power-LOAD system</i></small></small>
+                    </dd>
+                    <p></p>
                     <dt>2015-11-05</dt>
                     <dd>
                       Our member, Paramedic Kate East (center, below), appeared with EMT Terry Connelly from our sister squad, Ocean park, <a href="http://wavy.com/2015/11/05/help-for-our-heroes/">on the Hampton Roads Show today</a> to talk about
