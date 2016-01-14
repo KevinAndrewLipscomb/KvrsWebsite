@@ -1569,7 +1569,7 @@ Patient care and operations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="63" columns="4">
+<lyxtabular version="3" rows="64" columns="4">
 <features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -4372,7 +4372,7 @@ MUST
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4381,7 +4381,7 @@ MUST
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4391,7 +4391,7 @@ nts and shelves.
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4400,11 +4400,50 @@ Allows rain to drip below gear.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 SHOULD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.63
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Install a Stryker Power-LOAD system.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Power loading reduces likelihood of exertion-related crew injury and has
+ member recruitment & retention value.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MAY
 \end_layout
 
 \end_inset
@@ -4790,7 +4829,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Move subordinate componentry, such as air exhaust vents and covers for the
+Move subordinate components, such as air exhaust vents and covers for the
  payload module ambient air exhaust system, to allow placement of the 
 \begin_inset Quotes eld
 \end_inset
