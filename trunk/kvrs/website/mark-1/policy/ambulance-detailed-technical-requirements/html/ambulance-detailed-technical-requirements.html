@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="generator" content="http://www.nongnu.org/elyxer/"/>
-<meta name="create-date" content="2015-06-21"/>
+<meta name="create-date" content="2016-01-20"/>
 <link rel="stylesheet" href="http://elyxer.nongnu.org/lyx.css" type="text/css" media="all"/>
 <title>KEMPSVILLE VOLUNTEER RESCUE SQUADAMBULANCEDETAILED TECHNICAL REQUIREMENTS</title>
 </head>
@@ -17,7 +17,7 @@ AMBULANCE<br/>
 DETAILED TECHNICAL REQUIREMENTS
 </h1>
 <h2 class="Date">
-$Revision: 5846 $
+$Revision: 6198 $
 </h2>
 <div class="Standard">
 
@@ -156,6 +156,17 @@ Table of Contents
 </div>
 <div class="toc">
 <a class="Link" href="#toc-Subsection-6.8">Subsection 6.8: Shoreline inlet/indicator positioning</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsection-6.9">Subsection 6.9: Cable termination points for roof antennas</a>
+</div>
+<div class="tocindent">
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-6.9.1">Subsubsection 6.9.1: Bulkhead interior view</a>
+</div>
+<div class="toc">
+<a class="Link" href="#toc-Subsubsection-6.9.2">Subsubsection 6.9.2: Left interior view</a>
+</div>
 </div>
 </div>
 </div>
@@ -715,6 +726,21 @@ MUST
 </td>
 
 </tr>
+<tr>
+<td align="center" valign="top" style="width: 9%;">
+5.1.24
+</td>
+<td align="left" valign="top" style="width: 39%;">
+Mount siren speakers through cutouts in front bumper if feasible.
+</td>
+<td align="left" valign="top" style="width: 39%;">
+Noticeably reduces amount of sound reflected back into ambulance cabin.
+</td>
+<td align="center" valign="top" style="width: 9%;">
+SHOULD
+</td>
+
+</tr>
 
 </table>
 
@@ -1149,7 +1175,13 @@ SHOULD
 5.2.28
 </td>
 <td align="left" valign="top" style="width: 39%;">
-Provide 5 antenna ports in payload module roof. {CONFIRM}
+Provide 6 antenna ports in payload module roof:<ul>
+<li>
+Two of these ports must be NMO 0-6GHz, p/n NMOKHFUDTHK25
+</li>
+
+</ul>
+
 </td>
 <td align="left" valign="top" style="width: 39%;">
 For standard complement of radios &amp; MDT equipment.
@@ -1164,7 +1196,28 @@ MUST
 5.2.29
 </td>
 <td align="left" valign="top" style="width: 39%;">
-Provide 5 RG58/U coax cables with 6 ft pigtails. Run cables from roof ports 1 and 2 to cab console. Run cables from roof ports 3, 4, and 5 to payload module action area. {CONFIRM}
+<div class="PlainVisible">
+Provide 6 RG58/U coax cables with 6 ft pigtails. Run cables from roof ports to payload module front bulkhead radio/electronics cabinet(s) forward of airway seat.:
+</div>
+<ul>
+<li>
+2 for GPS terminating in SMA connectors
+</li>
+<li>
+2 for broadband terminating in Mini-UHF connectors
+</li>
+<li>
+1 for VHF terminating in a Mini-UHF connector
+</li>
+<li>
+1 for 700/800 MHz terminating in a Mini-UHF connector
+</li>
+
+</ul>
+<div class="PlainVisible">
+(See illustration sections <a class="Reference" href="#sub:Bulkhead-interior-view">6.9.1↓</a> and <a class="Reference" href="#sub:Left-interior-view">6.9.2↓</a>.)
+</div>
+
 </td>
 <td align="left" valign="top" style="width: 39%;">
 For standard complement of radios &amp; MDT equipment.
@@ -1669,6 +1722,21 @@ SHOULD
 </td>
 
 </tr>
+<tr>
+<td align="center" valign="top" style="width: 9%;">
+5.2.63
+</td>
+<td align="left" valign="top" style="width: 39%;">
+Install a Stryker Power-LOAD system.
+</td>
+<td align="left" valign="top" style="width: 39%;">
+Power loading reduces likelihood of exertion-related crew injury and has member recruitment &amp; retention value.
+</td>
+<td align="center" valign="top" style="width: 9%;">
+MAY
+</td>
+
+</tr>
 
 </table>
 
@@ -1803,7 +1871,7 @@ SHOULD
 5.3.8
 </td>
 <td align="left" valign="top" style="width: 39%;">
-Move subordinate componentry, such as air exhaust vents and covers for the payload module ambient air exhaust system, to allow placement of the &ldquo;unit numbers&rdquo; (specified in requirement # 5.3.1) as high as possible.
+Move subordinate components, such as air exhaust vents and covers for the payload module ambient air exhaust system, to allow placement of the &ldquo;unit numbers&rdquo; (specified in requirement # 5.3.1) as high as possible.
 </td>
 <td align="left" valign="top" style="width: 39%;">
 Provides better visibility of unit number to incident commander.
@@ -1857,10 +1925,10 @@ Budget priority
 5.4.1
 </td>
 <td align="left" valign="top" style="width: 39%;">
-Install LED OptiCom (w/infrared filter if available) as high and centered as is feasible. If dimensions allow, install it flush with front bulkhead (or CoolBar) behind clear lens. Wire OptiCom to transmission &ldquo;Drive&rdquo; gear only.
+Install LED OptiCom as high and centered as is feasible. If dimensions allow, install it flush with front bulkhead (or CoolBar) behind clear lens. Wire OptiCom so it only activates when sequencer is &ldquo;on&rdquo; and transmission is in &ldquo;Drive&rdquo;.
 </td>
 <td align="left" valign="top" style="width: 39%;">
-To control traffic signals. Infrared filter prevents other drivers from getting confused when OptiCom is used during routine transports. Flush mounting improves aesthetics. OptiCom should not be on when unit is not in Drive.
+To control traffic signals. Flush mounting improves aesthetics. OptiCom use is only permitted when responding lights &amp; siren.
 </td>
 <td align="center" valign="top" style="width: 9%;">
 MUST
@@ -1902,10 +1970,10 @@ MUST
 5.4.4
 </td>
 <td align="left" valign="top" style="width: 39%;">
-Provide airhorns.
+Provide airhorns, tuned &ldquo;dissonant rather than &ldquo;pleasant&rdquo; if feasible.
 </td>
 <td align="left" valign="top" style="width: 39%;">
-For better warning to other drivers in sound-insulated vehicles.
+For better warning to other drivers in sound-insulated vehicles. Dissonant tuning gives audible indication that we are an emergency rather than commercial service.
 </td>
 <td align="center" valign="top" style="width: 9%;">
 MAY
@@ -2237,11 +2305,60 @@ MAY
 <img class="embedded" src="shoreline-inlet.jpg" alt="figure shoreline-inlet.jpg" style="width: 100%; max-width: 1404px; height: auto; max-height: 935px;"/>
 
 </div>
-
-<hr class="footer"/>
-<div class="footer" id="generated-by">
-Document generated by <a href="http://elyxer.nongnu.org/">eLyXer 1.2.5 (2013-03-10)</a> on <span class="create-date">2015-06-21T13:41:28.815000</span>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-6.9">6.9</a> Cable termination points for roof antennas
+</h2>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-6.9.1">6.9.1</a> <a class="Label" name="sub:Bulkhead-interior-view"> </a>Bulkhead interior view
+</h3>
+<div class="Standard">
+<div class="center">
+<u><div class="Shadowbox" style="width: 75%;">
+<div class="center">
+<u>NOTE</u>
 </div>
+<div class="PlainVisible">
+<div class="center">
+The following diagram <b><u>ONLY</u></b> shows spaces into which roof antenna cables should terminate. Nothing else in this diagram constitutes a requirement.
+</div>
+
+</div>
+
+</div>
+</u>
+</div>
+
+</div>
+<div class="Standard">
+<img class="embedded" src="cable-runs-bulkhead-interior.png" alt="figure cable-runs-bulkhead-interior.png" style="width: 100%; max-width: 861px; height: auto; max-height: 710px;"/>
+
+</div>
+<h3 class="Subsubsection">
+<a class="toc" name="toc-Subsubsection-6.9.2">6.9.2</a> <a class="Label" name="sub:Left-interior-view"> </a>Left interior view
+</h3>
+<div class="Standard">
+<div class="center">
+<u><div class="Shadowbox" style="width: 75%;">
+<div class="center">
+<u>NOTE</u>
+</div>
+<div class="PlainVisible">
+<div class="center">
+The following diagram <b><u>ONLY</u></b> shows spaces into which roof antenna cables should terminate. Nothing else in this diagram constitutes a requirement.
+</div>
+
+</div>
+
+</div>
+</u>
+</div>
+
+</div>
+<div class="Standard">
+<img class="embedded" src="cable-runs-left-interior.png" alt="figure cable-runs-left-interior.png" style="width: 100%; max-width: 641px; height: auto; max-height: 710px;"/>
+
+</div>
+
 </div>
 </body>
 </html>
