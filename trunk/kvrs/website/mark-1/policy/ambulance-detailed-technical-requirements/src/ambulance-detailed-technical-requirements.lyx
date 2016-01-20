@@ -2932,8 +2932,11 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 5 antenna ports in payload module roof.
- {CONFIRM}
+Provide 6 antenna ports in payload module roof:
+\end_layout
+
+\begin_layout Itemize
+Two of these ports must be NMO 0-6GHz, p/n NMOKHFUDTHK25
 \end_layout
 
 \end_inset
@@ -2971,10 +2974,43 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 5 RG58/U coax cables with 6 ft pigtails.
- Run cables from roof ports 1 and 2 to cab console.
- Run cables from roof ports 3, 4, and 5 to payload module action area.
- {CONFIRM}
+Provide 6 RG58/U coax cables with 6 ft pigtails.
+ Run cables from roof ports to payload module front bulkhead radio/electronics
+ cabinet(s) forward of airway seat.:
+\end_layout
+
+\begin_layout Itemize
+2 for GPS terminating in SMA connectors
+\end_layout
+
+\begin_layout Itemize
+2 for broadband terminating in Mini-UHF connectors
+\end_layout
+
+\begin_layout Itemize
+1 for VHF terminating in a Mini-UHF connector
+\end_layout
+
+\begin_layout Itemize
+1 for 700/800 MHz terminating in a Mini-UHF connector
+\end_layout
+
+\begin_layout Plain Layout
+(See illustration sections 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Bulkhead-interior-view"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "sub:Left-interior-view"
+
+\end_inset
+
+.)
 \end_layout
 
 \end_inset
@@ -6020,6 +6056,138 @@ Shoreline inlet/indicator positioning
 \begin_layout Standard
 \begin_inset Graphics
 	filename shoreline-inlet.jpg
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Cable termination points for roof antennas
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Bulkhead-interior-view"
+
+\end_inset
+
+Bulkhead interior view
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\bar under
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "75text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\bar under
+NOTE
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+The following diagram 
+\series bold
+\bar under
+ONLY
+\series default
+\bar default
+ shows spaces into which roof antenna cables should terminate.
+ Nothing else in this diagram constitutes a requirement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cable-runs-bulkhead-interior.bmp
+	width 100text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Left-interior-view"
+
+\end_inset
+
+Left interior view
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\bar under
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "75text%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\bar under
+NOTE
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+The following diagram 
+\series bold
+\bar under
+ONLY
+\series default
+\bar default
+ shows spaces into which roof antenna cables should terminate.
+ Nothing else in this diagram constitutes a requirement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename cable-runs-left-interior.bmp
 	width 100text%
 
 \end_inset
