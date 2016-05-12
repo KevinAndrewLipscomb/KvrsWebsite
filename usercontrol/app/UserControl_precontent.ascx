@@ -8,7 +8,7 @@
     <td>
       <table width="100%" cellspacing="0" cellpadding="5">
         <tr>
-          <td align="center" valign="middle"><span style="position:relative; z-index:1; border-bottom:3px dotted blue;"><a href="http://vbems.com/join"><big><big><b>Join!</b></big></big></a></span></td>
+          <td align="center" valign="middle"><span style="position:relative; z-index:1; text-shadow: 1px 1px 5px white, -1px -1px 5px white, 1px -1px 5px white, -1px 1px 5px white;"><a href="http://vbems.com/join"><big><big><b>Ride&nbsp;along<br /><small><small>or</small></small><br />JOIN!</b></big></big></a></span></td>
           <td align="center" valign="middle">
             <a runat="server" href="~/Default.aspx">
               <h2 style="position:relative; z-index:1; color:White;">Kempsville Volunteer Rescue Squad</h2>
@@ -23,7 +23,7 @@
             </span>
           </td>
           <td align="center" valign="middle">
-            <span style="position:relative; z-index:1">
+            <span style="position:relative; z-index:1; text-shadow: 1px 1px 5px white, -1px -1px 5px white, 1px -1px 5px white, -1px 1px 5px white;">
               <a href="http://smile.amazon.com/ch/52-1356226">
                 <small>Shop via</small><br />
                 <asp:Image ID="Image_amazon_smile" runat="server" ImageUrl="~/image/amazon-smile-logo.png"></asp:Image><br />
