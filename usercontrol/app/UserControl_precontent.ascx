@@ -76,7 +76,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.dmv.virginia.gov/exec/vehicle/splates/info.asp?idnm=RS" rel="nofollow">RS tags</a></small></td>
+                <td nowrap="nowrap"><small><a href="http://www.dmv.virginia.gov/vehicles/#splates/info.asp?idnm=RS" rel="nofollow">RS tags</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -129,7 +129,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.vbems.com/deputychief/RRP/RRP.htm" rel="nofollow">VBEMS RRP</a></small></td>
+                <td nowrap="nowrap"><small><a href="http://www.vbems.com/providers/department-policies" rel="nofollow">VBEMS RRP</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -153,7 +153,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.tidewaterems.org/index.php?option=com_content&amp;task=view&amp;id=1141&amp;Itemid=104" rel="nofollow">Protocols</a></small></td>
+                <td nowrap="nowrap"><small><a href="http://www.tidewaterems.org/regional-protocols/current-tidewater-ems-regional-protocols" rel="nofollow">Protocols</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
@@ -162,7 +162,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.vdh.state.va.us/OEMS/Training/LogInProblems.htm" rel="nofollow">VDH EMS Portal</a></small></td>
+                <td nowrap="nowrap"><small><a href="http://www.vdh.virginia.gov/OEMS/Training/LogInProblems.htm" rel="nofollow">VDH EMS Portal</a></small></td>
               </tr>
               <tr><td colspan="3" nowrap="nowrap"><a runat="server" href="~/mark-1/" rel="nofollow"><strong><br />Inside KVRS</strong></a></td></tr>
               <tr><td colspan="3" nowrap="nowrap"><strong><br />Contact</strong></td></tr>
