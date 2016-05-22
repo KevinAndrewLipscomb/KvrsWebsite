@@ -1415,7 +1415,8 @@ Install a 12
 \begin_inset Quotes erd
 \end_inset
 
- wide window in the payload module curb-side wall over the squad bench.
+ wide window in the payload module curb-side wall over the squad bench if
+ feasible.
 \end_layout
 
 \end_inset
@@ -2655,7 +2656,8 @@ SHOULD
 
 \begin_layout Plain Layout
 Install an exterior stealth failsafe switch in passenger side grill to unlock
- payload module doors.
+ at least as many doors as may be required to regain access to all electrically-
+lockable spaces.
 \end_layout
 
 \end_inset
@@ -3724,7 +3726,7 @@ MAY
 
 \begin_layout Plain Layout
 On payload module interior ceiling, install white lights, with appropriate
- switches in action area, as follows: 4 dual-intensity on curb side; 3 dual-inte
+ switches in action area, as follows: 3 dual-intensity on curb side; 4 dual-inte
 nsity on street side; 3 flourescent recessed approximately on center line.
 \end_layout
 
@@ -4498,7 +4500,7 @@ Unique identification
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="10" columns="4">
+<lyxtabular version="3" rows="9" columns="4">
 <features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -4852,58 +4854,11 @@ SHOULD
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.3.8
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Move subordinate components, such as air exhaust vents and covers for the
- payload module ambient air exhaust system, to allow placement of the 
-\begin_inset Quotes eld
-\end_inset
-
-unit numbers
-\begin_inset Quotes erd
-\end_inset
-
- (specified in requirement # 5.3.1) as high as possible.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Provides better visibility of unit number to incident commander.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-SHOULD
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.3.9
+5.3.8
 \end_layout
 
 \end_inset
@@ -6114,6 +6069,19 @@ ONLY
 \bar default
  shows spaces into which roof antenna cables should terminate.
  Nothing else in this diagram constitutes a requirement.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+If you are viewing this diagram in black & white, the spaces of interest
+ are the ones bordered by diagonal crosshatching.
 \end_layout
 
 \end_inset
@@ -6178,6 +6146,19 @@ ONLY
 \bar default
  shows spaces into which roof antenna cables should terminate.
  Nothing else in this diagram constitutes a requirement.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+If you are viewing this diagram in black & white, the spaces of interest
+ are the ones bordered by diagonal crosshatching.
 \end_layout
 
 \end_inset
