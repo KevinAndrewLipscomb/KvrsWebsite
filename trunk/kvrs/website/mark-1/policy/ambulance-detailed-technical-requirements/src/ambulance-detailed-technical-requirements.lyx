@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass article
 \use_default_options false
 \maintain_unincluded_children false
@@ -9,16 +11,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
 \font_default_family sfdefault
 \use_non_tex_fonts false
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -179,6 +181,11 @@ width "100col%"
 special "none"
 height "1in"
 height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
@@ -428,7 +435,7 @@ The budget priority column contains values to serve as a guideline when
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top" width="19line%">
 <column alignment="left" valignment="top" width="79line%">
 <row>
@@ -532,7 +539,7 @@ Safety
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="25" columns="4">
-<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1570,8 +1577,8 @@ Patient care and operations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="64" columns="4">
-<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
+<lyxtabular version="3" rows="63" columns="4">
+<features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1812,7 +1819,7 @@ pelvis/thigh area
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:CPR-seat-placement"
+reference "subsec:CPR-seat-placement"
 
 \end_inset
 
@@ -1899,7 +1906,7 @@ W
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Portable-oxygen-bottle-storage"
+reference "subsec:Portable-oxygen-bottle-storage"
 
 \end_inset
 
@@ -2290,7 +2297,7 @@ Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Backboard-compartment"
+reference "subsec:Backboard-compartment"
 
 \end_inset
 
@@ -2370,7 +2377,7 @@ e shelf track and two shelves.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Stairchair-compartment-space"
+reference "subsec:Stairchair-compartment-space"
 
 \end_inset
 
@@ -2440,7 +2447,7 @@ Reinforce door/hinge of STAIR CHAIR COMPARTMENT.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Stairchair-bracket"
+reference "subsec:Stairchair-bracket"
 
 \end_inset
 
@@ -2536,7 +2543,7 @@ Provide a 1/2 height external left compartment immediately behind the MAIN
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Electric-motor-mounting"
+reference "subsec:Electric-motor-mounting"
 
 \end_inset
 
@@ -2934,90 +2941,43 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 6 antenna ports in payload module roof:
-\end_layout
+Install '
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Itemize
-Two of these ports must be NMO 0-6GHz, p/n NMOKHFUDTHK25
+Main
+\begin_inset Quotes erd
+\end_inset
+
+ Radio System', 'Portable Radio' chargers, and 'CAD MDT System' as indicated
+ in 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Exterior-antennas"
+
+\end_inset
+
+, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Cable-termination-points"
+
+\end_inset
+
+, and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "subsec:Communications/IT-component-mounting-and-power-source-matrix"
+
+\end_inset
+
+, using equipment specified by the City Of Virginia Beach / Communications
+ & Information Technology Department / Telecommunications division.
 \end_layout
 
 \end_inset
 </cell>
 <cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-For standard complement of radios & MDT equipment.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.2.29
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Provide 6 RG58/U coax cables with 6 ft pigtails.
- Run cables from roof ports to payload module front bulkhead radio/electronics
- cabinet(s) forward of airway seat.:
-\end_layout
-
-\begin_layout Itemize
-2 for GPS terminating in SMA connectors
-\end_layout
-
-\begin_layout Itemize
-2 for broadband terminating in Mini-UHF connectors
-\end_layout
-
-\begin_layout Itemize
-1 for VHF terminating in a Mini-UHF connector
-\end_layout
-
-\begin_layout Itemize
-1 for 700/800 MHz terminating in a Mini-UHF connector
-\end_layout
-
-\begin_layout Plain Layout
-(See illustration sections 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Bulkhead-interior-view"
-
-\end_inset
-
- and 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "sub:Left-interior-view"
-
-\end_inset
-
-.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3055,7 +3015,7 @@ Provide a door for exterior access to the non-lockable portion of the payload
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Exterior-access-to-pm-rf-cabinet"
+reference "subsec:Exterior-access-to-pm-rf-cabinet"
 
 \end_inset
 
@@ -3321,7 +3281,7 @@ Install auto-eject shoreline inlet, with interrupter, with white cover,
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "sub:Shoreline-inlet-indicator-positioning"
+reference "subsec:Shoreline-inlet-indicator-positioning"
 
 \end_inset
 
@@ -4501,7 +4461,7 @@ Unique identification
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="9" columns="4">
-<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -4905,7 +4865,7 @@ Traffic signaling
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="18" columns="4">
-<features rotate="0" islongtable="true" headBottomDL="true" longtabularalignment="center">
+<features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -5739,7 +5699,7 @@ Illustrations
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:CPR-seat-placement"
+name "subsec:CPR-seat-placement"
 
 \end_inset
 
@@ -5777,7 +5737,7 @@ View from side entry door
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Portable-oxygen-bottle-storage"
+name "subsec:Portable-oxygen-bottle-storage"
 
 \end_inset
 
@@ -5815,7 +5775,7 @@ Empty
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Backboard-compartment"
+name "subsec:Backboard-compartment"
 
 \end_inset
 
@@ -5853,7 +5813,7 @@ Empty
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Stairchair-compartment-space"
+name "subsec:Stairchair-compartment-space"
 
 \end_inset
 
@@ -5905,7 +5865,7 @@ Empty (detail)
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Stairchair-bracket"
+name "subsec:Stairchair-bracket"
 
 \end_inset
 
@@ -5943,7 +5903,7 @@ Empty
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Electric-motor-mounting"
+name "subsec:Electric-motor-mounting"
 
 \end_inset
 
@@ -5981,7 +5941,7 @@ Detail
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Exterior-access-to-pm-rf-cabinet"
+name "subsec:Exterior-access-to-pm-rf-cabinet"
 
 \end_inset
 
@@ -6001,7 +5961,7 @@ Exterior access to payload module right front cabinet
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Shoreline-inlet-indicator-positioning"
+name "subsec:Shoreline-inlet-indicator-positioning"
 
 \end_inset
 
@@ -6016,16 +5976,98 @@ Shoreline inlet/indicator positioning
 \end_inset
 
 
+\begin_inset Newpage pagebreak
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
-Cable termination points for roof antennas
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Exterior-antennas"
+
+\end_inset
+
+Exterior antennas
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+
+\bar under
+\begin_inset Box Shadowbox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "75text%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
+
+\bar under
+NOTE
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align center
+The following diagram 
+\series bold
+\bar under
+ONLY
+\series default
+\bar default
+ shows the number, nature, and rough placement pattern for required roof
+ antennas.
+ Nothing else in this diagram constitutes a requirement.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename antenna-location-chart.png
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Cable-termination-points"
+
+\end_inset
+
+Cable termination points for exterior antennas
 \end_layout
 
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Bulkhead-interior-view"
+name "subsec:Bulkhead-interior-view"
 
 \end_inset
 
@@ -6048,6 +6090,11 @@ width "75text%"
 special "none"
 height "1in"
 height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
@@ -6067,7 +6114,7 @@ The following diagram
 ONLY
 \series default
 \bar default
- shows spaces into which roof antenna cables should terminate.
+ shows spaces into which exterior antenna cables should terminate.
  Nothing else in this diagram constitutes a requirement.
 \begin_inset Newline newline
 \end_inset
@@ -6090,6 +6137,8 @@ If you are viewing this diagram in black & white, the spaces of interest
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename cable-runs-bulkhead-interior.bmp
 	width 100text%
@@ -6102,7 +6151,7 @@ If you are viewing this diagram in black & white, the spaces of interest
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
-name "sub:Left-interior-view"
+name "subsec:Left-interior-view"
 
 \end_inset
 
@@ -6125,6 +6174,11 @@ width "75text%"
 special "none"
 height "1in"
 height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
@@ -6144,7 +6198,7 @@ The following diagram
 ONLY
 \series default
 \bar default
- shows spaces into which roof antenna cables should terminate.
+ shows spaces into which exterior antenna cables should terminate.
  Nothing else in this diagram constitutes a requirement.
 \begin_inset Newline newline
 \end_inset
@@ -6167,9 +6221,33 @@ If you are viewing this diagram in black & white, the spaces of interest
 \end_layout
 
 \begin_layout Standard
+\noindent
+\align center
 \begin_inset Graphics
 	filename cable-runs-left-interior.bmp
-	width 100text%
+	width 94text%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "subsec:Communications/IT-component-mounting-and-power-source-matrix"
+
+\end_inset
+
+Communications/IT component mounting and power source chart
+\end_layout
+
+\begin_layout Standard
+\noindent
+\align center
+\begin_inset Graphics
+	filename tasir-it.png
+	height 93theight%
 
 \end_inset
 
