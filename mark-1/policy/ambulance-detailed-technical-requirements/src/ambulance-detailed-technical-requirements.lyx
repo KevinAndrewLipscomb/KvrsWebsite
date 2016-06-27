@@ -11,12 +11,12 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
-\font_sans "default" "default"
-\font_typewriter "default" "default"
+\font_roman "default" "Tahoma"
+\font_sans "default" "Tahoma"
+\font_typewriter "default" "Andale Mono"
 \font_math "auto" "auto"
-\font_default_family sfdefault
-\use_non_tex_fonts false
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc false
 \font_osf false
 \font_sf_scale 100 100
@@ -1577,7 +1577,7 @@ Patient care and operations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="63" columns="4">
+<lyxtabular version="3" rows="64" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -3887,7 +3887,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install aproximately full-length overhead grab rail in payload module.
+Install approximately full-length overhead grab rail in payload module.
 \end_layout
 
 \end_inset
@@ -4409,7 +4409,7 @@ SHOULD
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4418,7 +4418,7 @@ SHOULD
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4427,7 +4427,7 @@ Install a Stryker Power-LOAD system.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -4437,11 +4437,52 @@ Power loading reduces likelihood of exertion-related crew injury and has
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 MAY
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.64
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Install an ACDC Industries MZL-180 (or, upon customer approval, a functionally
+ equivalent) voltage-sensing delay timer in the electrical/IT cabinet, and
+ rig it to supply power to the CAD MDT System CPU.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Allows CAD MDT to receive messages while ambulance is off, unless voltage
+ drop would risk preventing ambulance from being started.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
 \end_layout
 
 \end_inset
