@@ -4905,7 +4905,7 @@ Traffic signaling
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="18" columns="4">
+<lyxtabular version="3" rows="19" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -5190,15 +5190,7 @@ MAY
 
 \begin_layout Plain Layout
 Install 2 red ambulance warning lights on rear to be visible through windows
- when rear doors are opened, to be activated in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- mode only.
+ when rear doors are opened.
 \end_layout
 
 \end_inset
@@ -5237,15 +5229,7 @@ SHOULD
 
 \begin_layout Plain Layout
 Install 2 red ambulance warning lights inboard of mandated corner red lights
- at top front of payload module, to be activated in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- mode only.
+ at top front of payload module.
 \end_layout
 
 \end_inset
@@ -5284,15 +5268,7 @@ MAY
 
 \begin_layout Plain Layout
 Install an amber ambulance warning light at top center rear, to alternate
- with mandated corner red lights, to be activated in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- mode only.
+ with mandated corner red lights.
 \end_layout
 
 \end_inset
@@ -5331,23 +5307,7 @@ MAY
 
 \begin_layout Plain Layout
 Install a red ambulance warning light above and forward of each front wheel
- as front intersection lights, to be activated in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-secondary
-\begin_inset Quotes erd
-\end_inset
-
- modes.
+ as front intersection lights.
 \end_layout
 
 \end_inset
@@ -5358,8 +5318,6 @@ secondary
 \begin_layout Plain Layout
 Provides forward signaling to crossing traffic as nose enters lane, and
  to adjacent-lane traffic.
- Should never be defeatable due to high risk exposure when entering crossing
- lane.
 \end_layout
 
 \end_inset
@@ -5388,24 +5346,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 2 red ambulance warning lights as grill lights, to be activated
- in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-secondary
-\begin_inset Quotes erd
-\end_inset
-
- modes.
+Install 2 red ambulance warning lights as grill lights.
 \end_layout
 
 \end_inset
@@ -5445,16 +5386,7 @@ MAY
 
 \begin_layout Plain Layout
 If using CoolBar or equivalent with angled faces, install additional red
- ambulance warning light on upper half of each angled face, to be activated
- in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- mode only.
+ ambulance warning light on upper half of each angled face.
 \end_layout
 
 \end_inset
@@ -5492,16 +5424,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install a red ambulance warning light just over each rear wheel, to be activated
- in 
-\begin_inset Quotes eld
-\end_inset
-
-primary
-\begin_inset Quotes erd
-\end_inset
-
- mode only.
+Install a red ambulance warning light just over each rear wheel.
 \end_layout
 
 \end_inset
@@ -5688,7 +5611,7 @@ MAY
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -5697,7 +5620,7 @@ MAY
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -5707,7 +5630,7 @@ Use chrome-plated flanges around ambulance warning lights to the extent
 
 \end_inset
 </cell>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -5716,11 +5639,76 @@ Improves aesthetics.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 MAY
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.4.18
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Label the warning light sequencer switch 
+\begin_inset Quotes eld
+\end_inset
+
+EMERGENCY LIGHTS
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Configure this switch to energize/de-energize all installed official warning
+ light systems, including 
+\begin_inset Quotes eld
+\end_inset
+
+wig-wag
+\begin_inset Quotes erd
+\end_inset
+
+ and interlocked OptiCom.
+ Delete 
+\bar under
+all
+\bar default
+ legacy subordinate switches.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Adopted from FDNY specifications.
+ Fine-grained control over emergency light subsystems has been rendered
+ unnecessary by technology improvements.
+ Reducing the operator interface to just one switch will eliminate control
+ misconfigurations and prevent defeat of safety features.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
 \end_layout
 
 \end_inset
