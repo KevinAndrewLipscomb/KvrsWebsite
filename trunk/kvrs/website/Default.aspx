@@ -49,6 +49,12 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2016-07-09</dt>
+                    <dd>
+                      We've placed our brand new ambulance, "925" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in our history, we have <i>six</i>
+                      ambulances in our fleet, and they all share the same basic custom-tailored design.&nbsp; This arrangement is critical to operational efficiency.
+                    </dd>
+                    <p></p>
                     <dt>2016-01-01</dt>
                     <dd>
                       We won a $172,684 grant from the state Rescue Squad Assistance Fund <i>and</i> a $22,346 grant from the Virginia Beach Rescue Squad Foundation to complete projects to add a <b>6th</b> badly needed ambulance to
@@ -59,6 +65,9 @@
                       </blockquote>
                     </dd>
                     <p></p>
+                    <dt>2015-12-31</dt>
+                    <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2015, average.</dd>
+                    <p></p>
                     <dt>2015-11-05</dt>
                     <dd>
                       Our member, Paramedic Kate East (center, below), appeared with EMT Terry Connelly from our sister squad, Ocean park, <a href="http://wavy.com/2015/11/05/help-for-our-heroes/">on the Hampton Roads Show today</a> to talk about
@@ -66,24 +75,6 @@
                       <blockquote>
                         <img src="image/kate-east-on-hampton-roads-show-1.jpg" alt="Kate East on Hampton Roads Show" />
                       </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2015-11-02</dt>
-                    <dd>
-                      Our Fall fund drive mailers are now reaching peoples' mailboxes.&nbsp; We are tremendously dependent on donations from the community we serve.&nbsp; Please donate now!
-                    </dd>
-                    <p></p>
-                    <dt>2015-10-15</dt>
-                    <dd>
-                      Mel Losick, a KVRS Life Member, passed away today.&nbsp; He joined our system in 1970 and served avidly for more than 45 years in many capacities, including paramedic, extricator, street supervisor, KVRS
-                      Captain, and KVRS President.&nbsp; He was also well-known in our region as an EMS instructor.&nbsp; We have fond memories of good times with Mel, and we'll miss him.<br />
-                      <img src="image/losick-mel.jpg" alt="Mel Losick" height="400" width="267"/>
-                    </dd>
-                    <p></p>
-                    <dt>2015-07-25</dt>
-                    <dd>
-                      We've placed our brand new ambulance, "924" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in more than 27 years, our entire fleet
-                      shares the same basic custom-tailored design.&nbsp; This arrangement is critical to operational efficiency.
                     </dd>
                     <p></p>
                     <dt>2015-07-04</dt>
@@ -107,67 +98,10 @@
                       resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
                     </dd>
                     <p></p>
-                    <dt>2014-12-31</dt>
-                    <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2014, average.</dd>
-                    <p></p>
-                    <dt>2014-11-26</dt>
-                    <dd>
-                      The first two online presentations in the new KVRS Training Academy are now available, courtesy of our member Jeff Achesinski.  In the left margin of this website, see Quick links / Squad-level /
-                      <a href="https://drive.google.com/folderview?id=0B8zXDcgGvs19NzhzMzZEanEzbFE" rel="nofollow">Training Academy</a>.
-                    </dd>
-                    <p></p>
-                    <dt>2014-07-01</dt>
-                    <dd>
-                      By winning grants from both the <a href="http://www.vbrescuefoundation.com/">Virginia Beach Rescue Squad Foundation</a> and the <a href="http://www.vdh.state.va.us/OEMS/Agency/Grants/index.htm">Virginia Rescue
-                      Squad Assistance Fund</a>, KVRS has arranged to add two Physio-Control LUCAS Chest Compression Systems to our city's medical arsenal.
-                    </dd>
-                    <p></p>
-                    <dt>2014-06-16</dt>
-                    <dd>
-                      With a restricted donation from the Evan Collins Memorial EMT Education and Equipment Fund, KVRS has procured a <a href="http://www.laerdal.com/us/SimPad">Laerdal SimPad</a> simulation manikin programmer.&nbsp;
-                      We assigned it to the Virginia Beach EMS Training Center where it will improve the training that gets delivered to all EMS providers in the city.
-                    </dd>
-                    <p></p>
-                    <dt>2014-05-27</dt>
-                    <dd>
-                      Congratulations to Life Member <i>Bill Black</i> on serving 45 years with KVRS!&nbsp;  Bill is the longest serving member running scheduled duties in the entire Virginia Beach EMS system.&nbsp; He has held many
-                      positions including KVRS Captain, KVRS Squad Truck Supervisor, and VAVRS Rescue Instructor.
-                    </dd>
-                    <p></p>
-                    <dt>2014-04-08</dt>
-                    <dd>
-                      We've uploaded a presentation about <a href="resource/buxbaum-fd-transition-presentation.pdf">the transition of the former Kemspville Volunteer Fire Department into the Virginia Beach Fire Department system</a>.&nbsp; It was developed by former KVFD Chief
-                      Stuart Buxbaum.
-                    </dd>
-                    <p></p>
-                    <dt>2013-08-28</dt>
-                    <dd>KVRS President Kevin Lipscomb and EMT Diane Reid from our sister agency, Virginia Beach Volunteer Rescue Squad, appeared on WAVY-TV's Hampton Roads Show today to talk about our city's new LUCAS Chest
-                    Compression System and Family & Friends CPR training.
-                      <blockquote>
-                        <img src="http://www.livesneedsaving.org/wp-content/uploads/2013/08/Kevin-and-Di-on-HamptonRoads-Show-blog-posting-291x300.jpg" alt="Kevin & Di on Hampton Roads Show" />
-                      </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2013-08-22</dt>
-                    <dd>
-                      The Virginia Beach Beacon featured our admin member Rob Miller in an article headlined <i>Mr. Clean</i> about the invaluable service he provides to keep our ambulances clean and prepared for calls.
-                    </dd>
-                    <p></p>
-                    <dt>2013-08-06</dt>
-                    <dd>
-                      WAVY-TV's Chris Reckling rode along with Paramedics Kevin Lipscomb and Rick Baker to see what does (and doesn't) help us cut through traffic to reach emergency scenes.
-                    </dd>
-                    <p></p>
                     <dt>2013-05-06</dt>
                     <dd>
                       We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
                       lifting injuries, and they are safer for our patients.
-                    </dd>
-                    <p></p>
-                    <dt>2012-10-21</dt>
-                    <dd>
-                      Today KVRS equipped its two front-line ambulances with Verathon GlideScope video laryngoscopes that it purchased with a grant.&nbsp; We are the <i>only</i> squad in Virginia Beach to have done this.&nbsp;
-                      Paramedics staffing these two ambulances will no longer have to wait for another paramedic on a zone or supervisor car to bring a GlideScope to them.
                     </dd>
                     <p></p>
                     <dt>2012-08-19</dt>
@@ -216,7 +150,7 @@
             <hr />
             <p></p>
             <h3>Physio-Control LUCAS Chest Compression System</h3>
-            <h4>We need 3 at about $13,100 each</h4>
+            <h4>We need 4 at about $13,100 each</h4>
             <p><img src="image/lucas.png" alt="LUCAS Chest Compression System"/></p>
             <p>
               <small>
@@ -227,25 +161,24 @@
             </p>
             <p>
               <small>
-                The City of Virginia Beach only has a few of these devices available in the field for the entire city population.  To best serve the community, we need one on every ambulance.
+                We have these on our two front-line ambulances, but to best serve the community, we also need one on each of our other four ambulances.&nbsp;
               </small>
             </p>
             <hr />
             <p></p>
-            <h3>Verathon GlideScope</h3>
-            <h4>We need 3 at about $10,000 each</h4>
-            <p><img src="image/glidescope.png" alt="Verathon GlideScope"/></p>
+            <h3>McGrath EMS Video Laryngoscope</h3>
+            <h4>We need 4 at about $2,800 each</h4>
+            <p><img src="image/mcgrath.png" alt="McGrath"/></p>
             <p>
               <small>
-                Sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube go through the patient's vocal cords, and that's not always easy to do with our own eyes.  The GlideScope
+                Sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube go through the patient's vocal cords, and that's not always easy to do with our own eyes.  A video laryngoscope
                 literally allows us to see around corners.  The part of the tool that opens the patient's airway has a fiber-optic eye on its tip that transmits an image to an external display.  Previously, this technology was
                 only available to anesthesiologists in operating rooms.  It makes a critical and tricky procedure faster, safer, and easier.
               </small>
             </p>
             <p>
               <small>
-                The City of Virginia Beach only has six of these devices available in the field for the entire city population.  We won a grant for an additional two that we've placed on our two front-line ambulances, but to
-                best serve the community, we also need one on each of our other three ambulances.
+                We have similar products on our two front-line ambulances, but to best serve the community, we also need one on each of our other four ambulances.
               </small>
             </p>
           </td>
