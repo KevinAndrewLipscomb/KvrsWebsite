@@ -49,6 +49,23 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2016-09-06</dt>
+                    <dd>
+                      Our Life Member and long-time President, Kevin Lipscomb, has been hired as a Division Chief at the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Our Vice President, Tom Kiernan, will
+                      be our Acting President until our Board Of Directors elects a replacement.
+                    </dd>
+                    <p></p>
+                    <dt>2016-08-22</dt>
+                    <dd>
+                      Dan Kiernan, our Executive Officer, has been hired as a full-time Paramedic by the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Congratulations Dan, and best wishes for your new
+                      career!&nbsp; Our Scheduling Officer, Christina Powell, will be our Acting Executive Officer until our Board Of Directors elects a replacement.
+                    </dd>
+                    <p></p>
+                    <dt>2016-07-22</dt>
+                    <dd>
+                      Our Life Member, Russell Blow, has been hired as a full-time Paramedic by the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Congratulations Russ!
+                    </dd>
+                    <p></p>
                     <dt>2016-07-09</dt>
                     <dd>
                       We've placed our brand new ambulance, "925" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in our history, we have <i>six</i>

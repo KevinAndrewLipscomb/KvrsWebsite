@@ -19,17 +19,13 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img src="image/lipscomb-kevin.jpg" />
+              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1357-i.jpg' />
             </td>
             <td>
               <strong>President</strong> -- <i><a href="../mark-1/role/president/index.html">official page</a></i><br />
-              Kevin Lipscomb<br />
+              Tom Kiernan (Acting)<br />
               Email: <a href='mailto:president@kvrs.org'>president@kvrs.org</a><br />
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Fleet Renewal Plan Administrator<br />
-              Fund Drive Coordinator<br />
-              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i></td>
+            </td>
           </tr>
           <tr>
             <td>
@@ -101,7 +97,7 @@
           <tr>
             <td>
             </td>
-            <td>Dan Kiernan</td>
+            <td>Dan Russell</td>
           </tr>
         </table>
         <p>
@@ -172,7 +168,21 @@
               Denny Stewart
             </td>
           </tr>
-          </table>
+          <tr>
+            <td>
+              <img alt="Kevin Lipscomb" src="image/lipscomb-kevin.jpg" />
+            </td>
+            <td>
+              <strong>
+                Fleet Renewal Plan Administrator<br />
+                Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
+                Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
+              </strong>
+              <br />
+              Kevin Lipscomb
+            </td>
+          </tr>
+        </table>
       </div>
       <uc1:UserControl_postcontent id="UserControl_postcontent" runat="server"></uc1:UserControl_postcontent>
     </form>
