@@ -29,29 +29,29 @@
           </tr>
           <tr>
             <td>
-              
+              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
-              Dan Kiernan<br />
+              Chris Powell (Acting)<br />
               Email: <a href='mailto:xo@kvrs.org'>xo@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" /><br />
+              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
             <td>
               <strong>Scheduling Officer (952)</strong><br />
-              Chris Wiemer-Rohn<br />
+              Chris Powell<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              </td>
+            </td>
             <td>
               <strong>Logistics Officer (953)</strong><br />
-              <br />
+              Justin Beck<br />
               Email: <a href='mailto:logistics@kvrs.org'>logistics@kvrs.org</a>
             </td>
           </tr>
@@ -59,23 +59,19 @@
             <td>
               
             </td>
-            </td>
-            </td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
-              <br />
+              Jonathan Shafer<br />
               Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
             </td>
-            </td>
-            </td>
             <td>
-              <strong>Equipment Sergeants</strong><br />
+              <strong>Equipment Sergeant</strong><br />
               (vacant)<br />
-              Email: <a href='mailto:equipment@kvrs.org'>supplies@kvrs.org</a>
+              Email: <a href='mailto:equipment@kvrs.org'>equipment@kvrs.org</a>
             </td>
           </tr>
           <tr>
