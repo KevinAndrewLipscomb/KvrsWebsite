@@ -538,7 +538,7 @@ Safety
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="25" columns="4">
+<lyxtabular version="3" rows="22" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -673,7 +673,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install the most durable valve stems available.
+Install the most durable valve stems available, meeting or exceeding the
+ TR416 rating.
 \end_layout
 
 \end_inset
@@ -712,8 +713,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install most durable available rear entry door hold-open systems at tops
- of rear entry doors such that doors will open as far as possible.
+Install most durable available rear entry door hold-open systems such that
+ doors will open as far as possible, and such that none of the prongs are
+ likely to be used as a step.
 \end_layout
 
 \end_inset
@@ -725,6 +727,7 @@ Install most durable available rear entry door hold-open systems at tops
 To prevent rear doors from swinging in stiff winds and from interfering
  with patient loading/unloading.
  To prevent premature wear.
+ To prevent damage from abuse.
 \end_layout
 
 \end_inset
@@ -996,44 +999,6 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide for rear load lights to activate when rear entry door is open.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Improves visibility when exiting from rear.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.1.12
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
 Install stepwell lighting in stepwell.
 \end_layout
 
@@ -1063,96 +1028,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.13
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-If mounting stretcher unload hook (desired), mount rear enough to allow
- stretcher wheels to extend past flipped-up rear bumper without interference,
- and mount so as to prevent stretcher from missing unload hook under all
- conceivable unload situations.
- Use hook intended for stretcher specified by squad.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Stretcher must never be allowed to miss the unload hook.
- The appropriate hook must be used.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.1.14
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-If mounting stretcher unload hook (desired), use a 
-\begin_inset Quotes eld
-\end_inset
-
-through-bolting
-\begin_inset Quotes erd
-\end_inset
-
- system to anchor unload hook.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Unload hook must be anchored as strongly as possible.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.1.15
+5.1.12
 \end_layout
 
 \end_inset
@@ -1197,7 +1073,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.16
+5.1.13
 \end_layout
 
 \end_inset
@@ -1250,7 +1126,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.17
+5.1.14
 \end_layout
 
 \end_inset
@@ -1288,7 +1164,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.18
+5.1.15
 \end_layout
 
 \end_inset
@@ -1327,7 +1203,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.19
+5.1.16
 \end_layout
 
 \end_inset
@@ -1367,7 +1243,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.20
+5.1.17
 \end_layout
 
 \end_inset
@@ -1406,54 +1282,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.21
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Install a 12
-\begin_inset Quotes erd
-\end_inset
-
- high 36
-\begin_inset Quotes erd
-\end_inset
-
- wide window in the payload module curb-side wall over the squad bench if
- feasible.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Provides better visibility of scene to curb-side.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MAY
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.1.22
+5.1.18
 \end_layout
 
 \end_inset
@@ -1494,7 +1323,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.23
+5.1.19
 \end_layout
 
 \end_inset
@@ -1528,16 +1357,16 @@ MUST
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.1.24
+5.1.20
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1546,7 +1375,7 @@ Mount siren speakers through cutouts in front bumper if feasible.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1555,11 +1384,52 @@ Noticeably reduces amount of sound reflected back into ambulance cabin.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 SHOULD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.1.21
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Do not provide vanity wheel covers.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Assures that actual lug nuts will be visible at all times.
+ Eliminates need for valve stem extensions, failure of which has been identified
+ as not uncommon.
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
 \end_layout
 
 \end_inset
@@ -1578,7 +1448,7 @@ Patient care and operations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="65" columns="4">
+<lyxtabular version="3" rows="64" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1991,6 +1861,44 @@ SHOULD
 
 \end_inset
 </cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Apply undercoating, if offered.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Assists with temperature control, sound dampening, and corrosion resistance.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MAY
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.9
+\end_layout
+
+\end_inset
+</cell>
 <cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -2026,7 +1934,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.9
+5.2.10
 \end_layout
 
 \end_inset
@@ -2069,7 +1977,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.10
+5.2.11
 \end_layout
 
 \end_inset
@@ -2107,7 +2015,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.11
+5.2.12
 \end_layout
 
 \end_inset
@@ -2145,7 +2053,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.12
+5.2.13
 \end_layout
 
 \end_inset
@@ -2183,7 +2091,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.13
+5.2.14
 \end_layout
 
 \end_inset
@@ -2252,7 +2160,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.14
+5.2.15
 \end_layout
 
 \end_inset
@@ -2333,7 +2241,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.15
+5.2.16
 \end_layout
 
 \end_inset
@@ -2413,7 +2321,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.16
+5.2.17
 \end_layout
 
 \end_inset
@@ -2437,7 +2345,8 @@ Reinforce door/hinge of STAIR CHAIR COMPARTMENT.
 \end_inset
 
  deep heavy duty (Stryker 6252) stair chair.
- Reinforce the box with additional screws or rivets.
+ Reinforce the box with additional screws, or rivets, or internal and external
+ continuous bead welds.
  Install a horizontal seat belt, secured with zinc footman loops, approximately
  30
 \begin_inset Quotes erd
@@ -2482,7 +2391,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.17
+5.2.18
 \end_layout
 
 \end_inset
@@ -2503,7 +2412,7 @@ Provide a 3/4 height external left forwardmost compartment (MAIN OXYGEN
 \begin_inset Text
 
 \begin_layout Plain Layout
-To carry main oxygen and portable lantern.
+To carry main oxygen.
  Provides interior access to main O2 valve.
 \end_layout
 
@@ -2524,7 +2433,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.18
+5.2.19
 \end_layout
 
 \end_inset
@@ -2577,7 +2486,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.19
+5.2.20
 \end_layout
 
 \end_inset
@@ -2615,7 +2524,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.20
+5.2.21
 \end_layout
 
 \end_inset
@@ -2654,7 +2563,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.21
+5.2.22
 \end_layout
 
 \end_inset
@@ -2694,7 +2603,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.22
+5.2.23
 \end_layout
 
 \end_inset
@@ -2732,7 +2641,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.23
+5.2.24
 \end_layout
 
 \end_inset
@@ -2775,7 +2684,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.24
+5.2.25
 \end_layout
 
 \end_inset
@@ -2813,7 +2722,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.25
+5.2.26
 \end_layout
 
 \end_inset
@@ -2851,7 +2760,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.26
+5.2.27
 \end_layout
 
 \end_inset
@@ -2894,7 +2803,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.27
+5.2.28
 \end_layout
 
 \end_inset
@@ -2933,7 +2842,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.28
+5.2.29
 \end_layout
 
 \end_inset
@@ -3197,7 +3106,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 12VDC 15 amp power source (hot and ground) on battery circuit
+Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit
  w/6 ft pigtail, terminating in the front cab console.
 \end_layout
 
@@ -3236,7 +3145,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 12VDC 30 amp power source (hot and ground) on battery circuit
+Provide a 12VDC 30 amp power source (hot and ground) on ignition circuit
  w/6 ft pigtail, terminating behind the passenger seat.
 \end_layout
 
@@ -3769,46 +3678,6 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 400,000 or greater candlepower spotlight in front cab, wired from
- passenger side.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Encourages use by passenger rather than driver.
- If not stowed properly, cord will not foul driver's pedal area.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.2.48
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
 Install 15-minute timer switch on battery circuit on curb-side wall at front
  of squad bench, to allow activation & deactivation of interior overhead
  flourescent lights only.
@@ -3840,7 +3709,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.49
+5.2.48
 \end_layout
 
 \end_inset
@@ -3879,7 +3748,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.50
+5.2.49
 \end_layout
 
 \end_inset
@@ -3917,7 +3786,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.51
+5.2.50
 \end_layout
 
 \end_inset
@@ -3955,7 +3824,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.52
+5.2.51
 \end_layout
 
 \end_inset
@@ -3995,7 +3864,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.53
+5.2.52
 \end_layout
 
 \end_inset
@@ -4035,52 +3904,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.54
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Install Stryker 6377 cot mounts in the center position only, not in the
- street-side wall position.
- Install forward fastener 87-1/4
-\begin_inset Quotes erd
-\end_inset
-
- from closed rear doors, measured to center of the most forward cot plate
- bolt.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="left" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-We never use the other position.
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-MUST
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-5.2.55
+5.2.53
 \end_layout
 
 \end_inset
@@ -4142,7 +3966,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.56
+5.2.54
 \end_layout
 
 \end_inset
@@ -4180,7 +4004,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.57
+5.2.55
 \end_layout
 
 \end_inset
@@ -4220,7 +4044,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.58
+5.2.56
 \end_layout
 
 \end_inset
@@ -4260,7 +4084,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.59
+5.2.57
 \end_layout
 
 \end_inset
@@ -4299,7 +4123,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.60
+5.2.58
 \end_layout
 
 \end_inset
@@ -4337,7 +4161,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.61
+5.2.59
 \end_layout
 
 \end_inset
@@ -4375,7 +4199,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.62
+5.2.60
 \end_layout
 
 \end_inset
@@ -4414,7 +4238,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.63
+5.2.61
 \end_layout
 
 \end_inset
@@ -4453,7 +4277,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.64
+5.2.62
 \end_layout
 
 \end_inset
@@ -4494,7 +4318,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.65
+5.2.63
 \end_layout
 
 \end_inset
@@ -4833,6 +4657,20 @@ SHOULD
 \begin_layout Plain Layout
 Provide ambulance with all-white paint.
  Do not provide a paint belt or pinstriping.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Other squads may be replace requirement 5.3.6 (at the risk of violating the
+ associated rationale) with a requirement for one or more paint belts, but
+ the replacement requirement should specify that the edges of all paint
+ belts should be smoothed to prevent seams from forming underneath any graphics
+ applied over the edges later.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4850,7 +4688,7 @@ Prevents color mismatches between any graphic elements applied later.
 \begin_inset Text
 
 \begin_layout Plain Layout
-MUST
+SHOULD
 \end_layout
 
 \end_inset
@@ -4910,7 +4748,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide chrome (or faux chrome) wheel covers.
+Provide chrome or brushed aluminum wheels (without vanity covers) for all
+ out-facing tire-wheel assemblies.
 \end_layout
 
 \end_inset
@@ -4919,7 +4758,8 @@ Provide chrome (or faux chrome) wheel covers.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Vanity item.
+Provides attractiveness for public relations purposes without compromising
+ safety.
 \end_layout
 
 \end_inset
