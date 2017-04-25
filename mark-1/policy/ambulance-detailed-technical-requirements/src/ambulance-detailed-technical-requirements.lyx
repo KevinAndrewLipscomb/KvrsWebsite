@@ -4661,11 +4661,11 @@ Provide ambulance with all-white paint.
 status open
 
 \begin_layout Plain Layout
-Other squads may be replace requirement 5.3.6 (at the risk of violating the
- associated rationale) with a requirement for one or more paint belts, but
- the replacement requirement should specify that the edges of all paint
- belts should be smoothed to prevent seams from forming underneath any graphics
- applied over the edges later.
+Other squads may replace requirement 5.3.6 (at the risk of violating the associate
+d rationale) with a requirement for one or more paint belts, but the replacement
+ requirement should specify that the edges of all paint belts should be
+ smoothed to prevent seams from forming underneath any graphics applied
+ over the edges later.
 \end_layout
 
 \end_inset
