@@ -25,20 +25,19 @@
               <strong>President</strong> -- <i><a href="../mark-1/role/president/index.html">official page</a></i><br />
               Tom Kiernan (Acting)<br />
               Email: <a href='mailto:president@kvrs.org'>president@kvrs.org</a><br />
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Building &amp; Grounds Coordinator<br />
             </td>
           </tr>
           <tr>
             <td>
-              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1357-i.jpg' />
+              <img src='http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1359-i.jpg' />
             </td>
             <td>
               <strong>Vice President</strong><br />
-              Tom Kiernan<br />
+              Paul Kalmus<br />
               Email: <a href='mailto:vicepresident@kvrs.org'>vicepresident@kvrs.org</a><br />
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Building &amp; Grounds Coordinator<br />
-              Fund Drive New Neighborhood Recorder<br />
             </td>
           </tr>
           <tr>
@@ -56,7 +55,7 @@
               &nbsp;</td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              Amber (Mitchell) Jensen<br />
+              Dayna Beck<br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
           </tr>
@@ -75,14 +74,6 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="April Achesinski" src="image/achesinski-april.jpg" />
-            </td>
-            <td>
-              April Achesinski
-            </td>
-          </tr>
-          <tr>
-            <td>
               <img alt="Jan James" src="image/james-jan.jpg" />
             </td>
             <td>
@@ -98,6 +89,14 @@
             <td>
             </td>
             <td>Dan Russell</td>
+          </tr>
+          <tr>
+            <td>
+              
+            </td>
+            <td>
+              
+            </td>
           </tr>
         </table>
         <p>
@@ -133,14 +132,6 @@
           </tr>
           <tr>
             <td>
-              <img alt="Jeff Achesinski" src="image/achesinski-jeff.jpg" />
-            </td>
-            <td>
-              Jeff Achesinski
-            </td>
-          </tr>
-          <tr>
-            <td>
             <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
             </td>
             <td>
@@ -149,6 +140,14 @@
               <em>Collateral responsibilities:</em><br />
               Grant Request Coordinator<br />
               Ambulance Procurement &amp; Disposition Coordinator
+            </td>
+          </tr>
+          <tr>
+            <td>
+              
+            </td>
+            <td>
+              
             </td>
           </tr>
         </table>
@@ -175,6 +174,7 @@
             <td>
               <strong>
                 Fleet Renewal Plan Administrator<br />
+                Finance Coordinator -- <i><a href='mailto:finances@kvrs.org'>finances@kvrs.org</a></i><br />
                 Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
                 Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
               </strong>

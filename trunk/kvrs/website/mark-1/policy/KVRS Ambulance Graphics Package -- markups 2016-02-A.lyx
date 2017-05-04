@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass article
 \use_default_options false
 \maintain_unincluded_children false
@@ -9,16 +11,16 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman default
-\font_sans default
-\font_typewriter default
-\font_math auto
-\font_default_family sfdefault
-\use_non_tex_fonts false
+\font_roman "default" "Tahoma"
+\font_sans "default" "Tahoma"
+\font_typewriter "default" "Andale Mono"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts true
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -92,7 +94,7 @@
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="50line%">
 <column alignment="left" valignment="top" width="50line%">
 <row>
@@ -351,6 +353,10 @@ NO GOLD INSETS.
 
 \begin_layout Enumerate
 On Drawing UNIT-KVRS-UNIT / Sheet 2:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -429,6 +435,10 @@ The Package
 
 \begin_layout Enumerate
 On Drawing UNIT-CONTRAST / Sheet 4:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -524,6 +534,10 @@ www.KVRS.org
 
 \begin_layout Enumerate
 On Drawing STRIPE / Sheet 7:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -580,6 +594,10 @@ BRILLIANT WHITE
 
 \begin_layout Enumerate
 On Drawing UNIT-FT-REAR / Sheet 11:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -605,6 +623,10 @@ Replace all
 
 \begin_layout Enumerate
 On the front view:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -645,6 +667,10 @@ turning left
 \end_deeper
 \begin_layout Enumerate
 On the rear view:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -745,7 +771,7 @@ PATTERNED
 \begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="1" columns="2">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="50line%">
 <column alignment="left" valignment="top" width="50line%">
 <row>

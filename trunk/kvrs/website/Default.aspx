@@ -49,6 +49,43 @@
               <tr>
                 <td valign="top">
                   <dl>
+                    <dt>2017-04-26</dt>
+                    <dd>
+                      Our Life Member, past vice president, and long-time capital grant coordinator, Paramedic Jim Brewer, has received this year's Hampton Roads Volunteer Achievement Award in the Individual Adult category!&nbsp;
+                      This award recognizes the region's most outstanding volunteers based on their length of service, initiative and impact on the community.&nbsp; Among many other things, Jim's impact includes winning grants for
+                      the squad that have allowed the squad to deploy about $1,000,000 worth of apparatus and gear over time!
+                    </dd>
+                    <p></p>
+                    <dt>2017-03-03</dt>
+                    <dd>
+                      Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
+                      resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
+                    </dd>
+                    <p></p>
+                    <dt>2017-02-15</dt>
+                    <dd>
+                      We now have video laryngoscopes for all six of the ambulances in our fleet!&nbsp; This is important because sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube
+                      go through the patient's vocal cords, and that's not always easy to do with our own eyes.  A video laryngoscope literally allows us to see around corners.  The part of the tool that opens the patient's airway
+                      has a fiber-optic eye on its tip that transmits an image to an external display.  Previously, this technology was only available to anesthesiologists in operating rooms.  It makes a critical and tricky
+                      procedure faster, safer, and easier.&nbsp; The four devices we just added to our inventory are extremely cost effective at about $2800 each.
+                      <blockquote>
+                        <img src="image/mcgrath.png" alt="McGrath"/><br />
+                        <small><small><i>McGrath EMS Video Laryngoscope</i></small></small>
+                      </blockquote>
+                    </dd>
+                    <p></p>
+                    <dt>2017-02-01</dt>
+                    <dd>Thanks to emergency grants from the state and the city, we've been able to place orders for two brand new ambulances to replace those destroyed by Hurricane Matthew!</dd>
+                    <p></p>
+                    <dt>2016-12-31</dt>
+                    <dd>KVRS responded to more than 25 calls per day (transporting more than 17 patients per day) in 2016, average.</dd>
+                    <p></p>
+                    <dt>2016-10-08</dt>
+                    <dd>
+                      Hurricane Matthew delivered disastrous flooding across the city, and as we worked to help people suffering illnesses and injuries, two of our ambulances sustained flooding that was bad enough that the vehicles
+                      were declared total losses.&nbsp; This represents an overnight loss of one-third of our fleet.
+                    </dd>
+                    <p></p>
                     <dt>2016-09-06</dt>
                     <dd>
                       Our Life Member and long-time President, Kevin Lipscomb, has been hired as a Division Chief at the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Our Vice President, Tom Kiernan, will
@@ -82,9 +119,6 @@
                       </blockquote>
                     </dd>
                     <p></p>
-                    <dt>2015-12-31</dt>
-                    <dd>KVRS responded to more than 24 calls per day (transporting more than 16 patients per day) in 2015, average.</dd>
-                    <p></p>
                     <dt>2015-11-05</dt>
                     <dd>
                       Our member, Paramedic Kate East (center, below), appeared with EMT Terry Connelly from our sister squad, Ocean park, <a href="http://wavy.com/2015/11/05/help-for-our-heroes/">on the Hampton Roads Show today</a> to talk about
@@ -92,33 +126,6 @@
                       <blockquote>
                         <img src="image/kate-east-on-hampton-roads-show-1.jpg" alt="Kate East on Hampton Roads Show" />
                       </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2015-07-04</dt>
-                    <dd>
-                      We enjoyed serving everyone who attended this year's Mt. Trashmore July 4th Celebration, fireworks and all.&nbsp; We also appreciate the help we got from our sister squads!<br />
-                      <img src="image/Fourth of July_Mt Trashmore-20-w325.jpg" alt="KVRS and other rescue members at Mt. Trashmore July 4th event" height="217" width="325" /><br />
-                      <small><small><i>Photo courtesy of Linda House, Virginia Beach Parks & Recreation</i></small></small>
-                    </dd>
-                    <p></p>
-                    <dt>2015-07-01</dt>
-                    <dd>
-                      We won a $6186.10 grant to upgrade the fifth of our five Physio-Control LifePak 15 devices with <em>waveform capnography </em> and other capabilities.&nbsp; Waveform capnography gives us a continuous indication of
-                      a patient's level of exhaled carbon dioxide, and is considered the gold standard for making sure a breathing tube doesn't wiggle out of a critical patient's windpipe.<br />
-                      <img src="image/LP-15-300x300.png" alt="Physio-Control LifePak 15"/><br />
-                      <small><small><i>Physio-Control LifePak 15</i></small></small>
-                    </dd>
-                    <p></p>
-                    <dt>2015-04-02</dt>
-                    <dd>
-                      Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
-                      resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-                    </dd>
-                    <p></p>
-                    <dt>2013-05-06</dt>
-                    <dd>
-                      We now have five powered stretchers -- one for each ambulance.&nbsp; We purchased four of them with donation and grant money.&nbsp; The newest one was given to us by the city.&nbsp; These devices help us avoid
-                      lifting injuries, and they are safer for our patients.
                     </dd>
                     <p></p>
                     <dt>2012-08-19</dt>
@@ -179,23 +186,6 @@
             <p>
               <small>
                 We have these on our two front-line ambulances, but to best serve the community, we also need one on each of our other four ambulances.&nbsp;
-              </small>
-            </p>
-            <hr />
-            <p></p>
-            <h3>McGrath EMS Video Laryngoscope</h3>
-            <h4>We need 4 at about $2,800 each</h4>
-            <p><img src="image/mcgrath.png" alt="McGrath"/></p>
-            <p>
-              <small>
-                Sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube go through the patient's vocal cords, and that's not always easy to do with our own eyes.  A video laryngoscope
-                literally allows us to see around corners.  The part of the tool that opens the patient's airway has a fiber-optic eye on its tip that transmits an image to an external display.  Previously, this technology was
-                only available to anesthesiologists in operating rooms.  It makes a critical and tricky procedure faster, safer, and easier.
-              </small>
-            </p>
-            <p>
-              <small>
-                We have similar products on our two front-line ambulances, but to best serve the community, we also need one on each of our other four ambulances.
               </small>
             </p>
           </td>
