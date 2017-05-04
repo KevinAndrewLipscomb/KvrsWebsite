@@ -94,9 +94,7 @@
             <td>
               
             </td>
-            <td>
-              
-            </td>
+            <td>Crystal Price</td>
           </tr>
         </table>
         <p>
@@ -132,7 +130,7 @@
           </tr>
           <tr>
             <td>
-            <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
+              <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
             </td>
             <td>
               Jim Brewer
@@ -144,10 +142,16 @@
           </tr>
           <tr>
             <td>
-              
+              <img alt="Kevin Lipscomb" src="image/lipscomb-kevin.jpg" />
             </td>
             <td>
-              
+              Kevin Lipscomb
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Fleet Renewal Plan Administrator<br />
+              Finance Coordinator -- <i><a href='mailto:finances@kvrs.org'>finances@kvrs.org</a></i><br />
+              Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
+              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
             </td>
           </tr>
         </table>
@@ -165,21 +169,6 @@
             <td>
               <strong>Mail Clerk</strong><br />
               Denny Stewart
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img alt="Kevin Lipscomb" src="image/lipscomb-kevin.jpg" />
-            </td>
-            <td>
-              <strong>
-                Fleet Renewal Plan Administrator<br />
-                Finance Coordinator -- <i><a href='mailto:finances@kvrs.org'>finances@kvrs.org</a></i><br />
-                Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
-                Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
-              </strong>
-              <br />
-              Kevin Lipscomb
             </td>
           </tr>
         </table>
