@@ -54,6 +54,9 @@
                       Our Life Member, past vice president, and long-time capital grant coordinator, Paramedic Jim Brewer, has received this year's Hampton Roads Volunteer Achievement Award in the Individual Adult category!&nbsp;
                       This award recognizes the region's most outstanding volunteers based on their length of service, initiative and impact on the community.&nbsp; Among many other things, Jim's impact includes winning grants for
                       the squad that have allowed the squad to deploy about $1,000,000 worth of apparatus and gear over time!
+                      <blockquote>
+                        <img src="image/jim-brewer-getting-vhr-award-1.png" alt="Jim Brewer getting award"/>
+                      </blockquote>
                     </dd>
                     <p></p>
                     <dt>2017-03-03</dt>
