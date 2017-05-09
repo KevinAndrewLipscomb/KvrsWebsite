@@ -229,10 +229,11 @@ t manner, an ambulance that reproduces, to the extent possible, what KVRS
 
 \begin_layout Standard
 Be mindful that items provided as standard equipment on KVRS's Wheeled Coach
- ambulances purchased between 2008 and 2012 may be assumed in this document
+ ambulances purchased between 2008 and 2017 may be assumed in this document
  to be provided as standard equipment from other vendors.
- For instance, power door locks and windows in the cab are not enumerated
- as requirement items because they are now assumed to be standard.
+ For instance, bucket seats in the cab and intermittent windshield wipers
+ are not enumerated as requirement items because they are now assumed to
+ be standard.
 \end_layout
 
 \begin_layout Section
@@ -538,7 +539,7 @@ Safety
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="22" columns="4">
+<lyxtabular version="3" rows="24" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1395,7 +1396,7 @@ SHOULD
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1404,7 +1405,7 @@ SHOULD
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1413,7 +1414,7 @@ Do not provide vanity wheel covers.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1425,11 +1426,88 @@ Assures that actual lug nuts will be visible at all times.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.1.22
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Provide power windows and door locks for the cab.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Makes it faster and easier to control cab door locks from multiple positions,
+ and makes it faster and easier to control cab windows from driver's position.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.1.23
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Provide a tilt (and telescopic, if available) steering wheel.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Allows finer control of driving position.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+SHOULD
 \end_layout
 
 \end_inset
@@ -2812,8 +2890,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install one extra 12V automotive battery, wired in parallel, in payload
- module battery compartment.
+Install one extra 12V automotive battery in payload module battery compartment,
+ wired in parallel but isolated, for use when the vehicle is not running
+ without affecting ability to start the vehicle.
 \end_layout
 
 \end_inset
@@ -2822,7 +2901,7 @@ Install one extra 12V automotive battery, wired in parallel, in payload
 \begin_inset Text
 
 \begin_layout Plain Layout
-Reduces electrical failures.
+Reduces electrical and starting failures.
 \end_layout
 
 \end_inset
