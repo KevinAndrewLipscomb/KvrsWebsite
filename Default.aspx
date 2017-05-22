@@ -10,12 +10,6 @@
     <script type="text/javascript" src="js/gradient.js"></script>
     <link rel="StyleSheet" href="css/standard.css" type="text/css" />
     <!--[if lt IE 7]> <style type="text/css">@import "css/standard-overrides-for-ie6.css";</style><![endif]-->
-    <!-- Begin mobile site redirection code -->
-    <script type="text/javascript">
-      gMobileRedirectorTargetDefault = 'http://m.kvrs.org/'
-    </script>
-    <script type="text/javascript" src="http://admin.mobi757.mobi/content/js/js-redirector.1.0.0.js"></script>
-    <!-- End mobile site redirection code -->
    </head>
   <body bgcolor="white">
     <form runat="server">
