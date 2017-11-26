@@ -42,7 +42,6 @@ namespace Default
         var syndication_item = (e.Item.DataItem as SyndicationItem);
         (e.Item.FindControl("Literal_date") as Literal).Text = syndication_item.Title.Text;
         (e.Item.FindControl("Literal_content") as Literal).Text = (syndication_item.Content as TextSyndicationContent).Text;
-        (e.Item.FindControl("Literal_author") as Literal).Text = syndication_item.Authors[0].Name;
         }
       }
 

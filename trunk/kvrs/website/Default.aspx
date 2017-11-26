@@ -49,8 +49,7 @@
                       <dt><p></panel><asp:Literal ID="Literal_date" runat="server"></asp:Literal></p></dt>
                       <dd>
                         <p><asp:Literal ID="Literal_content" runat="server"></asp:Literal></p>
-                        <p><i>--&nbsp;<asp:Literal ID="Literal_author" runat="server"></asp:Literal></i></p>
-                        <hr />
+                        <hr noshade="noshade" size="1"/>
                       </dd>
                       <p></p>
                     </ItemTemplate>
