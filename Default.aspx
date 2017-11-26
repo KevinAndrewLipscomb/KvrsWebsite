@@ -10,7 +10,7 @@
     <script type="text/javascript" src="js/gradient.js"></script>
     <link rel="StyleSheet" href="css/standard.css" type="text/css" />
     <!--[if lt IE 7]> <style type="text/css">@import "css/standard-overrides-for-ie6.css";</style><![endif]-->
-   </head>
+  </head>
   <body bgcolor="white">
     <form runat="server">
       <uc1:UserControl_precontent id="UserControl_precontent" runat="server"></uc1:UserControl_precontent>
@@ -38,103 +38,23 @@
               for leadership development, and for community self-sufficiency
             </p>
             <p></p>
-            <h2>News</h2>
             <table cellpadding="5" cellspacing="0">
               <tr>
                 <td valign="top">
-                  <dl>
-                    <dt>2017-04-26</dt>
-                    <dd>
-                      Our Life Member, past vice president, and long-time capital grant coordinator, Paramedic Jim Brewer, has received this year's Hampton Roads Volunteer Achievement Award in the Individual Adult category!&nbsp;
-                      This award recognizes the region's most outstanding volunteers based on their length of service, initiative and impact on the community.&nbsp; Among many other things, Jim's impact includes winning grants for
-                      the squad that have allowed the squad to deploy about $1,000,000 worth of apparatus and gear over time!
-                      <blockquote>
-                        <img src="image/jim-brewer-getting-vhr-award-1.png" alt="Jim Brewer getting award"/>
-                      </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2017-03-03</dt>
-                    <dd>
-                      Our top 500 donors are receiving copies of the <i>Rescue Lines</i> newsletter in the coming week.  Our hope is to keep members of our community apprised of how our system is performing and improving.  If
-                      resources allowed, we'd be sending it to every mailbox in our entire service area, but 500 is what we have on hand at the moment.
-                    </dd>
-                    <p></p>
-                    <dt>2017-02-15</dt>
-                    <dd>
-                      We now have video laryngoscopes for all six of the ambulances in our fleet!&nbsp; This is important because sometimes we must insert a breathing tube into a patient's windpipe.  We must be able to see the tube
-                      go through the patient's vocal cords, and that's not always easy to do with our own eyes.  A video laryngoscope literally allows us to see around corners.  The part of the tool that opens the patient's airway
-                      has a fiber-optic eye on its tip that transmits an image to an external display.  Previously, this technology was only available to anesthesiologists in operating rooms.  It makes a critical and tricky
-                      procedure faster, safer, and easier.&nbsp; The four devices we just added to our inventory are extremely cost effective at about $2800 each.
-                      <blockquote>
-                        <img src="image/mcgrath.png" alt="McGrath"/><br />
-                        <small><small><i>McGrath EMS Video Laryngoscope</i></small></small>
-                      </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2017-02-01</dt>
-                    <dd>Thanks to emergency grants from the state and the city, we've been able to place orders for two brand new ambulances to replace those destroyed by Hurricane Matthew!</dd>
-                    <p></p>
-                    <dt>2016-12-31</dt>
-                    <dd>KVRS responded to more than 25 calls per day (transporting more than 17 patients per day) in 2016, average.</dd>
-                    <p></p>
-                    <dt>2016-10-08</dt>
-                    <dd>
-                      Hurricane Matthew delivered disastrous flooding across the city, and as we worked to help people suffering illnesses and injuries, two of our ambulances sustained flooding that was bad enough that the vehicles
-                      were declared total losses.&nbsp; This represents an overnight loss of one-third of our fleet.
-                    </dd>
-                    <p></p>
-                    <dt>2016-09-06</dt>
-                    <dd>
-                      Our Life Member and long-time President, Kevin Lipscomb, has been hired as a Division Chief at the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Our Vice President, Tom Kiernan, will
-                      be our Acting President until our Board Of Directors elects a replacement.
-                    </dd>
-                    <p></p>
-                    <dt>2016-08-22</dt>
-                    <dd>
-                      Dan Kiernan, our Executive Officer, has been hired as a full-time Paramedic by the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Congratulations Dan, and best wishes for your new
-                      career!&nbsp; Our Scheduling Officer, Christina Powell, will be our Acting Executive Officer until our Board Of Directors elects a replacement.
-                    </dd>
-                    <p></p>
-                    <dt>2016-07-22</dt>
-                    <dd>
-                      Our Life Member, Russell Blow, has been hired as a full-time Paramedic by the <a href="http://www.vbems.com">Virginia Beach EMS Department</a>.&nbsp; Congratulations Russ!
-                    </dd>
-                    <p></p>
-                    <dt>2016-07-09</dt>
-                    <dd>
-                      We've placed our brand new ambulance, "925" in service, thanks to donations from the community and a state Rescue Squad Assistance Fund grant.&nbsp; For the first time in our history, we have <i>six</i>
-                      ambulances in our fleet, and they all share the same basic custom-tailored design.&nbsp; This arrangement is critical to operational efficiency.
-                    </dd>
-                    <p></p>
-                    <dt>2016-01-01</dt>
-                    <dd>
-                      We won a $172,684 grant from the state Rescue Squad Assistance Fund <i>and</i> a $22,346 grant from the Virginia Beach Rescue Squad Foundation to complete projects to add a <b>6th</b> badly needed ambulance to
-                      our fleet, and to outfit <b>all</b> our ambulances with safer Stryker Power-LOAD systems.&nbsp; We are still looking for about $101,000 in matching funds to complete these projects!
-                      <blockquote>
-                        <img src="image/stryker-power-load.jpg" alt="Stryker Power-LOAD system"/><br />
-                        <small><small><i>Stryker Power-LOAD system</i></small></small>
-                      </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2015-11-05</dt>
-                    <dd>
-                      Our member, Paramedic Kate East (center, below), appeared with EMT Terry Connelly from our sister squad, Ocean park, <a href="http://wavy.com/2015/11/05/help-for-our-heroes/">on the Hampton Roads Show today</a> to talk about
-                      our system and how dependent we are on donations and recruits from the community.
-                      <blockquote>
-                        <img src="image/kate-east-on-hampton-roads-show-1.jpg" alt="Kate East on Hampton Roads Show" />
-                      </blockquote>
-                    </dd>
-                    <p></p>
-                    <dt>2012-08-19</dt>
-                    <dd>
-                      Today we made two documents publicly available in the hopes they may be helpful to other squads that are ordering new ambulances. The <em>KVRS Ambulance Detailed Technical Requirements</em> (
-                      <asp:HyperLink ID="HyperLink_amb_dtrs" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/ambulance-detailed-technical-requirements.pdf">PDF</asp:HyperLink> |
-                      <asp:HyperLink ID="HyperLink_amb_dtrs_html" runat="server" NavigateUrl="~/mark-1/policy/ambulance-detailed-technical-requirements/html/ambulance-detailed-technical-requirements.html">HTML</asp:HyperLink> ) and the 
-                      <asp:HyperLink ID="HyperLink_amb_graphics_pkg" runat="server" Font-Italic="True" NavigateUrl="~/mark-1/policy/KVRS Ambulance Graphics Package.pdf">KVRS Ambulance Graphics Package</asp:HyperLink> are full of lessons
-                      we've learned over four years of very detailed specification work.
-                    </dd>
-                    <p></p>
-                  </dl>
+                  <asp:Repeater ID="Repeater_blog" runat="server" OnItemDataBound="Repeater_blog_ItemDataBound">
+                    <HeaderTemplate>
+                        <h2>News</h2>
+                    </HeaderTemplate>
+                    <ItemTemplate>
+                      <dt><p></panel><asp:Literal ID="Literal_date" runat="server"></asp:Literal></p></dt>
+                      <dd>
+                        <p><asp:Literal ID="Literal_content" runat="server"></asp:Literal></p>
+                        <p><i>--&nbsp;<asp:Literal ID="Literal_author" runat="server"></asp:Literal></i></p>
+                        <hr />
+                      </dd>
+                      <p></p>
+                    </ItemTemplate>
+                  </asp:Repeater>
                 </td>
                 <td valign="top"><uc2:UserControl_recent_oscalert_samples ID="UserControl_recent_oscalert_samples1" runat="server" /></td>
               </tr>
