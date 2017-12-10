@@ -23,7 +23,7 @@
             </td>
             <td>
               <strong>Captain (950)</strong><br />
-              John Ormond<br />
+              Chris Powell<br />
               Email: <a href='mailto:captain@kvrs.org'>captain@kvrs.org</a>
             </td>
           </tr>
@@ -33,7 +33,7 @@
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
-              Chris Powell (Acting)<br />
+              Kristine Benadum<br />
               Email: <a href='mailto:xo@kvrs.org'>xo@kvrs.org</a>
             </td>
           </tr>
@@ -42,7 +42,7 @@
               <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
             <td>
               <strong>Scheduling Officer (952)</strong><br />
-              Chris Powell<br />
+              Crystal Price<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
             </td>
           </tr>

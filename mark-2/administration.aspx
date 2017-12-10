@@ -55,7 +55,7 @@
               &nbsp;</td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              Dayna Beck<br />
+              (vacant)<br />
               Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
             </td>
           </tr>
@@ -74,19 +74,6 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-              <img alt="Jan James" src="image/james-jan.jpg" />
-            </td>
-            <td>
-              Jan James</td>
-          </tr>
-          <tr>
-            <td>
-              <img alt="David Jimerson" src="image/jimerson-david.jpg" />
-            </td>
-            <td>David Jimerson</td>
-          </tr>
-          <tr>
-            <td>
             </td>
             <td>Dan Russell</td>
           </tr>
@@ -95,6 +82,17 @@
               
             </td>
             <td>Crystal Price</td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;</td>
+            <td>
+              &nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+              &nbsp;</td>
+            <td>&nbsp;</td>
           </tr>
         </table>
         <p>
@@ -123,7 +121,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Justin Urquhart" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3541-1-i.jpg" />
+              <img alt="Justin Urquhart" src="image/urquhart-justin.jpg" />
             </td>
             <td>
               Justin Urquhart</td>
