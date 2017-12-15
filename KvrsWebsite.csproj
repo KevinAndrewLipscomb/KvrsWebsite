@@ -327,6 +327,7 @@
     <Content Include="mark-2\image\achesinski-amber.jpg" />
     <Content Include="mark-2\image\achesinski-april.jpg" />
     <Content Include="mark-2\image\achesinski-jeff.jpg" />
+    <Content Include="mark-2\image\benadum-kristine.png" />
     <Content Include="mark-2\image\blank-trevor.jpg" />
     <Content Include="mark-2\image\james-jan.jpg" />
     <Content Include="mark-2\image\jimerson-david.jpg" />
@@ -335,6 +336,8 @@
     <Content Include="mark-2\image\oliver-nick.JPG" />
     <Content Include="mark-2\image\ormond-john.JPG" />
     <Content Include="mark-2\image\paulsen-judy.JPG" />
+    <Content Include="mark-2\image\rainey-zac.png" />
+    <Content Include="mark-2\image\russell-dan.png" />
     <Content Include="mark-2\image\urquhart-justin.jpg" />
     <Content Include="mark-2\lvr_exemption.aspx" />
     <Content Include="mark-2\mycommittee.aspx" />
