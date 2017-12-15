@@ -19,7 +19,7 @@
         <table border='1' cellspacing='0' cellpadding='10'>
           <tr>
             <td>
-              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" />
+              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
             </td>
             <td>
               <strong>Captain (950)</strong><br />
@@ -29,7 +29,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
+              <img alt="Kristine Benadum" src="image/benadum-kristine.png" />
             </td>
             <td>
               <strong>Executive Officer (951)</strong><br />
@@ -39,8 +39,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="Chris Wiemer-Rohn" src="http://kalipso.phpwebhosting.com/photolib/div/2014-11--kvrs-banquet/KAL_3687-b-i.jpg" />
-            <td>
+              &nbsp;<td>
               <strong>Scheduling Officer (952)</strong><br />
               Crystal Price<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
@@ -58,10 +57,10 @@
           <tr>
             <td>
               
-            </td>
+              <img alt="Zac Rainey" src="image/rainey-zac.png" /></td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
-              Jonathan Shafer<br />
+              Zac Rainey<br />
               Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
@@ -70,7 +69,7 @@
             </td>
             <td>
               <strong>Equipment Sergeant</strong><br />
-              (vacant)<br />
+              David Johnson<br />
               Email: <a href='mailto:equipment@kvrs.org'>equipment@kvrs.org</a>
             </td>
           </tr>
@@ -79,7 +78,7 @@
               &nbsp;</td>
             <td>
               <strong>Training Sergeant</strong><br />
-              Jerome Kanada<br />
+              Pat Boyd<br />
               Email: <a href='mailto:training@kvrs.org'>training@kvrs.org</a>
             </td>
           </tr>

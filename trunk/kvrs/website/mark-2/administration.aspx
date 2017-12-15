@@ -74,7 +74,7 @@
         <table border='1' cellpadding='10' cellspacing='0'>
           <tr>
             <td>
-            </td>
+              <img alt="Dan Russell" src="image/russell-dan.png" /></td>
             <td>Dan Russell</td>
           </tr>
           <tr>
@@ -85,14 +85,14 @@
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
+              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" /></td>
             <td>
-              &nbsp;</td>
+              John Ormond</td>
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
-            <td>&nbsp;</td>
+              <img alt="April Achesinski" src="image/achesinski-april.jpg" /></td>
+            <td>April Achesinski</td>
           </tr>
         </table>
         <p>
