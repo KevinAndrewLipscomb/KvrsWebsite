@@ -51,12 +51,17 @@
             </td>
           </tr>
           <tr>
-            <td>
-              &nbsp;</td>
+            <td><img alt="Kevin Lipscomb" src="image/lipscomb-kevin.jpg" /></td>
             <td>
               <strong>Treasurer</strong> -- <i><a href="../mark-1/role/treasurer/index.html">official page</a></i><br />
-              (vacant)<br />
-              Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a>
+              Kevin Lipscomb<br />
+              Email: <a href='mailto:treasurer@kvrs.org'>treasurer@kvrs.org</a><br />
+              <br />
+              <em>Collateral responsibilities:</em><br />
+              Fleet Renewal Plan Administrator<br />
+              Finance Coordinator -- <i><a href='mailto:finances@kvrs.org'>finances@kvrs.org</a></i><br />
+              Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
+              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
             </td>
           </tr>
         </table>
@@ -112,7 +117,7 @@
               <img alt="Diane Ball" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3557-1-i.jpg" />
             </td>
             <td>
-              Diane Ball
+              Diane Ball<br />
               <br />
               <em>Collateral responsibilities:</em><br />
               Membership Coordinator -- <i><a href="../mark-1/membership_reqs_and_apps.html">official page</a></i><br />
@@ -131,7 +136,7 @@
               <img alt="Jim Brewer" src="http://kalipso.phpwebhosting.com/photolib/div/2010-02/KAL_1362-i.jpg" />
             </td>
             <td>
-              Jim Brewer
+              Jim Brewer<br />
               <br />
               <em>Collateral responsibilities:</em><br />
               Grant Request Coordinator<br />
@@ -139,18 +144,8 @@
             </td>
           </tr>
           <tr>
-            <td>
-              <img alt="Kevin Lipscomb" src="image/lipscomb-kevin.jpg" />
-            </td>
-            <td>
-              Kevin Lipscomb
-              <br />
-              <em>Collateral responsibilities:</em><br />
-              Fleet Renewal Plan Administrator<br />
-              Finance Coordinator -- <i><a href='mailto:finances@kvrs.org'>finances@kvrs.org</a></i><br />
-              Fund Drive Coordinator -- <i><a href='mailto:funddrive@kvrs.org'>funddrive@kvrs.org</a></i><br />
-              Info Tech Coordinator -- <i><a href="../mark-1/role/infotech/index.html">official page</a></i>
-            </td>
+            <td>&nbsp;</td>
+            <td>Charles &quot;Pat&quot; Boyd</td>
           </tr>
         </table>
         <p>
