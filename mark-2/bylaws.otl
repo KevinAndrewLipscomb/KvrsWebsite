@@ -53,7 +53,7 @@
 		<item id="464382678" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:11" pos-hint="2147483649" modified="#1009C2">
 			<text>NAME: The name of the organization is specified in the Articles of Incorporation. </text>
 		</item>
-		<item id="464382679" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:11" pos-hint="2147483649" modified="#1009C2">
+		<item id="464382679" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:11" pos-hint="2147483649" modified="#1009C2" collapsed="1">
 			<text>OBJECT: The object of this Rescue Squad is to provide the community with a volunteer service dedicated to the saving of life, administering first aid, and teaching methods of safety within the community. </text>
 			<items>
 				<item id="464382680" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="11 Sep 2012 15:12" pos-hint="2147483649" modified="#100BC2">
@@ -64,9 +64,9 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382768" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="05 Jun 2014 13:10" pos-hint="2147483649" modified="#300342">
+		<item id="464382768" type="simple" priority="1" create-date="11 Sep 2012 15:12" last-modified="09 Jan 2018 16:03" pos-hint="2147483649" modified="#300342">
 			<text>MEMBERSHIP</text>
-			<note>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2feb2010, 3jun2013, 2Jun2014</note>
+			<note>Amended: 12Jul93, 1Nov93, 10Jan94, 4Apr94, 2May94, 1May95, 6Jan97, 4Aug97, 7May01, 9Jul01, 9Jul01, 4Apr2005, 2Nov2005, 1May2006, 5Feb2007, 9Oct2007, 4May2009, 2feb2010, 3jun2013, 2Jun2014, 8Jan2018</note>
 			<items>
 				<item id="464382682" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:21" pos-hint="2147483649" modified="#100BC2">
 					<text>CLASSIFICATION OF MEMBERS: Each member of the corporation shall be classified under exactly one of the following categories: Apprentice, ALS Associate, Full, Active Life, Inactive Life, Administrative, Lifetime Administrative, Honorary, Member-in-Memoriam, or Medical Doctor. </text>
@@ -164,8 +164,8 @@
 								<item id="464383188" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#80135FC2">
 									<text>Full and Active Life members who are under General Supervision as Patient Care Providers (as defined by the Virginia Beach Department of EMS) shall have the power to vote.</text>
 								</item>
-								<item id="464383195" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="04 May 2017 15:25" pos-hint="2147483649" modified="#300BC2">
-									<note>At each October regular board meeting, the President shall submit a list that shall include the current Administrative Members who have been on the squad&apos;s roster for at least six months, and the current Lifetime Administrative Members. The board shall vote, by slate or by line item, to sponsor the listed Administrative Members and Lifetime Administrative Members. Sponsored Administrative Members and Lifetime Administrative Members shall subsequently have the power to vote in the annual elections. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Any Lifetime Administrative Member on the list who fails to receive sponsorship shall lose the power to vote, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year&apos;s sponsorships shall be continued until such time as the board revises or replaces them. </note>
+								<item id="464383195" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="09 Jan 2018 16:05" pos-hint="2147483649" modified="#300BC2">
+									<note>At each October regular board meeting, the President shall submit a list that shall include the current Administrative Members who have been on the squad&apos;s roster for at least six months, and the current Lifetime Administrative Members. Those on the list who hold elected offices shall automatically be considered sponsored. The board shall vote, by slate or by line item, to sponsor the remaining listed Administrative Members and Lifetime Administrative Members. Sponsored Administrative Members and Lifetime Administrative Members shall subsequently have the power to vote in the annual elections. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Any Lifetime Administrative Member on the list who fails to receive sponsorship shall lose the power to vote, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year&apos;s sponsorships shall be continued until such time as the board revises or replaces them. </note>
 								</item>
 							</items>
 						</item>
@@ -319,11 +319,11 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382707" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:09" pos-hint="2147483649" modified="#3009C2">
+		<item id="464382707" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="09 Jan 2018 16:03" pos-hint="2147483649" modified="#3009C2" collapsed="1">
 			<text>OFFICERS</text>
-			<note>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009, 10Sep2012, 2Jun2014</note>
+			<note>Amended: 4Apr94, 1Apr96, 5Aug96, 4Nov96, 1Feb99, 4Apr2005, 1May2006, 4May2009, 5Oct2009, 10Sep2012, 2Jun2014, 8Jan2018</note>
 			<items>
-				<item id="464382709" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2">
+				<item id="464382709" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2" collapsed="1">
 					<text>CLASSIFICATIONS </text>
 					<items>
 						<item id="464382710" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2">
@@ -544,7 +544,7 @@
 						</item>
 					</items>
 				</item>
-				<item id="464382728" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2">
+				<item id="464382728" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2" collapsed="1">
 					<text>QUALIFICATIONS GENERALLY</text>
 					<items>
 						<item id="464384602" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="05 Jun 2014 12:29" pos-hint="2147483649" modified="#100342">
@@ -556,15 +556,15 @@
 						<item id="464384614" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="05 Jun 2014 12:30" pos-hint="2147483649" modified="#101342">
 							<text>Wherever these bylaws describe administrative offices that are to be filled by presidential appointment, only Full Members, Active Life Members, Inactive Life Members, Administrative Members and Lifetime Administrative Members shall be eligible for appointment.</text>
 						</item>
-						<item id="464384627" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
-							<text>Any elected officer of the squad who is unable to fulfill the duties of his/her office for a period of more than forty-five (45) consecutive days, as determined by a two-thirds supermajority of the board, shall be removed from that office.</text>
+						<item id="464384627" type="simple" priority="1" create-date="11 Sep 2012 15:43" last-modified="09 Jan 2018 15:58" pos-hint="2147483649" modified="#80135FC2">
+							<text>Any elected officer of the squad who is unable to fulfill the duties of his/her office for a period of more than forty-five (45) consecutive days, as determined by a two-thirds supermajority of the board, may be removed from that office.  Should the minutes show that any board member has been absent from three consecutive or four non-consecutive board meetings in the past twelve months, the quorum calculation shall not include that board member, and that board member may be removed from office and/or the board by a two-thirds supermajority vote of the directors.</text>
 						</item>
 						<item id="464382729" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#100BC2">
 							<text>No member of the Corporation shall hold more than one of the following offices simultaneously: President, Vice President, Secretary, Treasurer, Captain, Executive Officer, Operations Officer, Logistics Officer. No member shall hold more than one position on the Board. </text>
 						</item>
 					</items>
 				</item>
-				<item id="464382730" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#100BC2">
+				<item id="464382730" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#100BC2" collapsed="1">
 					<text>NOMINATION, ELECTION, AND INSTALLATION</text>
 					<items>
 						<item id="464384672" type="simple" priority="1" create-date="11 Sep 2012 15:44" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
@@ -590,8 +590,8 @@
 						<item id="464384716" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
 							<text>In the event of the resignation or relief for cause, an officer shall deliver to his or her successor all property of the Kempsville Volunteer Rescue Squad.</text>
 						</item>
-						<item id="464384722" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
-							<text>In the event of the departure of any elected officer from office, the elected officer senior to (or if no such elected senior officer exists then the elected officer junior to) the vacant position will assume the responsibilities of the vacant position during the vacancy, and the board shall elect a member to fill the vacancy at the board&apos;s next meeting. If the seniority of the offices is not made explicit in these bylaws, the order in which the offices are listed in these bylaws shall be the order of seniority.</text>
+						<item id="464384722" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="09 Jan 2018 16:00" pos-hint="2147483649" modified="#80135FC2">
+							<text>In the event of the departure of any elected officer or director from office, the elected officer senior to (or if no such elected senior officer exists then the elected officer junior to) the vacant position (or for a director, the Vice President) will assume the responsibilities of the vacant position during the vacancy, and the board shall elect a member to fill the vacancy at the board&apos;s next meeting. If the seniority of the offices is not made explicit in these bylaws, the order in which the offices are listed in these bylaws shall be the order of seniority.</text>
 						</item>
 						<item id="464384728" type="simple" priority="1" create-date="11 Sep 2012 15:45" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#80135FC2">
 							<text>Business meetings shall be called to order by the President, or failing that the Vice President, or failing that the Secretary, or failing that the most senior member (by length of corporate membership) of the Board Of Directors present, or failing that the most senior member (by length of corporate membership) of the Corporation present.</text>
@@ -603,7 +603,7 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382733" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:11" pos-hint="2147483649" modified="#3009C2">
+		<item id="464382733" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:11" pos-hint="2147483649" modified="#3009C2" collapsed="1">
 			<text>COORDINATORS AND COMMITTEES</text>
 			<note>Amended: 12Jul99, 4Apr2005, 1May2006, 4May2009, 2feb2010, 2Jun2014</note>
 			<items>
@@ -726,7 +726,7 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382746" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:10" pos-hint="2147483649" modified="#3009C2">
+		<item id="464382746" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:10" pos-hint="2147483649" modified="#3009C2" collapsed="1">
 			<text>MEETINGS</text>
 			<note>Amended: 10Jan94, 1Apr96, 5Aug96, 4Aug97, 1May2006, 4May2009, 5oct2009, 2Jun2014</note>
 			<items>
@@ -840,7 +840,7 @@
 		<item id="464382752" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#1009C2">
 			<text>ANNUAL BUDGET. A budget shall be presented by the senior operational officer of the Rescue Squad and the President. The budget year is to run from July 1 through June 30. The budget shall contain the projected expenditures of the coming year. All expenditures will be made as outlined in these bylaws. Should no budget be approved for a fiscal year by the beginning of said year, the prior year&apos;s budget shall be repeated until such time as the board revises it or replaces it. </text>
 		</item>
-		<item id="464382753" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#1009C2">
+		<item id="464382753" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#1009C2" collapsed="1">
 			<text>DISPOSITION OF FUNDS</text>
 			<items>
 				<item id="464382755" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:57" pos-hint="2147483649" modified="#100BC2">
@@ -854,7 +854,7 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382756" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:12" pos-hint="2147483649" modified="#80335FC2">
+		<item id="464382756" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:12" pos-hint="2147483649" modified="#80335FC2" collapsed="1">
 			<text>LOGOS AND UNIFORMS</text>
 			<note>Amended: 2Jun2014</note>
 			<items>
@@ -889,7 +889,7 @@
 				</item>
 			</items>
 		</item>
-		<item id="464382764" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:12" pos-hint="2147483649" modified="#3009C2">
+		<item id="464382764" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 13:12" pos-hint="2147483649" modified="#3009C2" collapsed="1">
 			<text>AMENDMENTS TO THE BYLAWS</text>
 			<note>Amended: 2Jun2014</note>
 			<items>
