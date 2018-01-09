@@ -173,8 +173,7 @@
                     P.O. Box 62345<br />
                     Virginia Beach, VA 23466<br />
                     <strong>Emergencies</strong>: 911<br />
-                    <strong>Main</strong>: <a runat="server" href="~/mark-1/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a><br />
-                    <strong>Fax</strong>: 877-471-6183
+                    <strong>Main</strong>: <a runat="server" href="~/mark-1/340-KVRS/Default.htm" rel="nofollow">757-340-KVRS</a>
                   </small>
                 </td>
               </tr>
