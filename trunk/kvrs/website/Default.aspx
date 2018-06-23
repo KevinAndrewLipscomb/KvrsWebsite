@@ -61,29 +61,11 @@
           </td>
           <td valign='top' width='25%'>
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
-            <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details & more</a></center>
-            <div id="Div_scanner_feed"><!-- iframe width="325px" height="245px" src="http://api.broadcastify.com/embed/player/?key=94705665&feedId=14744&stats=1">Your browser does not support iFrames.</iframe --></div>
-            <script type="text/javascript">
-              //doesn't block the load event
-              function createIframe()
-                {
-                var i = document.createElement("iframe");
-                i.src = "http://api.broadcastify.com/embed/player/?key=94705665&feedId=14744&stats=1";
-                i.scrolling = "auto";
-                i.frameborder = "0";
-                i.width = "325px";
-                i.height = "245px";
-                document.getElementById("Div_scanner_feed").appendChild(i);
-                };
-
-              // Check for browser support of event handling capability
-              if (window.addEventListener)
-                window.addEventListener("load", createIframe, false);
-              else if (window.attachEvent)
-                window.attachEvent("onload", createIframe);
-              else window.onload = createIframe;
-
-            </script>
+            <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details</a></center>
+            <audio controls>
+              <source src="http://listen.broadcastify.com:80?t=C1C708FBF8C5F642B76F2592363EA516FEDA91B9936297A26670794224E6DDF2D63776A52E56926901C8176B8655B5FF9531F97174B7D4BDD6EE4BDE9B96393C" type="audio/mp3">
+              Sorry, your bowser does not support the audio control.
+            </audio>
             <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>
