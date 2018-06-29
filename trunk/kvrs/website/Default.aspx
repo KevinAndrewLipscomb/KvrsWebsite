@@ -63,8 +63,7 @@
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
             <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details</a></center>
             <center>
-              <audio controls>
-                <source src="http://listen.broadcastify.com:80?t=C1C708FBF8C5F642B76F2592363EA516FEDA91B9936297A26670794224E6DDF2D63776A52E56926901C8176B8655B5FF9531F97174B7D4BDD6EE4BDE9B96393C" type="audio/mp3">
+              <audio controls src="http://listen.broadcastify.com/?t=8F266A9EACFC3B9DCA9135673B18C80B466B8184E421532086B31431889D36B3906463A2AFC4AE4DA4CACA80456A85D3FC18F433F4C740C19BF66887CB9E22AA" preload="none">
                 Sorry, your bowser does not support the audio control.
               </audio>
             </center>
