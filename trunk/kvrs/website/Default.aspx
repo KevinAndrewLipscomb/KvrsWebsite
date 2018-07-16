@@ -63,7 +63,8 @@
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
             <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details</a></center>
             <center>
-              <audio controls src="http://audio10.broadcastify.com/m9hygrp4cfnvb6z.mp3?nc=72789141" preload="none">
+              <audio controls src="http://relay.broadcastify.com/g97dtv21r4kxqpc.mp3" preload="none">
+                <!-- The src URL is derived from inspecting the contents of the iframe provided according to the instructions in the Technicals tab of the feed's Owner Management Page. -->
                 Sorry, your bowser does not support the audio control.
               </audio>
             </center>
