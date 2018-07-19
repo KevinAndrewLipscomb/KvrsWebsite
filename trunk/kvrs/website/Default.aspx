@@ -62,12 +62,7 @@
           <td valign='top' width='25%'>
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
             <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details</a></center>
-            <center>
-              <audio controls src="http://relay.broadcastify.com/g97dtv21r4kxqpc.mp3" preload="none">
-                <!-- The src URL is derived from inspecting the contents of the iframe provided according to the instructions in the Technicals tab of the feed's Owner Management Page. -->
-                Sorry, your bowser does not support the audio control.
-              </audio>
-            </center>
+            <center><audio id="Audio_control" runat="server" controls preload="none">Sorry, your bowser does not support the audio control.</audio></center>
             <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>
