@@ -31,15 +31,6 @@ namespace Default {
         protected global::System.Web.UI.WebControls.Repeater Repeater_blog;
         
         /// <summary>
-        /// UserControl_recent_oscalert_samples1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::UserControl_recent_oscalert_samples.TWebUserControl_recent_oscalert_samples UserControl_recent_oscalert_samples1;
-        
-        /// <summary>
         /// Audio_control control.
         /// </summary>
         /// <remarks>

@@ -84,7 +84,7 @@
           </tr>
           <tr>
             <td>
-              
+
             </td>
             <td>Crystal Price</td>
           </tr>
@@ -96,8 +96,9 @@
           </tr>
           <tr>
             <td>
-              <img alt="April Achesinski" src="image/achesinski-april.jpg" /></td>
-            <td>April Achesinski</td>
+
+            </td>
+            <td>Kathy Donovan</td>
           </tr>
         </table>
         <p>
