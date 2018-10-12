@@ -57,25 +57,25 @@
           <tr>
             <td>
               
-              <img alt="Zac Rainey" src="image/rainey-zac.png" /></td>
+              &nbsp;</td>
             <td>
               <strong>Supply Sergeant (954)</strong><br />
-              Zac Rainey<br />
+              Thomas Trumbauer<br />
               Email: <a href='mailto:supplies@kvrs.org'>supplies@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-            </td>
+              <img alt="John Ormond" src="image/ormond-john.JPG" /></td>
             <td>
               <strong>Equipment Sergeant</strong><br />
-              David Johnson<br />
+              John Ormond<br />
               Email: <a href='mailto:equipment@kvrs.org'>equipment@kvrs.org</a>
             </td>
           </tr>
           <tr>
             <td>
-              &nbsp;</td>
+              <img alt="Pat Boyd" src="image/boyd-pat.png" /></td>
             <td>
               <strong>Training Sergeant</strong><br />
               Pat Boyd<br />
