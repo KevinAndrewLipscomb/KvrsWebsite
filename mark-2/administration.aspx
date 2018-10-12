@@ -43,7 +43,7 @@
           <tr>
             <td>
               
-            </td>
+              <img alt="Diana Buhrmann" src="image/buhrmann-diana.png" /></td>
             <td>
               <strong>Secretary</strong><br />
               Diana Buhrmann<br />
@@ -97,7 +97,7 @@
           <tr>
             <td>
 
-            </td>
+              <img alt="Kathy Donovan" src="image/donovan-kathy.png" /></td>
             <td>Kathy Donovan</td>
           </tr>
         </table>
@@ -145,7 +145,8 @@
             </td>
           </tr>
           <tr>
-            <td>&nbsp;</td>
+            <td>
+              <img alt="Pat Boyd" src="image/boyd-pat.png" /></td>
             <td>Charles &quot;Pat&quot; Boyd</td>
           </tr>
         </table>
