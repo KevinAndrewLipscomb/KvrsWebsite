@@ -39,7 +39,7 @@
           </tr>
           <tr>
             <td>
-              &nbsp;<td>
+              <img alt="Crystal Price" src="image/price-crystal.png" /><td>
               <strong>Scheduling Officer (952)</strong><br />
               Crystal Price<br />
               Email: <a href='mailto:scheduler@kvrs.org'>scheduler@kvrs.org</a>
@@ -66,7 +66,7 @@
           </tr>
           <tr>
             <td>
-              <img alt="John Ormond" src="image/ormond-john.JPG" /></td>
+              <img alt="John Ormond" src="http://kalipso.phpwebhosting.com/photolib/div/2014-07/KAL_3545-1-i.jpg" /></td>
             <td>
               <strong>Equipment Sergeant</strong><br />
               John Ormond<br />
