@@ -83,9 +83,7 @@
             <td>Dan Russell</td>
           </tr>
           <tr>
-            <td>
-
-            </td>
+            <td><img alt="Crystal Price" src="image/price-crystal.png" /></td>
             <td>Crystal Price</td>
           </tr>
           <tr>
