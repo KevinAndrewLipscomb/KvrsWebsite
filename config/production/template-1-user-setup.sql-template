@@ -1,4 +1,4 @@
-create user if not exists 'ki-kvrswebsite'@'::1' identified by '~ki-kvrswebsite-password~';
+create user if not exists 'ki-kvrswebsite'@'127.0.0.1' identified by '~ki-kvrswebsite-password~';
 grant select
  , insert
  , update
@@ -7,7 +7,7 @@ grant select
  , create routine
  , alter routine
   on kvrswebsitedb.*
-  to 'ki-kvrswebsite'@'::1'
+  to 'ki-kvrswebsite'@'127.0.0.1'
 ;
 --
 -- Must grant PROCESS priv to primary user to include SHOW ENGINE INNODB
@@ -16,4 +16,4 @@ grant select
 ;
 grant process
   on *.*
-  to 'ki-kvrswebsite'@'::1'
+  to 'ki-kvrswebsite'@'127.0.0.1'
