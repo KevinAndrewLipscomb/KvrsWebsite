@@ -7,7 +7,7 @@
 			<category name="Personal" id="2" modified="1"/>
 		</categories>
 		<item-defaults type="simple" category="parent" priority="1" start-date="none" due-date="none" keywords="none" auto-todo-link="0"/>
-		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="36" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464383195" cursor="0">
+		<display show-completion-status="0" show-priority="0" show-selection-gutter="1" show-numbers="1" note-pane-percent="40" numbering="I.A.1.a.i.A.1.1." full-number-to="1" current-item="464383188" cursor="278">
 			<views current="Default">
 				<view name="Default">
 					<columns>
@@ -161,8 +161,8 @@
 						<item id="464382692" type="simple" priority="1" create-date="11 Sep 2012 15:11" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#100BC2">
 							<text>Voting rights</text>
 							<items>
-								<item id="464383188" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="05 Jun 2014 12:23" pos-hint="2147483649" modified="#80135FC2">
-									<text>Full and Active Life members who are under General Supervision as Patient Care Providers (as defined by the Virginia Beach Department of EMS) shall have the power to vote.</text>
+								<item id="464383188" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="06 Aug 2019 19:31" pos-hint="2147483649" modified="#80135FC2">
+									<text>Full and Active Life members who are under General Supervision as Patient Care Providers (as defined by the Virginia Beach Department of EMS), as well as Associate Members who have accepted elected or appointed positions of off-duty responsibility, shall have the power to vote.</text>
 								</item>
 								<item id="464383195" type="simple" priority="1" create-date="11 Sep 2012 15:19" last-modified="09 Jan 2018 16:05" pos-hint="2147483649" modified="#300BC2">
 									<note>At each October regular board meeting, the President shall submit a list that shall include the current Administrative Members who have been on the squad&apos;s roster for at least six months, and the current Lifetime Administrative Members. Those on the list who hold elected offices shall automatically be considered sponsored. The board shall vote, by slate or by line item, to sponsor the remaining listed Administrative Members and Lifetime Administrative Members. Sponsored Administrative Members and Lifetime Administrative Members shall subsequently have the power to vote in the annual elections. Any Administrative Member on the list who fails to receive sponsorship shall be expelled, but shall be allowed to invoke the grievance procedure described in this Article. Any Lifetime Administrative Member on the list who fails to receive sponsorship shall lose the power to vote, but shall be allowed to invoke the grievance procedure described in this Article. Should no such sponsorship vote be taken in time for the annual elections, the prior year&apos;s sponsorships shall be continued until such time as the board revises or replaces them. </note>
