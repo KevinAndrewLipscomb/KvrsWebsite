@@ -37,7 +37,7 @@ namespace UserControl_recent_oscalert_samples
       public string sort_order;
       }
 
-    private p_type p;
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
 
     protected void Page_Load(object sender, System.EventArgs e)
       {
@@ -130,8 +130,6 @@ namespace UserControl_recent_oscalert_samples
       {
       p.biz_oscalert_logs.BindBaseDataList
         (
-        sort_order:p.sort_order,
-        be_sort_order_ascending:p.be_sort_order_ascending,
         target:DataGrid_control,
         impression_filter:p.impression_filter,
         recency_filter:p.recency_filter

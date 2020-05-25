@@ -13,8 +13,6 @@ namespace Class_db_oscalert_logs
 
     internal void BindBaseDataList
       (
-      string sort_order,
-      bool be_sort_order_ascending,
       object target,
       string impression_filter,
       string recency_filter
