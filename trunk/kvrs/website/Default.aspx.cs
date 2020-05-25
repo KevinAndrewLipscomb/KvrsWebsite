@@ -5,6 +5,7 @@ using System.ServiceModel.Syndication;
 using System.Web.UI.WebControls;
 using System.Xml;
 
+#pragma warning disable CA1716
 namespace Default
   {
   public partial class TWebForm_Default: ki_web_ui.page_class
@@ -15,7 +16,7 @@ namespace Default
       public TClass_ss_broadcastify ss_broadcastify;
       }
 
-    private p_type p;
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
 
         // / <summary>
         // / Required method for Designer support -- do not modify
@@ -31,7 +32,12 @@ namespace Default
             {
                 Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - Default";
                 //Response.Redirect("~/protected/overview.aspx");
-                Repeater_blog.DataSource = SyndicationFeed.Load(XmlReader.Create("https://kvrs9.blogspot.com/feeds/posts/default")).Items;
+                using var xml_reader = XmlReader.Create
+                  (
+                  inputUri:"https://kvrs9.blogspot.com/feeds/posts/default",
+                  settings:new XmlReaderSettings() {DtdProcessing = DtdProcessing.Prohibit}
+                  );
+                Repeater_blog.DataSource = SyndicationFeed.Load(xml_reader).Items;
                 Repeater_blog.DataBind();
                 //
                 Audio_control.Src = p.ss_broadcastify.AudioSrcUrl

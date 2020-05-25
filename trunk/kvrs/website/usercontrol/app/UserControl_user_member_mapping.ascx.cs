@@ -1,37 +1,28 @@
-using kix;
-using System;
-using System.Collections;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-
 using Class_biz_members;
 using Class_biz_user_member_map;
 using Class_biz_users;
+using kix;
+using System.Web.UI.WebControls;
 
 namespace UserControl_user_member_mapping
-{
-    public struct p_type
+  {
+  public partial class TWebUserControl_user_member_mapping: ki_web_ui.usercontrol_class
     {
-        public bool be_interactive;
-        public bool be_loaded;
-        public bool be_sort_order_ascending;
-        public TClass_biz_members biz_members;
-        public TClass_biz_user_member_map biz_user_member_map;
-        public TClass_biz_users biz_users;
-        public bool may_add_mappings;
-        public string sort_order;
-    } // end p_type
 
-    public partial class TWebUserControl_user_member_mapping: ki_web_ui.usercontrol_class
-    {
-        private p_type p;
-        protected System.Web.UI.WebControls.Button Button_add = null;
-        protected System.Web.UI.WebControls.DropDownList DropDownList_user = null;
-        protected System.Web.UI.WebControls.DropDownList DropDownList_member = null;
-        protected System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_user = null;
-        protected System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator_member = null;
+    private struct p_type
+      {
+      public bool be_interactive;
+      public bool be_loaded;
+      public bool be_sort_order_ascending;
+      public TClass_biz_members biz_members;
+      public TClass_biz_user_member_map biz_user_member_map;
+      public TClass_biz_users biz_users;
+      public bool may_add_mappings;
+      public string sort_order;
+      }
+
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
+
         private void InjectPersistentClientSideScript()
         {
             // EstablishClientSideFunction(k.client_side_function_enumeral_type.EL);
@@ -213,8 +204,8 @@ namespace UserControl_user_member_mapping
 }
 
 namespace UserControl_user_member_mapping.Units
-{
-    public class UserControl_user_member_mapping
+  {
+  public class UserControl_user_member_mapping
     {
       public const int CI_MEMBER_ID = 0;
       public const int CI_MEMBER_NAME = 1;

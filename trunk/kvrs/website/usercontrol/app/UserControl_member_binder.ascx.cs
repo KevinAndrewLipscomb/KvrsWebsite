@@ -1,29 +1,21 @@
 using kix;
-using System;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.HtmlControls;
-using System.Web.UI.WebControls;
-using System.Collections;
-
 using UserControl_about;
 using UserControl_config_binder;
 
 namespace UserControl_member_binder
-{
-    public struct p_type
+  {
+  public partial class TWebUserControl_member_binder: ki_web_ui.usercontrol_class
     {
-        public bool be_loaded;
-        public string content_id;
-        public uint tab_index;
-    } // end p_type
 
-    public class TWebUserControl_member_binder: ki_web_ui.usercontrol_class
-    {
-        private p_type p;
-        protected System.Web.UI.WebControls.PlaceHolder PlaceHolder_content = null;
-        protected AjaxControlToolkit.TabContainer TabContainer_control = null;
-        protected AjaxControlToolkit.TabPanel TabPanel_config = null;
+    private struct p_type
+      {
+      public bool be_loaded;
+      public string content_id;
+      public uint tab_index;
+      }
+
+    private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
+
         private void Page_Load(object sender, System.EventArgs e)
         {
             if (!p.be_loaded)
@@ -131,8 +123,8 @@ namespace UserControl_member_binder
 }
 
 namespace UserControl_member_binder.Units
-{
-    public class UserControl_member_binder
+  {
+  public class UserControl_member_binder
     {
         // ,UserControl_resources
         public const int TSSI_RESOURCES = 0;
