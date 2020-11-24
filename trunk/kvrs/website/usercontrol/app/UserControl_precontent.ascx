@@ -155,7 +155,7 @@
               <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td nowrap="nowrap"><small><a href="http://www.tidewaterems.org/regional-protocols/current-tidewater-ems-regional-protocols" rel="nofollow">Protocols</a></small></td>
+                <td nowrap="nowrap"><small><a href="http://www.tidewaterems.org/protocols" rel="nofollow">Protocols</a></small></td>
               </tr>
               <tr>
                 <td>&nbsp;</td>
