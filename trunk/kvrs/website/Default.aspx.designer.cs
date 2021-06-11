@@ -7,45 +7,56 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Default {
-    
-    
-    public partial class TWebForm_Default {
-        
-        /// <summary>
-        /// UserControl_precontent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
-        
-        /// <summary>
-        /// Repeater_blog control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Repeater Repeater_blog;
-        
-        /// <summary>
-        /// Audio_control control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAudio Audio_control;
-        
-        /// <summary>
-        /// UserControl_postcontent control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::UserControl_postcontent.TWebUserControl_postcontent UserControl_postcontent;
+namespace Default
+  {
+
+
+  public partial class TWebForm_Default
+    {
+
+    /// <summary>
+    /// UserControl_precontent control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::UserControl_precontent.TWebUserControl_precontent UserControl_precontent;
+
+    /// <summary>
+    /// Repeater_blog control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.WebControls.Repeater Repeater_blog;
+
+    /// <summary>
+    /// UserControl_recent_oscalert_samples_control control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::UserControl_recent_oscalert_samples.TWebUserControl_recent_oscalert_samples UserControl_recent_oscalert_samples_control;
+
+    /// <summary>
+    /// Audio_control control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::System.Web.UI.HtmlControls.HtmlAudio Audio_control;
+
+    /// <summary>
+    /// UserControl_postcontent control.
+    /// </summary>
+    /// <remarks>
+    /// Auto-generated field.
+    /// To modify move field declaration from designer file to code-behind file.
+    /// </remarks>
+    protected global::UserControl_postcontent.TWebUserControl_postcontent UserControl_postcontent;
     }
-}
+  }
