@@ -55,7 +55,7 @@
                     </ItemTemplate>
                   </asp:Repeater>
                 </td>
-                <td valign="top"><%--<uc2:UserControl_recent_oscalert_samples ID="UserControl_recent_oscalert_samples1" runat="server" />--%></td>
+                <td valign="top"><uc2:UserControl_recent_oscalert_samples ID="UserControl_recent_oscalert_samples_control" runat="server" /></td>
               </tr>
             </table>
           </td>
