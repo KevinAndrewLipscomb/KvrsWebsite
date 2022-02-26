@@ -15,9 +15,9 @@ namespace lvr_exemption
 
         protected void Page_Load(object sender, System.EventArgs e)
         {
+            Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - lvr_exemption";
             if (!IsPostBack)
             {
-                Title = Server.HtmlEncode(ConfigurationManager.AppSettings["application_name"]) + " - lvr_exemption";
                 //Response.Redirect("~/protected/overview.aspx");
             }
         }
