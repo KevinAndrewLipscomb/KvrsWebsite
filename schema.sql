@@ -1,4 +1,4 @@
--- $Id$
+-- $Id: schema.sql 4146 2012-06-16 21:45:12Z KevinAnLipscomb $
 
 SET FOREIGN_KEY_CHECKS=0;
 
