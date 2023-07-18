@@ -11,6 +11,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ki", "lib\ki\ki.csproj", "{A20C347B-5154-47B9-A275-36157BF73352}"
 EndProject
 Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "wp", "..\wp\wp.msbuildproj", "{29B36B34-1F6A-47A2-A0EA-A626BE5444C4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A20C347B-5154-47B9-A275-36157BF73352} = {A20C347B-5154-47B9-A275-36157BF73352}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
