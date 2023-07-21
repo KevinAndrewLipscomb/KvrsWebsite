@@ -12,4 +12,5 @@ bin/*.xml
 obj/
 packages/
 /lib/ki/
+/usercontrol/ki/
 /Web.config
