@@ -15,7 +15,7 @@
     <!-- -->
     <!-- The specified TargetFrameworkVersion must be installed on the ACTIVE production server. -->
     <!-- -->
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <!-- -->
     <FileUpgradeFlags>
     </FileUpgradeFlags>
