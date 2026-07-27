@@ -62,7 +62,6 @@
           <td valign='top' width='25%'>
             <center><h2><a href="https://frompaper2web.com/OscarTRACK/pub/field_situation.aspx" target="_blank">&raquo;&raquo;&nbsp;Active&nbsp;Case&nbsp;Board&nbsp;&laquo;&laquo;</a></h2></center>
             <center><strong>Scanner feed</strong> - <a href="https://www.broadcastify.com/listen/feed/14744" target="_blank">details</a></center>
-            <center><audio id="Audio_control" runat="server" controls preload="none">Sorry, your bowser does not support the audio control.</audio></center>
             <p></p>
             <h2>Our Wish List</h2>
             <h4>We rely on your donations!</h4>

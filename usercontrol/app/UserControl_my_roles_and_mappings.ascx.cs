@@ -14,7 +14,7 @@ using System.Collections;
 namespace UserControl_my_roles_and_mappings
   {
 
-  public partial class TWebUserControl_my_roles_and_mappings: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_my_roles_and_mappings: ki.web_ui.usercontrol_class
     {
 
     private struct p_type

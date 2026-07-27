@@ -3,7 +3,7 @@ using System.Configuration;
 
 namespace mycommittee
 {
-    public partial class TWebForm_mycommittee: ki_web_ui.page_class
+    public partial class TWebForm_mycommittee: ki.web_ui.page_class
     {
         // / <summary>
         // / Required method for Designer support -- do not modify

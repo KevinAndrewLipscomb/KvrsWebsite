@@ -8,7 +8,7 @@ using System.Xml;
 #pragma warning disable CA1716
 namespace Default
   {
-  public partial class TWebForm_Default: ki_web_ui.page_class
+  public partial class TWebForm_Default: ki.web_ui.page_class
     {
 
     private struct p_type
@@ -39,12 +39,6 @@ namespace Default
                   );
                 Repeater_blog.DataSource = SyndicationFeed.Load(xml_reader).Items;
                 Repeater_blog.DataBind();
-                //
-                Audio_control.Src = p.ss_broadcastify.AudioSrcUrl
-                  (
-                  feed_id:ConfigurationManager.AppSettings["broadcastify_feed_id"],
-                  domain_key:ConfigurationManager.AppSettings["broadcastify_domain_key"]
-                  );
             }
         }
 

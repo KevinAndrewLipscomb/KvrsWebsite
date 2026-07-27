@@ -10,10 +10,11 @@ using UserControl_role;
 using UserControl_role_member_mapping;
 using UserControl_role_notification_mapping;
 using UserControl_role_privilege_mapping;
+using KvrsWebsite.Security.Authorization;
 
 namespace UserControl_roles_and_matrices_binder
 {
-  public partial class TWebUserControl_roles_and_matrices_binder: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_roles_and_matrices_binder: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
@@ -30,7 +31,7 @@ namespace UserControl_roles_and_matrices_binder
             if (!p.be_loaded)
             {
                 TabContainer_control.ActiveTabIndex = (int)(p.tab_index);
-                if (k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"))
+                if (UserMember.BeOkTo("config-roles-and-matrices"))
                 {
                     TabPanel_roles.Enabled = true;
                 }

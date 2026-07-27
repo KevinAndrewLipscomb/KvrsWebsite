@@ -9,7 +9,7 @@ namespace UserControl_common_header_bar
     // / <summary>
     // / Summary description for WebUserControl1.
     // / </summary>
-    public partial class TWebUserControl_common_header_bar: ki_web_ui.usercontrol_class
+    public partial class TWebUserControl_common_header_bar: ki.web_ui.usercontrol_class
     {
         protected void Page_Load(object sender, System.EventArgs e)
         {

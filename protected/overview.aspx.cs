@@ -10,7 +10,7 @@ using UserControl_member_binder;
 
 namespace overview
   {
-  public partial class TWebForm_overview: ki_web_ui.page_class
+  public partial class TWebForm_overview: ki.web_ui.page_class
     {
     private struct p_type
       {

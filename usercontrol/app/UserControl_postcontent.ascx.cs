@@ -4,7 +4,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_postcontent
 {
-    public partial class TWebUserControl_postcontent: ki_web_ui.usercontrol_class
+    public partial class TWebUserControl_postcontent: ki.web_ui.usercontrol_class
     {
         protected void Page_Load(object sender, System.EventArgs e)
         {

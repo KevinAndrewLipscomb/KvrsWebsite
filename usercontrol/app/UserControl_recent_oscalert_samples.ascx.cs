@@ -14,7 +14,7 @@ using System.Text.RegularExpressions;
 
 namespace UserControl_recent_oscalert_samples
   {
-  public partial class TWebUserControl_recent_oscalert_samples: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_recent_oscalert_samples: ki.web_ui.usercontrol_class
     {
     private static class Static
       {

@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_establish_membership
 {
-  public partial class TWebUserControl_establish_membership: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_establish_membership: ki.web_ui.usercontrol_class
     {
 
     private struct p_type

@@ -7,7 +7,7 @@ using System.Web.UI;
 
 namespace login
 {
-  public partial class TWebForm_login: ki_web_ui.page_class
+  public partial class TWebForm_login: ki.web_ui.page_class
     {
 
     private struct p_type

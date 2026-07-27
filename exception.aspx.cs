@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 namespace exception
   {
 
-  public partial class TWebForm_exception: ki_web_ui.page_class
+  public partial class TWebForm_exception: ki.web_ui.page_class
     {
 
     private struct p_type
@@ -84,7 +84,6 @@ namespace exception
           p.notification_message = k.EscalatedException
             (
             the_exception:last_error,
-            user_identity_name:(User.Identity.Name.Length > 0 ? User.Identity.Name : "(EMPTY User.Identity.Name)") + " from " + Request.UserHostAddress + k.SPACE + "(" + k.DomainNameOfIpAddress(Request.UserHostAddress) + ")",
             session:Session,
             engine_innodb_status:(be_deadlock ? p.db__information_schema.EngineInnodbStatus() : k.EMPTY)
             );

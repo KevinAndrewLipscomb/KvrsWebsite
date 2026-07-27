@@ -4,7 +4,7 @@ using System.Configuration;
 namespace UserControl_app_level_announcement
   {
 
-  public partial class TWebUserControl_app_level_announcement: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_app_level_announcement: ki.web_ui.usercontrol_class
     {
 
     private struct p_type

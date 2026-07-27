@@ -7,7 +7,7 @@ using System.Web.UI;
 
 namespace new_user_registration
 {
-  public partial class TWebForm_new_user_registration: ki_web_ui.page_class
+  public partial class TWebForm_new_user_registration: ki.web_ui.page_class
     {
 
     private struct p_type
