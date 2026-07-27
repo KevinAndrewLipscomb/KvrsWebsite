@@ -1,10 +1,11 @@
 using kix;
+using KvrsWebsite.Security.Authorization;
 using UserControl_about;
 using UserControl_config_binder;
 
 namespace UserControl_member_binder
   {
-  public partial class TWebUserControl_member_binder: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_member_binder: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
@@ -20,7 +21,7 @@ namespace UserControl_member_binder
         {
             if (!p.be_loaded)
             {
-                if (k.Has((string[])(Session["privilege_array"]), "config-users") || k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"))
+                if (UserMember.BeOkTo("config-users") || UserMember.BeOkTo("config-roles-and-matrices"))
                 {
                     TabPanel_config.Enabled = true;
                 }

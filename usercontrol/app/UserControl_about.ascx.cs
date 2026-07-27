@@ -10,7 +10,7 @@ using System.Collections;
 
 namespace UserControl_about
 {
-  public partial class TWebUserControl_about: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_about: ki.web_ui.usercontrol_class
     {
 
     private struct p_type

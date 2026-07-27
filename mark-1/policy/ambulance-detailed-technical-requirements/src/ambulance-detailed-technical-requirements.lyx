@@ -1,16 +1,21 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
 \begin_document
 \begin_header
 \save_transient_properties true
 \origin unavailable
 \textclass article
+\begin_preamble
+% Added by lyx2lyx
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+\end_preamble
 \use_default_options false
-\maintain_unincluded_children false
+\maintain_unincluded_children no
 \language english
 \language_package default
-\inputencoding auto
-\fontencoding global
+\inputencoding auto-legacy
+\fontencoding auto
 \font_roman "default" "Tahoma"
 \font_sans "default" "Tahoma"
 \font_typewriter "default" "Andale Mono"
@@ -18,9 +23,13 @@
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
-\font_osf false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics default
 \default_output_format default
 \output_sync 0
@@ -59,6 +68,9 @@
 \suppress_date false
 \justification true
 \use_refstyle 0
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
 \index Index
 \shortcut idx
 \color #008000
@@ -72,17 +84,25 @@
 \footskip 0.5in
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation skip
-\defskip medskip
-\quotes_language english
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 1
 \paperpagestyle plain
+\tablestyle default
 \tracking_changes false
 \output_changes false
+\change_bars false
+\postpone_fragile_content false
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
 \end_header
 
 \begin_body
@@ -108,7 +128,13 @@ DETAILED TECHNICAL REQUIREMENTS
 \end_layout
 
 \begin_layout Date
-$Revision: 6509 $
+Revision code 
+\begin_inset Info
+type  "vcs"
+arg   "revision-abbrev"
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -129,10 +155,10 @@ thispagestyle{empty}
 status open
 
 \begin_layout Plain Layout
-To suppress the page number on the first page, the 
+To suppress the page number on the first page,
+ the 
 \backslash
-thispagestyle{empty} ERT must appear in a Standard environment after the
- Title and Date environments but before the end of the first page.
+thispagestyle{empty} ERT must appear in a Standard environment after the Title and Date environments but before the end of the first page.
 \end_layout
 
 \end_inset
@@ -154,9 +180,8 @@ Introduction
 \end_layout
 
 \begin_layout Standard
-In so far as the Kempsville Volunteer Rescue Squad (KVRS) owns or desires
- one or more ambulances, there exists a KVRS position derived from the KVRS
- bylaws called the Ambulance Procurement & Disposition Coordinator (hereafter,
+In so far as the Kempsville Volunteer Rescue Squad (KVRS) owns or desires one or more ambulances,
+ there exists a KVRS position derived from the KVRS bylaws called the Ambulance Procurement & Disposition Coordinator (hereafter,
  
 \begin_inset Quotes eld
 \end_inset
@@ -166,7 +191,10 @@ the Coordinator
 \end_inset
 
 ).
- Per the bylaws, The Coordinator is, among other things, required to:
+ Per the bylaws,
+ The Coordinator is,
+ among other things,
+ required to:
 \end_layout
 
 \begin_layout Quote
@@ -189,13 +217,16 @@ backgroundcolor "none"
 status open
 
 \begin_layout Plain Layout
-Develop Detailed Technical Requirements (DTRs) by compiling, at a minimum,
+Develop Detailed Technical Requirements (DTRs) by compiling,
+ at a minimum,
  the following:
 \end_layout
 
 \begin_layout Itemize
-Federal, state, and local requirements for such apparatus, as provided by
- the Captain
+Federal,
+ state,
+ and local requirements for such apparatus,
+ as provided by the Captain
 \end_layout
 
 \begin_layout Itemize
@@ -203,12 +234,12 @@ Budget requirements provided by the President
 \end_layout
 
 \begin_layout Itemize
-Official Vehicle Uniform requirements adopted by the membership in accordance
- with the Logos And Uniforms Article in these bylaws
+Official Vehicle Uniform requirements adopted by the membership in accordance with the Logos And Uniforms Article in these bylaws
 \end_layout
 
 \begin_layout Itemize
-Special configurations and options, to the extent permitted by the budget
+Special configurations and options,
+ to the extent permitted by the budget
 \end_layout
 
 \end_inset
@@ -217,23 +248,24 @@ Special configurations and options, to the extent permitted by the budget
 \end_layout
 
 \begin_layout Standard
-This document, along with the documents it references, helps to fulfill
- those requirements.
+This document,
+ along with the documents it references,
+ helps to fulfill those requirements.
 \end_layout
 
 \begin_layout Standard
-This document should be sufficiently detailed to specify, in a vendor-independen
-t manner, an ambulance that reproduces, to the extent possible, what KVRS
- has owned in the past, plus or minus any changes KVRS desires.
+This document should be sufficiently detailed to specify,
+ in a vendor-independent manner,
+ an ambulance that reproduces,
+ to the extent possible,
+ what KVRS has owned in the past,
+ plus or minus any changes KVRS desires.
 \end_layout
 
 \begin_layout Standard
-Be mindful that items provided as standard equipment on KVRS's Wheeled Coach
- ambulances purchased between 2008 and 2017 may be assumed in this document
- to be provided as standard equipment from other vendors.
- For instance, bucket seats in the cab and intermittent windshield wipers
- are not enumerated as requirement items because they are now assumed to
- be standard.
+Be mindful that items provided as standard equipment on KVRS's Wheeled Coach ambulances purchased between 2008 and 2017 may be assumed in this document to be provided as standard equipment from other vendors.
+ For instance,
+ bucket seats in the cab and intermittent windshield wipers are not enumerated as requirement items because they are now assumed to be standard.
 \end_layout
 
 \begin_layout Section
@@ -249,7 +281,10 @@ We value meeting all legal requirements.
 \end_layout
 
 \begin_layout Itemize
-We value keeping everyone safe, including crew members, patients, and others.
+We value keeping everyone safe,
+ including crew members,
+ patients,
+ and others.
 \end_layout
 
 \begin_layout Itemize
@@ -257,8 +292,7 @@ We value optimizing patient care and operations.
 \end_layout
 
 \begin_layout Itemize
-We value uniquely identifying ourselves and our units to incident commanders
- and to the public.
+We value uniquely identifying ourselves and our units to incident commanders and to the public.
 \end_layout
 
 \begin_layout Itemize
@@ -280,8 +314,10 @@ Government requirements
 \begin_layout Standard
 The following standards and regulations form a part of this specification,
  to the extent specified or required by law.
- Unless a specific issue of a standard or regulation is identified, the
- issue in effect, on the date the ambulance is contracted for, shall apply:
+ Unless a specific issue of a standard or regulation is identified,
+ the issue in effect,
+ on the date the ambulance is contracted for,
+ shall apply:
 \end_layout
 
 \begin_layout Itemize
@@ -289,6 +325,7 @@ The following standards and regulations form a part of this specification,
 LatexCommand href
 name "Federal Specification for the Star-of-Life Ambulance, KKK-A-1822, U.S. General Services Administration"
 target "http://apps.fss.gsa.gov/vehiclestandards/"
+literal "false"
 
 \end_inset
 
@@ -300,6 +337,7 @@ target "http://apps.fss.gsa.gov/vehiclestandards/"
 LatexCommand href
 name "Virginia Emergency Medical Services Regulations (12 VAC 5-31)"
 target "http://leg1.state.va.us/000/reg/TOC12005.HTM#C0031"
+literal "false"
 
 \end_inset
 
@@ -311,6 +349,7 @@ target "http://leg1.state.va.us/000/reg/TOC12005.HTM#C0031"
 LatexCommand href
 name "City of Virginia Beach Department of EMS Medical Equipment And Supplies Policy"
 target "http://www.vbems.com/deputychief/documents/Policies_PDF/203.03.01.Medical_Equipment_Policy.pdf"
+literal "false"
 
 \end_inset
 
@@ -318,9 +357,8 @@ target "http://www.vbems.com/deputychief/documents/Policies_PDF/203.03.01.Medica
 \end_layout
 
 \begin_layout Standard
-In the event of a conflict between the text of this specification and the
- references cited above, the text of this specification shall take precedence
- to the extent feasible.
+In the event of a conflict between the text of this specification and the references cited above,
+ the text of this specification shall take precedence to the extent feasible.
 \end_layout
 
 \begin_layout Subsection
@@ -328,8 +366,7 @@ Included documents
 \end_layout
 
 \begin_layout Standard
-The standards and requirements contained in the latest version of the following
- documents are hereby included by reference:
+The standards and requirements contained in the latest version of the following documents are hereby included by reference:
 \end_layout
 
 \begin_layout Itemize
@@ -337,6 +374,7 @@ The standards and requirements contained in the latest version of the following
 LatexCommand href
 name "KVRS Ambulance Graphics Package"
 target "http://kvrs.org/mark-1/policy/KVRS%20Ambulance%20Graphics%20Package.pdf"
+literal "false"
 
 \end_inset
 
@@ -356,17 +394,19 @@ Intentional abstractions
 \end_layout
 
 \begin_layout Standard
-This document intentionally does not, nor should it be modified to, directly
- contain any specification of:
+This document intentionally does not,
+ nor should it be modified to,
+ directly contain any specification of:
 \end_layout
 
 \begin_layout Itemize
-make, model, or class of chassis
+make,
+ model,
+ or class of chassis
 \end_layout
 
 \begin_layout Itemize
-items that depend upon chassis selection or configuration (such as walkthrough
- doors for Type III's or accordion bellows tube for Type I's)
+items that depend upon chassis selection or configuration (such as walkthrough doors for Type III's or accordion bellows tube for Type I's)
 \end_layout
 
 \begin_layout Itemize
@@ -374,10 +414,9 @@ dominant colors or squad-specific graphic elements
 \end_layout
 
 \begin_layout Standard
-The specifications in this document should be equally applicable regardless
- of the squad's choice of these items for a particular purchase order.
- Rather, the above kinds of specifications should be deferred to subordinate
- documents or purchase order line items.
+The specifications in this document should be equally applicable regardless of the squad's choice of these items for a particular purchase order.
+ Rather,
+ the above kinds of specifications should be deferred to subordinate documents or purchase order line items.
 \end_layout
 
 \begin_layout Section
@@ -389,7 +428,8 @@ Doors
 \end_layout
 
 \begin_layout Standard
-When referring to doors in the payload module, the term 
+When referring to doors in the payload module,
+ the term 
 \bar under
 entry door
 \bar default
@@ -401,7 +441,8 @@ Relative location terminology
 \end_layout
 
 \begin_layout Standard
-When referring to locations within a compartment, the terms 
+When referring to locations within a compartment,
+ the terms 
 \bar under
 left
 \bar default
@@ -409,8 +450,7 @@ left
 \bar under
 right
 \bar default
- shall mean from the perspective of a person who is facing directly into
- that compartment.
+ shall mean from the perspective of a person who is facing directly into that compartment.
  The terms 
 \bar under
 inboard
@@ -419,8 +459,9 @@ inboard
 \bar under
 outboard
 \bar default
- shall mean toward or away, respectively, from a line running through the
- center of the vehicle from its front bumper to its rear bumper.
+ shall mean toward or away,
+ respectively,
+ from a line running through the center of the vehicle from its front bumper to its rear bumper.
 \end_layout
 
 \begin_layout Subsection
@@ -428,8 +469,7 @@ Budget priorities
 \end_layout
 
 \begin_layout Standard
-The budget priority column contains values to serve as a guideline when
- it is not financially feasible to implement this entire set of specifications.
+The budget priority column contains values to serve as a guideline when it is not financially feasible to implement this entire set of specifications.
  In particular:
 \end_layout
 
@@ -515,8 +555,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-so important that it would be better to secure additional funding than to
- not implement the specification
+so important that it would be better to secure additional funding than to not implement the specification
 \end_layout
 
 \end_inset
@@ -539,7 +578,7 @@ Safety
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="24" columns="4">
+<lyxtabular version="3" rows="25" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -597,8 +636,7 @@ Budget priority
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install exterior side mirrors that are remotely adjustable from the driver's
- position.
+Install exterior side mirrors that are remotely adjustable from the driver's position.
 \end_layout
 
 \end_inset
@@ -607,7 +645,8 @@ Install exterior side mirrors that are remotely adjustable from the driver's
 \begin_inset Text
 
 \begin_layout Plain Layout
-To optimize visibility adjustments, even when driver-only.
+To optimize visibility adjustments,
+ even when driver-only.
 \end_layout
 
 \end_inset
@@ -627,6 +666,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 5.1.2
 \end_layout
 
@@ -636,6 +677,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 Install heatable exterior side mirrors.
 \end_layout
 
@@ -645,6 +688,8 @@ Install heatable exterior side mirrors.
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 To improve cold weather visibility.
 \end_layout
 
@@ -654,6 +699,8 @@ To improve cold weather visibility.
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 MUST
 \end_layout
 
@@ -674,8 +721,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install the most durable valve stems available, meeting or exceeding the
- TR416 rating.
+Install the most durable valve stems available,
+ meeting or exceeding the TR416 rating.
 \end_layout
 
 \end_inset
@@ -684,8 +731,7 @@ Install the most durable valve stems available, meeting or exceeding the
 \begin_inset Text
 
 \begin_layout Plain Layout
-Tire pressure failure attributable to failure of the valve stem has been
- identified as not uncommon.
+Tire pressure failure attributable to failure of the valve stem has been identified as not uncommon.
 \end_layout
 
 \end_inset
@@ -714,9 +760,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install most durable available rear entry door hold-open systems such that
- doors will open as far as possible, and such that none of the prongs are
- likely to be used as a step.
+Install most durable available rear entry door hold-open systems such that doors will open as far as possible,
+ and such that none of the prongs are likely to be used as a step.
 \end_layout
 
 \end_inset
@@ -725,8 +770,7 @@ Install most durable available rear entry door hold-open systems such that
 \begin_inset Text
 
 \begin_layout Plain Layout
-To prevent rear doors from swinging in stiff winds and from interfering
- with patient loading/unloading.
+To prevent rear doors from swinging in stiff winds and from interfering with patient loading/unloading.
  To prevent premature wear.
  To prevent damage from abuse.
 \end_layout
@@ -757,8 +801,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install brushed aluminum panels on interior of all payload module entry
- doors.
+Install brushed aluminum panels on interior of all payload module entry doors.
 \end_layout
 
 \end_inset
@@ -838,8 +881,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide for both rear load lights and the rearmost side scene lights to
- activate when transmission is in 
+Provide for both rear load lights and the rearmost side scene lights to activate when transmission is in 
 \begin_inset Quotes eld
 \end_inset
 
@@ -961,8 +1003,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide for both curb-side scene lights to activate when side payload module
- entry door is open.
+Provide for both curb-side scene lights to activate when side payload module entry door is open.
 \end_layout
 
 \end_inset
@@ -1038,12 +1079,17 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install Squad Saver Net, 2
+Install Squad Saver Net,
+ 2
 \begin_inset Quotes erd
 \end_inset
 
- straps, black, at head of squad bench, attached with removable latches
- to floor, curb-side wall, and overhead liner.
+ straps,
+ black,
+ at head of squad bench,
+ attached with removable latches to floor,
+ curb-side wall,
+ and overhead liner.
 \end_layout
 
 \end_inset
@@ -1052,8 +1098,8 @@ Install Squad Saver Net, 2
 \begin_inset Text
 
 \begin_layout Plain Layout
-Greater surface area than squad saver arm rest; and more likely to work
- when standard vehicle attitude is upset.
+Greater surface area than squad saver arm rest;
+ and more likely to work when standard vehicle attitude is upset.
  Detachability allows tall patients to be secured supine on squad bench.
 \end_layout
 
@@ -1174,8 +1220,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-In interior over rear doors, install brake/turn indicators slaved to driver's
- controls, instead of clock.
+In interior over rear doors,
+ install brake/turn indicators slaved to driver's controls,
+ instead of clock.
 \end_layout
 
 \end_inset
@@ -1214,8 +1261,7 @@ SHOULD
 
 \begin_layout Plain Layout
 Install chevrons above and to both sides of the rear doors.
- The stripes should alternate between the squad's dominant color and reflective
- white.
+ The stripes should alternate between the squad's dominant color and reflective white.
 \end_layout
 
 \end_inset
@@ -1253,8 +1299,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install chevrons on the lower half of each rear entry door, and on the lower
- half of the payload module side entry door.
+Install chevrons on the lower half of each rear entry door,
+ and on the lower half of the payload module side entry door.
 \end_layout
 
 \end_inset
@@ -1301,8 +1347,7 @@ Provide a Federal PA300 siren.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Extremely simple and intuitive interface that has remained the same for
- many years.
+Extremely simple and intuitive interface that has remained the same for many years.
  All operations can be performed by touch.
  Minimizes need to look away from the road.
 \end_layout
@@ -1419,8 +1464,8 @@ Do not provide vanity wheel covers.
 
 \begin_layout Plain Layout
 Assures that actual lug nuts will be visible at all times.
- Eliminates need for valve stem extensions, failure of which has been identified
- as not uncommon.
+ Eliminates need for valve stem extensions,
+ failure of which has been identified as not uncommon.
  
 \end_layout
 
@@ -1476,7 +1521,7 @@ MUST
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1485,16 +1530,17 @@ MUST
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a tilt (and telescopic, if available) steering wheel.
+Provide a tilt (and telescopic,
+ if available) steering wheel.
 \end_layout
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -1503,11 +1549,50 @@ Allows finer control of driving position.
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 SHOULD
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.1.24
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+If rear door securing mechanism includes bottom-jamb-mounted vertical Nader pins,
+ provide Nader pin covers .
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mitigates trip-and-fall risk.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
 \end_layout
 
 \end_inset
@@ -1526,7 +1611,7 @@ Patient care and operations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="64" columns="4">
+<lyxtabular version="3" rows="67" columns="4">
 <features islongtable="true" headBottomDL="true" longtabularalignment="center">
 <column alignment="center" valignment="top" width="9line%">
 <column alignment="left" valignment="top" width="39line%">
@@ -1597,10 +1682,10 @@ Provide a payload module at least 170
 \begin_inset Text
 
 \begin_layout Plain Layout
-This is the minimum size adequate to carry the gear that we are accustomed
- to carrying.
+This is the minimum size adequate to carry the gear that we are accustomed to carrying.
  A length that also allows designated areas for carrying crew personal items,
- including but not limited to turnout gear, is desireable.
+ including but not limited to turnout gear,
+ is desireable.
 \end_layout
 
 \end_inset
@@ -1629,7 +1714,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install an additional alternator, if a factory option.
+Install an additional alternator,
+ if a factory option.
 \end_layout
 
 \end_inset
@@ -1638,9 +1724,8 @@ Install an additional alternator, if a factory option.
 \begin_inset Text
 
 \begin_layout Plain Layout
-The electrical system must be capable of simultaneously powering all typically
- attached electrical components, with enough reserve to handle at least
- some atypically attached electrical components.
+The electrical system must be capable of simultaneously powering all typically attached electrical components,
+ with enough reserve to handle at least some atypically attached electrical components.
 \end_layout
 
 \end_inset
@@ -1678,10 +1763,9 @@ Delete any air microfiltration system if it takes up otherwise useful space.
 \begin_inset Text
 
 \begin_layout Plain Layout
-We are not satisified that the effectiveness of these systems has been proven
- to the extent that it prevents disease transmission or hazmat exposure.
- We do not have an effective program in place for replacing microfilters
- on schedule, hence these systems go to waste.
+We are not satisified that the effectiveness of these systems has been proven to the extent that it prevents disease transmission or hazmat exposure.
+ We do not have an effective program in place for replacing microfilters on schedule,
+ hence these systems go to waste.
 \end_layout
 
 \end_inset
@@ -1710,8 +1794,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install air conditioner for the payload module of the highest capacity and
- highest Mean Time To Failure (MTTF) available.
+Install air conditioner for the payload module of the highest capacity and highest Mean Time To Failure (MTTF) available.
 \end_layout
 
 \end_inset
@@ -1720,8 +1803,7 @@ Install air conditioner for the payload module of the highest capacity and
 \begin_inset Text
 
 \begin_layout Plain Layout
-Inadequacy and failure rates of air conditioning in the payload module have
- been frequent irritants.
+Inadequacy and failure rates of air conditioning in the payload module have been frequent irritants.
 \end_layout
 
 \end_inset
@@ -1763,12 +1845,13 @@ CPR seat
 pelvis/thigh area
 \series default
  (not adjacent to a supine patient's chest).
- Delete rearward cabinets and/or rearward telemetry area, and extend action
- area to account for this seat placement.
+ Delete rearward cabinets and/or rearward telemetry area,
+ and extend action area to account for this seat placement.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:CPR-seat-placement"
+nolink "false"
 
 \end_inset
 
@@ -1782,10 +1865,9 @@ reference "subsec:CPR-seat-placement"
 
 \begin_layout Plain Layout
 No one sits down when doing CPR.
- Seat needs to be placed to optimize attendant position for starting an
- IV on patient's right hand/arm.
- Without moving the seat to this position, the seat is so far forward that
- the attendant is almost sitting behind the typical patient's field of vision.
+ Seat needs to be placed to optimize attendant position for starting an IV on patient's right hand/arm.
+ Without moving the seat to this position,
+ the seat is so far forward that the attendant is almost sitting behind the typical patient's field of vision.
 \end_layout
 
 \end_inset
@@ -1822,7 +1904,8 @@ CPR seat
 \begin_inset Quotes erd
 \end_inset
 
- lid, provide sufficient storage for 3 
+ lid,
+ provide sufficient storage for 3 
 \begin_inset Quotes eld
 \end_inset
 
@@ -1840,8 +1923,8 @@ W
 \end_inset
 
  trough at the bottom of the compartment.
- Install two quick release straps, to secure the tanks at the 1/4 and 3/4
- tank length positions.
+ Install two quick release straps,
+ to secure the tanks at the 1/4 and 3/4 tank length positions.
  Tanks are 21
 \begin_inset Quotes erd
 \end_inset
@@ -1856,6 +1939,7 @@ W
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Portable-oxygen-bottle-storage"
+nolink "false"
 
 \end_inset
 
@@ -1905,7 +1989,8 @@ severe weather
 \begin_inset Quotes erd
 \end_inset
 
- in-wall insulation, if offered.
+ in-wall insulation,
+ if offered.
 \end_layout
 
 \end_inset
@@ -1943,7 +2028,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Apply undercoating, if offered.
+Apply undercoating,
+ if offered.
 \end_layout
 
 \end_inset
@@ -1952,7 +2038,9 @@ Apply undercoating, if offered.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Assists with temperature control, sound dampening, and corrosion resistance.
+Assists with temperature control,
+ sound dampening,
+ and corrosion resistance.
 \end_layout
 
 \end_inset
@@ -1981,7 +2069,8 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide an extended cab (but not a crew cab), if available on chassis.
+Provide an extended cab (but not a crew cab),
+ if available on chassis.
 \end_layout
 
 \end_inset
@@ -1991,8 +2080,8 @@ Provide an extended cab (but not a crew cab), if available on chassis.
 
 \begin_layout Plain Layout
 Allows room for radio shop to mount radio/router equipment.
- May allow designated area for carrying crew personal items, including but
- not limited to turnout gear.
+ May allow designated area for carrying crew personal items,
+ including but not limited to turnout gear.
 \end_layout
 
 \end_inset
@@ -2064,7 +2153,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a double step at side payload module entrance, each step equal height.
+Provide a double step at side payload module entrance,
+ each step equal height.
 \end_layout
 
 \end_inset
@@ -2178,10 +2268,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right
- front cabinet that reaches ceiling level and that is dimensioned to hold
- at least one TEMS IV Box and one TEMS Drug Box, lockable with a standard
- padlock.
+Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right front cabinet that reaches ceiling level and that is dimensioned to hold at least one TEMS IV Box and one TEMS Drug Box,
+ lockable with a standard padlock.
  Assume both TEMS boxes are 19
 \begin_inset Quotes erd
 \end_inset
@@ -2195,8 +2283,8 @@ Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right
 \end_inset
 
  wide.
- This compartment is only to be accessible from the interior, and its door
- must be made of a rigid material.
+ This compartment is only to be accessible from the interior,
+ and its door must be made of a rigid material.
 \end_layout
 
 \end_inset
@@ -2205,15 +2293,15 @@ Provide a compartment (IV/DRUG COMPARTMENT) in the payload module right
 \begin_inset Text
 
 \begin_layout Plain Layout
-City requirement: 
+City requirement:
+ 
 \begin_inset Quotes eld
 \end_inset
 
-All IV and drug boxes will be stored in locked compartments or brackets
- when not in use.
- Compartment design must be approved by the Department and the Virginia
- Department of Health Office of EMS.
- A standard lock shall be used for all rescue squad, Department of EMS,
+All IV and drug boxes will be stored in locked compartments or brackets when not in use.
+ Compartment design must be approved by the Department and the Virginia Department of Health Office of EMS.
+ A standard lock shall be used for all rescue squad,
+ Department of EMS,
  and Fire Department operated vehicles.
 \begin_inset Quotes erd
 \end_inset
@@ -2247,9 +2335,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT
-).
- In this compartment, install a 3/16
+Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT).
+ In this compartment,
+ install a 3/16
 \begin_inset Quotes erd
 \end_inset
 
@@ -2262,8 +2350,8 @@ Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT
 \end_inset
 
  from right wall.
- Install a shelf forward of aforementioned vertical divider halfway between
- ceiling and floor, mounted on 20
+ Install a shelf forward of aforementioned vertical divider halfway between ceiling and floor,
+ mounted on 20
 \begin_inset Quotes erd
 \end_inset
 
@@ -2272,23 +2360,13 @@ Provide a 100% height external right rearmost compartment (BACKBOARD COMPARTMENT
 \end_inset
 
  of track above and below shelf).
- Install a seat belt across entire compartment opening, 30
+ Install a backboard retention bar across entire compartment opening,
+ 16
 \begin_inset Quotes erd
 \end_inset
 
- down from ceiling, 2
-\begin_inset Quotes erd
-\end_inset
-
- from compartment opening, secured with zinc footman loops.
- (See illustration section 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "subsec:Backboard-compartment"
-
-\end_inset
-
-.)
+ from ceiling,
+ flush with door jamb.
 \end_layout
 
 \end_inset
@@ -2297,8 +2375,9 @@ reference "subsec:Backboard-compartment"
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows orderly stowage of backboards and scoop stretcher, velcro splint
- pack, and C-collar pack.
+Allows orderly stowage of backboards and scoop stretcher,
+ velcro splint pack,
+ and C-collar pack.
  Strap helps prevent gear from falling onto personnel.
 \end_layout
 
@@ -2328,18 +2407,19 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 3/4 height external left rearmost compartment (STAIR CHAIR COMPARTMENT
-).
+Provide a 3/4 height external left rearmost compartment (STAIR CHAIR COMPARTMENT).
  Approximately 40
 \begin_inset Quotes erd
 \end_inset
 
- from floor, make this compartment accessible from interior as well.
+ from floor,
+ make this compartment accessible from interior as well.
  In the lower approximately 40
 \begin_inset Quotes erd
 \end_inset
 
- of this compartment, install two adjustable 3/16
+ of this compartment,
+ install two adjustable 3/16
 \begin_inset Quotes erd
 \end_inset
 
@@ -2351,20 +2431,22 @@ Provide a 3/4 height external left rearmost compartment (STAIR CHAIR COMPARTMENT
 \begin_inset Quotes erd
 \end_inset
 
- deep vertical dividers on shelf track mounted to and running the width
- of the inboard wall, to divide the inboard section of the compartment into
- thirds.
- Install a seat belt on the left and right walls, 8
+ deep vertical dividers on shelf track mounted to and running the width of the inboard wall,
+ to divide the inboard section of the compartment into thirds.
+ Install a seat belt on the left and right walls,
+ 8
 \begin_inset Quotes erd
 \end_inset
 
- from the inboard wall, secured with zinc footman loops.
- In the interior-accessible upper portion of this compartment, install adjustabl
-e shelf track and two shelves.
+ from the inboard wall,
+ secured with zinc footman loops.
+ In the interior-accessible upper portion of this compartment,
+ install adjustable shelf track and two shelves.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Stairchair-compartment-space"
+nolink "false"
 
 \end_inset
 
@@ -2377,8 +2459,8 @@ reference "subsec:Stairchair-compartment-space"
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows orderly stowage of traction splints and KEDs, and interior/exterior
- access to other items.
+Allows orderly stowage of traction splints and KEDs,
+ and interior/exterior access to other items.
  Seat belts help prevent gear from falling into personnel.
 \end_layout
 
@@ -2409,8 +2491,9 @@ MUST
 
 \begin_layout Plain Layout
 Reinforce door/hinge of STAIR CHAIR COMPARTMENT.
- On interior of this door, near the bottom, mount a box sufficient to carry
- a 37.5
+ On interior of this door,
+ near the bottom,
+ mount a box sufficient to carry a 37.5
 \begin_inset Quotes erd
 \end_inset
 
@@ -2423,19 +2506,22 @@ Reinforce door/hinge of STAIR CHAIR COMPARTMENT.
 \end_inset
 
  deep heavy duty (Stryker 6252) stair chair.
- Reinforce the box with additional screws, or rivets, or internal and external
- continuous bead welds.
- Install a horizontal seat belt, secured with zinc footman loops, approximately
- 30
+ Reinforce the box with additional screws,
+ or rivets,
+ or internal and external continuous bead welds.
+ Install a horizontal seat belt,
+ secured with zinc footman loops,
+ approximately 30
 \begin_inset Quotes erd
 \end_inset
 
- above bottom of stair chair box sufficient to secure top portion of stair
- chair.
+ above bottom of stair chair box sufficient to secure top portion of stair chair.
+ Provide drip holes at the bottom of the box.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Stairchair-bracket"
+nolink "false"
 
 \end_inset
 
@@ -2448,8 +2534,7 @@ reference "subsec:Stairchair-bracket"
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows orderly stowage of stair chair and uses door rather than muscle to
- shift stair chair away from compartment interior.
+Allows orderly stowage of stair chair and uses door rather than muscle to shift stair chair away from compartment interior.
 \end_layout
 
 \end_inset
@@ -2478,10 +2563,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 3/4 height external left forwardmost compartment (MAIN OXYGEN
- COMPARTMENT).
- The upper portion of this compartment must be accessible via a lexan door
- to the interior action area.
+Provide a 3/4 height external left forwardmost compartment (MAIN OXYGEN COMPARTMENT).
+ The upper portion of this compartment must be accessible via a lexan door to the interior action area.
 \end_layout
 
 \end_inset
@@ -2520,22 +2603,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 1/2 height external left compartment immediately behind the MAIN
- OXYGEN COMPARTMENT.
- In this compartment, mount inverter on ceiling, close to forward wall.
- Install a fixed shelf sufficiently below the inverter to allow the following:
- Mount airhorn pump and vacuum pumps to the fixed shelf so they will sit
- immediately below the inverter.
- Install a single heat isolation cage around the area occupied by the inverter,
- airhorn pump, and vacuum pump.
- (See illustration section 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "subsec:Electric-motor-mounting"
-
-\end_inset
-
-.)
+Provide a 1/2 height external left compartment immediately behind the MAIN OXYGEN COMPARTMENT.
 \end_layout
 
 \end_inset
@@ -2544,7 +2612,7 @@ reference "subsec:Electric-motor-mounting"
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows space-efficient mounting of inverter, airhorn pump, and vacuum pump.
+To carry field equipment.
 \end_layout
 
 \end_inset
@@ -2620,8 +2688,7 @@ Install a grab bar inside the side payload module entry.
 \begin_inset Text
 
 \begin_layout Plain Layout
-To allow a person to steady self using left hand while entering payload
- module.
+To allow a person to steady self using left hand while entering payload module.
 \end_layout
 
 \end_inset
@@ -2650,9 +2717,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install an exterior stealth failsafe switch in passenger side grill to unlock
- at least as many doors as may be required to regain access to all electrically-
-lockable spaces.
+Install an exterior stealth failsafe switch in passenger side grill to unlock at least as many doors as may be required to regain access to all electrically-lockable spaces.
 \end_layout
 
 \end_inset
@@ -2732,8 +2797,7 @@ Provide for compartment doors to open 135 degrees
 \series bold
 unless
 \series default
- doing so allows compartment door to impact travel of another door at any
- point.
+ doing so allows compartment door to impact travel of another door at any point.
 \end_layout
 
 \end_inset
@@ -2847,10 +2911,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 5 minutes of electrical power to payload module (but not to payload
- module air conditioner blower) when ignition is switched off.
- Provide dual-action momentary rocker switch on driver's side of cab console
- to (a) force timer to expire, and (b) reactivate timer.
+Provide 5 minutes of electrical power to payload module (but not to payload module air conditioner blower) when ignition is switched off.
+ Provide dual-action momentary rocker switch on driver's side of cab console to (a) force timer to expire,
+ and (b) reactivate timer.
 \end_layout
 
 \end_inset
@@ -2890,9 +2953,10 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install one extra 12V automotive battery in payload module battery compartment,
- wired in parallel but isolated, for use when the vehicle is not running
- without affecting ability to start the vehicle.
+If upfitter allows,
+ install one extra 12V automotive battery in payload module battery compartment,
+ wired in parallel but isolated,
+ for use when the vehicle is not running without affecting ability to start the vehicle.
 \end_layout
 
 \end_inset
@@ -2938,30 +3002,36 @@ Main
 \begin_inset Quotes erd
 \end_inset
 
- Radio System', 'Portable Radio' chargers, and 'CAD MDT System' as indicated
- in 
+ Radio System',
+ 'Portable Radio' chargers,
+ and 'CAD MDT System' as indicated in 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Exterior-antennas"
+nolink "false"
 
 \end_inset
 
-, 
+,
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Cable-termination-points"
+nolink "false"
 
 \end_inset
 
-, and 
+,
+ and 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Communications/IT-component-mounting-and-power-source-matrix"
+nolink "false"
 
 \end_inset
 
-, using equipment specified by the City Of Virginia Beach / Communications
- & Information Technology Department / Telecommunications division.
+,
+ using equipment specified by the City Of Virginia Beach / Communications & Information Technology Department / Telecommunications division.
 \end_layout
 
 \end_inset
@@ -2999,12 +3069,12 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a door for exterior access to the non-lockable portion of the payload
- module's right front cabinet.
+Provide a door for exterior access to the non-lockable portion of the payload module's right front cabinet.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Exterior-access-to-pm-rf-cabinet"
+nolink "false"
 
 \end_inset
 
@@ -3046,9 +3116,11 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 2 cigar lighter outlets, on 20 amp circuit, energized by ignition
- & shoreline, in payload module as follows: One on wall in action area adjacent
- to 
+Provide 2 cigar lighter outlets,
+ on 20 amp circuit,
+ energized by ignition & shoreline,
+ in payload module as follows:
+ One on wall in action area adjacent to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3056,7 +3128,8 @@ airway seat
 \begin_inset Quotes erd
 \end_inset
 
-, the other on wall in extended action area just forward of 
+,
+ the other on wall in extended action area just forward of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3093,6 +3166,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 5.2.32
 \end_layout
 
@@ -3102,9 +3177,14 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a cigar lighter outlet, on 20 AMP circuit, energized by ignition
- & shoreline, in payload module as follows: In right front cabinet, in the
- uppermost portion that is accessible from the interior 
+
+\strikeout on
+Provide a cigar lighter outlet,
+ on 20 AMP circuit,
+ energized by ignition & shoreline,
+ in payload module as follows:
+ In right front cabinet,
+ in the uppermost portion that is accessible from the interior 
 \series bold
 and
 \series default
@@ -3117,6 +3197,8 @@ and
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 To charge portable gear.
 \end_layout
 
@@ -3126,6 +3208,8 @@ To charge portable gear.
 \begin_inset Text
 
 \begin_layout Plain Layout
+
+\strikeout on
 MUST
 \end_layout
 
@@ -3146,8 +3230,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit
- w/6 ft pigtail, terminating behind the action area wall.
+Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit w/6 ft pigtail,
+ terminating behind the action area wall.
 \end_layout
 
 \end_inset
@@ -3185,8 +3269,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit
- w/6 ft pigtail, terminating in the front cab console.
+Provide a 12VDC 15 amp power source (hot and ground) on ignition circuit w/6 ft pigtail,
+ terminating in the front cab console.
 \end_layout
 
 \end_inset
@@ -3224,8 +3308,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a 12VDC 30 amp power source (hot and ground) on ignition circuit
- w/6 ft pigtail, terminating behind the passenger seat.
+Provide a 12VDC 30 amp power source (hot and ground) on ignition circuit w/6 ft pigtail,
+ terminating behind the passenger seat.
 \end_layout
 
 \end_inset
@@ -3263,14 +3347,16 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install auto-eject shoreline inlet, with interrupter, with white cover,
- on driver's side of payload module just forward of forewardmost compartment
- at approximately eye level.
+Install auto-eject shoreline inlet,
+ with interrupter,
+ with white cover,
+ on driver's side of payload module just forward of forewardmost compartment at approximately eye level.
  Install a green LED 110VAC shoreline indicator light just above.
  (See illustration section 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "subsec:Shoreline-inlet-indicator-positioning"
+nolink "false"
 
 \end_inset
 
@@ -3283,8 +3369,8 @@ reference "subsec:Shoreline-inlet-indicator-positioning"
 \begin_inset Text
 
 \begin_layout Plain Layout
-To make the shoreline easily accessible to the driver as driver gets in/out
- of driver's seat, and to indicate whether circuit is successfully energized.
+To make the shoreline easily accessible to the driver as driver gets in/out of driver's seat,
+ and to indicate whether circuit is successfully energized.
  Interrupter prevents sparking if under load when ejected.
 \end_layout
 
@@ -3314,8 +3400,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide 2 dual-socket 110VAC outlets in payload module as follows: One on
- wall in action area adjacent to 
+Provide 2 dual-socket 110VAC outlets in payload module as follows:
+ One on wall in action area adjacent to 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3323,7 +3409,8 @@ airway seat
 \begin_inset Quotes erd
 \end_inset
 
-, the other on wall in extended action area just forward of 
+,
+ the other on wall in extended action area just forward of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3369,9 +3456,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide a dual-socket 110VAC outlet in payload module as follows: In right
- front cabinet, in the uppermost portion that is accessible from the interior
- 
+Provide a dual-socket 110VAC outlet in payload module as follows:
+ In right front cabinet,
+ in the lower portion that is accessible from the interior 
 \series bold
 and
 \series default
@@ -3461,8 +3548,10 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-If allowed by engine manufacturer, install engine block heater, with switch
- behind driver's seat, wired to shoreline.
+If allowed by engine manufacturer,
+ install engine block heater,
+ with switch behind driver's seat,
+ wired to shoreline.
 \end_layout
 
 \end_inset
@@ -3500,7 +3589,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Use 1050W inverter/charger to power all 110VAC receptacles, 
+Use 1050W inverter/charger to power all 110VAC receptacles,
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3594,8 +3684,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Replace OEM cab domelight with domelight that can be switched to either
- white or red, wired to ignition, with switches on dome light itself.
+Replace OEM cab domelight with domelight that can be switched to either white or red,
+ wired to ignition,
+ with switches on dome light itself.
 \end_layout
 
 \end_inset
@@ -3604,8 +3695,8 @@ Replace OEM cab domelight with domelight that can be switched to either
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows interior lighting with less impact on driver vision, and intuitive
- activation.
+Allows interior lighting with less impact on driver vision,
+ and intuitive activation.
 \end_layout
 
 \end_inset
@@ -3634,9 +3725,9 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-If using CoolBar or equivalent with angled faces, install additional white
- scene light on lower half of each angled face, to come on with same-side
- standard scene lights.
+If using CoolBar or equivalent with angled faces,
+ install additional white scene light on lower half of each angled face,
+ to come on with same-side standard scene lights.
 \end_layout
 
 \end_inset
@@ -3674,9 +3765,13 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-On payload module interior ceiling, install white lights, with appropriate
- switches in action area, as follows: 3 dual-intensity on curb side; 4 dual-inte
-nsity on street side; 3 flourescent recessed approximately on center line.
+On payload module interior ceiling,
+ install white lights,
+ with appropriate switches in action area,
+ as follows:
+ 3 dual-intensity on curb side;
+ 4 dual-intensity on street side;
+ 3 flourescent recessed approximately on center line.
 \end_layout
 
 \end_inset
@@ -3718,8 +3813,8 @@ Install a 5
 \begin_inset Quotes erd
 \end_inset
 
- (or so) light under cabinetry to illuminate action area only, with integral
- switch.
+ (or so) light under cabinetry to illuminate action area only,
+ with integral switch.
 \end_layout
 
 \end_inset
@@ -3757,9 +3852,8 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 15-minute timer switch on battery circuit on curb-side wall at front
- of squad bench, to allow activation & deactivation of interior overhead
- flourescent lights only.
+Install 15-minute timer switch on battery circuit on curb-side wall at front of squad bench,
+ to allow activation & deactivation of interior overhead flourescent lights only.
 \end_layout
 
 \end_inset
@@ -3797,7 +3891,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install small light in circuit board compartment, with integral switch,
+Install small light in circuit board compartment,
+ with integral switch,
  on constant hot circuit.
 \end_layout
 
@@ -3912,9 +4007,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install rack for M or H oxygen cylinder in MAIN OXYGEN COMPARTMENT, on right
- wall as close to inboard wall as possible, allowing hand access to 3 ratchet-st
-yle straps.
+Install rack for M or H oxygen cylinder in MAIN OXYGEN COMPARTMENT,
+ on right wall as close to inboard wall as possible,
+ allowing hand access to 3 ratchet-style straps.
 \end_layout
 
 \end_inset
@@ -3952,8 +4047,9 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install Ohio-style oxygen/suction ports as follows: 2 O2 outlets and 1 vacuum
- port in action area; 1 O2 outlet on curb-side wall at head of squad bench.
+Install Ohio-style oxygen/suction ports as follows:
+ 2 O2 outlets and 1 vacuum port in action area;
+ 1 O2 outlet on curb-side wall at head of squad bench.
 \end_layout
 
 \end_inset
@@ -3962,8 +4058,8 @@ Install Ohio-style oxygen/suction ports as follows: 2 O2 outlets and 1 vacuum
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides for airway & oxygenation of high acuity patient on cot, while also
- providing for oxygenation of lower acuity patient on squad bench.
+Provides for airway & oxygenation of high acuity patient on cot,
+ while also providing for oxygenation of lower acuity patient on squad bench.
 \end_layout
 
 \end_inset
@@ -3996,10 +4092,13 @@ Provide IV hooks
 \series bold
 only
 \series default
- as follows: Perko style or equivalent, just below ceiling; w/velcro straps
- positioned to prevent IV bags from swinging; 1 on curb-side at front of
- squad bench; 1 on curb-side roughly midway down squad bench; 1 on street
- side just forward of 
+ as follows:
+ Perko style or equivalent,
+ just below ceiling;
+ w/velcro straps positioned to prevent IV bags from swinging;
+ 1 on curb-side at front of squad bench;
+ 1 on curb-side roughly midway down squad bench;
+ 1 on street side just forward of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4007,7 +4106,8 @@ CPR seat
 \begin_inset Quotes erd
 \end_inset
 
-; 1 on street side just rear of 
+;
+ 1 on street side just rear of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4024,8 +4124,9 @@ CPR seat
 \begin_inset Text
 
 \begin_layout Plain Layout
-Unobtrusive, convenient, and proximity to walls helps prevent swinging even
- if straps aren't utilized.
+Unobtrusive,
+ convenient,
+ and proximity to walls helps prevent swinging even if straps aren't utilized.
 \end_layout
 
 \end_inset
@@ -4092,8 +4193,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Use lexan interior compartment doors to the extent possible, without compromisin
-g the required rigidity of the IV/DRUG COMPARTMENT.
+Use lexan interior compartment doors to the extent possible,
+ without compromising the required rigidity of the IV/DRUG COMPARTMENT.
 \end_layout
 
 \end_inset
@@ -4102,8 +4203,7 @@ g the required rigidity of the IV/DRUG COMPARTMENT.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows attendants to see contents of compartment without having to open
- compartment.
+Allows attendants to see contents of compartment without having to open compartment.
 \end_layout
 
 \end_inset
@@ -4132,9 +4232,9 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-In payload module right front cabinet, if any interior compartment doors
- open to the side, make sure the handle is on the left and the hinge is
- on the right.
+In payload module right front cabinet,
+ if any interior compartment doors open to the side,
+ make sure the handle is on the left and the hinge is on the right.
 \end_layout
 
 \end_inset
@@ -4181,8 +4281,7 @@ Provide a squad bench with a split 50/50 lid.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows access to gear under lid(s) even if gear or people are occupying
- one lid and can not be easily moved.
+Allows access to gear under lid(s) even if gear or people are occupying one lid and can not be easily moved.
 \end_layout
 
 \end_inset
@@ -4287,8 +4386,10 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install dri-deck, turtletile, or equivalent, at bottom of all exterior compartme
-nts and shelves.
+Install dri-deck,
+ turtletile,
+ or equivalent,
+ at bottom of all exterior compartments and shelves.
 \end_layout
 
 \end_inset
@@ -4335,8 +4436,7 @@ Install a Stryker Power-LOAD system.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Power loading reduces likelihood of exertion-related crew injury and has
- member recruitment & retention value.
+Power loading reduces likelihood of exertion-related crew injury and has member recruitment & retention value.
 \end_layout
 
 \end_inset
@@ -4365,9 +4465,10 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install an ACDC Industries MZL-180 (or, upon customer approval, a functionally
- equivalent) voltage-sensing delay timer in the electrical/IT cabinet, and
- rig it to supply power to the CAD MDT System CPU.
+Install an ACDC Industries MZL-180 (or,
+ upon customer approval,
+ a functionally equivalent) voltage-sensing delay timer in the electrical/IT cabinet,
+ and rig it to supply power to the CAD MDT System CPU.
 \end_layout
 
 \end_inset
@@ -4376,8 +4477,132 @@ Install an ACDC Industries MZL-180 (or, upon customer approval, a functionally
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows CAD MDT to receive messages while ambulance is off, unless voltage
- drop would risk preventing ambulance from being started.
+Allows CAD MDT to receive messages while ambulance is off,
+ unless voltage drop would risk preventing ambulance from being started.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.63
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Do not install anything at front of squad bench that would interfere with securing a tall patient supine on the squad bench – unless also providing a quick-release mechanism to allow removal of the interfering object.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Allows crew to secure a tall patient supine on the squad bench in multiple casualty situations.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.64
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Install a pair of portable rechargeable flashlights mounted in their rechargers within reach of personnel in the cab.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Required by regulations,
+ and this placement encourages their use when appropriate.
+ City garage requires installation of these items prior to acceptance.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+MUST
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5.2.65
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Provide a compartment above the MAIN OXYGEN COMPARTMENT.
+ In this compartment,
+ mount inverter on ceiling,
+ close to forward wall.
+ Install a fixed shelf sufficiently below the inverter to allow the following:
+ Mount airhorn pump and vacuum pumps to the fixed shelf so they will sit immediately below the inverter.
+ Install a single heat isolation cage around the area occupied by the inverter,
+ airhorn pump,
+ and vacuum pump.
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Placement discourages tampering.
 \end_layout
 
 \end_inset
@@ -4397,7 +4622,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-5.2.63
+5.2.66
 \end_layout
 
 \end_inset
@@ -4406,9 +4631,7 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Do not install anything at front of squad bench that would interfere with
- securing a tall patient supine on the squad bench – unless also providing
- a quick-release mechanism to allow removal of the interfering object.
+Provide a theft-deterrent system that allows removal of ignition key without turning off engine and that prohibits moving the vehicle from its parked position.
 \end_layout
 
 \end_inset
@@ -4417,8 +4640,7 @@ Do not install anything at front of squad bench that would interfere with
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows crew to secure a tall patient supine on the squad bench in multiple
- casualty situations.
+Discourages theft.
 \end_layout
 
 \end_inset
@@ -4427,7 +4649,7 @@ Allows crew to secure a tall patient supine on the squad bench in multiple
 \begin_inset Text
 
 \begin_layout Plain Layout
-MUST
+SHOULD
 \end_layout
 
 \end_inset
@@ -4512,10 +4734,11 @@ unit number
 \begin_inset Quotes erd
 \end_inset
 
- as high as feasible in the following locations on the exterior payload
- module bulkheads: Driver's side facing forward; as far forward as feasible
- facing left; as far forward as feasible facing right; driver's side facing
- the rear.
+ as high as feasible in the following locations on the exterior payload module bulkheads:
+ Driver's side facing forward;
+ as far forward as feasible facing left;
+ as far forward as feasible facing right;
+ driver's side facing the rear.
  Use dark numbers on a white background.
 \end_layout
 
@@ -4573,8 +4796,7 @@ unit number
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows incident commander to identify unit from the rear even when rear
- entry door blocks view of the rear exterior unit number.
+Allows incident commander to identify unit from the rear even when rear entry door blocks view of the rear exterior unit number.
  Also reminds attendants in the payload module what unit they are in.
 \end_layout
 
@@ -4622,8 +4844,7 @@ unit number
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows responders at high altitudes (such as from hi-rises or aircraft)
- to identify the unit.
+Allows responders at high altitudes (such as from hi-rises or aircraft) to identify the unit.
  Retro-reflectivity enhances visibility.
 \end_layout
 
@@ -4653,8 +4874,8 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Apply a large version of the squad's logo (simplified as appropriate) on
- the roof of ambulance, instead of a Star Of Life.
+Apply a large version of the squad's logo (simplified as appropriate) on the roof of ambulance,
+ instead of a Star Of Life.
  Use retro-reflective vinyl.
 \end_layout
 
@@ -4664,9 +4885,9 @@ Apply a large version of the squad's logo (simplified as appropriate) on
 \begin_inset Text
 
 \begin_layout Plain Layout
-Allows observers at high altitudes (such as from hi-rises, traffic cameras,
- or aircraft) to associate the ambulance with the logo it uses in its public
- relations material.
+Allows observers at high altitudes (such as from hi-rises,
+ traffic cameras,
+ or aircraft) to associate the ambulance with the logo it uses in its public relations material.
  Retro-reflectivity enhances visibility.
 \end_layout
 
@@ -4740,11 +4961,8 @@ Provide ambulance with all-white paint.
 status open
 
 \begin_layout Plain Layout
-Other squads may replace requirement 5.3.6 (at the risk of violating the associate
-d rationale) with a requirement for one or more paint belts, but the replacement
- requirement should specify that the edges of all paint belts should be
- smoothed to prevent seams from forming underneath any graphics applied
- over the edges later.
+Other squads may replace requirement 5.3.6 (at the risk of violating the associated rationale) with a requirement for one or more paint belts,
+ but the replacement requirement should specify that the edges of all paint belts should be smoothed to prevent seams from forming underneath any graphics applied over the edges later.
 \end_layout
 
 \end_inset
@@ -4788,7 +5006,8 @@ SHOULD
 
 \begin_layout Plain Layout
 Do not apply Star Of Life to roof.
- Instead, deliver Star Of Life decal unapplied.
+ Instead,
+ deliver Star Of Life decal unapplied.
 \end_layout
 
 \end_inset
@@ -4827,8 +5046,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide chrome or brushed aluminum wheels (without vanity covers) for all
- out-facing tire-wheel assemblies.
+Provide chrome or brushed aluminum wheels (without vanity covers) for all out-facing tire-wheel assemblies.
 \end_layout
 
 \end_inset
@@ -4837,8 +5055,7 @@ Provide chrome or brushed aluminum wheels (without vanity covers) for all
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides attractiveness for public relations purposes without compromising
- safety.
+Provides attractiveness for public relations purposes without compromising safety.
 \end_layout
 
 \end_inset
@@ -4963,8 +5180,8 @@ Budget priority
 
 \begin_layout Plain Layout
 Install LED OptiCom as high and centered as is feasible.
- If dimensions allow, install it flush with front bulkhead (or CoolBar)
- behind clear lens.
+ If dimensions allow,
+ install it flush with front bulkhead (or CoolBar) behind clear lens.
  Wire OptiCom so it only activates when sequencer is 
 \begin_inset Quotes eld
 \end_inset
@@ -5021,8 +5238,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide ambulance warning light sequencer & load manager system, with switches
- on console.
+Provide ambulance warning light sequencer & load manager system,
+ with switches on console.
 \end_layout
 
 \end_inset
@@ -5098,7 +5315,8 @@ MUST
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provide airhorns, tuned 
+Provide airhorns,
+ tuned 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5120,8 +5338,7 @@ pleasant
 
 \begin_layout Plain Layout
 For better warning to other drivers in sound-insulated vehicles.
- Dissonant tuning gives audible indication that we are an emergency rather
- than commercial service.
+ Dissonant tuning gives audible indication that we are an emergency rather than commercial service.
 \end_layout
 
 \end_inset
@@ -5150,7 +5367,11 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install airhorn activation valve w/lanyard, located in center of headliner.
+If cab ceiling provides appropriate heavy-duty mounting points,
+ install airhorn activation valve w/lanyard,
+ located in center of headliner;
+ otherwise,
+ provide a guarded airhorn activation button on driver's side of top surface of center console.
 \end_layout
 
 \end_inset
@@ -5159,7 +5380,11 @@ Install airhorn activation valve w/lanyard, located in center of headliner.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Makes activating airhorn more intuitive.
+Lanyard makes activating airhorn more intuitive,
+ but is inappropriate if no heavy-duty mounting points are available.
+ Guarded button discourages inadvertent activation,
+ which can be a hearing hazard.
+ Placement optimizes driver's ability to activate airhorn when no other crew members are in cab.
 \end_layout
 
 \end_inset
@@ -5188,8 +5413,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 2 red ambulance warning lights on rear to be visible through windows
- when rear doors are opened.
+Install 2 red ambulance warning lights on rear to be visible through windows when rear doors are opened.
 \end_layout
 
 \end_inset
@@ -5198,7 +5422,8 @@ Install 2 red ambulance warning lights on rear to be visible through windows
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides additional signaling protection to rear, not masked by open doors.
+Provides additional signaling protection to rear,
+ not masked by open doors.
 \end_layout
 
 \end_inset
@@ -5227,8 +5452,7 @@ SHOULD
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 2 red ambulance warning lights inboard of mandated corner red lights
- at top front of payload module.
+Install 2 red ambulance warning lights inboard of mandated corner red lights at top front of payload module.
 \end_layout
 
 \end_inset
@@ -5266,8 +5490,8 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install an amber ambulance warning light at top center rear, to alternate
- with mandated corner red lights.
+Install an amber ambulance warning light at top center rear,
+ to alternate with mandated corner red lights.
 \end_layout
 
 \end_inset
@@ -5305,8 +5529,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install a red ambulance warning light above and forward of each front wheel
- as front intersection lights.
+Install a red ambulance warning light above and forward of each front wheel as front intersection lights.
 \end_layout
 
 \end_inset
@@ -5315,8 +5538,8 @@ Install a red ambulance warning light above and forward of each front wheel
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides forward signaling to crossing traffic as nose enters lane, and
- to adjacent-lane traffic.
+Provides forward signaling to crossing traffic as nose enters lane,
+ and to adjacent-lane traffic.
 \end_layout
 
 \end_inset
@@ -5354,8 +5577,7 @@ Install 2 red ambulance warning lights as grill lights.
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides forward signaling to clear traffic immediately ahead (that may
- not have visibility to higher lights).
+Provides forward signaling to clear traffic immediately ahead (that may not have visibility to higher lights).
 \end_layout
 
 \end_inset
@@ -5384,8 +5606,8 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-If using CoolBar or equivalent with angled faces, install additional red
- ambulance warning light on upper half of each angled face.
+If using CoolBar or equivalent with angled faces,
+ install additional red ambulance warning light on upper half of each angled face.
 \end_layout
 
 \end_inset
@@ -5461,7 +5683,8 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install 
+If available,
+ install 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5469,7 +5692,8 @@ wig-wag
 \begin_inset Quotes erd
 \end_inset
 
- headlight flasher system, to activate in accordance with VA state law.
+ headlight flasher system,
+ to activate in accordance with VA state law.
 \end_layout
 
 \end_inset
@@ -5507,8 +5731,9 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Install additional amber arrow turn signals, one each under front mandated
- corner red lights, slaved to OEM turn signals.
+Install additional amber arrow turn signals,
+ one each under front mandated corner red lights,
+ slaved to OEM turn signals.
 \end_layout
 
 \end_inset
@@ -5517,8 +5742,7 @@ Install additional amber arrow turn signals, one each under front mandated
 \begin_inset Text
 
 \begin_layout Plain Layout
-Provides additional signaling of intent to turn or change lanes to traffic
- ahead that may not have visibility to lower OEM turn signals.
+Provides additional signaling of intent to turn or change lanes to traffic ahead that may not have visibility to lower OEM turn signals.
 \end_layout
 
 \end_inset
@@ -5623,8 +5847,7 @@ MAY
 \begin_inset Text
 
 \begin_layout Plain Layout
-Use chrome-plated flanges around ambulance warning lights to the extent
- possible.
+Use chrome-plated flanges around ambulance warning lights to the extent possible.
 \end_layout
 
 \end_inset
@@ -5671,8 +5894,8 @@ EMERGENCY LIGHTS
 \end_inset
 
 .
- Configure this switch to energize/de-energize all installed official warning
- light systems, including 
+ Configure this switch to energize/de-energize all installed official warning light systems,
+ including 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5695,10 +5918,8 @@ all
 
 \begin_layout Plain Layout
 Adopted from FDNY specifications.
- Fine-grained control over emergency light subsystems has been rendered
- unnecessary by technology improvements.
- Reducing the operator interface to just one switch will eliminate control
- misconfigurations and prevent defeat of safety features.
+ Fine-grained control over emergency light subsystems has been rendered unnecessary by technology improvements.
+ Reducing the operator interface to just one switch will eliminate control misconfigurations and prevent defeat of safety features.
 \end_layout
 
 \end_inset
@@ -5811,7 +6032,7 @@ Backboard compartment
 \end_layout
 
 \begin_layout Subsubsection
-Stocked
+Stocked [Install retention bar in lieu of depicted seat belt.]
 \end_layout
 
 \begin_layout Standard
@@ -5825,7 +6046,7 @@ Stocked
 \end_layout
 
 \begin_layout Subsubsection
-Empty
+Empty [Install retention bar in lieu of depicted seat belt.]
 \end_layout
 
 \begin_layout Standard
@@ -5931,44 +6152,6 @@ Empty
 \begin_layout Subsection
 \begin_inset CommandInset label
 LatexCommand label
-name "subsec:Electric-motor-mounting"
-
-\end_inset
-
-Electric motor mounting & cage
-\end_layout
-
-\begin_layout Subsubsection
-Overview
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename electric-motor-mounting-overview.jpg
-	width 80text%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection
-Detail
-\end_layout
-
-\begin_layout Standard
-\begin_inset Graphics
-	filename electric-motor-mounting-detail.jpg
-	width 100text%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsection
-\begin_inset CommandInset label
-LatexCommand label
 name "subsec:Exterior-access-to-pm-rf-cabinet"
 
 \end_inset
@@ -6060,8 +6243,9 @@ The following diagram
 ONLY
 \series default
 \bar default
- shows the number, nature, and rough placement pattern for required roof
- antennas.
+ shows the number,
+ nature,
+ and rough placement pattern for required roof antennas.
  Nothing else in this diagram constitutes a requirement.
 \end_layout
 
@@ -6155,8 +6339,8 @@ ONLY
 \begin_inset Newline newline
 \end_inset
 
-If you are viewing this diagram in black & white, the spaces of interest
- are the ones bordered by diagonal crosshatching.
+If you are viewing this diagram in black & white,
+ the spaces of interest are the ones bordered by diagonal crosshatching.
 \end_layout
 
 \end_inset
@@ -6239,8 +6423,8 @@ ONLY
 \begin_inset Newline newline
 \end_inset
 
-If you are viewing this diagram in black & white, the spaces of interest
- are the ones bordered by diagonal crosshatching.
+If you are viewing this diagram in black & white,
+ the spaces of interest are the ones bordered by diagonal crosshatching.
 \end_layout
 
 \end_inset
@@ -6275,7 +6459,7 @@ Communications/IT component mounting and power source chart
 \align center
 \begin_inset Graphics
 	filename tasir-it.png
-	height 93theight%
+	special height=0.93\textheight
 
 \end_inset
 

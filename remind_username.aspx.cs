@@ -15,7 +15,7 @@ using Class_biz_users;
 
 namespace remind_username
 {
-  public partial class TWebForm_remind_username: ki_web_ui.page_class
+  public partial class TWebForm_remind_username: ki.web_ui.page_class
     {
 
     private struct p_type

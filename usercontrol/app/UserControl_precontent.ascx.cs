@@ -7,7 +7,7 @@ using System.Web.Security;
 
 namespace UserControl_precontent
 {
-    public partial class TWebUserControl_precontent: ki_web_ui.usercontrol_class
+    public partial class TWebUserControl_precontent: ki.web_ui.usercontrol_class
     {
         protected void Page_Load(object sender, System.EventArgs e)
         {
@@ -118,7 +118,6 @@ namespace UserControl_precontent
               k.EscalatedException
                 (
                 the_exception:e.Exception,
-                user_identity_name:(HttpContext.Current.User.Identity.Name.Length > 0 ? HttpContext.Current.User.Identity.Name : "(EMPTY HttpContext.Current.User.Identity.Name)") + " from " + Request.UserHostAddress + k.SPACE + "(" + k.DomainNameOfIpAddress(Request.UserHostAddress) + ")",
                 session:Session,
                 engine_innodb_status:engine_innodb_status
                 );

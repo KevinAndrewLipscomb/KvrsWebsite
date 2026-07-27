@@ -7,7 +7,7 @@ using System.Web.UI;
 
 namespace change_email_address
   {
-  public partial class TWebForm_change_email_address: ki_web_ui.page_class
+  public partial class TWebForm_change_email_address: ki.web_ui.page_class
     {
 
     private struct p_type

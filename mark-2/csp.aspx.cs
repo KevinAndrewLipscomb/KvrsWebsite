@@ -3,7 +3,7 @@ using System.Configuration;
 
 namespace csp
 {
-    public partial class TWebForm_csp: ki_web_ui.page_class
+    public partial class TWebForm_csp: ki.web_ui.page_class
     {
         // / <summary>
         // / Required method for Designer support -- do not modify

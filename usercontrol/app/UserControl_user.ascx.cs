@@ -1,12 +1,13 @@
 using Class_biz_users;
 using kix;
+using KvrsWebsite.Security.Authorization;
 using System;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace UserControl_user
   {
-  public partial class TWebUserControl_user: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_user: ki.web_ui.usercontrol_class
     {
     private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
 
@@ -106,7 +107,7 @@ namespace UserControl_user
             {
                 p.be_loaded = false;
                 p.biz_users = new TClass_biz_users();
-                p.be_ok_to_config_users = k.Has((string[])(Session["privilege_array"]), "config-users");
+                p.be_ok_to_config_users = UserMember.BeOkTo("config-users");
             }
 
         }

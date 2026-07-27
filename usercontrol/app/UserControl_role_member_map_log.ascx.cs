@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_role_member_map_log
   {
-  public partial class TWebUserControl_role_member_map_log: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_role_member_map_log: ki.web_ui.usercontrol_class
     {
     private static class Static
       {

@@ -4,6 +4,7 @@ using Class_biz_roles;
 using Class_biz_user;
 using Class_db_role_member_map;
 using kix;
+using KvrsWebsite.Security.Authorization;
 using System;
 using System.Configuration;
 using System.Text;
@@ -12,7 +13,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_role
   {
-  public partial class TWebUserControl_role: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_role: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
@@ -148,7 +149,7 @@ namespace UserControl_role
                 if (!(Session["mode:report"] != null))
                 {
                     Label_author_email_address.Text = p.biz_user.EmailAddress();
-                    if (k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"))
+                    if (UserMember.BeOkTo("config-roles-and-matrices"))
                     {
                         LinkButton_new_record.Visible = true;
                         TableRow_pecking_order.Visible = true;
@@ -227,7 +228,7 @@ namespace UserControl_role
             {
                 p.be_gridview_empty = true;
                 p.be_loaded = false;
-                p.be_ok_to_config_roles = k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices");
+                p.be_ok_to_config_roles = UserMember.BeOkTo("config-roles-and-matrices");
                 p.be_sort_order_ascending = true;
                 p.num_gridview_rows = 0;
                 p.role_name = k.EMPTY;
@@ -434,7 +435,7 @@ namespace UserControl_role
             if (v.distribution_list.Length > 0) v.distribution_list.Remove(0,2);
             Label_distribution_list.Text = v.distribution_list.ToString(); // .TrimStart(k.COMMA_SPACE)
             Label_num_rows.Text = p.num_gridview_rows.ToString();
-            be_user_authorized_to_send_quickmessages = k.Has((string[])(Session["privilege_array"]), "send-quickmessages") && !p.be_gridview_empty;
+            be_user_authorized_to_send_quickmessages = UserMember.BeOkTo("send-quickmessages") && !p.be_gridview_empty;
             Anchor_quick_message_shortcut.Visible = be_user_authorized_to_send_quickmessages;
             Table_quick_message.Visible = be_user_authorized_to_send_quickmessages;
             // Clear aggregation vars for next bind, if any.

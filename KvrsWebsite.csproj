@@ -15,7 +15,7 @@
     <!-- -->
     <!-- The specified TargetFrameworkVersion must be installed on the ACTIVE production server. -->
     <!-- -->
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <!-- -->
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -641,6 +641,8 @@
     <Compile Include="salogin.aspx.designer.cs">
       <DependentUpon>salogin.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Security\Authorization\AppClaimType.cs" />
+    <Compile Include="Security\Authorization\UserMember.cs" />
     <Compile Include="timeout.aspx.cs">
       <DependentUpon>timeout.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

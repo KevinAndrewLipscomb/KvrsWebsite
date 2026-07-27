@@ -3,7 +3,7 @@ using UserControl_user_member_mapping;
 
 namespace UserControl_users_and_mapping_binder
 {
-  public partial class TWebUserControl_users_and_mapping_binder: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_users_and_mapping_binder: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
