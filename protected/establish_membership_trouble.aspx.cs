@@ -6,7 +6,7 @@ using System.Configuration;
 
 namespace establish_membership_trouble
   {
-  public partial class TWebForm_establish_membership_trouble: ki_web_ui.page_class
+  public partial class TWebForm_establish_membership_trouble: ki.web_ui.page_class
     {
     private p_type p; // Private Parcel of Page-Pertinent Process-Persistent Parameters
 

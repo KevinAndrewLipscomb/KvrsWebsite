@@ -3,7 +3,7 @@ using System.Configuration;
 
 namespace operations
 {
-    public partial class TWebForm_operations: ki_web_ui.page_class
+    public partial class TWebForm_operations: ki.web_ui.page_class
     {
         // / <summary>
         // / Required method for Designer support -- do not modify

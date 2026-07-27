@@ -3,7 +3,7 @@ using System.Configuration;
 
 namespace lvr_exemption
 {
-    public partial class TWebForm_lvr_exemption: ki_web_ui.page_class
+    public partial class TWebForm_lvr_exemption: ki.web_ui.page_class
     {
         // / <summary>
         // / Required method for Designer support -- do not modify

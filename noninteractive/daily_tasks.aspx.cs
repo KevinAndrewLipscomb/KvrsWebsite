@@ -4,7 +4,7 @@ using System.Web;
 
 namespace daily_tasks
 {
-    public partial class TWebForm1: ki_web_ui.page_class
+    public partial class TWebForm1: ki.web_ui.page_class
     {
         // / <summary>
         // / Required method for Designer support -- do not modify

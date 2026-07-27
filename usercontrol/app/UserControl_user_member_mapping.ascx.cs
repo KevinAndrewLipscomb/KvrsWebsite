@@ -3,6 +3,7 @@ using Class_biz_user;
 using Class_biz_user_member_map;
 using Class_biz_users;
 using kix;
+using KvrsWebsite.Security.Authorization;
 using System;
 using System.Collections;
 using System.Web.Security;
@@ -10,7 +11,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_user_member_mapping
   {
-  public partial class TWebUserControl_user_member_mapping: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_user_member_mapping: ki.web_ui.usercontrol_class
     {
 
     private static class Static
@@ -156,7 +157,7 @@ namespace UserControl_user_member_mapping
                 p.be_interactive = !(Session["mode:report"] != null);
                 p.be_loaded = false;
                 p.be_sort_order_ascending = true;
-                p.may_add_mappings = k.Has((string[])(Session["privilege_array"]), "config-users-and-matrices");
+                p.may_add_mappings = UserMember.BeOkTo("config-users-and-matrices");
                 p.sort_order = Static.INITIAL_SORT_ORDER;
             }
 

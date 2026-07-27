@@ -6,7 +6,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_update_progress_blocker
 {
-    public partial class TWebUserControl_update_progress_blocker: ki_web_ui.usercontrol_class
+    public partial class TWebUserControl_update_progress_blocker: ki.web_ui.usercontrol_class
     {
         protected override void OnInit(System.EventArgs e)
         {

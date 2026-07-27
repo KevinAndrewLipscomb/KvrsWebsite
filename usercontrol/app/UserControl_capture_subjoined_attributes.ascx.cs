@@ -10,7 +10,7 @@ using System.Web.UI.WebControls;
 
 namespace UserControl_capture_subjoined_attributes
   {
-  public partial class TWebUserControl_capture_subjoined_attributes: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_capture_subjoined_attributes: ki.web_ui.usercontrol_class
     {
     private static class Static
       {
@@ -193,7 +193,7 @@ namespace UserControl_capture_subjoined_attributes
         var name = e.Item.Cells[Static.TCI_NAME].Text;
         //
         using var UserControl_subjoined_attribute_capture_class =
-          LoadControl("~/usercontrol/app/UserControl_capture_subjoined_" + involvement + "_" + name + ".ascx") as ki_web_ui.usercontrol_subjoined_attribute_capture_class;
+          LoadControl("~/usercontrol/app/UserControl_capture_subjoined_" + involvement + "_" + name + ".ascx") as ki.web_ui.usercontrol_subjoined_attribute_capture_class;
         //
         AddIdentifiedControlToPlaceHolder
           (

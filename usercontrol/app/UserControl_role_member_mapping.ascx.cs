@@ -12,10 +12,11 @@ using System.Web.UI.WebControls;
 using Class_biz_members;
 using Class_biz_role_member_map;
 using Class_biz_roles;
+using KvrsWebsite.Security.Authorization;
 
 namespace UserControl_role_member_mapping
 {
-  public partial class TWebUserControl_role_member_mapping: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_role_member_mapping: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
@@ -148,7 +149,7 @@ namespace UserControl_role_member_mapping
                 p.be_interactive = !(Session["mode:report"] != null);
                 p.be_loaded = false;
                 p.be_sort_order_ascending = true;
-                p.may_add_mappings = k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices") || k.Has((string[])(Session["privilege_array"]), "assign-department-roles-to-members") || k.Has((string[])(Session["privilege_array"]), "assign-squad-roles-to-members");
+                p.may_add_mappings = UserMember.BeOkTo("config-roles-and-matrices") || UserMember.BeOkTo("assign-department-roles-to-members") || UserMember.BeOkTo("assign-squad-roles-to-members");
                 p.sort_order = Units.UserControl_role_member_mapping.INITIAL_SORT_ORDER;
             }
 
@@ -190,7 +191,7 @@ namespace UserControl_role_member_mapping
             bool be_ok_to_delete;
             if (e.Row.RowType != DataControlRowType.EmptyDataRow)
             {
-                be_ok_to_delete = p.be_interactive && p.biz_role_member_map.BePrivilegedToModifyTuple(k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"), k.Has((string[])(Session["privilege_array"]), "assign-roles-to-members"), e.Row.Cells[Units.UserControl_role_member_mapping.CI_ROLE_NAME].Text);
+                be_ok_to_delete = p.be_interactive && p.biz_role_member_map.BePrivilegedToModifyTuple(UserMember.BeOkTo("config-roles-and-matrices"), UserMember.BeOkTo("assign-roles-to-members"), e.Row.Cells[Units.UserControl_role_member_mapping.CI_ROLE_NAME].Text);
                 if (be_ok_to_delete)
                 {
                 // Appears to clobber a necessary ASP.NET onclick event.  Should probably use AJAX instead.
@@ -242,7 +243,7 @@ namespace UserControl_role_member_mapping
             TableCell_add_mapping.Visible = p.may_add_mappings;
             if (TableCell_add_mapping.Visible)
             {
-                p.biz_roles.BindDirectToListControl(DropDownList_role, k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"));
+                p.biz_roles.BindDirectToListControl(DropDownList_role, UserMember.BeOkTo("config-roles-and-matrices"));
                 p.biz_members.BindDirectToListControl(DropDownList_member);
             }
 

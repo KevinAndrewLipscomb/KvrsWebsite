@@ -9,10 +9,11 @@ using System.Web.UI.WebControls;
 using Class_biz_notifications;
 using Class_biz_role_notification_map;
 using Class_biz_roles;
+using KvrsWebsite.Security.Authorization;
 
 namespace UserControl_role_notification_mapping
 {
-  public partial class TWebUserControl_role_notification_mapping: ki_web_ui.usercontrol_class
+  public partial class TWebUserControl_role_notification_mapping: ki.web_ui.usercontrol_class
     {
 
     private struct p_type
@@ -145,7 +146,7 @@ namespace UserControl_role_notification_mapping
                 p.be_interactive = !(Session["mode:report"] != null);
                 p.be_loaded = false;
                 p.be_sort_order_ascending = true;
-                p.may_add_mappings = k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices");
+                p.may_add_mappings = UserMember.BeOkTo("config-roles-and-matrices");
                 p.sort_order = Units.UserControl_role_notification_mapping.INITIAL_SORT_ORDER;
             }
 
@@ -187,7 +188,7 @@ namespace UserControl_role_notification_mapping
             bool be_ok_to_delete;
             if (e.Row.RowType != DataControlRowType.EmptyDataRow)
             {
-                be_ok_to_delete = p.be_interactive && k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices");
+                be_ok_to_delete = p.be_interactive && UserMember.BeOkTo("config-roles-and-matrices");
                 if (be_ok_to_delete)
                 {
                 // Appears to clobber a necessary ASP.NET onclick event.  Should probably use AJAX instead.
@@ -238,7 +239,7 @@ namespace UserControl_role_notification_mapping
             TableCell_add_mapping.Visible = p.may_add_mappings;
             if (TableCell_add_mapping.Visible)
             {
-                p.biz_roles.BindDirectToListControl(DropDownList_role, k.Has((string[])(Session["privilege_array"]), "config-roles-and-matrices"));
+                p.biz_roles.BindDirectToListControl(DropDownList_role, UserMember.BeOkTo("config-roles-and-matrices"));
                 p.biz_notifications.BindDirectToListControl(DropDownList_notification);
             }
 
